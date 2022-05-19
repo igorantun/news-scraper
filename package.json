@@ -1,0 +1,41 @@
+{
+  "name": "news-scraper",
+  "version": "0.2.0",
+  "description": "Brazilian newspaper scraper",
+  "author": "Igor Antun <igor.antun@usp.br>",
+  "license": "MIT",
+  "main": "src/index.js",
+  "homepage": "https://github.com/igorantun/news-scraper#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorantun/news-scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igorantun/news-scraper/issues"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js | pino-logflare | pino-pretty",
+    "dev": "nodemon src/index.js | pino-pretty",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cron": "2.0.0",
+    "firebase-admin": "11.0.0",
+    "fs-extra": "10.1.0",
+    "pino": "8.1.0",
+    "pino-logflare": "0.3.12",
+    "pino-pretty": "8.1.0",
+    "puppeteer": "14.1.0",
+    "puppeteer-extra": "3.3.4",
+    "puppeteer-extra-plugin-adblocker": "2.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.19"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "reports/*"
+    ]
+  }
+}
