@@ -1,6 +1,6 @@
 import { Logger, Exporter, Scraper } from "../util/index.js";
 
-const config = {
+const newspaper = {
   name: "Folha de S.Paulo",
   slug: "folha",
   url: "https://www.folha.uol.com.br/",
@@ -9,53 +9,36 @@ const config = {
       element:
         "#conteudo > .page > .block > .container > .row > .col > .c-main-headline",
       link: ".c-main-headline__url",
-      title: ".c-main-headline__title",
       hat: ".c-main-headline__kicker",
+      title: ".c-main-headline__title",
       summary: ".c-main-headline__standfirst",
     },
     article: {
       element: ".c-headline",
-      link: ".c-headline__url",
-      title: ".c-headline__title",
+      link: ".c-headline__url, .c-headline-thumb__url",
       hat: ".c-headline__kicker",
+      title: ".c-headline__title, .c-headline-thumb__title",
       summary: ".c-headline__standfirst",
     },
   },
 };
 
-const parser = (elements, selectors, type) =>
-  elements.map((element, position) => {
-    const { top, left, height, width } = element.getBoundingClientRect();
-
-    return {
-      type,
-      position,
-      link: element.querySelector(selectors[type].link)?.href,
-      hat: element.querySelector(selectors[type].hat)?.textContent?.trim(),
-      title: element.querySelector(selectors[type].title)?.textContent.trim(),
-      summary: element.querySelector(selectors[type].summary)?.textContent,
-      coordinates: { top, left, height, width },
-    };
-  });
-
-const folha = async (puppeteer, options) => {
-  const logger = Logger(config.slug, { colorize: true });
+const folha = async (puppeteer) => {
+  const logger = Logger(newspaper.slug);
 
   const scraper = new Scraper({
     puppeteer,
-    config,
+    newspaper,
   });
 
   const exporter = new Exporter({
-    config,
-    page: scraper.page,
     logger,
-    formats: options,
+    newspaper,
+    page: scraper.page,
   });
 
-  const result = await scraper.scrape({ parser });
-
-  await exporter.export({ id: config.slug, result });
+  const result = await scraper.scrape();
+  await exporter.export(result);
 };
 
 export default folha;

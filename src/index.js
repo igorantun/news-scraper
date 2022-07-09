@@ -1,17 +1,20 @@
 import { CronJob } from "cron";
 
+import config from "./config/config.js";
 import { estadao, folha, g1, uol, veja } from "./scrapers/index.js";
 import { Logger, Puppeteer } from "./util/index.js";
 
 const logger = Logger("worker");
 
-logger.info("Starting worker...");
+logger.info("Worker started");
 
 const puppeteer = new Puppeteer({
   defaultViewport: { width: 1920, height: 1080 },
 });
 
-const scrapeNewspapers = async () => {
+const job = new CronJob(config.cron, scrapeNewspapers);
+
+async function scrapeNewspapers() {
   logger.info("Job started");
 
   await puppeteer.initialize();
@@ -23,8 +26,22 @@ const scrapeNewspapers = async () => {
   await veja(puppeteer);
 
   logger.info("Job finished");
+  logNextRuns();
+}
+
+const logNextRuns = () => {
+  const nextRuns = job
+    .nextDates(3)
+    .map((date) =>
+      new Intl.DateTimeFormat("pt-BR", {
+        dateStyle: undefined,
+        timeStyle: "medium",
+      }).format(date)
+    )
+    .join(", ");
+
+  logger.debug(`Next runs: ${nextRuns}`);
 };
 
-const job = new CronJob("*/60 */1 * * * *", scrapeNewspapers);
-
 job.start();
+logNextRuns();

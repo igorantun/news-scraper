@@ -2,6 +2,8 @@ import fs from "fs-extra";
 import { initializeApp, cert } from "firebase-admin/app";
 import { getStorage } from "firebase-admin/storage";
 
+import config from "../config/config.js";
+
 initializeApp({
   credential: cert(
     await fs.readJsonSync("./src/config/serviceAccountKey.json")
@@ -9,24 +11,25 @@ initializeApp({
   storageBucket: "news-scraper-tcc.appspot.com",
 });
 
-const defaultOptions = {
-  cloud: false,
-  formats: {
-    html: true,
-    json: true,
-    pdf: true,
-    webp: true,
-  },
+const getDateTime = () => {
+  const format = (period) =>
+    period.map((p) => p.toString().padStart(2, "0")).join("");
+
+  const now = new Date();
+  const date = format([now.getFullYear(), now.getMonth() + 1, now.getDate()]);
+  const time = format([now.getHours(), now.getMinutes()]);
+
+  return `${date}-${time}`;
 };
 
 class Exporter {
-  constructor({ config, page, logger, options }) {
+  constructor({ newspaper, page, logger }) {
     this.logger = logger;
 
     this.page = page;
-    this.name = config.name;
-    this.slug = config.slug;
-    this.options = options || defaultOptions;
+    this.name = newspaper.name;
+    this.slug = newspaper.slug;
+    this.config = config.exporter;
     this.bucket = getStorage().bucket();
 
     fs.ensureDirSync(`reports/${this.slug}`);
@@ -41,13 +44,13 @@ class Exporter {
       },
     });
 
-    this.logger.info(`${filename} uploaded to Google Cloud Storage`);
+    this.logger.info(`Report "${filename}" uploaded to Google Cloud Storage`);
   }
 
   async generateHTML(path) {
     await fs.outputFile(`${path}.html`, await this.page.content());
 
-    this.logger.info(`"${path}.html" generated`);
+    this.logger.info(`Report "${path}.html" generated`);
   }
 
   async generateJSON(path, result) {
@@ -55,7 +58,7 @@ class Exporter {
       spaces: 2,
     });
 
-    this.logger.info(`"${path}.json" generated`);
+    this.logger.info(`Report "${path}.json" generated`);
   }
 
   async generatePDF(path) {
@@ -68,7 +71,7 @@ class Exporter {
       pageRanges: "1-10",
     });
 
-    this.logger.info(`"${path}.pdf" generated`);
+    this.logger.info(`Report "${path}.pdf" generated`);
   }
 
   async generateWEBP(path) {
@@ -78,14 +81,15 @@ class Exporter {
       format: "webp",
     });
 
-    this.logger.info(`"${path}.webp" generated`);
+    this.logger.info(`Report "${path}.webp" generated`);
   }
 
-  async export({ result }) {
-    const id = new Date().toISOString();
+  async export(result) {
+    const id = `${this.slug}-${getDateTime()}`;
     const path = `reports/${this.slug}/${id}`;
-    const formats = Object.keys(this.options.formats).filter(
-      (format) => this.options.formats[format]
+
+    const formats = Object.keys(this.config.formats).filter(
+      (format) => this.config.formats[format]
     );
 
     await Promise.all([
@@ -95,7 +99,7 @@ class Exporter {
       formats.includes("webp") ? this.generateWEBP(path) : null,
     ]);
 
-    if (this.options.cloud) {
+    if (this.config.cloud) {
       const promises = formats.map((format) =>
         this.uploadGoogleCloud(`${path}.${format}`)
       );

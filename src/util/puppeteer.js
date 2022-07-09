@@ -15,7 +15,7 @@ class Puppeteer {
 
   async initialize() {
     if (!this.initialized) {
-      this.logger.info("Initializing Puppeteer...");
+      this.logger.debug("Initializing Puppeteer...");
 
       this.browser = await puppeteer.launch(this.config);
       this.page = await this.browser.newPage();

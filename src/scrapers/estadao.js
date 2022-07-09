@@ -1,58 +1,44 @@
 import { Logger, Exporter, Scraper } from "../util/index.js";
 
-const config = {
+const newspaper = {
   name: "Estadão",
   slug: "estadao",
   url: "https://www.estadao.com.br/",
   selectors: {
     headline: {
       element: ".-principal",
-      title: ".title",
+      link: "a",
       hat: ".chapeu",
+      title: ".title",
       summary: ".linha-fina",
     },
     article: {
       element:
         "section.breaking-news-rodape > div > div > div > article, section.manchete-2 > div > div > div > article, section.manchete-3 > div > div > div > article",
-      title: ".title",
+      link: "a",
       hat: ".chapeu",
+      title: ".title",
+      summary: ".linha-fina",
     },
   },
 };
 
-const parser = (elements, selectors, type) =>
-  elements.map((element, position) => {
-    const { top, left, height, width } = element.getBoundingClientRect();
-
-    return {
-      type,
-      position,
-      link: element.querySelector("a").href,
-      hat: element.querySelector(selectors[type].hat)?.innerText?.trim(),
-      title: element.querySelector(selectors[type].title).innerText,
-      summary: element.querySelector(selectors[type].summary)?.innerText,
-      coordinates: { top, left, height, width },
-    };
-  });
-
-const estadao = async (puppeteer, options) => {
-  const logger = Logger(config.slug, { colorize: true });
+const estadao = async (puppeteer) => {
+  const logger = Logger(newspaper.slug);
 
   const scraper = new Scraper({
     puppeteer,
-    config,
+    newspaper,
   });
 
   const exporter = new Exporter({
-    config,
-    page: scraper.page,
     logger,
-    formats: options,
+    newspaper,
+    page: scraper.page,
   });
 
-  const result = await scraper.scrape({ parser });
-
-  await exporter.export({ id: config.slug, result });
+  const result = await scraper.scrape();
+  await exporter.export(result);
 };
 
 export default estadao;
