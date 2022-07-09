@@ -1,6 +1,6 @@
 import { CronJob } from "cron";
 
-import { estadao, folha, g1 } from "./scrapers/index.js";
+import { estadao, folha, g1, uol } from "./scrapers/index.js";
 import { Logger, Puppeteer } from "./util/index.js";
 
 const logger = Logger("worker");
@@ -19,6 +19,7 @@ const scrapeNewspapers = async () => {
   await estadao(puppeteer);
   await folha(puppeteer);
   await g1(puppeteer);
+  await uol(puppeteer);
 
   logger.info("Job finished");
 };
