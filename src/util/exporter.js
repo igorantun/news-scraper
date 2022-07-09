@@ -2,18 +2,17 @@ import fs from "fs-extra";
 import { initializeApp, cert } from "firebase-admin/app";
 import { getStorage } from "firebase-admin/storage";
 
-const serviceAccount = await fs.readJsonSync(
-  "./src/config/serviceAccountKey.json"
-);
-
 initializeApp({
-  credential: cert(serviceAccount),
+  credential: cert(
+    await fs.readJsonSync("./src/config/serviceAccountKey.json")
+  ),
   storageBucket: "news-scraper-tcc.appspot.com",
 });
 
 const defaultOptions = {
   cloud: false,
   formats: {
+    html: true,
     json: true,
     pdf: true,
     webp: true,
@@ -45,6 +44,12 @@ class Exporter {
     this.logger.info(`${filename} uploaded to Google Cloud Storage`);
   }
 
+  async generateHTML(path) {
+    await fs.outputFile(`${path}.html`, await this.page.content());
+
+    this.logger.info(`"${path}.html" generated`);
+  }
+
   async generateJSON(path, result) {
     await fs.outputJson(`${path}.json`, result, {
       spaces: 2,
@@ -56,10 +61,11 @@ class Exporter {
   async generatePDF(path) {
     await this.page.pdf({
       path: `${path}.pdf`,
-      height: "1080px",
       width: "1920px",
-      landscape: true,
-      scale: 1,
+      height: "1080px",
+      margin: { bottom: 0, left: 0, right: 0, top: 0 },
+      printBackground: true,
+      pageRanges: "1-10",
     });
 
     this.logger.info(`"${path}.pdf" generated`);
@@ -83,6 +89,7 @@ class Exporter {
     );
 
     await Promise.all([
+      formats.includes("html") ? this.generateHTML(path) : null,
       formats.includes("json") ? this.generateJSON(path, result) : null,
       formats.includes("pdf") ? this.generatePDF(path) : null,
       formats.includes("webp") ? this.generateWEBP(path) : null,
