@@ -19,7 +19,7 @@ class Scraper {
     this.logger.info(`Started scraping ${this.name}`);
 
     await this.page.goto(this.url, {
-      waitUntil: "networkidle0",
+      waitUntil: "load",
     });
 
     await this.page.evaluate(async () => {
