@@ -8,9 +8,7 @@ const logger = Logger("worker");
 
 logger.info("Worker started");
 
-const puppeteer = new Puppeteer({
-  defaultViewport: { width: 1920, height: 1080 },
-});
+const puppeteer = new Puppeteer(config.puppeteer);
 
 const job = new CronJob(config.cron, scrapeNewspapers);
 
@@ -35,7 +33,7 @@ const logNextRuns = () => {
     .map((date) =>
       new Intl.DateTimeFormat("pt-BR", {
         dateStyle: undefined,
-        timeStyle: "medium",
+        timeStyle: "long",
       }).format(date)
     )
     .join(", ");

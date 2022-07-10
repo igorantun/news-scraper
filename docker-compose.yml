@@ -1,0 +1,16 @@
+services:
+  news-scraper:
+    build: .
+    container_name: news-scraper
+    command: yarn start
+    env_file: .env
+    volumes:
+      - .:/usr/src
+
+  news-scraper-dev:
+    build: .
+    container_name: news-scraper-dev
+    command: yarn run dev
+    env_file: .env
+    volumes:
+      - ./:/usr/src/app

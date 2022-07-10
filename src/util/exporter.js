@@ -1,15 +1,10 @@
 import fs from "fs-extra";
-import { initializeApp, cert } from "firebase-admin/app";
+import { initializeApp } from "firebase-admin/app";
 import { getStorage } from "firebase-admin/storage";
 
 import config from "../config/config.js";
 
-initializeApp({
-  credential: cert(
-    await fs.readJsonSync("./src/config/serviceAccountKey.json")
-  ),
-  storageBucket: "news-scraper-tcc.appspot.com",
-});
+initializeApp(config.firebase);
 
 const getDateTime = () => {
   const format = (period) =>

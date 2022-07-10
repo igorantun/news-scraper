@@ -2,11 +2,14 @@
 include .env
 export
 
-start:
-	npm run start
+news-scraper:
+	@docker-compose up news-scraper
 
-dev:
-	npm run dev
+news-scraper-dev:
+	@docker-compose up news-scraper-dev
 
 cleanup:
 	rm -rf reports
+
+stop:
+	@docker-compose stop
