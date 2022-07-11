@@ -11,10 +11,12 @@ const getDateTime = () => {
     period.map((p) => p.toString().padStart(2, "0")).join("");
 
   const now = new Date();
-  const date = format([now.getFullYear(), now.getMonth() + 1, now.getDate()]);
-  const time = format([now.getHours(), now.getMinutes()]);
-
-  return `${date}-${time}`;
+  return format([
+    now.getFullYear(),
+    now.getMonth() + 1,
+    now.getDate(),
+    now.getHours(),
+  ]);
 };
 
 class Exporter {
