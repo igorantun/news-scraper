@@ -41,5 +41,6 @@ const logNextRuns = () => {
   logger.debug(`Next runs: ${nextRuns}`);
 };
 
+console.log("Starting job...");
 job.start();
 logNextRuns();

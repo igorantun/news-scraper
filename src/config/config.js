@@ -1,10 +1,12 @@
-import fs from "fs-extra";
 import { cert } from "firebase-admin/app";
 
+const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+serviceAccount.private_key = serviceAccount.private_key?.replace(/\\n/gm, "\n");
+
 const config = {
-  cron: "0 */2 * * * *",
+  cron: "0 0 * * * *",
   exporter: {
-    cloud: false,
+    cloud: true,
     formats: {
       html: true,
       json: true,
@@ -13,9 +15,7 @@ const config = {
     },
   },
   firebase: {
-    credential: cert(
-      await fs.readJsonSync("./src/config/serviceAccountKey.json")
-    ),
+    credential: cert(serviceAccount),
     storageBucket: "news-scraper-tcc.appspot.com",
   },
   puppeteer: {
