@@ -15,8 +15,6 @@ const job = new CronJob(config.cron, scrapeNewspapers);
 async function scrapeNewspapers() {
   logger.info("Job started");
 
-  await puppeteer.initialize();
-
   await estadao(puppeteer);
   await folha(puppeteer);
   await g1(puppeteer);
@@ -41,6 +39,13 @@ const logNextRuns = () => {
   logger.debug(`Next runs: ${nextRuns}`);
 };
 
-console.log("Starting job...");
-job.start();
-logNextRuns();
+const start = async () => {
+  await puppeteer.initialize();
+
+  console.log("Starting job...");
+  job.start();
+
+  logNextRuns();
+};
+
+start();
