@@ -16,10 +16,10 @@ async function scrapeNewspapers() {
   logger.info("Job started");
 
   await estadao(puppeteer);
-  await folha(puppeteer);
   await g1(puppeteer);
   await uol(puppeteer);
   await veja(puppeteer);
+  await folha(puppeteer);
 
   logger.info("Job finished");
   logNextRuns();
