@@ -6,19 +6,18 @@ const newspaper = {
   url: "https://www.estadao.com.br/",
   selectors: {
     headline: {
-      element: ".-principal",
+      element: ".manchete-dia-a-dia-block-container,.manchete-especial",
       link: "a",
-      hat: ".chapeu",
-      title: ".title",
-      summary: ".linha-fina",
+      hat: ".chapeu,.manchete-especial-badge",
+      title: ".headline",
+      summary: ".subheadline",
     },
     article: {
-      element:
-        "section.breaking-news-rodape > div > div > div > article, section.manchete-2 > div > div > div > article, section.manchete-3 > div > div > div > article",
+      element: ".noticia-single-block",
       link: "a",
       hat: ".chapeu",
-      title: ".title",
-      summary: ".linha-fina",
+      title: ".headline",
+      summary: ".subheadline",
     },
   },
 };

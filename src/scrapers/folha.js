@@ -6,8 +6,7 @@ const newspaper = {
   url: "https://www.folha.uol.com.br/",
   selectors: {
     headline: {
-      element:
-        "#conteudo > .page > .block > .container > .row > .col > .c-main-headline",
+      element: ".c-main-headline",
       link: ".c-main-headline__url",
       hat: ".c-main-headline__kicker",
       title: ".c-main-headline__title",

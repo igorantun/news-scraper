@@ -10,6 +10,7 @@ const newspaper = {
         'section[data-area="topo-1"] > .container > .row > .col-24 > .row > .col-24 > .headlineMain',
       link: "a",
       title: ".headlineMain__title",
+      summary: ".headlineMain__standfirst",
     },
     article: {
       element: ".headlineSub",

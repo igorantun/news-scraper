@@ -13,7 +13,7 @@ const newspaper = {
       summary: "a > .description",
     },
     article: {
-      element: ".card.a",
+      element: ".card.a,.card.b",
       hat: ".category",
       title: ".title",
       summary: ".description",

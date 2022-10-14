@@ -15,11 +15,40 @@ const job = new CronJob(config.cron, scrapeNewspapers);
 async function scrapeNewspapers() {
   logger.info("Job started");
 
-  await estadao(puppeteer);
-  await g1(puppeteer);
-  await uol(puppeteer);
-  await veja(puppeteer);
-  await folha(puppeteer);
+  // Estadão
+  try {
+    await estadao(puppeteer);
+  } catch (error) {
+    console.error(error);
+  }
+
+  // g1
+  try {
+    await g1(puppeteer);
+  } catch (error) {
+    console.error(error);
+  }
+
+  // UOL
+  try {
+    await uol(puppeteer);
+  } catch (error) {
+    console.error(error);
+  }
+
+  // VEJA
+  try {
+    await veja(puppeteer);
+  } catch (error) {
+    console.error(error);
+  }
+
+  // Folha
+  try {
+    await folha(puppeteer);
+  } catch (error) {
+    console.error(error);
+  }
 
   logger.info("Job finished");
   logNextRuns();
