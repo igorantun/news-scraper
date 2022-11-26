@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6383,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2022/10/27/fake-news-entenda-como-funciona-a-fabrica-desinformacao-politica-no-brasil.ghtml",
+    "hat": "Indústria da desinformação",
+    "title": "Entenda como funciona a fábrica de fake news nas eleições brasileiras"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6383,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/10/27/policia-militar-divulga-imagem-de-mulher-suspeita-de-furtar-joias-em-condominio-de-luxo-na-regiao-centro-sul-de-bh-fotos.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Mulher invade prédio de luxo em BH e furta R$ 1 milhão em joias"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6046.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/27/trans-milionaria-compra-concurso-de-beleza-miss-universo-de-trump.ghtml",
+    "hat": "Empresária tailandesa",
+    "title": "Trans milionária compra concurso de beleza Miss Universo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5363.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/10/27/tse-agiu-rapido-para-conter-tentativa-de-bolsonaro-de-tumultuar-a-eleicao.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "TSE agiu para conter tentativa de Bolsonaro de tumultuar a eleição",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5085.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/27/lula-completa-77-anos.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "A 3 dias do 2º turno, Lula completa hoje 77 anos",
+    "category": "Política"
+  }
+]

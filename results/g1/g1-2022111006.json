@@ -1,0 +1,73 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6686,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/e-plenamente-possivel-recuperar-a-normalidade-da-convivencia-entre-instituicoes-diz-lula-apos-reunioes-com-autoridades-em-brasilia.ghtml",
+    "hat": "Visita a Brasília",
+    "title": "Lula faz maratona de reuniões e diz que busca recuperar harmonia entre os poderes",
+    "summary": "Presidente eleito afirma que quer dialogar com Centrão e que não vai interferir nas disputas pelo comando da Câmara e do Senado."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6686,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiais.g1.globo.com/pop-arte/2022/gal-costa-a-mae-de-todas-as-vozes/",
+    "title": "DOCE, BÁRBARA, FATAL",
+    "summary": "Morte de Gal Costa, aos 77, encerra a imensa carreira de um símbolo da música brasileira. Ícone da Tropicália e da liberdade sexual, foi mãe de todas as vozes e deixa legado potente às novas gerações. Veja especial."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5944.828125,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/09/pec-da-transicao-vai-excluir-orcamento-do-bolsa-familia-do-teto-de-gastos-publicos.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "PEC da Transição pode deixar Bolsa Família fora do teto de gastos",
+    "summary": "Ideia é liberar orçamento para outras promessas de Lula, como aumento real do salário mínimo.",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5757.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/psdb-nao-fara-parte-do-governo-mas-esta-comprometido-com-a-governabilidade-diz-presidente-do-partido.ghtml",
+    "hat": "Política",
+    "title": "PSDB não integrará o governo, mas se compromete com a 'governabilidade', diz presidente do partido",
+    "summary": "Bruno Araújo foi recebido pelo vice-presidente eleito, Geraldo Alckmin, que coordena a transição de governo.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -5479.796875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/09/velorio-do-corpo-de-gal-costa-sera-na-assembleia-legislativa-de-sp.ghtml",
+    "hat": "O Brasil sem Gal",
+    "title": "Adeus a Gal Costa: velório será aberto ao público em SP",
+    "category": "São Paulo"
+  }
+]

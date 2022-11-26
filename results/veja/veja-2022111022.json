@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5878.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/fantasma-do-risco-fiscal-assusta-mercado-apos-recados-da-transicao-de-lula/",
+    "hat": "Economia",
+    "title": "Bolsa cai e dólar dispara; Lula diz que mercado 'fica nervoso à toa'",
+    "summary": "Ibovespa teve queda de 3,35% e dólar comercial fechou em forte alta de 4,14%, cotado a R$ 5,397, na sessão desta quinta-feira, após o discurso do presidente eleito e dos números da inflação do Brasil"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1193.75,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -678.75,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5548.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/clarissa-oliveira/lula-comeca-a-dar-rumo-do-novo-governo/",
+    "hat": "Giro VEJA",
+    "title": "Com nomes da transição, Lula sinaliza o que planeja para o novo governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5548.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/economia/transicao-de-lula-tera-guido-mantega-no-orcamento/",
+    "hat": "Ex-ministro",
+    "title": "Equipe de transição de Lula anuncia Guido Mantega no Orçamento"
+  }
+]

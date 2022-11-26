@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8898.109375,
+      "left": 315,
+      "height": 240.734375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministro-da-defesa-se-compromete-com-moraes-a-entregar-relatorios-de-fiscalizacao-de-urnas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Ministro da Defesa se compromete com Moraes a entregar relatórios de fiscalização de urnas",
+    "summary": "Autoridades se encontraram no início da noite desta terça (18), após presidente do TSE determinar envio de documentos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.640625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8622.390625,
+      "left": 974.984375,
+      "height": 213.390625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/doria-anuncia-desfiliacao-do-psdb.shtml",
+    "hat": "Política",
+    "title": "Doria anuncia desfiliação do PSDB após 22 anos; leia declaração na íntegra",
+    "summary": "'Encerro minha trajetória partidária de cabeça erguida', afirma o ex-governador de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8374.015625,
+      "left": 974.984375,
+      "height": 198.078125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/quaest-lula-tem-47-e-bolsonaro-42-brancos-e-nulos-sao-6-e-indecisos-5.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Quaest: Lula tem 47%, e Bolsonaro, 42%; brancos e nulos são 6%, e indecisos, 5%"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8140.953125,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/prefeito-de-sp-nao-vai-fornecer-transporte-gratuito-para-eleitores.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Prefeito de SP diz que não vai fornecer transporte gratuito para eleitores"
+  }
+]

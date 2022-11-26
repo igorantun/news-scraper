@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8312.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-nao-contesta-derrota-e-diz-que-seguira-a-constituicao/",
+    "hat": "Palácio da Alvorada",
+    "title": "Bolsonaro não contesta derrota e autoriza transição: 'Continuarei cumprindo a nossa Constituição'",
+    "summary": "Presidente agradece os 58 milhões de votos, diz que atos pacíficos são 'bem-vindos', mas 'cercear direito de ir e vir' é 'método da esquerda'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7472.765625,
+      "left": 329,
+      "height": 835.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes-bloqueio-estradas-abastecimento-paralisacoes-rodovias-ceagesp-abras/",
+    "hat": "PROTESTOS CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Paralisações nas estradas começam a afetar supermercados",
+    "summary": "Associação que representa setor pede apoio de Bolsonaro para cessar confusão; na Rod. Castello Branco, em SP, tropa de choque faz operação para liberar via interditada por bolsonaristas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7472.765625,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-pede-a-haddad-indicacao-de-nomes-da-educacao-para-equipe-de-transicao/",
+    "hat": "PRÓXIMO GOVERNO",
+    "title": "Lula pede a Haddad indicação de nomes da Educação para equipe de transição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7054.65625,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-viaja-para-os-eua-e-adia-transicao-de-governo-para-evitar-pressao-de-bolsonaristas/",
+    "hat": "SUCESSÃO EM SP",
+    "title": "Tarcísio viaja para os EUA e adia transição de governo para evitar pressão de bolsonaristas",
+    "summary": "Aliados dizem que governador eleito teria que despachar com apoiadores do presidente em momento complicado"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6575.109375,
+      "left": 329,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/uso-da-forca-policial-contra-bloqueios-e-silencio-de-generais-enterra-golpismo/",
+    "hat": "Marcelo Godoy",
+    "title": "Uso da força policial contra bloqueios e silêncio de generais enterram golpismo"
+  }
+]

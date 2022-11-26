@@ -1,0 +1,73 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6403,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2022/10/26/papa-francisco-manda-mensagem-ao-brasil-que-nossa-senhora-aparecida-livre-o-brasileiro-do-odio-intolerancia-e-violencia.ghtml",
+    "hat": "Recado do Vaticano",
+    "title": "Papa manda mensagem ao Brasil: 'Que Nossa Senhora livre o brasileiro do ódio'",
+    "summary": "Francisco não fez menção direta à eleição e também recordou beatificação de menina no Ceará."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6403,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2022/10/26/milton-nascimento-chega-aos-80-anos-com-aura-sagrada-pelo-canto-e-pela-obra-construida-com-fe-no-povo-da-raca-brasil.ghtml",
+    "hat": "Lenda da música brasileira",
+    "title": "Milton Nascimento chega aos 80 anos com aura sagrada pelo canto"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5661.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/26/25-milhoes-de-eleitores-apertaram-13-ou-22-ao-votar-para-governador-em-estados-sem-candidato-do-pt-ou-do-pl-votos-foram-anulados.ghtml",
+    "hat": "Eleição em Números",
+    "title": "2,5 milhões apertaram 13 ou 22 em estados sem candidatos de PT e PL",
+    "summary": "Votos foram computados como nulos.",
+    "category": "Eleição em Números"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5383.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/10/26/empresario-suspeito-de-orientar-funcionarias-a-colocar-celular-no-sutia-para-filmar-voto-na-ba-vai-pagar-indenizacao-por-danos-morais.ghtml",
+    "hat": "Assédio eleitoral na Bahia",
+    "title": "Ruralista terá que pagar R$ 150 mil por pressionar funcionárias a filmar voto",
+    "category": "Bahia"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -5105.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/26/trfs-vao-pagar-r-153-bilhao-em-precatorios-previdenciarios-e-assistenciais-veja-valor-por-estado-e-quem-tem-direito.ghtml",
+    "hat": "Aposentados e pensionistas",
+    "title": "Tribunais vão pagar R$ 1,53 bi em precatórios; veja quem tem direito",
+    "summary": "Precatórios são dívidas da União sem possibilidade de recursos.",
+    "category": "Economia"
+  }
+]

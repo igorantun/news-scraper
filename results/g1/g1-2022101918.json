@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5929,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/19/lula-se-reune-com-liderancas-de-igrejas-evangelicas-em-sao-paulo.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "Em carta a evangélicos, Lula prega liberdade religiosa e reforça ser contra o aborto"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5929,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/inovacao/noticia/2022/10/19/camera-mais-potente-do-mundo-tem-32-gigapixels-resolucao-e-equivalente-a-266-iphones-13.ghtml",
+    "hat": "3,2 gigapixels",
+    "title": "Como é a câmera digital mais potente do mundo"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5592.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/19/quem-e-patrick-abrahao-musico-preso-por-esquema-de-piramide.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Quem é Patrick Abrahão, preso por esquema bilionário de pirâmide"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5187.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/19/bolsonaro-agora-nega-relatorio-das-forcas-armadas-sobre-urnas-e-questiona-reporter-esta-botando-na-minha-boca-agora.ghtml",
+    "title": "Bolsonaro agora evita falar em relatório das Forças Armadas sobre urnas",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4909.65625,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/10/19/pintou-um-clima-equipe-de-bolsonaro-se-irrita-com-aliados-do-centrao-no-caso-das-venezuelanas.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "'Pintou um clima': campanha de Bolsonaro se irrita com Centrão",
+    "summary": "PP de Ciro Nogueira tentou justificar fala do presidente sobre meninas e complicou situação.",
+    "category": "Blog do Valdo Cruz"
+  }
+]

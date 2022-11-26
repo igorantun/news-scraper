@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8799.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/intolerancia-apos-2o-turno-amplia-conflitos-familiares-com-insultos-e-expulsao-de-casa.shtml",
+    "hat": "polarização política",
+    "title": "Intolerância após 2º turno amplia conflitos familiares com insultos e expulsão de casa",
+    "summary": "Especialistas dizem que debate político é saudável, mas que é preciso haver respeito ao contraditório"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.765625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8481.4375,
+      "left": 975,
+      "height": 189.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/candidatos-ligados-a-clas-familiares-naufragam-em-disputas-estaduais.shtml",
+    "hat": "Eleições 2022",
+    "title": "Candidatos ligados a clãs familiares naufragam em disputas estaduais",
+    "summary": "Ao menos 18 filhos, netos, sobrinhos e bisnetos concorreram ao governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8257,
+      "left": 975,
+      "height": 378.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lira-e-centrao-ficam-fortalecidos-com-pec-da-transicao-articulada-por-equipe-de-lula.shtml",
+    "hat": "transição de governo",
+    "title": "Lira e centrão ficam fortalecidos com PEC da transição articulada por equipe de Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8434.453125,
+      "left": 1305,
+      "height": 104.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/11/podcast-os-acenos-do-centrao-a-lula-apos-a-derrota-de-bolsonaro.shtml",
+    "hat": "congresso",
+    "title": "Os acenos do centrão a Lula após a derrota de Bolsonaro"
+  }
+]

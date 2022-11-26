@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5879,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/17/eleicoes-2022-4164percent-dos-deputados-estaduais-e-distritais-eleitos-sao-milionarios.ghtml",
+    "hat": "Eleições",
+    "title": "41% dos deputados estaduais eleitos são milionários; veja infográfico",
+    "summary": "Dos 1.059 parlamentares eleitos este ano, 441 declararam patrimônio igual ou maior que R$ 1 milhão."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5879,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/10/17/bola-de-ouro-2022-benzema-e-melhor-jogador-do-mundo.ghtml",
+    "hat": "Enfim, coroado",
+    "title": "Bola de Ouro: Benzema é eleito melhor do mundo pela 1ª vez"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5542.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/17/artista-plastico-angelo-venosa-morre-no-rio.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Morre Angelo Venosa, um dos maiores escultores do Brasil"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5137.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/17/g1-tv-globo-e-globonews-divulgam-nesta-segunda-feira-3a-pesquisa-ipec-do-2o-turno.ghtml",
+    "title": "g1 divulga daqui a pouco nova pesquisa Ipec presidencial",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4859.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/octavio-guedes/post/2022/10/17/pintou-um-clima-fala-de-bolsonaro-sobre-meninas-venezuelanas-e-asquerosa-abjeta-nojenta-e-ate-agora-nao-foi-explicada.ghtml",
+    "hat": "'Pintou um clima'",
+    "title": "OCTAVIO GUEDES: Bolsonaro ainda não explicou fala nojenta sobre meninas",
+    "summary": "Presidente usou expressão 'pintou um clima' ao falar sobre encontro com garotas venezuelanas.",
+    "category": "Blog do Octavio Guedes"
+  }
+]

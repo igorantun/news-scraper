@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7920.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/acabou-diz-bolsonaro-a-ministros-do-supremo-em-encontro-na-corte/",
+    "hat": "SUCESSÃO PRESIDENCIAL",
+    "title": "'Acabou', diz Bolsonaro a ministros do Supremo sobre resultado da eleição",
+    "summary": "Edson Fachin diz que presidente 'usou verbo no passado' em reunião no STF após pronunciamento; Corte afirma que clima foi 'cordial'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7524.359375,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/rodoviarias-de-sp-suspendem-partidas-para-rio-florianopolis-e-curitiba-880-viagens-sao-canceladas/",
+    "hat": "PROTESTOS CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Bloqueios nas estradas causam cancelamento de 880 viagens de ônibus em terminais de SP",
+    "summary": "Passageiros têm de dormir em cadeiras e até no chão à espera do embarque; veículos com destino ao Rio voltam após ficarem parados em rodovia por protestos de bolsonaristas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7524.359375,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/bloqueios-de-estradas-pacientes-perdem-tratamentos-de-cancer-e-clinicas-tem-baixa-nos-estoques/",
+    "hat": "Parados nas estradas",
+    "title": "Pacientes perdem tratamentos de câncer e clínicas têm baixa em estoques com protestos",
+    "summary": "Doentes com consultas, quimioterapia ou cirurgias marcadas ficaram presos no trânsito de rodovias"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7090.25,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-pede-a-haddad-indicacao-de-nomes-da-educacao-para-equipe-de-transicao/",
+    "hat": "PRÓXIMO GOVERNO",
+    "title": "Lula pede a Haddad indicação de nomes da Educação para equipe de transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6568.703125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-viaja-para-os-eua-e-adia-transicao-de-governo-para-evitar-pressao-de-bolsonaristas/",
+    "hat": "SUCESSÃO EM SP",
+    "title": "Tarcísio viaja para os EUA, adia transição de governo e evita pressão de bolsonaristas",
+    "summary": "Aliados dizem que governador eleito teria que despachar com apoiadores do presidente em momento complicado"
+  }
+]

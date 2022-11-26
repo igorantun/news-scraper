@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9761.109375,
+      "left": 315,
+      "height": 324.640625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-49-e-bolsonaro-44-brancos-e-nulos-sao-5-e-indecisos-2.shtml",
+    "hat": "Eleições 2022",
+    "title": "Datafolha: Lula tem 49%, e Bolsonaro, 44%; brancos e nulos são 5%, e indecisos, 2%",
+    "summary": "Nos votos válidos, diferença entre o petista e o presidente vai de quatro para seis pontos percentuais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9761.109375,
+      "left": 1305,
+      "height": 300.6875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/colunistas-analisam-novo-datafolha-em-live-para-assinantes-nesta-5a.shtml",
+    "hat": "pesquisa eleitoral",
+    "title": "Colunistas analisam novo Datafolha em live para assinantes a partir das 18h"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9401.484375,
+      "left": 974.984375,
+      "height": 277.40625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/a-3-dias-da-eleicao-lula-lanca-carta-prometendo-politica-fiscal-responsavel.shtml",
+    "hat": "economia nas eleições",
+    "title": "A 3 dias da eleição, Lula lança carta prometendo 'política fiscal responsável'; leia",
+    "summary": "Documento elenca pontos prioritários, entre eles nova legislação trabalhista"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9089.09375,
+      "left": 974.984375,
+      "height": 141.921875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/justica-determina-que-garcia-libere-passe-livre-em-metro-e-trem-nas-eleicoes.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Justiça determina que Rodrigo libere passe livre no metrô e em trens de SP no segundo turno",
+    "summary": "Governo de SP diz que vai dar gratuidade"
+  }
+]

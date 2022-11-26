@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8069.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/lula-faz-discurso-por-uniao-nao-existem-dois-brasis/",
+    "hat": "eleições 2022",
+    "title": "LULA: 'NÃO EXISTEM DOIS BRASIS; É HORA DE BAIXAR AS ARMAS'",
+    "summary": "No 1º discurso como presidente eleito, Lula promete governar para todos e diz que sua vitória representa imenso movimento democrático"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6665.09375,
+      "left": 329,
+      "height": 661.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-diz-que-resultado-das-urnas-e-soberano-e-afirma-que-ira-buscar-alinhamento-com-lula/",
+    "hat": "ELEIÇÃO ESTADUAL",
+    "title": "Resultado é soberano, diz Tarcísio, que defende entendimento com Lula",
+    "summary": "'Vamos olhar para frente', diz o ex-ministro de Bolsonaro, agora eleito governador de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7421.203125,
+      "left": 329,
+      "height": 400.109375,
+      "width": 400.65625
+    },
+    "link": "https://opiniao.estadao.com.br/noticias/notas-e-informacoes,lula-tem-o-dever-de-arrefecer-os-animos,70004156754",
+    "hat": "Opinião do estadão",
+    "title": "Lula tem o dever de arrefecer os ânimos",
+    "summary": "A vitória de Lula está longe de representar uma solução para o País. É, na verdade, um novo desafio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7421.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/",
+    "hat": "Presidente eleito",
+    "title": "Ao vivo: Lula discursa agora para multidão de apoiadores na Paulista; acompanhe"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7421.203125,
+      "left": 1190.3125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/e-hora-de-conciliacao-e-de-petistas-e-bolsonaristas-voltarem-a-ser-apenas-brasileiros/",
+    "hat": "Eliane Cantanhêde",
+    "title": "'A eleição foi muito tensa e acabou bem apertada, mas é hora de conciliação'"
+  }
+]

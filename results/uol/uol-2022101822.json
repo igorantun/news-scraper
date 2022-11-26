@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12464.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/tse-desmonetiza-brasil-paralelo-e-intima-carlos-bolsonaro-por-fake-news.htm",
+    "title": "TSE manda YouTube deixar de pagar 4 canais que apoiam Bolsonaro",
+    "summary": "Tribunal desmonetiza Brasil Paralelo e intima Carlos Bolsonaro por fake news"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12066.5,
+      "left": 365,
+      "height": 454.609375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-nao-ira-ao-debate-do-sbt-e-emissora-entrevistara-bolsonaro.shtml",
+    "title": "Lula não irá ao debate do SBT, e emissora entrevistará Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11587.890625,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/camara-projeto-criminaliza-pesquisas-eleitorais.htm",
+    "title": "Após pressão de Lira, projeto que criminaliza pesquisas avança na Câmara"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12066.5,
+      "left": 619.15625,
+      "height": 459.421875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/colunas/lucas-pasin/2022/10/18/o-que-fez-gusttavo-lima-encabecar-evento-de-bolsonaro-com-sertanejos.htm",
+    "title": "O que fez Gusttavo Lima encabeçar evento de Bolsonaro com cantores sertanejos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11583.078125,
+      "left": 619.15625,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/educacao/2022/10/orgao-do-mec-orientou-prefeitura-a-forjar-pedido-de-verba-ja-liberada-mostra-email.shtml?origin=folha",
+    "title": "Órgão do MEC orientou prefeitura a forjar pedido de verba já liberada"
+  }
+]

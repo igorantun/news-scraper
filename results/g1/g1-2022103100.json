@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3198,
+      "left": 347.65625,
+      "height": 585,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/ao-vivo/segundo-turno-eleicoes.ghtml",
+    "hat": "ao vivo",
+    "title": "ASSISTA: Lula discursa pela 1ª vez como presidente eleito"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2533,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-vence-o-segundo-turno-e-volta-para-o-terceiro-mandato-de-presidente.ghtml",
+    "title": "Lula vence eleição mais polarizada da história e terá 3º mandato inédito",
+    "summary": "Bolsonaro é o primeiro presidente que não consegue se reeleger desde a redemocratização."
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2254.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/apuracao/presidente.ghtml",
+    "hat": "Números da apuração",
+    "title": "Com 99,87% das urnas apuradas, Lula tem 2,1 milhões de votos a mais",
+    "summary": "Presidente eleito tem 50,9% dos votos, contra 49,10% de Bolsonaro."
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -1976.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lira-parabeniza-lula-pela-vitoria-no-segundo-turno.ghtml",
+    "hat": "Repercussão",
+    "title": "'Hora de desarmar espíritos', diz Lira ao cumprimentar Lula",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -1698.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/biden-parabeniza-lula-pela-vitoria.ghtml",
+    "title": "Biden parabeniza Lula: 'Eleição livre, justa e digna de confiança'",
+    "category": "Eleições 2022"
+  }
+]

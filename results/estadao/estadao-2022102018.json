@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9793.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/tse-amplia-poder-da-corte-para-barrar-fake-news-de-rede-social-durante-a-eleicao/",
+    "hat": "Eleições 2022",
+    "title": "TSE amplia poder da Corte para barrar conteúdo que considerar fake news",
+    "summary": "Plataformas digitais terão uma hora para remover conteúdo considerado falso pelo tribunal no dia do segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9421.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/internacional/como-liz-truss-a-grande-provocadora-foi-do-ceu-ao-inferno-politico-em-44-dias-leia-a-analise/",
+    "hat": "londres",
+    "title": "Como Liz Truss, a 'grande provocadora', foi do céu ao inferno político em 45 dias; leia a análise",
+    "summary": "Aos 47 anos, ex-ministra das Relações Exteriores chegou ao poder com promessa de retomar o crescimento, adotando cortes de impostos, mas plano sem financiamento claro afundou país"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9421.3125,
+      "left": 1190.328125,
+      "height": 358,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pt-quer-simone-tebet-no-comando-da-agricultura-mas-senadora-prefere-ministerio-da-educacao/",
+    "hat": "POLÍTICA",
+    "title": "PT quer Tebet na Agricultura em eventual governo, mas senadora prefere Educação",
+    "summary": "Ex-candidata do MDB não condicionou apoio a cargos, mas apresentou propostas para o petista, como poupança de R$ 5 mil para jovem concluir ensino médio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9033.3125,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/homens-desaparecem-de-moscou-apos-ordem-de-putin-para-mobilizar-recrutas/",
+    "hat": "THE NEW YORK TIMES",
+    "title": "Onde estão os homens de Moscou? Sumiram após ordem de Putin para recrutamento",
+    "summary": "Muitos foram chamados para lutar na Ucrânia; outros fugiram para evitar a convocação"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8465.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/delcir-sonda-neymar/",
+    "hat": "MAGNATA BRASILEIRO",
+    "title": "Delcir Sonda, o homem que apostou em Neymar, quer seu dinheiro e uma explicação",
+    "summary": "Acreditando que foi enganado, Sonda vai à justiça pelo dia de pagamento que nunca chegou"
+  }
+]

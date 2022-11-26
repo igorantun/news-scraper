@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12332.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/china-nao-descarta-uso-da-forca-para-reunificar-taiwan-diz-xi-no-congresso-do-pc.shtml",
+    "title": "China diz ter controle de Hong Kong e não descarta usar força em Taiwan",
+    "summary": "Rumo ao 3º mandato, Xi Jinping falou na abertura do 20º Congresso do PC Chinês"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12146.015625,
+      "left": 365,
+      "height": 544.171875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/venezuelana-diz-que-casa-abrigava-acao-social-durante-visita-de-bolsonaro.htm",
+    "title": "Venezuelana visitada por Bolsonaro refuta fala e diz que casa abrigava ação social"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11577.84375,
+      "left": 365,
+      "height": 296.109375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/bbc/2022/10/16/ratos-ossos-e-lama-os-alimentos-do-desespero-a-que-famintos-recorrem-para-sobreviver.htm",
+    "title": "Ratos, ossos e lama: os 'alimentos do desespero' a que famintos recorrem para sobreviver"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12146.015625,
+      "left": 619.15625,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-terao-primeiro-embate-na-tv-sem-coadjuvantes.shtml",
+    "title": "Lula e Bolsonaro fazem hoje 1º debate na TV sem coadjuvantes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11732.96875,
+      "left": 619.15625,
+      "height": 402.421875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-quer-rever-norma-de-bolsonaro-e-limitar-tempo-de-militar-em-cargo-politico.shtml",
+    "title": "Lula quer rever norma atual e limitar tempo de militar em cargo político"
+  }
+]

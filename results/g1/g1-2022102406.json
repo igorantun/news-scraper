@@ -1,0 +1,65 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5413,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/roberto-jefferson-se-entrega.ghtml",
+    "title": "Jefferson se entrega após atacar policiais com fuzil e granadas e desrespeitar ordens do STF por 8 horas",
+    "summary": "Ex-deputado e aliado de Bolsonaro reagiu a ordem de prisão de Moraes e deixou 2 agentes da PF feridos."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5413,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/apos-jefferson-atacar-policiais-bolsonaro-diz-que-nao-tem-nem-foto-com-ex-deputado-apesar-de-registros-no-palacio-do-planalto.ghtml",
+    "title": "Bolsonaro diz não ter foto com Roberto Jefferson; veja imagens"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5076.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2022/10/23/cinegrafista-agredido-em-cobertura-da-prisao-de-roberto-jefferson-vai-passar-a-noite-em-observacao-na-uti.ghtml",
+    "title": "Cinegrafista atacado por bolsonarista passará noite na UTI"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4671.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/10/23/roberto-jefferson-ataca-policiais-federais-com-granadas-e-tiros-de-fuzil-e-se-entrega-apos-8-horas-desrespeitando-ordem-do-stf.ghtml",
+    "title": "Imagem de dentro do carro da PF mostra violência do ataque",
+    "category": "Fantástico"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4393.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/em-decisao-moraes-diz-que-roberto-jefferson-cometeu-repetidas-violacoes.ghtml",
+    "title": "Jefferson não podia usar redes sociais nem ter armas: por que prisão domiciliar foi revogada",
+    "category": "Política"
+  }
+]

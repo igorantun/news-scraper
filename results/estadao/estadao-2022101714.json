@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9810.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/lula-ou-bolsonaro-quem-ganhou-o-debate-da-band-veja-a-opiniao-de-analistas-ouvidos-pelo-estadao/",
+    "hat": "ENCONTRO ENTRE PRESIDENCIÁVEIS",
+    "title": "Lula ou Bolsonaro: Quem ganhou o debate da Band? Veja a opinião de analistas ouvidos pelo Estadão",
+    "summary": "Primeiro embate do segundo turno entre o petista e o chefe do Executivo foi marcado por poucas propostas de governo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9416.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/estadao-verifica/debate-lula-bolsonaro-band/",
+    "hat": "PONTO A PONTO",
+    "title": "Estadão Verifica: Candidatos erram dados sobre covid, salário mínimo e Bolsa Família; veja checagem",
+    "summary": "Presidenciáveis se encontram pela primeira vez no segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9416.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/analise-mercado-debate-lula-bolsonaro/",
+    "hat": "E-investidor",
+    "title": "Como o mercado reagiu ao debate entre Lula e Bolsonaro; confira opinião de analistas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8938.203125,
+      "left": 1190.328125,
+      "height": 302,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/sergio-moro-bolsonaro-debate-band-criticas/",
+    "hat": "ASSESSOR ESPECIAL",
+    "title": "Relembre críticas de Sérgio Moro a Bolsonaro antes de auxiliar o presidente no debate da Band",
+    "summary": "Ex-ministro da Justiça deixou o cargo acusando presidente de intervir na PF para proteger seus filhos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8536.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/thiago-brennand-ostenta-vida-em-hotel-nos-emirados-arabes-com-diarias-de-r-22-mil-nprm/",
+    "hat": "SUSPEITO DE CRIMES SEXUAIS",
+    "title": "Thiago Brennand é visto em hotel de luxo com diárias até R$ 22 mil após ser solto, revela TV",
+    "summary": "Preso em Abu Dhabi na última quinta-feira, ele foi liberado depois de pagar fiança"
+  }
+]

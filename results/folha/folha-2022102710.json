@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9176.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-reforca-ataques-ao-tse-na-reta-final-e-pavimenta-3o-turno-em-caso-de-derrota.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro reforça ataques ao TSE na reta final e pavimenta '3º turno' em caso de derrota",
+    "summary": "Presidente usa relatório frágil e fala em recorrer até o fim após Moraes negar ação e citar tentativa de tumultuar eleição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.96875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8804.53125,
+      "left": 974.984375,
+      "height": 247.265625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/propostas-do-congresso-para-reforma-do-stf-buscam-reduzir-influencia-do-presidente.shtml",
+    "hat": "justiça eleitoral",
+    "title": "Propostas do Congresso para reforma do STF buscam reduzir influência do presidente",
+    "summary": "Iniciativas de parlamentares têm sentido contrário a desejo de Bolsonaro de ampliar força no tribunal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8522.28125,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/emprestimo-do-auxilio-brasil-custa-ate-87-a-mais-em-juros-do-que-outros-consignados.shtml",
+    "hat": "seu bolso",
+    "title": "Empréstimo do Auxílio Brasil custa até 87% a mais em juros do que outros consignados"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8321.25,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/cortes-de-bolsonaro-no-orcamento-social-chegam-a-r-56-bi-em-2023-diz-senador.shtml",
+    "hat": "Painel",
+    "title": "Cortes de Bolsonaro no orçamento social chegam a R$ 5,6 bi em 2023, diz senador"
+  }
+]

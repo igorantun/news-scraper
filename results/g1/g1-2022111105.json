@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5694,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/#v/11096930",
+    "hat": "Violência eleitoral",
+    "title": "PF abre inquérito sobre atuação do diretor-geral da PRF em bloqueios golpistas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5694,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/loterias/noticia/2022/11/10/mega-da-virada.ghtml",
+    "hat": "Bolada recorde 🤑🤑🤑",
+    "title": "Mega da Virada pode pagar prêmio histórico de R$ 450 milhões"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5357.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/geraldo-alckmin-veste-meias-com-bolinhas-e-viraliza.ghtml",
+    "hat": "Evento com aliados",
+    "title": "Geraldo Alckmin viraliza ao vestir meias com bolinhas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4952.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/prf-diz-ao-supremo-ter-identificado-e-multado-40-pessoas-e-10-empresas-por-organizar-bloqueios-bolsonaristas-em-estradas-veja-lista.ghtml",
+    "title": "PRF entrega nomes de organizadores de interdições ilegais; veja lista",
+    "summary": "Informações estão em ofício enviado ao Supremo.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4674.65625,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/pec-da-transicao-tera-bolsa-familia-fora-do-teto-de-forma-permanente-diz-relator-do-orcamento.ghtml",
+    "hat": "Auxílio de R$ 600",
+    "title": "PEC deve ter Bolsa Família fora do teto de forma permanente, diz relator",
+    "summary": "Alckmin se reuniu com Lira e Pacheco. Texto que vai ao Congresso ainda não foi divulgado.",
+    "category": "Política"
+  }
+]

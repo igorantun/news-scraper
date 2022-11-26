@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9470.65625,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/diretor-da-prf-chega-ao-tse-apos-descumprir-ordem-de-moraes.shtml",
+    "hat": "Justiça eleitoral",
+    "title": "PRF faz mais de 500 blitze de ônibus; diretor é intimado pelo TSE e diz que vai encerrar operação",
+    "summary": "Polícia descumpriu ordem judicial de Moraes; ações acontecem principalmente em cidades do Nordeste"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -549.46875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9152.984375,
+      "left": 315,
+      "height": 91.984375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-manda-notificacao-pelo-e-titulo-e-alerta-que-impedir-populacao-de-votar-e-crime.shtml",
+    "title": "TSE manda notificação pelo e-Título e alerta que impedir população de votar é crime"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9152.984375,
+      "left": 644.984375,
+      "height": 91.984375,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2922/10/29/6224-eleicoes-2022-as-principais-noticias-do-segundo-turno.shtml#post421369",
+    "title": "Indígenas do Xingu dizem que ficaram sem votar por redução de ônibus de prefeitura"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9152.984375,
+      "left": 974.96875,
+      "height": 91.984375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/diretor-geral-da-prf-pede-voto-a-bolsonaro-nas-redes-sociais-e-depois-apaga-publicacao.shtml",
+    "title": "Diretor da PRF pede voto a Bolsonaro nas redes sociais e depois apaga publicação"
+  }
+]

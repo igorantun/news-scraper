@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9915.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/celso-ming-lula-dilmou-mantega-equipe-transicao/",
+    "hat": "CONTAS PÚBLICAS",
+    "title": "Celso Ming: Lula dilmou ou não dilmou ao escalar Mantega e os heterodoxos na transição?",
+    "summary": "Presidente eleito insiste no ‘confiem em mim, que tudo dará certo’, mas isso é muito pouco para o ‘mercado sensível', escreve o colunista"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9915.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/nota-das-forcas-armadas-foi-pensada-como-cobranca-a-congresso-e-stf-sobre-protestos-leia-bastidor/",
+    "hat": "COMUNICADO SOBRE AS MANIFESTAÇÕES",
+    "title": "Nota das Forças Armadas teve objetivo de alertar Congresso e STF sobre protestos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9345.203125,
+      "left": 329,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-intervem-para-barrar-protestos-no-pt-sobre-equipe-de-transicao/",
+    "hat": "Novo governo",
+    "title": "Presidente eleito enquadra PT para barrar protestos sobre equipe de transição",
+    "summary": "Petistas chegaram a dizer que não conseguiam informações e reclamaram do protagonismo de Alckmin"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9345.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/hospitais-privados-de-sp-registram-alta-de-mais-de-100-em-internados-por-covid-19/",
+    "hat": "pandemia",
+    "title": "Covid-19: Einstein, Sírio e outros hospitais privados de São Paulo têm alta de internações"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9345.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/basquete/brasil-derrota-os-estados-unidos-com-autoridade-e-se-aproxima-de-vaga-para-o-mundial-de-basquete/",
+    "hat": "Vitória grandiosa",
+    "title": "Brasil derrota os EUA com autoridade e se aproxima de vaga para o Mundial de Basquete",
+    "summary": "Bruno Caboclo, com 24 pontos, e Georginho, com 18, comandaram triunfo por 94 a 79 da seleção"
+  }
+]

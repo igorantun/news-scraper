@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4522,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/29/ipec-lula-tem-54percent-dos-votos-validos-2o-turno-e-bolsonaro-46percent.ghtml",
+    "hat": "Véspera do 2º turno",
+    "title": "Ipec, votos válidos: Lula tem 54% no 2º turno, e Bolsonaro, 46%"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4522,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/29/deputada-bolsonarista-carla-zambelli-saca-e-aponta-arma-para-homem-na-rua-em-sp-ela-diz-que-foi-cercada-e-agredida.ghtml",
+    "hat": "Deputada bolsonarista",
+    "title": "VÍDEOS: Carla Zambelli saca e aponta arma para homem em SP"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4185.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/libertadores/jogo/29-10-2022/flamengo-athletico-pr.ghtml",
+    "hat": "É CAMPEÃO!",
+    "title": "Flamengo vence Athletico-PR e fica com o título da Libertadores"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3780.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/29/datafolha-lula-tem-52percent-dos-votos-validos-no-2o-turno-e-bolsonaro-48percent.ghtml",
+    "title": "Datafolha, votos válidos: Lula aparece com 52%, e Bolsonaro, 48%",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3502.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/29/ipec-em-sp-votos-validos-tarcisio-tem-52percent-e-haddad-48percent.ghtml",
+    "title": "Ipec em SP, votos válidos: Tarcísio tem 52%, e Haddad, 48%, em empate técnico",
+    "category": "Eleições 2022 em São Paulo"
+  }
+]

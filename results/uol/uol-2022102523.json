@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12535.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/ipec-governo-sp-25-de-outubro.htm",
+    "title": "Ipec indica empate técnico em SP: Tarcísio tem 46%, e Haddad, 43%",
+    "summary": "Votos brancos e nulos somam 7%; não sabem ou não responderam são 4%"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12137.5,
+      "left": 365,
+      "height": 516.984375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/policia-de-sp-pedira-integra-de-videos-da-jovem-pan-que-equipe-de-tarcisio-mandou-apagar.shtml",
+    "title": "Polícia de SP pedirá íntegra de vídeos da JP que equipe de Tarcísio mandou apagar"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11596.515625,
+      "left": 365,
+      "height": 121,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-publica/2022/10/25/emendas-secretas-de-lira-aumentam-consultas-em-cidade-comandada-por-seu-pai.htm",
+    "title": "Emendas secretas de Lira aumentam consultas em cidade comandada por seu pai"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11451.515625,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/10/25/cpi-do-assedio-eleitoral-ganha-adesao-e-deve-comecar-no-senado-apos-eleicao.htm",
+    "title": "CPI do Assédio Eleitoral ganha adesão e deve começar no Senado após eleição"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12137.5,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/flavio-bolsonaro-faz-campanha-em-sede-de-prefeitura-no-interior-do-rj.htm",
+    "title": "Flávio faz campanha para Bolsonaro em sede de prefeitura no Rio de Janeiro; lei proíbe"
+  }
+]

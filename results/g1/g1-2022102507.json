@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5810,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "hat": "2º turno das eleições",
+    "title": "Lula 50% x 43% Bolsonaro: veja números do Ipec por região, renda, idade e sexo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5810,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/ce/futebol/brasileirao-serie-a/jogo/24-10-2022/fortaleza-atletico-mg.ghtml",
+    "hat": "Brasileirão",
+    "title": "Fortaleza e Atlético-MG empatam sem gols na Arena Castelão",
+    "summary": "Leão fica em 10º na tabela, e Galo, em sétimo."
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5473.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-da-globo/noticia/2022/10/25/todas-as-flores-a-novela-que-e-um-conto-de-fadas-cheio-de-suspense-romance-e-vinganca.ghtml",
+    "hat": "Conto de fadas, com suspense",
+    "title": "‘Todas as flores’ terá duas etapa no Globoplay; veja como será"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5068.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/25/policiais-federais-atingidos-por-roberto-jefferson-tem-estilhacos-no-quadril-e-no-cranio.ghtml",
+    "hat": "Descontrolado",
+    "title": "Policiais federais atingidos por Jefferson têm estilhaços no quadril e no crânio",
+    "summary": "Karina de Oliveira levou pontos no rosto e na coxa. Delegado Marcelo Villela disse que não enxergava por causa de sangue no rosto.",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4790.65625,
+      "left": 348.65625,
+      "height": 251.640625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/em-depoimento-roberto-jefferson-diz-ter-dado-50-tiros-contra-a-pf.ghtml",
+    "hat": "Aliado de Bolsonaro",
+    "title": "Indiciado por tentativa de assassinato, Jefferson diz que deu 50 tiros contra a PF",
+    "category": "Rio de Janeiro"
+  }
+]

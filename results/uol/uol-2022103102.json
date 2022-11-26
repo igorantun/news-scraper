@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12528.0625,
+      "left": 365,
+      "height": 382.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/30/lideres-mundiais-reconhecem-vitoria-de-lula-para-sufocar-acao-de-bolsonaro.htm",
+    "title": "EUA, Alemanha, França e mais países reconhecem vitória e parabenizam Lula"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12032.359375,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/lira-parabens-lula-segundo-turno.htm",
+    "title": "Arthur Lira parabeniza Lula por vitória e diz que é 'hora de construir pontes' com diálogo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12032.359375,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/derrotado-bolsonaro-perde-foro-privilegiado-e-pode-ter-decretos-expostos.htm",
+    "title": "Derrotado, Bolsonaro perderá foro privilegiado e deve ter sigilos expostos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12032.359375,
+      "left": 873.328125,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/serei-a-maior-oposicao-diz-zambelli-sobre-vitoria-de-lula.htm",
+    "title": "'Serei a maior oposição', diz deputada bolsonarista Zambelli sobre vitória de Lula"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11641.6875,
+      "left": 365,
+      "height": 319.0625,
+      "width": 224.15625
+    },
+    "link": "https://tab.uol.com.br/colunas/matheus-pichonelli/2022/10/30/brasil-tem-nova-chance-de-deixar-piada-bolsonaro-no-canto-da-irrelevancia.htm",
+    "title": "Pichonelli: Derrotado, Bolsonaro pode voltar em paz à irrelevância"
+  }
+]

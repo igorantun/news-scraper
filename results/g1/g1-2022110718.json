@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5697,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/07/convocados-da-selecao-para-a-copa-do-mundo-2022-veja-a-lista-de-tite.ghtml",
+    "title": "Tite convoca Daniel Alves, Pedro e Martinelli para a Copa",
+    "summary": "Lista inclui Everton Ribeiro e 9 atacantes. Veja quem são os 26 escolhidos para buscar o hexa."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5697,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/07/lewis-hamilton-chega-a-camara-para-receber-titulo-de-cidadao-honorario-brasileiro.ghtml",
+    "hat": "Homenagem",
+    "title": "Lewis Hamilton recebe título de cidadão brasileiro na Câmara"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5360.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/go/goias/noticia/2022/11/07/padre-tira-a-batina-e-abandona-missa-apos-discussao-politica-em-igreja-de-neropolis.ghtml",
+    "hat": "Goiás",
+    "title": "VÍDEO: padre tira a batina e deixa missa após discussão política"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4955.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/07/tite-explica-convocacao-de-daniel-alves-para-a-copa-do-mundo-premia-qualidade.ghtml",
+    "title": "Tite explica convocação de Daniel Alves: 'Premia qualidade'",
+    "category": "seleção brasileira"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4677.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/07/equipe-de-lula-tenta-frear-indicacoes-de-bolsonaro-para-judiciario-e-postos-no-exterior.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Lula quer frear indicados de Bolsonaro para tribunais e cargos no exterior",
+    "category": "Blog do Valdo Cruz"
+  }
+]

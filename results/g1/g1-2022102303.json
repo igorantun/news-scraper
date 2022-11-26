@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5467,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/10/22/numero-de-denuncias-de-assedio-eleitoral-aumenta-com-a-proximidade-do-segundo-turno.ghtml",
+    "hat": "Voto coagido",
+    "title": "Denúncias de assédio eleitoral aumentam 5 vezes entre 2018 e 2022",
+    "summary": "MPT vê disparada de casos no 2º turno e registrou 1.176 denúncias até agora, contra 212 na última eleição para presidente."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5467,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/loterias/noticia/2022/10/22/mega-sena-concurso-2532-confira-o-resultado.ghtml",
+    "hat": "Loterias",
+    "title": "Mega-Sena acumula e pode pagar R$ 115 milhões; veja dezenas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5130.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/pets/noticia/2022/10/22/desfile-de-halloween-canino-reune-fantasias-criativas-em-nova-york.ghtml",
+    "hat": "Estados Unidos",
+    "title": "Desfile de 'Halloween canino' reúne fantasias criativas em Nova York"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4725.828125,
+      "left": 348.65625,
+      "height": 208.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/10/22/campanha-do-bolsonaro-teme-estrago-na-reta-final-apos-ataque-de-jefferson-a-carmen-lucia.ghtml",
+    "hat": "Blog do Camarotti",
+    "title": "Campanha de Bolsonaro teme estrago após Jefferson atacar Cármen Lúcia",
+    "category": "Blog do Gerson Camarotti"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4484.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/am/amazonas/noticia/2022/10/22/caso-bruno-e-dom-suspeito-de-ordenar-assassinatos-de-indigenista-e-jornalista-e-solto.ghtml",
+    "hat": "Crime na Amazônia",
+    "title": "Suspeito da morte de Bruno e Dom paga fiança de R$ 15 mil e é solto",
+    "summary": "Colômbia ficará em prisão domiciliar com tornozeleira eletrônica.",
+    "category": "Amazonas"
+  }
+]

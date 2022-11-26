@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6451,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/10/27/moraes-transforma-prisao-em-flagrante-de-jefferson-para-prisao-preventiva.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Moraes mantém prisão de Jefferson por atacar agentes da PF com granadas e fuzil",
+    "summary": "Aliado de Bolsonaro foi indiciado por 4 tentativas de homicídio. Prisão em flagrante foi convertida em preventiva."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6451,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/10/27/pt-pede-a-pgr-para-investigar-beto-carrero-apos-anuncio-que-estimula-abstencao-de-petistas.ghtml",
+    "hat": "Santa Catarina",
+    "title": "PT pede que PGR investigue campanha do Beto Carrero"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6114.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/27/recem-casados-sao-assaltados-na-volta-da-cerimonia-no-rj-e-passam-a-noite-de-nupcias-na-delegacia.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Noivos são assaltados e passam a noite de núpcias na delegacia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5709.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/27/moraes-diz-que-dever-de-fiscalizar-se-insercoes-de-candidatos-vao-ao-ar-e-dos-partidos-e-nao-do-tse.ghtml",
+    "hat": "Campanha eleitoral",
+    "title": "Presidente do TSE diz que partidos devem fiscalizar inserções em rádios",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5431.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2022/10/27/fake-news-entenda-como-funciona-a-fabrica-desinformacao-politica-no-brasil.ghtml",
+    "hat": "Indústria da desinformação",
+    "title": "Entenda como funciona a fábrica de fake news nas eleições brasileiras",
+    "category": "Fato ou Fake"
+  }
+]

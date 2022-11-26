@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12483.609375,
+      "left": 365,
+      "height": 382.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/30/lideres-mundiais-reconhecem-vitoria-de-lula-para-sufocar-acao-de-bolsonaro.htm",
+    "title": "EUA, Argentina, França e Espanha parabenizam Lula para sufocar Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11906.296875,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/lira-parabens-lula-segundo-turno.htm",
+    "title": "Arthur Lira parabeniza Lula por vitória e diz que é 'hora de construir pontes' com diálogo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11906.296875,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/derrotado-bolsonaro-perde-foro-privilegiado-e-pode-ter-decretos-expostos.htm",
+    "title": "Derrotado, Bolsonaro perderá foro privilegiado e deve ter sigilos expostos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11906.296875,
+      "left": 873.328125,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/10/30/o-que-esperar-de-rosangela-silva-a-janja-como-primeira-dama.htm",
+    "title": "Combate à fome e pautas femininas: o que esperar da Janja primeira-dama?"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11585.1875,
+      "left": 365,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/tarcisio-vitoria-governo-de-sao-paulo.htm",
+    "title": "Ex-ministro de Bolsonaro, Tarcísio é eleito governador de SP"
+  }
+]

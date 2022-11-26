@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6281,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/stj-julga-pedido-da-pgr-para-suspender-resolucao-do-tse-sobre-fake-news.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "Maioria no STF vota por manter resolução do TSE sobre fake news",
+    "summary": "Tribunal julga pedido de Augusto Aras, procurador-geral, para suspender medida adotada pela Justiça Eleitoral."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6281,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/10/25/ana-castela-comenta-sobre-machismo-povo-acha-que-pode-pegar-onde-quiser-por-eu-ser-mulher.ghtml",
+    "hat": "Entrevista ao g1",
+    "title": "Ana Castela: 'Povo acha que pode pegar onde quiser por eu ser mulher'"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5944.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/10/25/vascaino-jovem-vai-a-festa-sem-saber-que-era-a-fantasia-descobre-que-esta-de-casimiro-viraliza-e-recebe-resposta-do-sosia-famoso.ghtml",
+    "hat": "Meteu essa?",
+    "title": "Vascaíno vai a festa sem saber que era à fantasia e vira Casimiro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5539.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/25/mendonca-rejeita-pedidos-de-investigacao-de-bolsonaro-por-fala-sobre-meninas-venezuelanas.ghtml",
+    "hat": "'Pintou um clima'",
+    "title": "Mendonça rejeita investigar Bolsonaro por fala sobre meninas de 14 anos",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5261.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/25/a-4-dias-da-eleicao-lula-reitera-que-nao-disputara-reeleicao-se-vencer.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Lula reitera que, se for presidente, não tentará reeleição",
+    "category": "Blog da Andréia Sadi"
+  }
+]

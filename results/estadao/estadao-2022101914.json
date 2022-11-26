@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9258.734375,
+      "left": 329,
+      "height": 661.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/doria-se-desfilia-do-psdb-apos-22-anos/",
+    "hat": "Política",
+    "title": "Doria anuncia desfiliação do PSDB após 22 anos",
+    "summary": "Em carta, ex-governador de SP afirma que encerra sua 'trajetória partidária de cabeça erguida’"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9258.734375,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/cultura/nem-um-nem-outro/",
+    "hat": "Roberto DaMatta",
+    "title": "Lula e Bolsonaro foram 'piores' no 'debate', nem um nem outro vale o meu voto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8842.625,
+      "left": 1190.328125,
+      "height": 338.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-fogo-amigo-que-atinge-haddad/",
+    "hat": "Vera Rosa",
+    "title": "Bronca dada em dirigentes do PT pelo WhatsApp provocou mal-estar no comitê"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8442.515625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/so-8-dos-eleitos-para-o-congresso-sao-nomes-novos-na-politica/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Só 8% dos eleitos para o Congresso são nomes novos na política"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8442.515625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/colesterol-alto-veja-como-identificar-sintomas-prevenir-nprm/",
+    "hat": "Saúde",
+    "title": "Colesterol alto: veja como identificar e prevenir",
+    "summary": "A dislipidemia não tem sintomas, pode ser genética e aumenta as chances de infarto"
+  }
+]

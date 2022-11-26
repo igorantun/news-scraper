@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12618.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-ve-papel-humilhante-das-forcas-armadas-cobra-bolsonaro-e-elogia-moraes-nas-eleicoes.shtml",
+    "title": "Lula diz que Bolsonaro deve desculpas às Forças Armadas",
+    "summary": "Presidente eleito vê papel humilhante dos militares nas eleições e elogia Moraes"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12229.265625,
+      "left": 365,
+      "height": 454.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/lula-primeira-fala-gabinete-de-transicao.htm",
+    "title": "Em discurso, Lula chora ao falar da fome e diz que democracia voltou"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11750.65625,
+      "left": 365,
+      "height": 184.75,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/10/sob-bolsonaro-pf-tem-pior-desempenho-em-apreensao-de-armas-desde-2013.htm",
+    "title": "Sob Bolsonaro, PF tem pior desempenho em apreensão de armas desde 2013"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12229.265625,
+      "left": 619.15625,
+      "height": 390.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/bolsonaro-nomeacao-tse.htm",
+    "title": "Antes de deixar governo federal, Bolsonaro nomeia novo ministro do TSE; conheça o indicado"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11814.59375,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/quem-e-bolsonarista-que-agrediu-agente-da-prf-com-barra-de-ferro-em-sc.htm",
+    "title": "Homem preso por atacar agente da PRF em SC é negacionista da covid e defensor de Bolsonaro"
+  }
+]

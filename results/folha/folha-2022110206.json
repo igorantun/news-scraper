@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8992.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-quebra-silencio-condena-bloqueios-e-fala-em-indignacao-com-injusticas-na-eleicao.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro quebra silêncio, critica bloqueios e fala em indignação e injustiça com eleição",
+    "summary": "Presidente diz ainda que 'a direita surgiu de verdade no país'; ele ficou quase dois dias sem se pronunciar após derrota para Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -556.125,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições na internet",
+    "title": "'Debate legislativo é necessário', diz especialista sobre regulamentação na internet",
+    "summary": "Especialistas apontam para a insuficiência da autorregulação dos serviços nos espaços digitais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8992.109375,
+      "left": 1305,
+      "height": 303.9375,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml",
+    "hat": "tempo real",
+    "title": "Acompanhe os protestos golpistas em estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8620.53125,
+      "left": 975,
+      "height": 293.828125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/choque-entra-em-confronto-com-golpistas-na-castelo-branco.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Tropa de Choque entra em confronto com golpistas na Castelo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8291.71875,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/grupos-bolsonaristas-dizem-que-nao-vao-sair-das-ruas-apos-discurso-do-presidente.shtml",
+    "hat": "no telegram",
+    "title": "Grupos bolsonaristas dizem que não vão sair das ruas após discurso do presidente"
+  }
+]

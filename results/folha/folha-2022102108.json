@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8850.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/guerra-contra-abstencao-tem-feriado-adiado-transporte-gratuito-e-aliados-mobilizados.shtml",
+    "hat": "Eleições 2022",
+    "title": "Guerra contra abstenção tem feriado adiado, transporte gratuito e aliados mobilizados",
+    "summary": "Eleitores voltam as urnas em 30 de outubro; 52,3% dos eleitores também votam para governos estaduais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.28125,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8586.34375,
+      "left": 974.984375,
+      "height": 247.265625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministra-do-tse-suspende-direitos-de-resposta-dados-a-lula-na-reta-final-da-campanha.shtml",
+    "hat": "justiça eleitoral",
+    "title": "Ministra do TSE suspende direitos de resposta dados a Lula em programa de Bolsonaro",
+    "summary": "Magistrada decide levar caso ao plenário do tribunal e também abre prazo de 24 h para manifestações de candidatos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8304.09375,
+      "left": 974.984375,
+      "height": 149.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/rodrigo-estende-tapete-vermelho-a-bolsonaro-em-jantar-no-palacio-dos-bandeirantes.shtml",
+    "hat": "governo de sp",
+    "title": "Rodrigo estende tapete vermelho a Bolsonaro em jantar no Palácio dos Bandeirantes"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8119.15625,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/projeto-sobre-homofobia-plantou-boato-de-que-lula-fecharia-igrejas.shtml",
+    "hat": "Painel",
+    "title": "Projeto sobre homofobia deu origem a boato de que Lula fecharia igrejas"
+  }
+]

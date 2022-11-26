@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12802.609375,
+      "left": 365,
+      "height": 327.9375,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/15/flamengo-x-atletico-mg.htm",
+    "title": "Cebolinha marca pela 1ª vez no Maracanã, e Flamengo vence o Atlético-MG"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12425.671875,
+      "left": 365,
+      "height": 505.796875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/perrone/2022/10/15/veto-a-torcida-visitante-faz-stjd-suspender-jogo-entre-goias-e-corinthians.htm",
+    "title": "Veto a torcedor visitante faz STJD suspender jogo entre Goiás e Corinthians"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11895.875,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/15/palmeiras-define-estrategia-de-mercado-para-2023-e-mantera-espinha-dorsal.htm",
+    "title": "Palmeiras define plano de contratações para 2023 e manterá espinha dorsal"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12425.671875,
+      "left": 619.15625,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/15/haddad-amoedo.htm",
+    "title": "Haddad diz ter pedido pessoalmente a Amoêdo que apoiasse Lula"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12012.625,
+      "left": 619.15625,
+      "height": 426.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/15/tse-lula-bolsonaro-romeu-zema-propaganda-eleitoral.htm",
+    "title": "TSE manda derrubar propaganda de Bolsonaro em que Zema criticava Lula"
+  }
+]

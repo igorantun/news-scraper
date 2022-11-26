@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9840.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/lula-ignora-mercado-critica-estabilidade-fiscal-e-defende-ampliacao-de-gastos/",
+    "hat": "contas públicas",
+    "title": "Lula critica 'estabilidade fiscal' e defende ampliação de gastos; mercado tem reação negativa",
+    "summary": "‘Por que toda hora as pessoas falam que é preciso cortar gastos, é preciso fazer superávit, é preciso fazer teto de gastos?’, questionou o presidente eleito; índice Ibovespa cai durante a fala do petista"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9840.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/quiz-da-copa-do-mundo-encare-esse-desafio/",
+    "hat": "RUMO AO CATAR",
+    "title": "Sabe tudo sobre Copa do Mundo? Responda o quiz e encare esse desafio",
+    "summary": "Estadão recruta os amantes do futebol mundial para testarem seus conhecimentos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9370.3125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/ipca-passagens-aereas-hortifruti-mais-caros-npre/",
+    "hat": "IPCA",
+    "title": "Inflação: passagens aéreas e hortifruti ficam mais caros, e leite, mais barato; confira"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9370.3125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-diz-que-alckmin-nao-sera-ministro-no-novo-governo/",
+    "hat": "transição",
+    "title": "Alckmin não será ministro no novo governo, diz presidente eleito"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9370.3125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/itausa-xp-venda/",
+    "hat": "Negócios",
+    "title": "Holding Itaúsa vende R$ 1,5 bilhão em ações da plataforma de investimentos XP",
+    "summary": "Essa é a primeira grande operação em Bolsa após o segundo turno das eleições no Brasil"
+  }
+]

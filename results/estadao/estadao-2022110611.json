@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9899.3125,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/lula-desafios-economicos/",
+    "hat": "Novo governo",
+    "title": "Questão fiscal, PIB em desaceleração e inflação alta: veja os desafios de Lula na economia",
+    "summary": "Diante desse cenário, economistas apontam que há muito para ser consertar e, segundo especialistas, esse panorama pode fazer a lua de mel de Lula ser curta quando comparada à de outros governos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9899.3125,
+      "left": 1190.328125,
+      "height": 402.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-brasil-vai-voltando-ao-normal-so-falta-os-golpistas-entenderem-que-fazem-papel-de-bobos/",
+    "hat": "Eliane Cantanhêde",
+    "title": "Lula tem imensa capacidade de atrair apoios e maiorias, e o País vai voltando à normalidade",
+    "summary": "Apesar das manifestações de extremistas nas portas dos quartéis, o País volta à normalidade da política e do diálogo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9435.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/polarizacao-avanca-em-escolas-vira-briga-entre-alunos-e-preocupa-educadores/",
+    "hat": "Educação",
+    "title": "Polarização avança em escolas, vira briga entre alunos e preocupa educadores",
+    "summary": "Eleições são pano de fundo de casos de violência entre jovens; professores devem agir como mediadores"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9435.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/colunas/quanto-custa/melhores-resorts-ano-novo-natal-trancoso/",
+    "hat": "e-investidor",
+    "title": "Quanto custa passar o fim de ano nos três melhores resorts do Brasil?",
+    "summary": "Um pacote simples dentro do período do ano-novo chega a custar R$ 90 mil para o casal"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8903.203125,
+      "left": 329,
+      "height": 410.109375,
+      "width": 400.65625
+    },
+    "link": "http://www.estadao.com.br/economia/envelhecimento-educacao-desafio-lula/",
+    "hat": "Pedro Henrique Nery",
+    "title": "Governo Lula deve contemplar as novas minorias do País: crianças e jovens"
+  }
+]

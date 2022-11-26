@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12404.0625,
+      "left": 365,
+      "height": 387.125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/caminhoneiros-bolsonaristas-fecham-estrada-em-mt-nao-vamos-aceitar.htm",
+    "title": "Caminhoneiros bolsonaristas fecham rodovias em 14 estados e no DF",
+    "summary": "PRF diz que acionou AGU para poder liberar rodovias bloqueadas por caminhoneiros"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11967.9375,
+      "left": 365,
+      "height": 566.546875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/31/bolsonaro-se-reune-com-ministros-no-planalto-e-avalia-resposta-a-derrota.htm",
+    "title": "Bolsonaro se reúne com ministros no Planalto e avalia resposta à derrota"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11377.390625,
+      "left": 365,
+      "height": 192.75,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-prepara-novo-governo-sob-incerteza-de-colaboracao-de-bolsonaro-para-transicao.shtml",
+    "title": "Lula prepara novo governo sob incerteza de colaboração de Bolsonaro em transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11967.9375,
+      "left": 619.15625,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/encontro-lula-presidente-da-argentina.htm",
+    "title": "Lula e presidente da Argentina se encontram e se abraçam após eleição: 'Que alegria!'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11596.453125,
+      "left": 619.15625,
+      "height": 429.609375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painelsa/2022/10/apos-derrota-bolsonaro-prepara-pacote-de-medidas-na-economia.shtml",
+    "title": "Após derrota, Bolsonaro prepara pacote de medidas na Economia"
+  }
+]

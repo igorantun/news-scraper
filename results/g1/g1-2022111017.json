@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6153,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/lula-pronunciamento-brasilia.ghtml",
+    "hat": "Reunião com aliados",
+    "title": "Lula diz que Alckmin não será ministro do seu governo",
+    "summary": "Em discurso, presidente eleito pregou diálogo, defendeu as urnas eletrônicas e reafirmou compromisso de combater a fome."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6153,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/10/ator-roberto-guilherme-o-sargento-pincel-morreu-no-rio-aos-84-anos.ghtml",
+    "hat": "Luto no humor",
+    "title": "Morre Roberto Guilherme, o Sargento Pincel dos 'Trapalhões'"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5816.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/10/modelo-suspeita-de-matar-noivo-em-motel-do-df-foi-presa-seminua-ao-tentar-roubar-kombi-escolar-entenda.ghtml",
+    "hat": "Crime em motel no DF",
+    "title": "Suspeita de matar noivo foi presa seminua ao tentar roubar van"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5411.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/lula-chora-ao-dizer-que-reafirma-compromisso-com-combate-a-fome-no-pais.ghtml",
+    "title": "Presidente eleito chora ao falar da fome: 'Jamais esperava que voltasse'",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5133.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/aras-defende-no-stf-que-modelo-adotado-pelo-congresso-para-prestar-contas-do-orcamento-secreto-e-constitucional.ghtml",
+    "hat": "Emendas de relator",
+    "title": "Aras defende no STF regras do orçamento secreto",
+    "summary": "Supremo indica que pode julgar ações sobre o tema até dezembro.",
+    "category": "Política"
+  }
+]

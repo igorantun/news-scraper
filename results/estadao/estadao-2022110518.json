@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9827.3125,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/farmacia-popular-distribuicao-de-remedios-e-filas-os-desafios-do-sus-no-governo-lula/",
+    "hat": "Novo governo",
+    "title": "Farmácia Popular, distribuição de remédios e filas: os desafios do SUS no governo Lula",
+    "summary": "Expectativa é de que ações dependam de orçamento extra de R$ 23 bilhões para 2023; governo eleito prevê parcerias com iniciativa privada e retomada do Mais Médicos sem profissionais cubanos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9827.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/equipe-de-lula-sonda-lara-resende-e-persio-arida-para-transicao-na-area-economica/",
+    "hat": "economia",
+    "title": "Lara Resende vai integrar equipe de transição de Lula na área econômica",
+    "summary": "Persio Arida também foi convidado; indicações são aguardadas com expectativa pelo mercado e Congresso"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9361.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/live-que-distorce-informacoes-sobre-urnas-e-assistida-por-300-mil-pessoas/",
+    "hat": "DOSSIÊ APÓCRIFO",
+    "title": "Live que distorce informações sobre urnas é disseminada em grupos bolsonaristas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9361.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/aviao-da-fab-cai-santa-catarina-dois-mortos/",
+    "hat": "Grande Florianópolis",
+    "title": "Avião da FAB que desapareceu é encontrado em Santa Catarina; duas pessoas morreram",
+    "summary": "De acordo com a prefeitura, corpos estavam carbonizados; aeronave havia perdido sinal na sexta"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9361.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/cultura/musica/revista-rolling-stone-faz-a-lista-dos-500-melhores-albuns-da-historia/",
+    "hat": "Música",
+    "title": "Revista ‘Rolling Stone’ faz a lista dos ‘500 melhores álbuns’ da história; veja quais são",
+    "summary": "Júri de celebridades da música como Iggy Pop ou Beyoncé cria uma ‘tapeçaria musical’ que vai gerar muito debate"
+  }
+]

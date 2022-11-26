@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9489.109375,
+      "left": 315,
+      "height": 292.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-e-haddad-nacionalizam-debate-com-salario-minimo-e-vacina-e-batem-boca-sobre-paraisopolis.shtml",
+    "hat": "disputa em sp",
+    "title": "Tarcísio e Haddad nacionalizam debate com salário mínimo e vacina; vídeo de Paraisópolis eleva tensão",
+    "summary": "Candidatos travam embate duro na Globo tendo Bolsonaro e Lula como pano de fundo a três dias do segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -559.78125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9489.109375,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/colunistas-analisam-novo-datafolha-em-live-para-assinantes-nesta-5a.shtml",
+    "hat": "TV Folha",
+    "title": "Bolsonaro se frustra em SP, dizem colunistas em live sobre pesquisa Datafolha"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9161.4375,
+      "left": 974.984375,
+      "height": 371.796875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-aliados-de-lula-e-bolsonaro-veem-efeito-de-derrapada-sobre-salario-minimo.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Datafolha: Aliados de Lula e Bolsonaro veem efeito de derrapada sobre salário mínimo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8753.65625,
+      "left": 974.984375,
+      "height": 192.125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-bolsonaro-lidera-em-sp-com-49-ante-43-de-lula.shtml",
+    "hat": "+datafolha",
+    "title": "Bolsonaro lidera em SP com 49%, ante 43% de Lula"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5934.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/roberto-jefferson-diz-ter-atirado-contra-agentes-da-pf-que-foram-prende-lo/",
+    "hat": "Política",
+    "title": "Moraes manda PF prender Roberto Jefferson, que reage a tiros",
+    "summary": "“Eu não atirei em ninguém para pegar”, disse o ex-parlamentar em vídeo que admite ter disparado contra uma viatura e quatro agentes; Bolsonaro determinou que o Ministro da Justiça vá ao RJ para acompanhar o episódio"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4853.921875,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/quem-sao-os-17-milhoes-de-eleitores-que-podem-definir-o-2o-turno",
+    "hat": "Reportagem de capa",
+    "title": "Quem são os 17 milhões de eleitores indecisos que podem definir o 2º turno",
+    "summary": "Como a imensa maioria já sabe em quem vai votar, o resultado do pleito passa por quem não escolheu ou pode mudar de lado, um grupo de votantes homogêneo e bem definido"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3715.796875,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/sergio-moro-a-volta-do-lula-seria-um-suicidio-moral-e-economico/",
+    "hat": "Política",
+    "title": "Sergio Moro: 'A volta do Lula seria um suicídio moral e econômico'",
+    "summary": "Senador eleito explica reaproximação com Bolsonaro, dispara contra o petista e diz que a Justiça passa a impressão de que o crime compensa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5604.890625,
+      "left": 324,
+      "height": 245.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/economia/promessas-de-lula-e-bolsonaro-ja-implicam-gastos-de-r-150-bilhoes/",
+    "hat": "Economia",
+    "title": "Promessas de Lula e Bolsonaro já superam gastos de R$ 150 bi para 2023"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5604.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/fraude-em-respiradores-perfeitas-condicoes-para-produto-que-nao-existe/",
+    "hat": "Política",
+    "title": "Fraude em respiradores: ‘perfeitas condições’ para produto que não existe"
+  }
+]

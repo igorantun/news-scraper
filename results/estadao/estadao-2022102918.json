@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9421.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/no-mapa-eleitoral-de-2022-lula-repete-dilma-e-bolsonaro-replica-aecio-em-2014/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Cantanhêde: 'No mapa eleitoral de 2022, Lula repete Dilma e Bolsonaro replica Aécio em 2014'",
+    "summary": "'Os tempos são outros, mas há uma forte relação entre as duas eleições'; leia coluna"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9421.3125,
+      "left": 1190.328125,
+      "height": 298,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-ou-bolsonaro-quem-ganhou-o-debate-da-globo-veja-o-que-dizem-analistas/",
+    "hat": "Corrida presidencial",
+    "title": "Lula ou Bolsonaro: quem ganhou o último debate antes do 2º turno? Veja o que dizem analistas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9093.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-deve-perder-preciosos-votos-reage-temer-apos-ser-chamado-de-golpista-em-debate/",
+    "hat": "EX-PRESIDENTE",
+    "title": "Temer reage a Lula após ser chamado de golpista: 'O que houve foi um golpe de sorte'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8523.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/recuo-de-fabio-faria-teve-puxao-de-orelha-de-ministros-do-stf-e-medo-do-xandao/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "Recuo de Fábio Faria teve puxão de orelha de ministros do Supremo e 'medo de Xandão'",
+    "summary": "Ministro se disse arrependido de ter levantado hipótese de boicote contra Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8523.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/ciencia/nasa-registra-imagem-do-sol-sorrindo-veja-a-foto-nprm/",
+    "hat": "BELEZA NATURAL",
+    "title": "Nasa registra imagem do Sol 'sorrindo'; veja a foto",
+    "summary": "Manchas escuras no Sol são conhecidas como buracos coronais, explica a agência"
+  }
+]

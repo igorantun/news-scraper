@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9768.3125,
+      "left": 329,
+      "height": 262,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/veja-quanto-custou-eleger-um-deputado-federal-valor-aumentou-40-em-quatro-anos/",
+    "hat": "Eleições",
+    "title": "Quanto custa eleger um deputado federal? Valor aumentou 40% em quatro anos",
+    "summary": "Cada parlamentar eleito investiu em média R$ 1,8 milhão, ante R$ 1,3 milhão da eleição anterior; segundo dados do TSE, 77,6% dos recursos de campanha declarados vieram do fundo eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9768.3125,
+      "left": 1190.328125,
+      "height": 338.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/ciencia/como-a-ciencia-pode-provar-inocencia-de-mae-condenada-de-matar-os-filhos/",
+    "hat": "Fernando Reinach",
+    "title": "Mulher está presa na Austrália pela morte de 4 filhos: dossiê de cientistas pode libertá-la"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9368.203125,
+      "left": 759.65625,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/celso-ming-lula-dilmou-mantega-equipe-transicao/",
+    "hat": "Celso Ming",
+    "title": "'Lula dilmou ou não dilmou ao escalar Mantega e os heterodoxos na transição?'",
+    "summary": "Presidente eleito insiste no 'confiem em mim, que tudo dará certo', mas isso é pouco para o 'mercado sensível'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9368.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sao-paulo/proposta-de-elevar-limite-de-barulho-em-shows-de-sp-beneficia-grandes-arenas/",
+    "hat": "PROJETO DE LEI",
+    "title": "Mais barulho em SP: proposta de elevar nível de ruído beneficia Allianz Parque e Anhembi"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8887.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sustentabilidade/marina-silva-diz-que-nao-opera-na-chantagem-e-ve-mundo-interessado-em-investir-na-amazonia/",
+    "hat": "Sustentabilidade",
+    "title": "Marina Silva diz que Brasil não vai operar com 'chantagem' na proteção da Amazônia"
+  }
+]

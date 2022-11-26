@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8202.109375,
+      "left": 315,
+      "height": 158.90625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/pt-teme-que-acao-do-stf-contra-emendas-de-relator-prejudique-aproximacao-com-lira.shtml",
+    "hat": "transição de governo",
+    "title": "PT teme que ação do STF contra emendas de relator prejudique aproximação com Lira"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.78125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=xZqlDalnac0",
+    "hat": "Gal Costa (1945-2022)",
+    "title": "Como Gal Costa se tornou símbolo forte de rebeldia das mulheres",
+    "summary": "Cantora é um marco incontornável da música e desafiou o conservadorismo no auge da ditadura"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8008.21875,
+      "left": 975,
+      "height": 175.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/uso-de-receita-extra-para-investimento-pode-elevar-gasto-fora-do-teto-a-r-198-bi.shtml",
+    "hat": "Teto de gastos",
+    "title": "Uso de receita extra para investimento pode elevar gasto fora do teto a R$ 198 bilhões"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7797.78125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/dolar-recua-apos-disparada-da-vespera-com-discurso-de-lula.shtml",
+    "hat": "Mercado financeiro",
+    "title": "Dólar fecha em queda após disparar na véspera com discurso de Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7596.75,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/moraes-manda-forcas-policiais-desbloquearem-vias-publicas-e-determina-multa-de-r-100-mil.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Moraes manda forças policiais desbloquearem vias e determina multa de R$ 100 mil",
+    "summary": "Decisão soou como resposta à nota emitida por comandantes das Forças Armadas"
+  }
+]

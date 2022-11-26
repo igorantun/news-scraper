@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9625.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/aras-recorre-stf-resolucao-tse-ampliou-poderes-fake-news/",
+    "hat": "Eleições 2022",
+    "title": "Aras vai ao Supremo contra resolução que amplia poderes do TSE para combater notícias falsas",
+    "summary": "Procurador-geral afirma que norma amplia poder de polícia do presidente da Corte, Alexandre de Moraes, e 'inova no ordenamento jurídico'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9231.3125,
+      "left": 329,
+      "height": 747.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/senado-tem-que-dar-um-freio-em-alexandre-de-moraes-diz-mourao/",
+    "hat": "VICE-PRESIDENTE",
+    "title": "Mourão: 'Alexandre de Moraes ultrapassou os limites da sua autoridade'; leia entrevista exclusiva",
+    "summary": "Senador eleito critica presidente do TSE e diz que vai atuar por impeachment de ministros do Supremo; general não descarta disputar a presidência do Senado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9231.3125,
+      "left": 1190.328125,
+      "height": 326,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caso-jovem-pan-em-julgamento-de-acoes-do-pt-tse-impoe-censura-corte-mandou-investigar-radio/",
+    "hat": "Política",
+    "title": "Caso Jovem Pan: em julgamento de ações do PT, TSE impõe censura; Corte mandou investigar rádio",
+    "summary": "Despachos são considerados ofensivos à Constituição; Tribunal atendeu campanha de Lula e mandou apurar suposto favorecimento a Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8875.3125,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-que-esperar-da-sabatina-de-bolsonaro-apos-lula-recusar-debate-analistas-respondem/",
+    "hat": "HOJE ÀS 21H30",
+    "title": "O que esperar da sabatina de Bolsonaro após Lula recusar debate; analistas respondem",
+    "summary": "Entrevista ao vivo com candidato à reeleição será realizada por Estadão, Rádio Eldorado e pool de veículos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8361.203125,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/educacao/veja-quais-sao-os-cursos-mais-concorridos-para-a-usp-em-2023-medicina-lidera/",
+    "hat": "Ensino superior",
+    "title": "Confira quais são os cursos mais concorridos da USP em 2023; Medicina lidera ranking"
+  }
+]

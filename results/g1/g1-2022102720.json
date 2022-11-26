@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4956,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/27/assedio-eleitoral-segundo-turno-tem-quase-30-vezes-mais-denuncias-que-o-primeiro.ghtml",
+    "hat": "Eleições",
+    "title": "Assédio eleitoral: 2º turno tem quase 30 vezes mais denúncias que o 1º"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4956,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/27/ex-jogador-do-flamengo-e-esfaqueado-por-ladrao-de-supermercado-na-italia.ghtml",
+    "hat": "Milão",
+    "title": "Pablo Marí, ex-Flamengo, é esfaqueado em ataque na Itália"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4619.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2022/noticia/2022/10/27/policia-investiga-tentativa-de-compra-de-votos-em-aldeia-do-xingu-em-mt-video.ghtml",
+    "hat": "Aldeia do Xingu",
+    "title": "Polícia apura tentativa de compra de votos de indígenas por R$ 1,5 mil"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4214.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/27/pf-suspeita-que-roberto-jefferson-prendeu-pregos-em-granadas-e-que-arma-de-policial-no-coldre-a-salvou-de-ferimento-mais-grave.ghtml",
+    "hat": "Investigação do ataque",
+    "title": "PF suspeita que Jefferson usou pregos em granadas para ferir policiais",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3936.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/10/27/mpe-investiga-beto-carrero-por-propaganda-irregular-e-abuso-do-poder-economico-apos-anuncio-com-incentivo-a-abstencao-de-petistas.ghtml",
+    "hat": "Santa Catarina",
+    "title": "Parque Beto Carrero é investigado por suspeita de crime eleitoral",
+    "summary": "Propaganda oferece desconto a eleitores do PT para evitar que eles votem no domingo.",
+    "category": "Santa Catarina"
+  }
+]

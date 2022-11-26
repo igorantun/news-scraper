@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5944,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "hat": "2º turno das eleições",
+    "title": "Lula 50% x 43% Bolsonaro: veja números do Ipec por região, renda, idade e sexo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5944,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/saude/noticia/2022/10/24/conselho-federal-de-medicina-suspende-resolucao-que-restringiu-uso-de-canabidiol-a-dois-tipos-de-epilepsia.ghtml",
+    "hat": "Saúde",
+    "title": "Canabidiol: Conselho de Medicina suspende norma que restringia uso"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5607.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2022/10/24/cerimonia-torna-benigna-cardoso-da-silva-a-primeira-beata-do-ceara.ghtml",
+    "hat": "Beatificação",
+    "title": "Menina vítima de feminicídio se torna 1ª beata do Ceará"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5202.828125,
+      "left": 348.65625,
+      "height": 251.640625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/em-depoimento-roberto-jefferson-diz-ter-dado-50-tiros-contra-a-pf.ghtml",
+    "hat": "Aliado de Bolsonaro",
+    "title": "Indiciado por tentativa de assassinato, Jefferson diz que deu 50 tiros contra a PF",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4919.1875,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/24/apos-tcu-recomendar-prudencia-caixa-diz-que-vai-congelar-por-24h-recursos-de-consignados-do-auxilio-brasil-pedidos-nesta-segunda.ghtml",
+    "hat": "Economia",
+    "title": "Caixa congela por 24 horas liberação de consignado do Auxílio Brasil",
+    "summary": "Mais cedo, TCU recomendou suspensão e determinou esclarecimentos sobre o empréstimo.",
+    "category": "Economia"
+  }
+]

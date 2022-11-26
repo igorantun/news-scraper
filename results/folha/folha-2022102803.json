@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9762.109375,
+      "left": 315,
+      "height": 248.6875,
+      "width": 960
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/27/6221-tarcisio-e-haddad-participam-de-debate-siga.shtml#post421170",
+    "hat": "disputa em sp",
+    "title": "Tarcísio ataca Lula e lista petistas presos; acompanhe",
+    "summary": "Candidatos ao Governo de São Paulo fazem na Globo o último embate antes do segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -874.5625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9762.109375,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/colunistas-analisam-novo-datafolha-em-live-para-assinantes-nesta-5a.shtml",
+    "hat": "TV Folha",
+    "title": "Bolsonaro se frustra em SP, dizem colunistas em live sobre pesquisa Datafolha"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9476.21875,
+      "left": 974.984375,
+      "height": 371.796875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-aliados-de-lula-e-bolsonaro-veem-efeito-de-derrapada-sobre-salario-minimo.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Datafolha: Aliados de Lula e Bolsonaro veem efeito de derrapada sobre salário mínimo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9068.4375,
+      "left": 974.984375,
+      "height": 192.125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-bolsonaro-lidera-em-sp-com-49-ante-43-de-lula.shtml",
+    "hat": "+datafolha",
+    "title": "Bolsonaro lidera em SP com 49%, ante 43% de Lula"
+  }
+]

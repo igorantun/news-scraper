@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4655,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/educacao/noticia/2022/11/07/mec-omisso-no-pos-pandemia-evasao-escolar-atrasos-na-aprendizagem-e-universidades-falidas-especialistas-apontam-desafios-de-lula-na-educacao.ghtml",
+    "hat": "Governo eleito",
+    "title": "MEC, universidades falidas, atrasos na aprendizagem: os desafios de Lula na educação",
+    "summary": "Efeitos do período prologado de fechamento das escolas ainda serão sentidos a curto e a longo prazo."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4655,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/ex-deputada-flordelis-e-mais-quatro-reus-comecam-a-ser-julgados-nesta-segunda-feira-no-rj.ghtml",
+    "hat": "Assassinato de pastor",
+    "title": "Flordelis e mais quatro réus começam a ser julgados hoje"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4318.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/11/07/gols-do-fantastico-vasco-e-bahia-estao-de-volta-a-elite-do-futebol.ghtml",
+    "hat": "Gols do Brasileirão ⚽",
+    "title": "Vasco e Bahia vencem e voltam à Série A com Cruzeiro e Grêmio"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3913.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/06/lula-participa-de-reunioes-com-a-equipe-de-transicao-de-governo-em-sp-nesta-segunda-feira.ghtml",
+    "title": "Lula se reúne hoje com equipe de transição em SP",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3635.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/11/07/para-bolsonaro-extrema-direita-e-a-unica-que-existe-avalia-marcos-nobre.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Para Bolsonaro, extrema direita é a única que existe, diz analista",
+    "category": "O Assunto"
+  }
+]

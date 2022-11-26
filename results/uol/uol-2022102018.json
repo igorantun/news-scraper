@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12437.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-poder-de-policia-remover-fake-news.htm",
+    "title": "TSE amplia seu poder de polícia para remover fake news nas eleições",
+    "summary": "Medida permite retirada de conteúdos sem precisar ouvir uma das partes ou o MP"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12107.078125,
+      "left": 365,
+      "height": 544.171875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/datafolha-e-alerta-mas-e-impossivel-bolsonaro-tirar-a-vantagem-diz-lula.htm",
+    "title": "Datafolha é 'alerta', mas é impossível Bolsonaro tirar a vantagem em uma semana, diz Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11538.90625,
+      "left": 365,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-apoio-a-democracia-atinge-recorde-no-brasil-as-portas-do-2o-turno.shtml",
+    "title": "Datafolha: Apoio à democracia atinge recorde no Brasil às portas do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12107.078125,
+      "left": 619.15625,
+      "height": 421.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/20/liz-truss-anuncio-downing-street.htm",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido após 45 dias"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11662.03125,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/10/20/adolescente-gravida-de-7-meses-e-agredida-ate-desmaiar-em-escola-no-rj.htm",
+    "title": "Adolescente grávida de 7 meses é agredida até desmaiar em escola na Baixada Fluminense"
+  }
+]

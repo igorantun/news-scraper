@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5114,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/ministro-da-casa-civil-oficializa-inicio-da-transicao-do-governo-bolsonaro-para-o-governo-lula.ghtml",
+    "hat": "Passagem de bastão",
+    "title": "Ministro da Casa Civil nomeia Alckmin e oficializa início da transição",
+    "summary": "Vice-presidente eleito foi nomeado para o Cargo Especial de Transição."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5114,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/circuito-sertanejo/noticia/2022/11/04/marilia-mendonca-ainda-e-artista-mais-ouvida-do-brasil-no-youtube-um-ano-apos-sua-morte.ghtml",
+    "hat": "Um ano sem a cantora",
+    "title": "Marília Mendonça ainda é artista mais ouvida do Brasil no YouTube"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4777.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/cinema/noticia/2022/11/04/enola-holmes-2-fa-de-herois-iconicos-henry-cavill-interpreta-sherlock-outra-vez-apos-voltar-a-superman.ghtml",
+    "hat": "Estreia hoje",
+    "title": "'Enola Holmes 2': Superman Henry Cavill interpreta Sherlock outra vez"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4372.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/alckmin-chega-ao-planalto-para-primeira-reuniao-sobre-transicao-com-ministro-de-bolsonaro.ghtml",
+    "title": "Alckmin iniciou transição ontem, após reunião com Ciro Nogueira no Planalto",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4094.65625,
+      "left": 348.65625,
+      "height": 132.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/03/arcebispo-de-brasilia-costurou-encontro-entre-alckmin-e-bolsonaro.ghtml",
+    "title": "JULIA DUAILIBI: Arcebispo convenceu Bolsonaro a receber Alckmin",
+    "category": "Blog da Julia Duailibi"
+  }
+]

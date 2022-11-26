@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9265.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/prefeito-de-sp-cede-e-decide-oferecer-passe-livre-no-2o-turno.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Prefeitura de SP libera passe livre nos ônibus no dia do segundo turno",
+    "summary": "Supremo autorizou o passe livre no próximo domingo, mas cabe a cada prefeitura decidir pela gratuidade"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.71875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9001.34375,
+      "left": 974.984375,
+      "height": 515.765625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pf-apreende-caixas-de-municao-e-jefferson-pode-responder-por-tentativa-quadrupla-de-homicidio.shtml",
+    "hat": "Caso Jefferson",
+    "title": "PF apreende munições, e Jefferson vai responder por quádrupla tentativa de homicídio",
+    "summary": "Político, que está detido em presídio no Rio, jogou granadas contra policiais"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8450.59375,
+      "left": 974.984375,
+      "height": 93.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/entenda-a-prisao-de-roberto-jefferson-e-as-ordens-de-moraes-contra-ele.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a prisão de Jefferson e as ordens de Moraes contra ele"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8285.671875,
+      "left": 315,
+      "height": 371.875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/dolar-salta-ante-real-com-tensao-politica-domestica-e-exterior.shtml",
+    "hat": "Mercado financeiro",
+    "title": "Bolsa tomba sob temor do efeito Jefferson em Bolsonaro; Petrobras cai 10%",
+    "summary": "Dólar fecha em forte alta e real tem pior desempenho entre as principais moedas"
+  }
+]

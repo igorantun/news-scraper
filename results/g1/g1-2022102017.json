@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5354,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/tse-confirma-abertura-de-investigacao-sobre-rede-de-desinformacao-bolsonarista.ghtml",
+    "hat": "Justiça Eleitoral",
+    "title": "TSE confirma abertura de investigação sobre 'rede de desinformação' bolsonarista",
+    "summary": "Lista de pessoas a serem investigadas inclui Bolsonaro e o filho Carlos."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5354,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/20/airbus-a320-faz-pouso-de-emergencia-na-colombia-com-combustivel-para-voar-so-mais-6-minutos-autoridade-local-investigara-incidente.ghtml",
+    "hat": "Colômbia",
+    "title": "Avião faz pouso de emergência com combustível para 6 minutos de voo"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5017.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/20/operacao-flanelinha-pf-prende-operador-de-glaidson.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "PF prende operador de Glaidson que se desfazia de 'carrões' de laranjas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4612.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/tse-resolucao-combate-fake-news-eleicoes.ghtml",
+    "title": "Tribunal aprova medida que agiliza remoção de fake news",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4334.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Datafolha/",
+    "hat": "Datafolha",
+    "title": "Lula 49% x 45% Bolsonaro: veja resultados por segmentos"
+  }
+]

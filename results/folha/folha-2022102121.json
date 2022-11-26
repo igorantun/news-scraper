@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9671.109375,
+      "left": 315,
+      "height": 196.828125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/pm-paulista-tem-setembro-menos-letal-de-serie-historica-com-15-mortes.shtml",
+    "hat": "Segurança pública",
+    "title": "PM paulista tem setembro menos letal de série histórica, com 15 mortes",
+    "summary": "Menor marca no mês em ações policiais desde 1994 é atribuída a fatores como uso de câmeras e apoio psicológico"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.84375,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9439.296875,
+      "left": 974.984375,
+      "height": 349.75,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-diz-rejeitar-acordo-com-tse-sobre-direitos-de-resposta-pedidos-contra-bolsonaro.shtml",
+    "hat": "justiça eleitoral",
+    "title": "Lula diz rejeitar acordo com TSE sobre direitos de resposta pedidos contra Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9054.5625,
+      "left": 974.984375,
+      "height": 220.125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/plano-de-militares-para-fiscalizacao-de-urnas-preve-8-etapas-e-fim-so-em-janeiro.shtml",
+    "hat": "Forças Armadas",
+    "title": "Plano de militares para fiscalização de urnas prevê 8 etapas e fim só em janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9392.3125,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Senado e Câmara",
+    "title": "O que muda na política brasileira com um Congresso mais conservador?"
+  }
+]

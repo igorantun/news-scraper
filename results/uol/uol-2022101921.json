@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12514.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/stf-julgamento-virtual-tranporte-publico-gratuito-segundo-turno.htm",
+    "title": "STF forma maioria para liberar oferta de transporte gratuito no 2º turno",
+    "summary": "Fachin, Toffoli, Fux, Cármen, Lewandowski e Moraes validaram decisão de Barroso"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12178.875,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/19/apos-carta-aos-evangelicos-lula-nega-fazer-documento-em-aceno-ao-agronegocio.htm",
+    "title": "Após carta aos evangélicos, Lula nega fazer documento em aceno ao agronegócio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11591.515625,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/mourao-pec-decisao-monocratica-stf.htm",
+    "title": "Senador eleito, Mourão quer PEC para acabar com decisão monocrática do STF"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12178.875,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/alberto-bombig/2022/10/19/empoderado-valdemar-da-costa-neto-manda-recados-a-bolsonaro-e-a-lula.htm",
+    "title": "Empoderado, Valdemar da Costa Neto manda recados a Bolsonaro e a Lula sobre infraestrutura"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11857.765625,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/19/governistas-da-camara-negam-prioridade-para-tornar-pedofilia-crime-hediondo.htm",
+    "title": "Governistas da Câmara negam prioridade para tornar pedofilia crime hediondo"
+  }
+]

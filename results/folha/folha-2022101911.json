@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8787.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministro-da-defesa-se-compromete-com-moraes-a-entregar-relatorios-de-fiscalizacao-de-urnas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Ministro da Defesa se compromete com Moraes a entregar relatórios de fiscalização de urnas",
+    "summary": "Autoridades se encontraram no início da noite desta terça (18), após presidente do TSE determinar envio de documentos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.296875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8523.34375,
+      "left": 974.984375,
+      "height": 189.453125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/inflacao-dos-alimentos-e-a-maior-ate-setembro-desde-o-inicio-do-plano-real.shtml",
+    "hat": "inflação",
+    "title": "Inflação dos alimentos é a maior até setembro desde o início do Plano Real",
+    "summary": "Preços sobem 9,54% no acumulado dos nove meses, apesar da trégua recente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8298.90625,
+      "left": 974.984375,
+      "height": 198.078125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/quaest-lula-tem-47-e-bolsonaro-42-brancos-e-nulos-sao-6-e-indecisos-5.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Quaest: Lula tem 47%, e Bolsonaro, 42%; brancos e nulos são 6%, e indecisos, 5%"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8065.84375,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/viniciustorres/2022/10/meninas-prostitutas-e-suspeita-de-crime-no-ministerio-da-defesa.shtml",
+    "hat": "Vinicius Torres Freire",
+    "title": "Meninas prostitutas e suspeita de crime no ministério da Defesa"
+  }
+]

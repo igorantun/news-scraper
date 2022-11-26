@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9745.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/mercado-oposicao-retirada-auxilio-teto-de-gastos/",
+    "hat": "Negociação do Orçamento",
+    "title": "Auxílio fora do teto de gastos sugerida por equipe de Lula é risco às contas públicas, avalia mercado",
+    "summary": "Investidores do mercado financeiro reagiram mal à alternativa em avaliação pela equipe do presidente eleito; medida é uma das opções na mesa para viabilizar o Auxílio Brasil de R$ 600 no ano que vem"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9745.3125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/sob-medida-para-bolsonaro-defesa-faz-oficio-politico-ao-tse-e-nao-cita-inexistencia-de-fraude/",
+    "hat": "Marcelo Godoy",
+    "title": "'Sob medida para Bolsonaro, Ministério da Defesa faz ofício político ao TSE'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9275.3125,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-e-as-paredes/",
+    "hat": "novo governo",
+    "title": "William Waack: 'Petista ainda não assumiu, mas já é possível constatar o quanto está emparedado'",
+    "summary": "'O Brasil vive de fato uma situação de semipresidencialismo com dois primeiros-ministros'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9275.3125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/aproximacao-entre-lula-e-lira-deve-tirar-protagonismo-de-bolsonaristas-raiz-do-congresso/",
+    "hat": "Legislativo",
+    "title": "Aproximação de Lula e Lira deve tirar protagonismo de bolsonaristas do Congresso",
+    "summary": "Ala do PL defende que cargos ao partido na Câmara e no Senado fiquem com parlamentares moderados"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8799.3125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/sem-onda-vermelha-trump-tende-a-morrer-na-praia-ate-2024-leia-analise/",
+    "hat": "Estados Unidos",
+    "title": "Sem onda vermelha, Trump tende a morrer na praia até 2024; leia análise"
+  }
+]

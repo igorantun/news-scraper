@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9800.3125,
+      "left": 329,
+      "height": 384,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/dolar-bolsa-mercados-10-11-2022/",
+    "hat": "Economia",
+    "title": "Dólar sobe e Bolsa cai com mercado preocupado com indefinições econômicas do governo Lula",
+    "summary": "Tensão no mercado de câmbio também é influenciada pelo salto do IPCA de outubro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9800.3125,
+      "left": 1190.328125,
+      "height": 364.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/ipca-passagens-aereas-hortifruti-mais-caros-npre/",
+    "hat": "IPCA",
+    "title": "Inflação: passagens aéreas e hortifruti ficam mais caros, e leite, mais barato; confira"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9354.3125,
+      "left": 329,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/sob-medida-para-bolsonaro-defesa-faz-oficio-politico-ao-tse-e-nao-cita-inexistencia-de-fraude/",
+    "hat": "Marcelo Godoy",
+    "title": "Sob medida para Bolsonaro, Ministério da Defesa faz ofício político ao TSE"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9354.3125,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-e-as-paredes/",
+    "hat": "novo governo",
+    "title": "William Waack: 'Petista ainda não assumiu, mas já é possível constatar o quanto está emparedado'",
+    "summary": "'O Brasil vive de fato uma situação de semipresidencialismo com dois primeiros-ministros'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9354.3125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/entenda-os-motivos-que-levaram-mark-zuckerberg-a-demitir-11-mil-pessoas/",
+    "hat": "Redes sociais",
+    "title": "Entenda os motivos que levaram Mark Zuckerberg a demitir 11 mil pessoas"
+  }
+]

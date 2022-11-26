@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10413.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/equipe-de-tarcisio-mandou-cinegrafista-apagar-video-de-tiroteio-em-paraisopolis-ouca-audio.shtml",
+    "hat": "Eleições 2022",
+    "title": "Equipe de Tarcísio mandou cinegrafista apagar vídeo de tiroteio em Paraisópolis; ouça áudio",
+    "summary": "Campanha diz que cenas poderiam 'expor quem estava lá'; Jovem Pan, emissora do profissional, afirma que exibiu tudo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -541.328125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10149.34375,
+      "left": 974.984375,
+      "height": 295.671875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/roberto-jefferson-volta-a-ofender-carmen-lucia-e-acusa-moraes-de-milicia-judicial-mesmo-apos-tiros.shtml",
+    "hat": "Caso Jefferson",
+    "title": "Jefferson volta a ofender Cármen Lúcia e acusa Moraes de milícia judicial mesmo após tiros"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9818.6875,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/stf-forma-maioria-para-reverter-afastamento-do-governador-de-alagoas-apoiado-por-lula.shtml",
+    "hat": "Judiciário",
+    "title": "Supremo autoriza retorno ao cargo de governador de Alagoas apoiado por Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9617.65625,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ipespe-lula-tem-50-contra-44-de-bolsonaro-brancos-e-nulos-sao-4-e-indecisos-2.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Ipespe: Lula tem 50% contra 44% de Bolsonaro; brancos e nulos são 4%, e indecisos, 2%"
+  }
+]

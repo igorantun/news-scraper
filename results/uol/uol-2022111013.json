@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12566.609375,
+      "left": 365,
+      "height": 172.78125,
+      "width": 732.5
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/10/inflacao-ipca-outubro.htm",
+    "title": "Após três meses de queda, inflação tem alta em outubro, segundo IBGE",
+    "summary": "IPCA fechou o mês passado em 0,59% e encerra período de deflação no país"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12258.828125,
+      "left": 365,
+      "height": 544.171875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pec-para-tirar-bolsa-familia-do-teto-ganha-forca-como-solucao-para-orcamento.shtml",
+    "title": "PEC para tirar Bolsa Família do teto ganha força como solução para Orçamento"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11690.65625,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/duas-aposentadorias-e-mais-bolsonaro-tem-direito-a-verba-vitalicia-ao-sair.htm",
+    "title": "Duas aposentadorias, verba vitalícia e mais: a que Bolsonaro tem direito ao deixar o cargo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12258.828125,
+      "left": 619.15625,
+      "height": 390.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/bolsonaro-nomeacao-tse.htm",
+    "title": "Antes de deixar governo federal, Bolsonaro nomeia novo ministro do TSE; conheça o indicado"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11844.15625,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/quem-e-bolsonarista-que-agrediu-agente-da-prf-com-barra-de-ferro-em-sc.htm",
+    "title": "SC: saiba quem é o empresário preso por atacar agente da PRF com barra de ferro"
+  }
+]

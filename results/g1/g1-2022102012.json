@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5260,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/20/segundo-turno-da-impulso-a-bolsonaro-que-arrecada-mais-de-r-65-milhoes-de-pessoas-fisicas-lula-recebe-r-13-milhao.ghtml",
+    "hat": "Financiamento",
+    "title": "Campanha de Bolsonaro recebe R$ 65 milhões de pessoas físicas; e a de Lula, R$ 1,3 milhão",
+    "summary": "Mesmo com mais doações ao candidato do PL, verba do PT faz ex-presidente ter mais dinheiro para gastar: R$ 126 milhões contra R$ 85 milhões."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5260,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/10/20/video-mostra-momento-de-explosao-de-predio-na-ucrania.ghtml",
+    "hat": "Região tomada pela Rússia",
+    "title": "VÍDEO mostra momento de explosão de prédio na Ucrânia"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4923.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2022/10/20/das-provas-descalco-a-consagracao-no-alasca-livro-narra-superacoes-de-ultramaratonista-de-piracicaba-que-venceu-prova-de-321-km.ghtml",
+    "hat": "História de superação",
+    "title": "Ultramaratonista vence prova de 321 km no Alasca e lança livro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4518.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/20/agronegocio-foi-favorecido-por-lula-e-dilma-mas-resistencia-as-fiscalizacoes-trabalhistas-faz-setor-apoiar-bolsonaro-avalia-caio-pompeia.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Favorecido por Lula e Dilma, agro impulsiona campanha de Bolsonaro",
+    "category": "O Assunto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4240.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/10/20/apos-datafolha-ordem-no-pt-e-nao-errar-e-combater-abstencao-bolsonaro-espera-clima-de-virada.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Após Datafolha, ordem no PT é não errar; Bolsonaro aposta em virada",
+    "category": "Blog do Valdo Cruz"
+  }
+]

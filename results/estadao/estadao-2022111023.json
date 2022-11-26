@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9661.3125,
+      "left": 329,
+      "height": 384,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/nunca-vi-mercado-tao-sensivel-diz-lula-apos-repercussao-negativa-de-critica-a-estabilidade-fiscal/",
+    "hat": "contas públicas",
+    "title": "Bolsa cai 3,35%, dólar dispara e Lula volta a criticar mercado financeiro: 'Nunca vi tão sensível'",
+    "summary": "Petista questionou 'a tal da estabilidade fiscal' em discurso nesta quinta-feira e defendeu ampliar gastos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9661.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/equipe-de-trump-tenta-adiar-anuncio-de-candidatura-apos-sucesso-de-ron-desantis/",
+    "hat": "Estados Unidos",
+    "title": "Equipe de Trump tenta adiar anúncio de candidatura após sucesso de Ron DeSantis"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9211.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/ucrania-avanca-sobre-kherson-para-tentar-impor-a-putin-seu-maior-reves-guerra/",
+    "hat": "rússia em retirada",
+    "title": "Ucrânia avança sobre Kherson para tentar impor a Putin seu maior revés na guerra",
+    "summary": "Governo de Zelenski diz ter retomado 12 vilarejos na região, apesar do receio de cair em armadilha"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9211.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/baixe-tabela-copa-do-mundo-2022-pdf-imprimir/",
+    "hat": "RUMO AO CATAR",
+    "title": "Baixe a tabela da Copa do Mundo para conferir os dias e horários de cada jogo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9211.203125,
+      "left": 1190.3125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/alckmin-anuncia-mantega-no-planejamento-e-orcamento-e-paulo-bernardo-nas-comunicacoes-na-transicao/",
+    "hat": "NOVO GOVERNO",
+    "title": "Transição: Mantega vai atuar no planejamento e orçamento, e Paulo Bernardo nas comunicações",
+    "summary": "Além dos ex-ministros, lista também tem Maria do Rosário e irmã de Marielle Franco"
+  }
+]

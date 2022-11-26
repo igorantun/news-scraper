@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7469.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/palmeiras-e-hendecacampeao-brasileiro-com-campanha-irretocavel-recordes-e-serie-invicta/",
+    "hat": "Futebol",
+    "title": "Palmeiras conquista o 11º título do Brasileirão com campanha irretocável, recordes e série invicta",
+    "summary": "Após tropeço do Inter, time alviverde vence o campeonato com o melhor ataque, a defesa menos vazada e o menor número derrotas da história"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7469.3125,
+      "left": 1190.328125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/feriado-comeca-com-mais-de-160-bloqueios-em-rodovias-de-17-estados-do-pais-sc-concentra-maioria/",
+    "hat": "Manifestações contra resultado da eleição",
+    "title": "Bloqueios de bolsonaristas em vias federais caem para 145; multas chegam a R$ 18 mi",
+    "summary": "Em São Paulo, Tropa de Choque liberou a Castello Branco e permitiu tráfego de carros e caminhões"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7105.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/governo-diretor-geral-prf-agressao-silvinei-vasques/",
+    "hat": "AGU",
+    "title": "Governo cobra R$ 99 mil de diretor-geral da PRF por agressão a frentista"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6513.65625,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/mp-poe-grupo-especializado-em-crime-organizado-para-investigar-saudacao-nazista-em-ato-em-sc/",
+    "hat": "ATO EM SANTA CATARINA",
+    "title": "MP coloca grupo especializado em crime organizado para investigar saudação nazista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6513.65625,
+      "left": 759.65625,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/alckmin-gleisi-e-mercadante-irao-ao-planalto-amanha-para-reuniao-com-ciro-nogueira/",
+    "hat": "TRANSIÇÃO",
+    "title": "Alckmin, Gleisi e Mercadante irão ao Planalto amanhã para reunião com Ciro Nogueira",
+    "summary": "Primeiro encontro da transição entre os governos Lula e Bolsonaro acontecerá na Casa Civil"
+  }
+]

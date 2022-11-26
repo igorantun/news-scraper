@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5892.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/atos-pro-bolsonaro-perdem-forca-mas-ainda-ha-bloqueios-em-15-estados/",
+    "hat": "Brasil",
+    "title": "Atos bolsonaristas perdem força, mas ainda bloqueiam estradas em 15 estados",
+    "summary": "Apesar de ordem da Justiça para que rodovias fossem liberadas, manifestantes ainda realizam interdições em ao menos 156 pontos. No início da noite de terça, eram 213"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1194.140625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -623.015625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5562.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/mundo/com-lula-alemanha-sinaliza-que-deve-reviver-fundo-da-amazonia/",
+    "hat": "Mundo",
+    "title": "Com Lula, Alemanha sinaliza que deve reviver Fundo da Amazônia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5562.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/aos-ministros-do-stf-bolsonaro-encerra-brigas-acabou/",
+    "hat": "Radar",
+    "title": "Aos ministros do Supremo, Jair Bolsonaro sinaliza trégua: ‘Acabou’"
+  }
+]

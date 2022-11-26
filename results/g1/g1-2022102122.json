@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5524,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/21/pgr-pede-ao-stf-suspensao-de-norma-do-tse-que-busca-dar-mais-agilidade-no-combate-as-fake-news-em-periodo-eleitoral.ghtml",
+    "hat": "Eleições",
+    "title": "Aras pede suspensão de norma do TSE que agiliza combate às fake news",
+    "summary": "Procurador-geral entrou com ação no STF para suspender resolução que prevê retirar do ar conteúdos falsos em período eleitoral."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5524,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/ao-vivo/sp2-entrevista-fernando-haddad-candidato-do-pt-ao-governo.ghtml",
+    "hat": "ao vivo",
+    "title": "SP2 entrevista daqui a pouco Fernando Haddad, candidato a governador"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4782.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/21/na-fila-pelo-emprestimo-consignado-beneficiarios-do-auxilio-brasil-nao-sabem-que-dinheiro-saira-do-beneficio.ghtml",
+    "hat": "Crédito consignado",
+    "title": "Famílias com Auxílio Brasil pegam empréstimo sem saber como irão pagar",
+    "summary": "Valores da dívida e dos juros serão descontados do próprio benefício. Nas filas, relatos de sufoco e incertezas.",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4504.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/21/consignado-no-auxilio-brasil-beneficiarios-reclamam-de-taxa-extra-atraso-de-pagamento-e-venda-casada.ghtml",
+    "title": "Beneficiários reclamam de pagamento que não cai e taxa extra",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4226.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/21/saiba-quais-sao-as-regras-do-debate-da-globo-com-candidatos-a-presidencia-no-2o-turno.ghtml",
+    "hat": "Reta final",
+    "title": "Debate da Globo terá banco de minutos em todos os blocos; veja regras",
+    "summary": "Encontro será no dia 28, às 21h30. TV Globo, g1, GloboNews e Globoplay transmitem.",
+    "category": "Eleições 2022"
+  }
+]

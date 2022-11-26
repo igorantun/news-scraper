@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4872,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/31/coordenador-de-comunicacao-da-campanha-de-lula-liga-para-ministro-da-casa-civil-para-tratar-da-transicao.ghtml",
+    "hat": "Novo governo",
+    "title": "Coordenador da campanha de Lula discute transição com ministro de Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4872,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/31/mp-pede-que-prf-detalhe-acoes-para-liberar-rodovias-federais-apos-protestos-contra-derrota-de-bolsonaro-nas-urnas.ghtml",
+    "hat": "Protestos de bolsonaristas",
+    "title": "Procuradora dá 24 h para PRF explicar ações para liberar rodovias"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4535.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/31/famosos-perdem-milhares-de-seguidores-com-falha-no-instagram.ghtml",
+    "hat": "Falha em rede social",
+    "title": "Gkay, Juliette e Virginia perdem milhares de seguidores no Insta"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4130.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/10/31/alckmin-e-mourao-conversam-por-telefone-e-tratam-da-transicao.ghtml",
+    "hat": "Blog do Camarotti",
+    "title": "Mourão conversa com Alckmin e se coloca à disposição para ajudar",
+    "category": "Blog do Gerson Camarotti"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3852.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/31/joe-biden-presidente-dos-eua-liga-para-lula-para-cumprimentar-pela-vitoria.ghtml",
+    "hat": "Presidente eleito",
+    "title": "'Vamos discutir o que fazer juntos', diz Biden após ligar para Lula",
+    "category": "Mundo"
+  }
+]

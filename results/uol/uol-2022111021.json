@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12515.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://economia.uol.com.br/cotacoes/noticias/redacao/2022/11/10/dolar-10-de-novembro-de-2022.htm",
+    "title": "Dólar dispara 4,14% e fecha a R$ 5,39 após inflação e discurso de Lula",
+    "summary": "Alta também reflete cautela de investidores à espera de dados sobre preços nos EUA"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12035.9375,
+      "left": 365,
+      "height": 473.796875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-ve-papel-humilhante-das-forcas-armadas-cobra-bolsonaro-e-elogia-moraes-nas-eleicoes.shtml",
+    "title": "Lula diz que Bolsonaro deve desculpas às Forças Armadas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11538.140625,
+      "left": 365,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/equilibrioesaude/2022/11/saude-inicia-distribuicao-de-vacina-contra-covid-para-menores-de-3-anos-com-comorbidades.shtml",
+    "title": "Saúde inicia distribuição de vacina contra covid para menores de 3 anos com comorbidades"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12035.9375,
+      "left": 619.15625,
+      "height": 323.484375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/10/roberto-guilherme.htm",
+    "title": "Morre aos 84 Roberto Guilherme, o Sargento Pincel dos 'Trapalhões'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11688.453125,
+      "left": 619.15625,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop27-sofre-com-filas-comida-cara-e-rio-de-esgoto-veja-video.shtml",
+    "title": "No Egito, COP27 sofre com filas, comida cara e rio de esgoto"
+  }
+]

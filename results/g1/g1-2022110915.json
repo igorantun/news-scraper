@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5533,
+      "left": 347.65625,
+      "height": 585,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/09/gal-costa-morre-aos-77-anos.ghtml",
+    "title": "Morre Gal Costa, voz símbolo da Tropicália e da música brasileira",
+    "summary": "Cantora tinha 77 anos e havia pausado shows para retirar nódulo do nariz. Causa da morte não foi informada."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4868,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/09/gal-costa-relembre-a-carreira-em-fotos.ghtml",
+    "title": "Relembre a carreira de Gal em FOTOS",
+    "category": "Música"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4589.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/09/gal-costa-morre-aos-77-anos-veja-discografia.ghtml",
+    "title": "'Baby’, 'Profana', 'Meu bem, meu mal': relembre a discografia",
+    "category": "Música"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4311.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/09/gal-costa-famosos-lamentam-morte-da-cantora.ghtml",
+    "title": "'Todos os aplausos pra ti': famosos lamentam morte de Gal",
+    "category": "Música"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -3193.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/lula-primeira-agenda-presidente-eleito-brasilia.ghtml",
+    "hat": "Maratona de encontros",
+    "title": "Lula se reúne com Arthur Lira na residência da Câmara"
+  }
+]

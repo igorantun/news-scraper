@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6301,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/pf-abre-inquerito-para-apurar-se-diretor-geral-da-prf-cometeu-prevaricacao-e-violencia-eleitoral.ghtml",
+    "hat": "Violência eleitoral",
+    "title": "PF abre inquérito sobre atuação do diretor-geral da PRF em bloqueios golpistas",
+    "summary": "Investigação também apura conduta de Silvinei Vasques na fiscalização de ônibus com eleitores no 2º turno."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6301,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/loterias/noticia/2022/11/10/mega-da-virada.ghtml",
+    "hat": "Bolada recorde 🤑🤑🤑",
+    "title": "Mega da Virada pode pagar prêmio histórico de R$ 450 milhões"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5964.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/geraldo-alckmin-veste-meias-com-bolinhas-e-viraliza.ghtml",
+    "hat": "Evento com aliados",
+    "title": "Geraldo Alckmin viraliza ao vestir meias com bolinhas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5559.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/prf-diz-ao-supremo-ter-identificado-e-multado-40-pessoas-e-10-empresas-por-organizar-bloqueios-bolsonaristas-em-estradas-veja-lista.ghtml",
+    "title": "PRF entrega nomes de organizadores de interdições ilegais; veja lista",
+    "summary": "Informações estão em ofício enviado ao Supremo.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5281.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/mercado-fica-nervoso-a-toa-diz-lula-apos-repercussao-de-fala-sobre-estabilidade-fiscal.ghtml",
+    "hat": "Economia",
+    "title": "'Mercado fica nervoso à toa', diz Lula após Bovespa despencar e dólar disparar",
+    "category": "Política"
+  }
+]

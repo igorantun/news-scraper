@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7026.3125,
+      "left": 329,
+      "height": 132,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/",
+    "hat": "eleições 2022",
+    "title": "LULA ULTRAPASSA BOLSONARO NA APURAÇÃO",
+    "summary": "AO VIVO: TSE conta votos da eleição presidencial, em disputa acirrada desde o início da totalização e com duas viradas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6710.359375,
+      "left": 329,
+      "height": 657.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.youtube.com/watch?v=H_80vhXQlUo",
+    "hat": "Ao vivo",
+    "title": "Estadão na Eleição: jornalistas e especialistas analisam 2º turno",
+    "summary": "Convidados e repórteres acompanham a apuração e discutem cenário polarizado no País"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6272.359375,
+      "left": 1190.328125,
+      "height": 214,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-bolsonaro-apuracao-votometro-estadao/",
+    "hat": "DESEMPENHO DOS CANDIDATOS",
+    "title": "Compare a votação de Lula e Bolsonaro nos dois turnos com o Votômetro Estadão",
+    "summary": "Ferramenta mostra o desempenho hora a hora da disputa atual com o desempenho no 1º turno presidencial"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5990.703125,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/renato-casagrande-do-psb-e-reeleito-governador-do-espirito-santo-veja-numeros/",
+    "hat": "ELEIÇÃO ESTADUAL",
+    "title": "Renato Casagrande (PSB) é reeleito governador do Espírito Santo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -5990.703125,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eduardo-riedel-do-psdb-e-eleito-governador-do-mato-grosso-do-sul-veja-numeros/",
+    "hat": "ELEIÇÃO ESTADUAL",
+    "title": "Eduardo Riedel (PSDB) é eleito governador do Mato Grosso do Sul"
+  }
+]

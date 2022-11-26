@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5837.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/brasil/campanha-de-lula-pede-prisao-do-chefe-da-prf/",
+    "hat": "Eleições 2022",
+    "title": "Campanha de Lula pede ao TSE paralisação de operações da PRF contra eleitores",
+    "summary": "Petistas dizem que o diretor-geral da corporação 'está usando o poder do Estado para interferir no processo eleitoral'; ação pede multa e prisão dos envolvidos em caso de não cumprimento"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1170.453125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -599.328125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5507.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/veja-tera-live-especial-no-domingo-de-eleicao-a-partir-das-17h/",
+    "hat": "Política",
+    "title": "VEJA faz hoje live especial de eleição, a partir das 17h"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5507.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/dia-mais-importante-da-minha-vida-diz-lula-sobre-2o-turno/",
+    "hat": "Candidatos",
+    "title": "Lula fala em dia 'mais importante'; Bolsonaro diz que 'Brasil sairá vitorioso'"
+  }
+]

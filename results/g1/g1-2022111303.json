@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5685,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2022/11/12/recursos-para-pequenos-produtores-imagem-no-exterior-producao-sustentavel-especialistas-apontam-desafios-de-lula-no-agro.ghtml",
+    "hat": "Novo governo",
+    "title": "Objetivo de Lula de erradicar a fome passa por desafios no agro; veja quais são"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5685,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/dois-avioes-colidem-no-ar-durante-apresentacao-nos-eua.ghtml",
+    "hat": "Dallas",
+    "title": "VÍDEO: aviões militares batem no ar durante apresentação nos EUA"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5348.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/como-caes-dados-por-kim-jong-un-criaram-disputa-entre-atual-e-ex-presidente-na-coreia-do-sul.ghtml",
+    "hat": "Songkang e Gomi",
+    "title": "Cães dados por Kim Jong-un causam briga política na Coreia do Sul"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4943.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/11/12/internacoes-por-covid-aumentam-mais-de-60percent-no-estado-de-sao-paulo.ghtml",
+    "hat": "Coronavírus",
+    "title": "Internações por Covid aumentam mais de 60% no estado de SP",
+    "category": "Jornal Nacional"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4665.65625,
+      "left": 348.65625,
+      "height": 132.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/saude/coronavirus/noticia/2022/11/12/brasil-registra-45-mortes-por-covid-na-media-movel.ghtml",
+    "title": "Média móvel indica 45 mortes diárias por Covid no Brasil",
+    "category": "Coronavírus"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12603.609375,
+      "left": 365,
+      "height": 359.9375,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/coritiba-x-flamengo-36-rodada-brasileirao.htm",
+    "title": "Coritiba vence reservas do Flamengo por 1 a 0 e se livra do rebaixamento",
+    "summary": "Jogando em casa, Coxa se impõe e agora sonha com vaga na Sul-Americana"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11804.5,
+      "left": 365,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/philippe-coutinho-esta-fora-da-copa-do-mundo-por-lesao-muscular.htm",
+    "title": "Philippe Coutinho tem lesão e está fora da Copa do Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11507.390625,
+      "left": 365,
+      "height": 72,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/gigantes-da-europa-disputam-contratacao-de-endrick-veja-cenarios.htm",
+    "title": "Gigantes da Europa disputam contratação de Endrick; veja cenários"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12194.671875,
+      "left": 619.15625,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/06/moraes-determina-marcos-cintra-ouvido-48-h-pf.htm",
+    "title": "Moraes vê ataque ao TSE e manda PF ouvir Marcos Cintra em 48 h"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11781.625,
+      "left": 619.15625,
+      "height": 344.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/06/general-heleno-diz-infelizmente-lula-nao-internado.htm",
+    "title": "General Heleno diz que 'infelizmente' Lula não está internado"
+  }
+]

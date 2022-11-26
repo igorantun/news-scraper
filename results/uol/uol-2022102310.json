@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12353.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/23/correcao-da-tabela-do-imposto-de-renda.htm",
+    "title": "Lula e Bolsonaro prometem IR menor, mas governo perderia até R$ 217 bi",
+    "summary": "Tabela é a mesma desde 2015; Unafisco calcula que correção deveria ser de 144%"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12104.640625,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/pautas-de-costume-segundo-turno-lula-bolsonaro.htm",
+    "title": "Bolsonaro força Lula a debater pauta de costumes, e economia fica de lado"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11713.96875,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/lula-crescimento-segundo-turno-votos.htm",
+    "title": "Com disputa apertada, campanha de Lula prevê crescimento de 10% nos votos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12104.640625,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/23/capital-bolsonarista-do-nordeste-maceio-apoio-presidente.htm",
+    "title": "Com voto bolsonarista consolidado, Maceió vira 'ilha' anti-Lula do Nordeste"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11713.96875,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/josias-de-souza/2022/10/23/pintou-um-clima-entre-bolsonarismo-e-cafajestismo.htm",
+    "title": "Josias: Pintou um clima entre o bolsonarismo e o cafajestismo contra Cármen Lúcia"
+  }
+]

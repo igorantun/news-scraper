@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8055.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fachin-defende-resolucao-tse-de-combate-as-fake-news-e-nega-pedido-de-aras.shtml",
+    "hat": "fake news",
+    "title": "Fachin defende resolução do TSE de combate às fake news e nega pedido de Aras",
+    "summary": "Ministro encaminhou caso para julgamento do plenário"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.96875,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7737.4375,
+      "left": 974.984375,
+      "height": 375.578125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/historico-de-fake-news-veja-mentiras-e-casos-de-guerra-suja-nas-eleicoes-brasileiras.shtml",
+    "hat": "+fake news",
+    "title": "Histórico de fake news: veja mentiras e casos de guerra suja nas eleições brasileiras",
+    "summary": "Pleitos sempre foram acompanhados de distorções e falsidades"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7326.875,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/plano-de-guedes-de-mexer-no-salario-minimo-vira-municao-para-lula-na-reta-final-da-campanha.shtml",
+    "hat": "campanha",
+    "title": "Plano de Guedes de mexer no salário mínimo vira munição para Lula na reta final",
+    "summary": "Petista diz que alterar correção do piso é 'irresponsabilidade'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7690.453125,
+      "left": 1305,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  }
+]

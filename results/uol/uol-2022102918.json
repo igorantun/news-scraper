@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12585.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ironia-e-narrativa-de-censura-mantem-no-ar-conteudos-que-o-tse-tenta-remover.shtml",
+    "title": "Ironia e narrativa de censura mantêm no ar conteúdos que TSE tenta retirar",
+    "summary": "Medidas do tribunal buscam efeito dissuasivo sobre fake news na reta final da eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12282.265625,
+      "left": 365,
+      "height": 448.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/bolsonaro-faz-campanha-em-bh-ao-lado-de-zema-na-vespera-do-2-turno.htm",
+    "title": "Bolsonaro faz campanha em BH ao lado de Zema na véspera do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12282.265625,
+      "left": 619.15625,
+      "height": 323.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/rj-bolsonaristas-intimidam-petistas-durante-ato-de-campanha.htm",
+    "title": "Bolsonaristas intimidam petistas durante ato de campanha no Rio"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11934.78125,
+      "left": 619.15625,
+      "height": 72,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/29/lula-sinaliza-nova-politica-externa-e-fim-da-condicao-de-paria.htm",
+    "title": "No Le Monde, Lula sinaliza fim da condição de 'pária' se vencer"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12282.265625,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/29/justica-manda-supermercado-de-sp-tirar-adesivo-22-de-garrafas-de-cerveja.htm",
+    "title": "Justiça manda supermercado de SP tirar adesivo '22' de garrafas de cerveja"
+  }
+]

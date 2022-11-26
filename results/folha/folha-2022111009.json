@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8980.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pec-para-tirar-bolsa-familia-do-teto-ganha-forca-como-solucao-para-orcamento.shtml",
+    "hat": "transição de governo",
+    "title": "PEC para tirar Bolsa Família do teto ganha força como solução para Orçamento",
+    "summary": "Saída é vista como a mais viável do ponto de vista técnico e político"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.53125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8716.34375,
+      "left": 975,
+      "height": 223.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/alckmin-acumula-funcoes-em-sinal-de-que-tera-papel-chave-em-governo-lula.shtml",
+    "hat": "vice eleito",
+    "title": "Alckmin acumula funções em sinal de que terá papel-chave em governo Lula",
+    "summary": "Protagonismo gera desconforto entre petistas, que temem perda de espaço"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8458.03125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/psdb-nao-sera-base-nem-tera-cargos-sob-lula-mas-apoiara-governabilidade-diz-bruno-araujo.shtml",
+    "hat": "tucanos",
+    "title": "PSDB não será base nem terá cargos sob lula, mas apoiará governabilidade, diz Araújo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8257,
+      "left": 975,
+      "height": 93.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/blogs/frederico-vasconcelos/2022/11/corregedor-nacional-susta-promocao-de-juizes-do-trf-1.shtml",
+    "hat": "Frederico Vasconcelos",
+    "title": "Corregedor nacional susta promoção de juízes do TRF-1"
+  }
+]

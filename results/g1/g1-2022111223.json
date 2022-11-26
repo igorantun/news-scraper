@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5832,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2022/11/12/recursos-para-pequenos-produtores-imagem-no-exterior-producao-sustentavel-especialistas-apontam-desafios-de-lula-no-agro.ghtml",
+    "hat": "Novo governo",
+    "title": "Verba, produção sustentável e imagem no exterior: os desafios de Lula no agro",
+    "summary": "Políticas agrícolas devem ser essenciais no combate à fome, compromisso que presidente eleito vê como urgente."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5832,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/dois-avioes-colidem-no-ar-durante-apresentacao-nos-eua.ghtml",
+    "hat": "EUA",
+    "title": "VÍDEO: aviões militares batem no ar durante apresentação em Dallas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5495.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/como-caes-dados-por-kim-jong-un-criaram-disputa-entre-atual-e-ex-presidente-na-coreia-do-sul.ghtml",
+    "hat": "Songkang e Gomi",
+    "title": "Cães dados por Kim Jong-un causam briga política na Coreia do Sul"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5090.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2022/11/12/esvaziado-programa-federal-de-aquisicoes-de-alimentos-ve-doacoes-despencarem.ghtml",
+    "title": "Programa de compra de alimentos tem orçamento quase zerado para 2023",
+    "category": "Agronegócios"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4812.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/12/flordelis-e-interrogada-em-julgamento-sobre-a-morte-do-pastor-anderson.ghtml",
+    "hat": "Julgamento no Rio",
+    "title": "Flordelis diz que abusos motivaram morte do marido, mas nega crime",
+    "category": "Rio de Janeiro"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5903,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/al/alagoas/noticia/2022/10/21/policia-federal-faz-operacao-em-clube-de-tiros-de-maceio.ghtml",
+    "title": "Operação da PF mira uso de CACs e clubes de tiro para comércio ilegal de armas",
+    "summary": "Buscas ocorrem em 3 estados: Alagoas, Pernambuco e São Paulo. Grupo é suspeito de fraudar registros para comprar e vender armas."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5903,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/21/agentes-e-robo-da-pm-cercam-carro-de-luxo-roubado-por-criminoso-para-tentar-libertar-casal-refem-em-sp.ghtml",
+    "hat": "Casal sequestrado",
+    "title": "Casal é libertado, e sequestrador se entrega na Zona Norte de SP"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5161.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/video/carro-roubado-bate-em-onibus-durante-perseguicao-em-sp-11047046.ghtml",
+    "title": "VÍDEO: carro com sequestrador bateu em ônibus durante perseguição",
+    "category": "G1 SP"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4883.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/21/o-assunto-819-o-tse-e-a-avalanche-de-desinformacao.ghtml",
+    "hat": "🎧 Podcast",
+    "title": "O ASSUNTO: como o TSE reage diante de tanta mentira nas eleições; OUÇA",
+    "category": "O Assunto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4605.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/noticia/2022/10/21/instagram-andre-valadao-informacao-falsa.ghtml",
+    "hat": "Mentiras na campanha",
+    "title": "Instagram marca como falso post de André Valadão sobre intimação do TSE",
+    "category": "Eleições"
+  }
+]

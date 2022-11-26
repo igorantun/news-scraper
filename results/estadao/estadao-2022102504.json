@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9303.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/jefferson-diz-a-pf-que-deu-50-tiros-de-fuzil-e-jogou-tres-granadas-em-policiais/",
+    "hat": "ataque a policiais federais",
+    "title": "Jefferson diz à PF que deu 50 tiros de fuzil e lançou três granadas, mas 'não para machucar'; leia depoimento",
+    "summary": "Apesar das alegações do ex-deputado, avaliação na Polícia Federal é a de que ele 'minimamente aceitou o risco' de matar os agentes"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9303.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-de-freitas-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "São Paulo",
+    "title": "Tarcísio é entrevistado por Estadão e Rádio Eldorado nesta terça; veja como acompanhar"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8825.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/romeu-zema-e-um-equivoco-dizer-que-o-novo-virou-bolsonarista/",
+    "hat": "Reeleito no 1º turno",
+    "title": "Romeu Zema: 'É um equívoco dizer que o Novo virou bolsonarista'; leia entrevista",
+    "summary": "Governador de Minas vê como natural apoio a Bolsonaro, se diz 'decepcionado' com Amôedo e defende sua saída"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8347.65625,
+      "left": 329,
+      "height": 298,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/campanha-de-bolsonaro-diz-que-radios-beneficiam-lula-moraes-fala-em-documento-apocrifo/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Campanha de Bolsonaro diz que rádios beneficiam Lula; Moraes fala em documento apócrifo e pede provas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8347.65625,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/auxilio-brasil-consignado-suspensao-tse-caixa/",
+    "hat": "Benefício em ano eleitoral",
+    "title": "Caixa suspende consignado do Auxílio Brasil por 24 horas após recomendação do TCU"
+  }
+]

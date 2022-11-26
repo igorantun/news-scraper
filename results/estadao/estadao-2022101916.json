@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8815.734375,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/carta-de-lula-a-evangelicos-faz-compromisso-com-liberdade-de-culto-veja-integra/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Carta de Lula a evangélicos defende liberdade de culto e acena com participação em eventual governo",
+    "summary": "Candidato lembra sanção da Lei de Liberdade Religiosa e criação do Dia da Marcha para Jesus; leia íntegra da mensagem"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8815.734375,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/pt-ve-avanco-de-bolsonaro-em-minas-com-acao-de-zema-sobre-prefeitos-e-ameacas/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "PT vê avanço de Bolsonaro em Minas com ação de Zema sobre prefeitos e ameaças"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8393.734375,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/skaf-fiesp-josue-gomes-renuncia/",
+    "hat": "ENTIDADE EMPRESARIAL",
+    "title": "Skaf alega 'gestão ideológica'e inicia rebelião contra Josué Gomes na Fiesp"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8393.734375,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/putin-declara-lei-marcial-em-regioes-anexadas-da-ucrania-em-um-esforco-para-aumentar-seu-controle/",
+    "hat": "PRESIDENTE RUSSO",
+    "title": "Putin declara lei marcial em regiões anexadas da Ucrânia para aumentar seu controle"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8393.734375,
+      "left": 1190.3125,
+      "height": 356.109375,
+      "width": 400.65625
+    },
+    "link": "https://cultura.estadao.com.br/blogs/direto-da-fonte/daniela-e-roberto-setubal-entram-para-o-mundo-fashion/",
+    "hat": "DIRETO DA FONTE",
+    "title": "Daniela e Roberto Setubal abrem nova loja de moda nos Jardins",
+    "summary": ""
+  }
+]

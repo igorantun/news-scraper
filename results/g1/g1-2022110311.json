@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4665,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/03/equipe-de-lula-tenta-montar-quebra-cabeca-orcamentario-e-manter-auxilio-em-r-600-1a-reuniao-com-relator-e-nesta-quinta.ghtml",
+    "hat": "Desafios do próximo governo",
+    "title": "Equipe de Lula começa a discutir hoje como manter auxílio em R$ 600"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4665,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/02-11-2022/palmeiras-fortaleza.ghtml",
+    "hat": "É campeão! 🏆",
+    "title": "Palmeiras goleia e festeja em casa 11º título do Brasileirão",
+    "summary": "Endrick, Rony (2) e Dudu marcaram os gols alviverdes."
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4328.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/noticia/2022/11/03/diretor-de-escola-e-preso-em-flagrante-suspeito-de-furtar-carne-de-merenda-escolar-em-quixeramobim-no-ceara.ghtml",
+    "hat": "Quixeramobim, Ceará",
+    "title": "Diretor de escola é preso por furtar carne de merenda escolar"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3923.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/compromisso-numero-1-de-lula-combate-a-fome-tera-o-desafio-de-superar-encolhimento-nas-acoes-de-seguranca-alimentar.ghtml",
+    "hat": "Insegurança alimentar",
+    "title": "Promessa nº 1 de Lula: o que é preciso para combater a fome",
+    "summary": "Brasil tem hoje mais de 33 milhões de pessoas sem ter o que comer diariamente.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3645.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/03/lancamento-de-missil-intercontinental-da-coreia-do-norte-parece-ter-falhado-afirma-seul.ghtml",
+    "hat": "Tensão na Ásia",
+    "title": "Coreia do Norte lança míssil, e Japão pede que moradores busquem abrigo",
+    "category": "Mundo"
+  }
+]

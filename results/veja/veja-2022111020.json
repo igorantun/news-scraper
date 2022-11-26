@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5857.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/transicao-de-lula-tera-guido-mantega-no-orcamento/",
+    "hat": "Governo",
+    "title": "Equipe de transição de Lula anuncia ex-ministro Guido Mantega no Orçamento",
+    "summary": "Além de Mantega, que esteve à frente da atrapalhada gestão econômica no governo Dilma, foram escalados mais de trinta nomes para grupos técnicos, entre eles Anielle Franco, irmã de Marielle"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1184.765625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -669.765625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5527.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar-economico/o-assustador-recado-da-bolsa-a-lula-apos-mercado-entrar-em-panico/",
+    "hat": "VEJA Mercado em vídeo",
+    "title": "O assustador recado da bolsa a Lula após mercado entrar em pânico"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5527.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/ministerio-da-defesa-volta-a-levantar-suspeitas-sobre-fraude-na-eleicao/",
+    "hat": "Radar",
+    "title": "Após relatório, Defesa volta a levantar suspeitas sobre fraude na eleição"
+  }
+]

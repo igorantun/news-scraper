@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6210,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/11/09/mark-zuckerberg-anuncia-demissoes-na-meta-dona-do-facebook.ghtml",
+    "hat": "Gigante da tecnologia",
+    "title": "Zuckerberg anuncia demissão em massa no Facebook, WhatsApp e Instagram",
+    "summary": "Meta desligou mais de 11 mil pessoas, o que representa 13% de sua força de trabalho. Ações da empresa perderam mais de dois terços do valor."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6210,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://www.climatempo.com.br/noticia/2022/11/09/sudeste-ainda-pode-ter-mais-granizo-hoje-8126",
+    "hat": "Tempo instável",
+    "title": "Sudeste pode ter mais chuva de granizo hoje; veja a previsão"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5873.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2022/11/09/musa-do-caldeirao-usou-whatsapp-para-fazer-alerta-de-que-nao-estava-bem-pouco-antes-de-morrer.ghtml",
+    "hat": "Morte no litoral de SP",
+    "title": "Musa do 'Caldeirão' disse a amiga que não estava bem"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5190.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/09/eleicoes-nos-eua-quem-ganhou-quem-perdeu-e-as-tendencias-ate-agora.ghtml",
+    "title": "'Onda vermelha' não se confirmou nos EUA; veja tendências até agora",
+    "summary": "Republicanos esperavam vitória esmagadora, mas projeções mostram disputa acirrada.",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4634.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/presidente-eleito-lula-deve-se-reunir-nesta-quarta-com-lira-pacheco-moraes-e-rosa-weber.ghtml",
+    "hat": "Maratona de encontros",
+    "title": "Lula deve se reunir hoje com Lira, Pacheco, Moraes e Rosa Weber",
+    "summary": "Pauta inclui saída para garantir auxílio de R$ 600 e valorização do salário mínimo.",
+    "category": "Política"
+  }
+]

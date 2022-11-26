@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9166.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/veja-o-que-muda-na-esplanada-com-lula-e-conheca-ministeriaveis.shtml",
+    "hat": "transição de governo",
+    "title": "Veja o que muda na Esplanada com Lula e conheça ministeriáveis",
+    "summary": "Pastas como Economia e Justiça podem ser divididas; há promessa de ministérios na área social"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.765625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=xZqlDalnac0",
+    "hat": "Gal Costa (1945-2022)",
+    "title": "Como Gal Costa se tornou símbolo forte de rebeldia das mulheres",
+    "summary": "Cantora é um marco incontornável da música e desafiou o conservadorismo no auge da ditadura"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8848.4375,
+      "left": 975,
+      "height": 243.53125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/teto-de-gastos-pode-ser-trocado-por-limite-de-divida-diz-felipe-salto.shtml",
+    "hat": "+transição de governo",
+    "title": "Teto de gastos pode ser trocado por limite de dívida, afirma Felipe Salto",
+    "summary": "Secretário da Fazenda de SP diz ter enviado proposta a Persio e Alckmin"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8569.921875,
+      "left": 975,
+      "height": 138.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/reforma-trabalhista-faz-cinco-anos-na-mira-do-novo-governo-lula.shtml",
+    "hat": "mercado de trabalho",
+    "title": "Reforma trabalhista faz 5 anos na mira do novo governo Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8396.890625,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/comandantes-militares-criticam-excessos-e-desarmonia-de-atos-antidemocraticos.shtml",
+    "hat": "Forças Armadas",
+    "title": "Militares mandam recado ao Judiciário e criticam 'descaminhos autocráticos'"
+  }
+]

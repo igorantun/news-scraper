@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12437.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/moraes-da-48-horas-para-defesa-entregar-eventual-auditoria-das-urnas.htm",
+    "title": "Moraes dá 48 horas para Defesa entregar eventual auditoria das urnas",
+    "summary": "Ministro do STF diz que inspeção parece atender a 'vontade eleitoral' de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12075.453125,
+      "left": 365,
+      "height": 582.546875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/janja-posta-nova-entrevista-em-que-bolsonaro-fala-de-meninas-bonitinhas-da-venezuela.shtml",
+    "title": "Janja posta novo vídeo em que Bolsonaro fala de 'meninas bonitinhas' da Venezuela"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11468.90625,
+      "left": 365,
+      "height": 146.375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/bolsonaro-campanha-comicio-sao-goncalo-rio-de-janeiro.htm",
+    "title": "No RJ, Bolsonaro exalta 'casamento' com Congresso; Flávio mente sobre 'CPX'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12075.453125,
+      "left": 619.15625,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/governador-diz-que-e-possivel-descartar-versao-de-atentado-em-paraisopolis.htm",
+    "title": "Governador de SP descarta versão de atentado contra Tarcísio em Paraisópolis"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11703.96875,
+      "left": 619.15625,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/carros/noticias/redacao/2022/10/18/por-que-o-preco-do-combustivel-vai-subir-apos-as-eleicoes.htm",
+    "title": "Preço dos combustíveis deve subir após as eleições, diz economista"
+  }
+]

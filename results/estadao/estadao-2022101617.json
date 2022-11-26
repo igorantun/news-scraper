@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9032.3125,
+      "left": 329,
+      "height": 302,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/classe-c-impulsiona-voto-a-direita-no-pais-segmento-representa-100-milhoes-de-brasileiros/",
+    "hat": "Estadão Analisa",
+    "title": "Fatia de 100 milhões de brasileiros, classe C impulsiona voto à direita",
+    "summary": "Grupo socioeconômico exprime sentimento de abandono e desconfiança do Estado; representa 55% da população e é maior no Sudeste, Sul e Centro-Oeste, onde Bolsonaro venceu no 1º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9032.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/debate-para-presidente-band-lula-bolsonaro-segundo-turno/",
+    "hat": "eleições 2022",
+    "title": "O que esperar do debate entre Lula e Bolsonaro na Band? Veja análise"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8582.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/pme/turismo-rural-programa-cria-rotas-gastronomicas-no-interior-e-litoral-de-sao-paulo/",
+    "hat": "roteiro de delícias",
+    "title": "Queijo premiado e farofa de ostras frescas são destaque em rotas gastronômicas de SP",
+    "summary": "Programas turísticos incluem visitas a restaurantes e produtores no interior e no litoral; escolha seu destino"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8582.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/china-tem-controle-total-de-hong-kong-e-pretende-fazer-o-mesmo-com-taiwan-diz-xi-jinping/",
+    "hat": "Presidente chinês",
+    "title": "Xi Jinping: 'China tem controle total de Hong Kong e pretende fazer o mesmo com Taiwan'",
+    "summary": "Líder defendeu crescimento militar chinês em discurso de 2 horas na abertura do Congresso do Partido Comunista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8582.203125,
+      "left": 1190.3125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-reage-a-polemica-sobre-meninas-venezuelanas-e-diz-que-pt-ultrapassou-todos-os-limites/",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro reage a polêmica envolvendo meninas venezuelanas: 'PT ultrapassou todos os limites'",
+    "summary": "Presidente disse que a fala, feita durante entrevista a um podcast, foi tirada de contexto por seus adversários"
+  }
+]

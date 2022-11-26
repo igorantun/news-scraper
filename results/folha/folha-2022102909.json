@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10207.109375,
+      "left": 315,
+      "height": 292.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/quem-tiver-mais-voto-leva-diz-bolsonaro-sobre-resultado-de-eleicoes.shtml",
+    "hat": "sucessão presidencial",
+    "title": "'Quem tiver mais voto leva', diz Bolsonaro sobre a eleição",
+    "summary": "Presidente fez afirmação após debate com Lula, na Globo, sem nenhum condicionante"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -869.984375,
+      "left": 315,
+      "height": 123.65625,
+      "width": 739.984375
+    },
+    "link": "https://www.folha.uol.com.br/",
+    "hat": "Eleições 2022",
+    "title": "Como Lula e Bolsonaro estampam as fachadas",
+    "summary": "Nabil Bonduki, urbanista e colunista da Folha, fala sobre expressões populares como a colocação de bandeiras nas janelas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10207.109375,
+      "left": 1305,
+      "height": 295,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/distribua-votos-de-ciro-e-tebet-e-veja-quem-seria-eleito-presidente.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simulador: Distribua votos de Ciro e Tebet e veja quem seria eleito presidente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9876.125,
+      "left": 974.984375,
+      "height": 377.46875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/receio-de-virar-alvo-de-moraes-leva-fabio-faria-a-recuar-em-caso-de-radios-dizem-aliados.shtml",
+    "hat": "Eleições 2022",
+    "title": "Receio de virar alvo de Moraes leva Fábio Faria a recuar em caso de rádios, dizem aliados",
+    "summary": "Ministro de Bolsonaro ouviu críticas de magistrados por ofensiva sem provas e ficou apreensivo com investigação"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9462.671875,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/na-economia-lula-bate-bolsonaro-mas-presidente-estabilizou-divida-publica.shtml",
+    "hat": "cenário econômico",
+    "title": "Na economia, Lula bate Bolsonaro, mas presidente estabilizou dívida pública"
+  }
+]

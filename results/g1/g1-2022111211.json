@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6404,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ciencia/noticia/2022/11/12/lula-tera-que-reconstruir-ministerio-da-ciencia-e-reverter-bloqueio-de-fundo-que-pode-causar-apagao-avaliam-especialistas.ghtml",
+    "hat": "Desafios da transição",
+    "title": "Lula terá que desbloquear fundos de pesquisas para evitar 'apagão' na ciência",
+    "summary": "Para comunidade científica, governo pode dar respiro para área atingida por cortes nos últimos anos."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6404,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/educacao/enem/2022/noticia/2022/11/12/enem-2022-veja-o-que-fazer-na-vespera-da-prova-que-acontece-neste-domingo-13.ghtml",
+    "hat": "Enem 2022",
+    "title": "O que fazer na véspera da prova, que acontece neste domingo"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6067.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2022/11/12/paulinho-da-viola-chega-aos-80-anos-no-ritmo-sereno-com-que-conduz-o-leme-da-vida-e-da-obra.ghtml",
+    "title": "80 anos de Paulinho da Viola"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5662.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/11/11/texto-da-pec-para-pagar-o-bolsa-familia-em-2023-deve-ser-divulgado-na-quarta-16.ghtml",
+    "title": "Equipe avalia tirar Bolsa Família do teto de gastos por 4 anos",
+    "category": "Jornal Nacional"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5384.65625,
+      "left": 348.65625,
+      "height": 252.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/12/transicao-de-governo-veja-posicoes-ja-defendidas-por-economistas-nomeados-pelo-governo-eleito.ghtml",
+    "title": "Veja posições já defendidas por economistas nomeados pelo governo eleito",
+    "category": "Economia"
+  }
+]

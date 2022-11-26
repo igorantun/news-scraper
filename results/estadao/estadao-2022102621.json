@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9018.3125,
+      "left": 329,
+      "height": 384,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tse-diz-que-servidor-da-propaganda-foi-exonerado-por-atuar-com-motivacao-politica/",
+    "hat": "eleições 2022",
+    "title": "TSE: servidor do setor de propaganda foi exonerado por assédio moral e atuar com 'motivação política'",
+    "summary": "Alexandre Machado procurou a PF após perder cargo; tribunal diz que alegações são 'falsas e criminosas'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9018.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/moscou-luta-para-aumentar-producao-de-armas-para-guerra-na-ucrania/",
+    "hat": "Guerra na Ucrânia",
+    "title": "Moscou luta para ampliar produção de armas; imprensa russa relata falta de equipamentos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8568.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/soma-aquisicao-hering-lucro/",
+    "hat": "Negócios",
+    "title": "Dona de Farm e Animale ainda luta para arrumar casa da Hering um ano após compra"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8568.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/como-elon-musk-se-tornou-um-agente-do-caos-na-geopolitica-internacional/",
+    "hat": "CAUSADOR DE PROBLEMAS",
+    "title": "Como Elon Musk se tornou um agente do caos na geopolítica internacional"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8568.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/ataques-misoginos-roberto-jefferson-carmen-lucia-serenamente-democracia-vale/",
+    "hat": "JUDICIÁRIO",
+    "title": "Ministra Cármen Lúcia responde a ataques misóginos: 'Brasil vale a pena'"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5722,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/05/cop27-qual-a-importancia-da-cupula-do-clima-para-o-futuro-do-planeta.ghtml",
+    "hat": "COP 27 no Egito",
+    "title": "Conferência do Clima da ONU começa amanhã; entenda importância",
+    "summary": "Cerca de 200 países devem estar representados para discutir como conter aquecimento global. Presidente eleito Lula foi convidado e deve participar."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5722,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/11/05/aviao-da-fab-que-desapareceu-e-encontrado-em-sc-dois-ocupantes-morreram.ghtml",
+    "hat": "Acidente aéreo",
+    "title": "Avião da FAB que desapareceu é achado em SC; 2 morreram"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5385.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/05/aposentada-investigada-por-racismo-contra-o-humorista-eddy-jr-retorna-ao-predio-condominio-decide-sobre-multa-e-expulsao-em-assembleia.ghtml",
+    "hat": "São Paulo",
+    "title": "Investigada por racismo contra Eddy Jr. retorna ao prédio; condomínio vai decidir sobre expulsão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4980.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/carmen-lucia-suspende-efeitos-de-mp-que-permitia-adiar-pagamento-de-beneficios-para-o-setor-cultural.ghtml",
+    "hat": "Leis Paulo Gustavo e Aldir Blanc 2",
+    "title": "Cármen Lúcia suspende efeitos de MP que adiava benefícios do setor cultural",
+    "summary": "Ministra analisou ação da Rede; tema ainda será julgado no plenário virtual do STF.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4702.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/gilmar-mendes-autoriza-pgr-a-ouvir-carla-zambelli-sobre-conduta-da-deputada-ao-sacar-arma-e-perseguir-homem-em-sp.ghtml",
+    "hat": "Parlamentar reeleita",
+    "title": "Gilmar Mendes autoriza PGR a ouvir Zambelli sobre perseguição com arma",
+    "summary": "Armados, deputada e segurança correram atrás de homem negro na véspera do 2º turno.",
+    "category": "Política"
+  }
+]

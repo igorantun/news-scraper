@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12509.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2022/11/09/nova-onda-covid-19-aumento-de-casos-internacoes.htm",
+    "title": "Com subvariante da ômicron, covid volta a assustar o Brasil após eleições",
+    "summary": "Caso positivos subiram 17% nos laboratórios; em farmácias o aumento foi de 15%"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12206.265625,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/11/lula-escolhe-padilha-costa-temporao-uip-e-chioro-para-transicao-na-saude.shtml",
+    "title": "Lula escolhe Padilha, Costa, Temporão, Uip e Chioro para transição na Saúde"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11750.03125,
+      "left": 365,
+      "height": 322.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-tera-de-cumprir-1-promessa-eleitoral-a-cada-14-dias-de-mandato.shtml",
+    "title": "Lula terá de cumprir uma promessa eleitoral a cada 14 dias de mandato"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12206.265625,
+      "left": 619.15625,
+      "height": 427.421875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/defesa-fez-auditoria-eleitoral-apesar-de-negar-ao-tse-mostram-emails.shtml",
+    "title": "Defesa fez auditoria eleitoral apesar de negar ao TSE, mostram emails"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11754.84375,
+      "left": 619.15625,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/09/delegada-fala-em-incesto-entre-flordelis-e-filhos-pratica-e-ilegal.htm",
+    "title": "Delegada fala em incesto entre Flordelis e filhos; prática é ilegal?"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10743.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/apos-chamar-lira-de-imperador-lula-se-reune-com-presidente-da-camara-para-negociar-novo-governo/",
+    "hat": "LEGISLATIVO",
+    "title": "Após chamar Lira de 'imperador', Lula se reúne com presidente da Câmara para negociar novo governo",
+    "summary": "Enquanto petista negocia PEC da Transição, parlamentar tenta apoio para reeleição na presidência da Casa; encontro está marcado para 3ª feira"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10349.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/convocacao-tite-selecao-brasileira-copa-catar/",
+    "hat": "Futebol",
+    "title": "Com Daniel Alves e Pedro, Tite convoca a seleção brasileira para a Copa do Catar; veja lista",
+    "summary": "'A qualidade técnica que o Dani Alves empresta no quesito de criação é impressionante', diz Tite ao justificar convocação do lateral de 39 anos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10349.3125,
+      "left": 1190.328125,
+      "height": 302,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-deve-manter-programas-da-defesa-e-enfrentar-esqueletos-no-armario-da-pasta/",
+    "hat": "TRANSIÇÃO",
+    "title": "Marcelo Godoy: Lula deve manter programas da Defesa e enfrentar 'esqueletos no armário' da Pasta",
+    "summary": "Disposição de ficar longe de temas polêmicas não deve alcançar a discussão sobre gastos das Forças Armadas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10017.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/nova-onda-de-covid-19-volto-a-usar-mascara-tomo-a-5-dose-tire-essas-e-outras-duvidas/",
+    "hat": "coronavírus",
+    "title": "Nova onda de covid-19: volto a usar máscara? Precisa de 5ª dose? Tire dúvidas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9393.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/emais/gente/roberto-justus-descobre-tumor-maligno-vou-fazer-quimioterapia-preventiva-durante-12-semanas/",
+    "hat": "saúde",
+    "title": "Justus descobre tumor maligno: 'Vou fazer quimioterapia preventiva por 12 semanas'"
+  }
+]

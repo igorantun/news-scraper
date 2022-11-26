@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3139,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-discurso-vitoria.ghtml",
+    "title": "LULA PRESIDENTE: 'NÃO EXISTEM DOIS BRASIS. É HORA DE BAIXAR AS ARMAS'",
+    "summary": "Presidente eleito promete governar para todos, diz que é momento de restabelecer a paz e que ódio foi propagado de forma criminosa."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2397.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-reune-multidao-na-avenida-paulista-e-diz-que-vitoria-e-de-todos-que-amam-a-democracia-e-querem-um-pais-mais-justo.ghtml",
+    "title": "Lula discursa na Paulista: 'Vitória é do povo e da democracia'",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2119.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/30/aliados-tentam-falar-com-bolsonaro-e-sao-informados-de-que-presidente-foi-dormir.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Aliados tentam falar com Bolsonaro e são informados de que ele foi dormir",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -1841.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/apuracao-dos-votos-100percent-das-urnas-sao-totalizadas.ghtml",
+    "hat": "Números da apuração",
+    "title": "100% das urnas apuradas: Lula venceu com 2,1 milhões de votos a mais"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -1563.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/mapas/mapa-da-apuracao-no-brasil-presidente/2-turno/",
+    "title": "MAPA DA APURAÇÃO: veja a votação para presidente na sua cidade",
+    "category": "Eleições"
+  }
+]

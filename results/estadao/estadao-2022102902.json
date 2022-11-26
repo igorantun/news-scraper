@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9507.3125,
+      "left": 329,
+      "height": 865.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/?liveId=XFLD5EB67JCG5OC4UPEI6JZOJQ",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Ao vivo: Bolsonaro e Lula ignoram regra de escolha de temas e voltam a trocar acusações; acompanhe",
+    "summary": "Presidenciáveis deveriam escolher um tema, mas o que houve foi embate sobre outros assuntos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9507.3125,
+      "left": 1190.328125,
+      "height": 484.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=GIWUJ5UGNRCZ5BBWJLDBZKEJOU",
+    "hat": "EMBATE DO 2º TURNO",
+    "title": "'Não digo coisas da minha cabeça', diz Bonner após ser citado por Bolsonaro; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8993.203125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=UDKO2OUWRNABVLGIHL4MD3BSMI",
+    "hat": "BASTIDORES",
+    "title": "Sergio Moro vai ao debate na TV Globo para auxiliar Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8483.09375,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/lira-teme-desagradar-bolsonaro-com-presenca-no-tse-pacheco-deve-ir/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "Lira teme desagradar Bolsonaro com ida ao TSE para apuração; Pacheco deve participar",
+    "summary": "Aliados do presidente da Câmara temem desagradar chefe do Executivo com ida a evento de Moraes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8483.09375,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/como-estavam-as-pesquisas-para-presidente-as-vesperas-do-2-turno-das-eleicoes-anteriores/",
+    "hat": "Cenário eleitoral",
+    "title": "Como estavam as pesquisas na véspera do segundo turno em 2018 e eleições anteriores"
+  }
+]

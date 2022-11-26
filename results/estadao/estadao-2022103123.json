@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7978.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ministros-e-militares-agem-para-bolsonaro-reconhecer-logo-derrota-na-eleicao/",
+    "hat": "SUCESSÃO PRESIDENCIAL",
+    "title": "Ministros e militares agem para Bolsonaro reconhecer derrota na eleição o quanto antes",
+    "summary": "Interlocutores dizem que o presidente se sente injustiçado, mas indicou que irá aceitar vitória de Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7582.359375,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/caminhoneiros-bloqueiam-rodovias-em-protesto-a-vitoria-de-lula/",
+    "hat": "MANIFESTAÇÕES PELO PAÍS",
+    "title": "Caminhoneiros fazem bloqueios em rodovias de 20 Estados; em SP, faixas da Marginal Tietê são fechadas",
+    "summary": "São mais de 200 pontos de interdição, bloqueio ou protesto contra a vitória de Lula; líderes da categoria criticam ação"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7582.359375,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-deve-compor-ministerios-com-nomes-alem-do-pt-veja-os-mais-cotados/",
+    "hat": "NOVO GOVERNO",
+    "title": "Lula deve compor ministérios com nomes além do PT; veja os mais cotados"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7044.25,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-fala-por-telefone-com-biden-e-discute-compromissos-entre-brasil-e-eua-sobre-clima-e-imigracao/",
+    "hat": "RELAÇÃO INTERNACIONAL",
+    "title": "Lula fala com Biden e discute compromissos entre países sobre clima e imigração"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6594.140625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/o-joelho-operado-falhou-o-passo-falseou-diz-barao-seguranca-de-carla-zambelli-sobre-tiro-na-perseguicao-a-jornalista/",
+    "hat": "DEPOIMENTO À POLÍCIA",
+    "title": "Segurança de Zambelli diz que atirou por acidente porque 'joelho operado falhou'",
+    "summary": "Policial militar conhecido como 'Barão' estava com a deputada durante perseguição a jornalista"
+  }
+]

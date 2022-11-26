@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10767.3125,
+      "left": 329,
+      "height": 865.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/daniel-alves-pode-ser-uma-carta-no-colete-de-tite-para-ter-neymar-voando-como-nunca-antes-nas-copas/",
+    "hat": "Futebol",
+    "title": "Morelli: 'Convocação de Daniel Alves incomoda, mas não é determinante para o Brasil se dar bem no Catar'",
+    "summary": "'Jogador é a carta no colete de Tite para que o Brasil tenha Neymar como nunca antes em Copas'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10767.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-promete-blindar-infraestrutura-em-sp-e-desalojar-grupo-de-milton-leite/",
+    "hat": "NOVO GOVERNO",
+    "title": "Tarcísio promete 'blindar' infraestrutura em SP e desalojar grupo de Milton Leite",
+    "summary": "Governador eleito pretende indicar para Transporte e Logística um engenheiro de sua confiança"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10333.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/nova-onda-de-covid-19-volto-a-usar-mascara-tomo-a-5-dose-tire-essas-e-outras-duvidas/",
+    "hat": "coronavírus",
+    "title": "Nova onda de covid-19: volto a usar máscara? Precisa de 5ª dose? Tire dúvidas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9839.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaristas-permanecem-em-frente-a-quarteis-e-trocam-lema-de-intervencao-por-resistencia-civil/",
+    "hat": "Política",
+    "title": "Bolsonaristas seguem em frente a quartéis e trocam 'intervenção' por 'resistência civil'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9839.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/defesa-conclui-fiscalizacao-das-urnas-e-entrega-na-quarta-feira-ao-tse-relatorio-de-auditoria/",
+    "hat": "Justiça Eleitoral",
+    "title": "Defesa conclui fiscalização das urnas e entrega na quarta relatório de auditoria",
+    "summary": "Moraes chegou a cobrar o resultado da fiscalização do sistema eletrônico de votação após o primeiro turno"
+  }
+]

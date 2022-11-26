@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5889.890625,
+      "left": 324,
+      "height": 358,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/a-missao-impossivel-de-bolsonaro-em-se-descolar-de-roberto-jefferson/",
+    "hat": "Política",
+    "title": "Aliados tentam descolar Bolsonaro de Jefferson; Lula vai apontar elo entre os dois",
+    "summary": "Na reta final da campanha, presidente e seus apoiadores tentam negar que ex-deputado, que atirou contra a PF, seja um aliado; equipe petista lembrará relação entre o rival e o político preso"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -777.453125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/quem-sao-os-17-milhoes-de-eleitores-que-podem-definir-o-2o-turno",
+    "hat": "Reportagem de capa",
+    "title": "Quem são os 17 milhões de eleitores indecisos que podem definir o 2º turno",
+    "summary": "Como a imensa maioria já sabe em quem vai votar, o resultado do pleito passa por quem não escolheu ou pode mudar de lado, um grupo de votantes homogêneo e bem definido"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -206.328125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/sergio-moro-a-volta-do-lula-seria-um-suicidio-moral-e-economico/",
+    "hat": "Política",
+    "title": "Sergio Moro: 'A volta do Lula seria um suicídio moral e econômico'",
+    "summary": "Senador eleito explica reaproximação com Bolsonaro, dispara contra o petista e diz que a Justiça passa a impressão de que o crime compensa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5507.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/brasil/bolsonaro-mente-ao-dizer-que-nao-tem-fotos-com-roberto-jefferson/",
+    "hat": "Ex-aliados",
+    "title": "Bolsonaro diz que 'não tem uma foto dele' com Jefferson; veja fotos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5507.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/o-recado-de-allan-dos-santos-para-alexandre-de-moraes-voce-venceu/",
+    "hat": "Política",
+    "title": "O recado de Allan dos Santos para Alexandre de Moraes: 'Você venceu'"
+  }
+]

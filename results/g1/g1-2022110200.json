@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5585,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/bolsonaro-faz-primeiro-discurso-apos-perder-a-eleicao.ghtml",
+    "title": "Bolsonaro diz que vai cumprir Constituição; Ciro Nogueira inicia transição",
+    "summary": "Presidente falou pela 1ª vez dois dias após derrota, não citou Lula e criticou atos ilegais de seus apoiadores que prejudicam população."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5585,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/01/lula-escolhe-geraldo-alckmin-para-coordenar-a-equipe-de-transicao.ghtml",
+    "hat": "Blog da Julia Duailibi",
+    "title": "Alckmin vai chefiar equipe de transição para governo Lula"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5248.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/11/01/selo-de-verificado-do-twitter-custara-us-8-por-mes-anuncia-elon-musk.ghtml",
+    "hat": "Contas verificadas",
+    "title": "Musk quer cobrar mensalidade por selinho azul do Twitter"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4843.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/apos-pronunciamento-bolsonaro-vai-ao-stf.ghtml",
+    "title": "Em reunião no STF, Bolsonaro disse que eleição 'acabou', afirma Fachin",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4565.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/veja-e-leia-a-integra-do-discurso-de-bolsonaro-dois-dias-apos-derrota-em-segundo-turno.ghtml",
+    "title": "VÍDEO: veja e leia a íntegra da declaração de Bolsonaro",
+    "summary": "Presidente agradeceu votos que recebeu no domingo, quando foi derrotado por Lula.",
+    "category": "G1 Eleições"
+  }
+]

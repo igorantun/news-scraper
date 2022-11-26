@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9025.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-se-fecha-no-alvorada-apos-derrota-e-articula-futuro-como-lider-da-direita.shtml",
+    "hat": "Política",
+    "title": "Bolsonaro se fecha no Alvorada após derrota e articula futuro como líder da direita",
+    "summary": "Silêncio do presidente evita desmobilização de manifestações antidemocráticas contra resultado das urnas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.46875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=xZqlDalnac0",
+    "hat": "Gal Costa (1945-2022)",
+    "title": "Como Gal Costa se tornou símbolo forte de rebeldia das mulheres",
+    "summary": "Cantora é um marco incontornável da música e desafiou o conservadorismo no auge da ditadura"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8815.25,
+      "left": 975,
+      "height": 253.421875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/11/mau-comeco.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Ao ignorar que responsabilidade fiscal é social, Lula já mina a confiança em seu governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8526.84375,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bid-ignora-pressao-do-pt-e-reafirma-data-de-eleicao-e-candidatura-de-ilan-goldfajn.shtml",
+    "hat": "ex-presidente do BC",
+    "title": "BID ignora pressão do PT e reafirma data de eleição e candidatura de Ilan Goldfajn"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8325.8125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-e-alckmin-buscam-ocupar-vacuo-de-poder-e-ampliar-base-mas-esbarram-no-centrao.shtml",
+    "hat": "transição de governo",
+    "title": "Lula e Alckmin buscam ocupar vácuo de poder e ampliar base, mas esbarram no centrão"
+  }
+]

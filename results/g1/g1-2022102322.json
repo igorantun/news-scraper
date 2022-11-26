@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5319,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/roberto-jefferson-resiste-a-ordem-de-prisao-do-stf-e-fere-a-tiros-policiais-federais.ghtml",
+    "title": "Jefferson desrespeita ordem do STF e ataca policiais federais com fuzil e granadas",
+    "summary": "Moraes revogou prisão domiciliar após ex-deputado e aliado de Bolsonaro descumprir proibição de usar redes sociais e xingar ministra Cármen Lúcia."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4299.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/moraes-diz-que-ha-hipotese-de-flagrante-cometido-por-jefferson-e-autoriza-prisao-independentemente-do-horario.ghtml",
+    "title": "Moraes dá nova ordem de prisão 'em qualquer horário' após ataque de Jefferson",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4021.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/reporter-cinematografico-da-intertv-afiliada-da-tv-globo-e-agredido-por-apoiadores-de-roberto-jefferson-e-jair-bolsonaro.ghtml",
+    "title": "Cinegrafista é agredido por bolsonaristas na porta da casa do ex-deputado",
+    "category": "Sul do Rio e Costa Verde"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3743.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/jornal-globonews/video/andre-perecmanis-situacao-absurda-e-politizacao-de-fato-gravissimo-11052477.ghtml",
+    "title": "ANÁLISE: 'PF tem autorização para invadir casa, mas há politização'",
+    "category": "Jornal GloboNews"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -2963.140625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/bolsonaro-diz-que-repudia-acao-armada-de-jefferson-contra-agentes-da-policia-federal.ghtml",
+    "title": "Bolsonaro diz repudiar 'ação armada' de aliado, mas critica investigação do STF",
+    "category": "Política"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12736.609375,
+      "left": 365,
+      "height": 222.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/apos-convite-do-pt-mdb-indicara-nome-para-compor-conselho-politico-de-lula.htm",
+    "title": "A convite do PT, MDB fará parte de conselho para transição de Lula"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12316.125,
+      "left": 365,
+      "height": 323.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/fica-em-casa-bolsonaro-mantem-rotina-home-office-apos-perder-a-eleicao.htm",
+    "title": "Bolsonaro tem rotina esvaziada e apenas 4 dias com agenda oficial"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11968.640625,
+      "left": 365,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/governador-explica-ponto-de-obstrucao-no-para-tem-historico-de-conflitos.htm",
+    "title": "Helder Barbalho diz que área de bloqueio no Pará tem histórico de conflito"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11671.53125,
+      "left": 365,
+      "height": 146.375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/deputado-julian-lemos-ja-foi-acusado-violencia-domestica.htm",
+    "title": "Deputado que acusa Bolsonaro de bater em Michelle já respondeu por violência doméstica"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12316.125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/stf-medida-provisoria-bolsonaro-lei-paulo-gustavo-aldir-blanc-2.htm",
+    "title": "STF forma maioria para derrubar MP de Bolsonaro contra Lei Paulo Gustavo"
+  }
+]

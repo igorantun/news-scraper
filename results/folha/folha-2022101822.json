@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9875.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lira-aprova-urgencia-de-projeto-que-criminaliza-institutos-de-pesquisas-mas-base-diverge.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lira aprova urgência de projeto que criminaliza institutos de pesquisas, mas base diverge",
+    "summary": "Votação é forma de o presidente da Câmara aumentar pressão sobre empresas, em linha com a ofensiva de Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.515625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9828.125,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/acompanhou-o-noticiario-juridico-da-ultima-semana-responda-quiz.shtml",
+    "hat": "Folhajus+",
+    "title": "Por que Moraes barrou inquérito sobre institutos de pesquisa? Responda a quiz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9665.25,
+      "left": 974.984375,
+      "height": 219.546875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/educacao/2022/10/orgao-do-mec-orientou-prefeitura-a-forjar-pedido-de-verba-ja-liberada-mostra-email.shtml",
+    "hat": "Governo Bolsonaro",
+    "title": "Órgão do MEC orientou prefeitura a forjar pedido de verba já liberada, mostra email"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9410.71875,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/na-hora-que-prender-eles-param-rapidinho-diz-alexandre-de-moraes-sobre-assedio-eleitoral.shtml",
+    "hat": "Painel",
+    "title": "'Na hora que prender, eles param rapidinho', afirma Moraes sobre assédio eleitoral"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8834.3125,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/supremo-forma-maioria-para-manter-resolucao-do-tse-que-ampliou-poderes-da-corte-no-combate-a-fake-news/",
+    "hat": "Eleições",
+    "title": "Supremo forma maioria para manter resolução do TSE que ampliou poderes da Corte contra fake news",
+    "summary": "Cinco ministros já acompanharam o entendimento do relator, Edson Fachin, de que não há censura nas regras aprovadas pelo Tribunal Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8834.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/uso-eleitoral-da-lava-jato-no-2-turno-cria-onda-de-autocritica-no-judiciario-e-no-mp/",
+    "hat": "JUSTIÇA E POLÍTICA",
+    "title": "Movimentos de Moro no 2º turno criam onda de autocrítica no Judiciário e no MP"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8384.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/jefferson-tinha-apoiadores-que-poderiam-estar-armados-e-acao-foi-correta-diz-instrutor-da-pf/",
+    "hat": "VIOLÊNCIA",
+    "title": "Jefferson poderia ter apoiadores armados, diz instrutor da Polícia Federal"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8384.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/ministerio-da-economia-paulo-guedes-retirar-isencao-imposto-de-renda-saude-educacao/",
+    "hat": "IMPOSTO DE RENDA",
+    "title": "Economia estuda retirar do IR dedução de gasto com saúde e educação; Guedes refuta",
+    "summary": "Medida compensaria, em parte, gastos com promessas eleitorais; ministro disse ao Estadão ser contra a ideia"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8384.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-de-freitas-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "eleições em SÃO PAULO",
+    "title": "Tarcísio de Freitas defende 'liberdade' para obter posse e porte de armas em São Paulo"
+  }
+]

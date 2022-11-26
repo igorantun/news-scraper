@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5869,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/saude/noticia/2022/11/06/orcamento-insuficiente-e-demandas-reprimidas-saiba-quais-desafios-o-governo-lula-enfrentara-na-saude.ghtml",
+    "hat": "Novo governo",
+    "title": "Orçamento insuficiente: saiba quais serão os desafios de Lula na saúde",
+    "summary": "Próxima gestão terá que arcar com demandas represadas pela pandemia e questões como a baixa adesão a campanhas de vacinação."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5869,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/06/primavera-sound-estreia-em-sp-com-arctic-monkeys-bjork-55-mil-fas-e-arvores-na-plateia.ghtml",
+    "hat": "Festival em SP",
+    "title": "Primavera Sound estreia com 55 mil fãs e show dos Arctic Monkeys"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5532.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/11/05/fotos-veja-imagens-do-segundo-dia-do-micareta-salvador.ghtml",
+    "hat": "Festival na Bahia",
+    "title": "Micareta Salvador: 2ª noite tem Daniela, Alinne, Ludmilla e mais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5127.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/06/cop-27-comeca-neste-domingo-com-expectativa-por-participacao-do-futuro-governo-lula-veja-o-que-esperar.ghtml",
+    "hat": "Conferência do Clima da ONU",
+    "title": "COP 27 começa hoje no Egito; veja o que esperar",
+    "category": "Cop 27"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4849.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/06/aviao-cai-em-lago-na-tanzania.ghtml",
+    "hat": "Acidente aéreo",
+    "title": "Avião com 43 pessoas a bordo cai em lago na Tanzânia",
+    "summary": "26 ocupantes da aeronave foram resgatadas com vida. Não há informações sobre os demais.",
+    "category": "Mundo"
+  }
+]

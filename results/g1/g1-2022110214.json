@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5023,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/de-olho-no-orcamento/noticia/2022/11/02/auxilio-brasil-de-r-600-desoneracao-de-combustiveis-isencao-do-ir-desafios-de-lula-no-orcamento-chegam-a-r-175-bilhoes.ghtml",
+    "hat": "Diálogo com o Congresso",
+    "title": "Lula terá que negociar pontos do Orçamento que somam R$ 175 bi",
+    "summary": "Valor inclui promessas como o auxílio de R$ 600 e incertezas sobre a proposta enviada pelo atual governo, considerada pouco realista."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5023,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/02/o-que-e-o-pao-do-morto-e-como-surgiu-essa-tradicao-no-mexico.ghtml",
+    "hat": "Finados lá fora",
+    "title": "O que é o pão do morto e como surgiu essa tradição no México"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4686.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/saude/sexualidade/noticia/2022/11/02/por-que-tantos-millennials-relatam-viver-casamento-sem-sexo.ghtml",
+    "hat": "Sexualidade",
+    "title": "Por que tantos millennials vivem casamento sem sexo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4281.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/02/lula-reforca-busca-por-estabilidade-institucional-e-decide-se-reunir-com-rosa-weber-pacheco-e-lira.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Presidente eleito se reunirá com Lira, Pacheco e Rosa Weber em Brasília",
+    "summary": "Lula busca diálogo entre poderes em projeto de 'reconstrução nacional'.",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4003.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/11/02/bolsonaro-vai-infernizar-a-vida-do-pais-ate-o-ultimo-dia-para-negociar-garantias-apos-deixar-o-poder-analisa-maria-cristina-fernandes.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Bolsonaro vai infernizar até o último dia para obter garantias, diz analista",
+    "category": "O Assunto"
+  }
+]

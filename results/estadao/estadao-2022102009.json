@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8796.734375,
+      "left": 329,
+      "height": 316,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/ministro-da-cgu-admite-que-portal-da-transparencia-do-governo-nao-tem-dados-sobre-orcamento-secreto/",
+    "hat": "CONTAS PÚBLICAS",
+    "title": "Ministro da CGU admite que Portal da Transparência do governo não tem dados sobre orçamento secreto",
+    "summary": "Em resposta a internauta, Wagner Rosário admite que não tem informações; gestão do dinheiro era feita dentro do Palácio do Planalto em 2020"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8796.734375,
+      "left": 1190.328125,
+      "height": 298,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/malvadao-rodinei-faz-gol-do-titulo-do-fla-na-copa-do-brasil-apos-jogo-durissimo-contra-o-corinthians/",
+    "hat": "COPA DO BRASIL",
+    "title": "Robson Morelli: 'Rodinei faz gol do título do Flamengo; Corinthians perde de cabeça erguida'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8418.734375,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-peso-das-memorias/",
+    "hat": "COLUNA",
+    "title": "Waack: Nenhuma das campanhas conseguiu escapar da frase 'teu passado te condena'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8418.734375,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/presenca-de-bolsonaro-no-bandeirantes-gera-insatisfacao-de-tucanos/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "Ida de Bolsonaro ao Palácio dos Bandeirantes azeda de vez clima entre tucanos paulistas",
+    "summary": "Após apoio de Rodrigo Garcia, candidato do PL fará visita à sede do governo paulista nesta quinta-feira"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -7942.734375,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/e-preciso-usar-a-diplomacia-com-putin-para-reduzir-a-tensao-nuclear-leia-analise/",
+    "hat": "THE WASHINGTON POST",
+    "title": "É preciso usar a diplomacia com Putin para reduzir a tensão nuclear; leia análise"
+  }
+]

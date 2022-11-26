@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5192,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/bloqueios-estradas-3o-dia.ghtml",
+    "hat": "Atos antidemocráticos",
+    "title": "Bloqueios ilegais de bolsonaristas em rodovias diminuem no 3º dia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5192,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/02/mutirao-nacional-de-negociacao-de-dividas-veja-como-participar-de-acao-que-reune-160-instituicoes.ghtml",
+    "hat": "Seu bolso",
+    "title": "Saiba como participar do mutirão de negociação de dívidas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4855.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/02/o-que-e-o-pao-do-morto-e-como-surgiu-essa-tradicao-no-mexico.ghtml",
+    "hat": "Finados",
+    "title": "O que é o pão do morto e como surgiu essa tradição no México"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4450.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/02/lula-reforca-busca-por-estabilidade-institucional-e-decide-se-reunir-com-rosa-weber-pacheco-e-lira.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Lula irá a Brasília para reuniões com Lira, Pacheco e Rosa Weber",
+    "summary": "Presidente eleito busca diálogo entre poderes em projeto de 'reconstrução nacional'.",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4172.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/de-olho-no-orcamento/noticia/2022/11/02/auxilio-brasil-de-r-600-desoneracao-de-combustiveis-isencao-do-ir-desafios-de-lula-no-orcamento-chegam-a-r-175-bilhoes.ghtml",
+    "hat": "Diálogo com o Congresso",
+    "title": "Governo Lula terá que negociar R$ 175 bi no Orçamento de 2023",
+    "summary": "Valor inclui promessas como o auxílio de R$ 600 e incertezas na proposta da gestão Bolsonaro.",
+    "category": "De olho no orçamento"
+  }
+]

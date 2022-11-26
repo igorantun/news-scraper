@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7928.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-se-reune-com-ministros-e-avalia-discurso-sobre-resultado-das-eleicoes/",
+    "hat": "SUCESSÃO PRESIDENCIAL",
+    "title": "Bolsonaro se reúne com ministros e avalia discurso sobre resultado das eleições",
+    "summary": "Auxiliares escreveram texto a ser lido pelo presidente, que ainda se mantém em silêncio sobre derrota para Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7532.359375,
+      "left": 329,
+      "height": 865.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/pm-isola-esplanada-para-evitar-ameacas-de-invasoes/",
+    "hat": "MANIFESTAÇÕES",
+    "title": "Polícia isola Esplanada dos Ministérios para evitar possíveis ameaças de caminhoneiros",
+    "summary": "PM afirma que objetivo é proteger os órgãos públicos e manter a ordem, após protestos pelo País"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7532.359375,
+      "left": 1190.328125,
+      "height": 506.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/governo-lula-simone-tebet-e-governadora-do-ceara-sao-nomes-fortes-para-o-mec-entenda-a-escolha/",
+    "hat": "RENATA CAFARDO",
+    "title": "Simone Tebet e atual governadora do Ceará são nomes fortes para o MEC"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6996.25,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/eleicao-de-tarcisio-faz-aumentar-aposta-do-mercado-em-privatizacao-da-sabesp/",
+    "hat": "NEGÓCIOS EM SP",
+    "title": "Eleição de Tarcísio faz aumentar aposta em privatização da Sabesp, mas há incertezas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6594.140625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/lula-eleicao-bolsa-construcao-educacao/",
+    "hat": "E-INVESTIDOR",
+    "title": "Construção e educação são destaques na Bolsa após eleição; Veja os motivos",
+    "summary": "Especialistas afirmaram que bom desempenho é resultado da eleição de Lula para presidente em 2023"
+  }
+]

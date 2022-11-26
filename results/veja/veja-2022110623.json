@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5851.890625,
+      "left": 324,
+      "height": 284,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/a-promessa-de-campanha-que-o-pt-esta-escanteando-na-pec-da-transicao/",
+    "hat": "Economia",
+    "title": "A promessa de campanha que o PT está escanteando na ‘PEC da transição’",
+    "summary": "Mudança na tabela que beneficiaria aqueles que recebem até R$ 5 mil foi uma das promessas de Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4252.921875,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -2860.796875,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5543.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/economia/economia-impoe-missao-ardua-a-lula-para-fazer-o-brasil-voltar-a-crescer/",
+    "hat": "Adversidades fiscais",
+    "title": "Economia impõe missão árdua a Lula para o Brasil voltar a crescer"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5543.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/economia/os-desafios-de-lula-na-economia-segundo-empresarios-e-investidores/",
+    "hat": "Novo governo",
+    "title": "Empresários avaliam os desafios econômicos ao presidente eleito"
+  }
+]

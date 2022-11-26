@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9024.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-foca-combate-a-desordem-informacional-e-amplia-acao-contra-fake-news.shtml",
+    "hat": "Eleições 2022",
+    "title": "TSE adota doutrina de desordem informacional e amplia interpretação sobre fake News",
+    "summary": "Sob Moraes, corte consolida posição intervencionista nas redes sociais e na propaganda eleitoral"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.65625,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8706.4375,
+      "left": 974.984375,
+      "height": 243.53125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/redesocial/2022/10/evangelicos-pregam-brasil-governado-por-igreja-com-bolsonaro-reeleito.shtml",
+    "hat": "Reeleição",
+    "title": "Evangélicos pregam Brasil governado por igreja com Bolsonaro",
+    "summary": "Conferência Global 22 reúne bispos e pastores pops em Brasília"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8427.921875,
+      "left": 974.984375,
+      "height": 93.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-bolsonaro-deve-explorar-imagem-de-perseguido-pelo-tse.shtml",
+    "hat": "Discurso de campanha",
+    "title": "Bolsonaro deve explorar imagem de perseguido pelo TSE"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8298.984375,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-faz-live-com-janones-e-diz-que-muitas-vezes-mais-humildes-acreditam-em-qualquer-coisa.shtml",
+    "hat": "live com Janones",
+    "title": "Lula afirma que muitas vezes 'mais humildes acreditam em qualquer coisa'",
+    "summary": "Ex-presidente diz que Bolsonaro causa malefícios com mentiras disseminadas"
+  }
+]

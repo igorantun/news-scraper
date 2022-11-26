@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8968.3125,
+      "left": 329,
+      "height": 384,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/entenda-como-o-tse-quer-trocar-varejo-pelo-atacado-para-derrubar-o-que-considera-fake-news/",
+    "hat": "Eleições 2022",
+    "title": "Entenda como o TSE quer trocar 'varejo' pelo 'atacado' para derrubar o que considera fake news",
+    "summary": "Tribunal poderá excluir conteúdos idênticos àqueles que já foram considerados como desinformação"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8968.3125,
+      "left": 1190.328125,
+      "height": 402.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/caos-informativo-esta-implantado-neste-segundo-turno/",
+    "hat": "Pedro Doria",
+    "title": "Caos informativo está implantado neste segundo turno",
+    "summary": "'Máquina descentralizada de desinformação entrou em atividade máxima', escreve colunista"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8504.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/inovacao/unicornio-hotmart-demite-227-apos-realizar-maior-evento-da-historia-da-startup/",
+    "hat": "CRISE NA TECNOLOGIA",
+    "title": "'Unicórnio' Hotmart demite 227 após realizar maior evento da história da startup"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8504.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/canabidiol-conselho-de-medicina-vai-rediscutir-resolucao-que-limitou-uso-de-produto/",
+    "hat": "DERIVADO DA MACONHA",
+    "title": "Conselho Federal de Medicina vai rediscutir limitação ao uso de canabidiol no Brasil",
+    "summary": "CFM reabre consulta sobre a substância após resolução que prevê prescrição apenas para tipos de epilepsia"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8504.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/hans-niemann-abre-processo-de-r522-milhoes-contra-magnus-carlsen-por-acusacoes-de-trapaca-no-xadrez/",
+    "hat": "Hans Niemann",
+    "title": "Norueguês acusado de trapaça no xadrez abre processo de R$ 522 mi contra Magnus Carlsen",
+    "summary": "O site chess.com, o enxadrista Hikaru Nakamura e outros envolvidos são alvos da ação do americano de 19 anos"
+  }
+]

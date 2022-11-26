@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9856.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/entenda-as-acusacoes-de-bolsonaro-sobre-propagandas-em-radios-e-suas-eventuais-fragilidades/",
+    "hat": "JUSTIÇA ELEITORAL",
+    "title": "Entenda as acusações de Bolsonaro sobre propaganda eleitoral em rádios e suas eventuais fragilidades",
+    "summary": "Presidente do TSE, Alexandre de Moraes, arquivou caso sem ouvir as emissoras, por falta de consistência nas provas apresentadas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9460.359375,
+      "left": 329,
+      "height": 759.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/putin-afirma-ter-bom-relacionamento-tanto-com-lula-quanto-com-bolsonaro/",
+    "hat": "DIPLOMACIA",
+    "title": "Putin diz ter boas relações tanto com Lula quanto com Bolsonaro",
+    "summary": "Presidente da Rússia diz que 'o mais importante' é que o país não interfere em processos políticos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9460.359375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/em-carta-aberta-lula-promete-adotar-politica-fiscal-responsavel/",
+    "hat": "CORRIDA ELEITORAL",
+    "title": "Lula divulga carta aberta e promete adotar 'política fiscal responsável'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9042.25,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/datafolha-no-segundo-turno-lula-tem-49-das-intencoes-de-voto-bolsonaro-44-3/",
+    "hat": "NOVA PESQUISA",
+    "title": "Datafolha: Lula tem 49% das intenções de voto, e Bolsonaro aparece com 44%"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8592.140625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/cigarro-qual-e-a-melhor-idade-para-parar-de-fumar-estudo-aponta-dado-entenda/",
+    "hat": "TABAGISMO",
+    "title": "Qual é a melhor idade para parar de fumar? Estudo dá a resposta",
+    "summary": "Pesquisa analisou taxa de mortalidade entre pessoas que largaram o cigarro em diferentes períodos da vida"
+  }
+]

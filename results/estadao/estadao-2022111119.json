@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9932.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/pec-da-transicao-e-adiada-para-semana-que-vem-apos-repercussao-negativa-do-mercado/",
+    "hat": "CONTAS PÚBLICAS",
+    "title": "PEC da Transição é adiada para semana que vem após repercussão negativa do mercado",
+    "summary": "Senador Randolfe Rodrigues (Rede -AM) disse que proposta vai excluir Bolsa Família do teto de gastos, para que política contra fome seja tratada como política de Estado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9932.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/comandantes-das-forcas-armadas-falaram-pelas-instituicoes-militares-e-nao-pelo-governo-bolsonaro/",
+    "hat": "NOTA SOBRE MANIFESTAÇÕES",
+    "title": "Comandantes das Forças Armadas falaram pelas instituições e não pelo governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9362.203125,
+      "left": 329,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/grupo-de-advogados-anti-lava-jato-tera-vagas-na-transicao-e-discute-lista-sextupla-para-pgr/",
+    "hat": "Novo governo",
+    "title": "Grupo de advogados anti-Lava Jato terá vagas na transição e discute lista sêxtupla para PGR",
+    "summary": "Grupo Prerrogativas terá ao menos quatro integrantes nomeados para grupos temáticos da transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9362.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/viagens-de-onibus-ganham-luxos-de-1-classe-com-sala-vip-poltrona-massageadora-e-tv-conheca/",
+    "hat": "Negócios",
+    "title": "Viagens de ônibus ganham luxos de 1ª classe, com sala vip, poltrona massageadora e TV",
+    "summary": "Empresas disputam os passageiros assustados com o preço das viagens de avião"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9362.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/gigantes-da-tecnologia-buscam-mundo-sem-senhas-na-internet/",
+    "hat": "Link",
+    "title": "Gigantes da tecnologia, como Apple e Google, buscam ‘mundo sem senhas’ na internet",
+    "summary": "Padrão de autenticação visa simplicidade e segurança em meio a vazamentos de dados"
+  }
+]

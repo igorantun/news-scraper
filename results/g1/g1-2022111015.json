@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6686,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/lula-pronunciamento-brasilia.ghtml",
+    "hat": "Reunião com aliados",
+    "title": "Lula diz que Alckmin não será ministro do seu governo",
+    "summary": "Em discurso, presidente eleito pregou diálogo, defendeu as urnas eletrônicas e reafirmou compromisso de combater a fome."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6686,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/10/video-mostra-marido-de-professora-saindo-de-apartamento-em-sp-com-carrinho-de-mercado-policia-acusa-ex-lutador-de-mata-la-e-levar-corpo.ghtml",
+    "hat": "Feminicídio em SP",
+    "title": "Ex-lutador mata a esposa e retira corpo em carrinho de compras"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6349.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pr/parana/noticia/2022/11/10/homem-reencontra-familia-biologica-37-anos-apos-ser-vendido-pelo-proprio-pai-foi-um-turbilhao-de-sentimentos.ghtml",
+    "hat": "Paraná",
+    "title": "Homem reencontra família 37 anos após ser vendido pelo pai"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5944.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/lula-chora-ao-dizer-que-reafirma-compromisso-com-combate-a-fome-no-pais.ghtml",
+    "title": "Lula chora ao falar sobre a fome: 'Jamais esperava que voltasse'",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5666.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/10/tomate-cebola-passagem-aerea-etanol-veja-as-50-maiores-altas-e-baixas-em-outubro-e-no-acumulado-de-12-meses.ghtml",
+    "hat": "Peso no bolso",
+    "title": "Passagem, limão, tomate: veja os itens que ficaram mais caros em outubro",
+    "category": "Economia"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4457,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/28/veja-o-que-e-fato-ou-fake-nas-falas-dos-candidatos-ao-governo-de-sp-no-debate-da-globo-do-2o-turno.ghtml",
+    "hat": "Reta final",
+    "title": "Debate em SP: veja o que é #FATO ou #FAKE nas falas de Haddad e Tarcísio"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4457,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/ao-vivo/debate-presidencial-para-segundo-turno-acompanhe-em-tempo-real.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "Bolsonaro x Lula: Globo faz hoje último debate antes do 2º turno"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4120.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/28/maior-doador-da-eleicao-ajuda-a-eleger-9-candidatos-e-a-levar-2-para-o-2o-turno.ghtml",
+    "hat": "Financiamento de campanha",
+    "title": "Maior doador, bilionário ajuda a eleger 9 e levar 2 ao 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3715.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2022/noticia/2022/10/28/debate-para-governador-no-rs-tem-troca-de-acusacoes-entre-onyx-e-leite-alem-de-farpas-sobre-recuperacao-fiscal-e-pandemia.ghtml",
+    "hat": "Disputa nos estados",
+    "title": "Recuperação fiscal e vacina são temas em debate quente no RS",
+    "category": "Eleições 2022 no Rio Grande do Sul"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3437.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2022/noticia/2022/10/28/arengas-sobre-apoios-locais-e-aliancas-nacionais-dominam-debate-para-governadora-em-pernambuco.ghtml",
+    "title": "Raquel x Marília: em PE, debate é dominado por embate sobre alianças",
+    "category": "Eleições 2022 em Pernambuco"
+  }
+]

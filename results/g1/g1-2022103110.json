@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3681,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/31/lula-recupera-terreno-perdido-por-haddad-em-2018-e-tem-77-milhoes-de-votos-a-mais-no-sudeste-bolsonaro-perde-13-milhao-de-votos-na-regiao.ghtml",
+    "hat": "Eleição em números",
+    "title": "Recuperação de votos do PT no Sul e no Sudeste foi crucial"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -3681,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/mapas/mapa-da-apuracao-no-brasil-presidente/2-turno/",
+    "title": "MAPA DA APURAÇÃO: veja a votação para presidente na sua cidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2939.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-discurso-vitoria.ghtml",
+    "title": "Lula: 'Não existem dois Brasis. É hora de baixar as armas'",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2661.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/30/aliados-tentam-falar-com-bolsonaro-e-sao-informados-de-que-presidente-foi-dormir.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Aliados tentam falar com Bolsonaro e são informados de que ele foi dormir",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -2383.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/apuracao-dos-votos-100percent-das-urnas-sao-totalizadas.ghtml",
+    "hat": "Números da apuração",
+    "title": "100% das urnas apuradas: Lula venceu com 2,1 milhões de votos a mais"
+  }
+]

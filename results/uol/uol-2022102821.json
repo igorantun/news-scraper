@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12705.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/fabio-faria-diz-que-tentou-conciliacao-com-tse-e-se-arrepende-profundamente-de-entrevista-das-radios.shtml",
+    "title": "Fábio Faria diz que se arrepende de entrevista sobre inserção em rádios",
+    "summary": "Ministro afirma que quis se conciliar com TSE e protestou contra ideia de adiar eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12225.9375,
+      "left": 365,
+      "height": 557.546875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/jovem-pan-lula-direito-de-resposta-eleicoes.htm",
+    "title": "TSE ordena que Jovem Pan exiba direito de resposta de Lula sobre Lava Jato"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12225.9375,
+      "left": 619.15625,
+      "height": 565.546875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/caixa-balanco-consignado-auxilio-brasil-eleicoes-bolsonaro.htm",
+    "title": "Caixa omite balanço do consignado do Auxílio Brasil concedido na campanha eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12225.9375,
+      "left": 873.328125,
+      "height": 323.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/10/morre-jerry-lee-lewis-um-dos-nomes-mais-importantes-do-rock-and-roll-aos-87-anos.shtml",
+    "title": "Jerry Lee Lewis, que incendiou o rock com o piano, morre aos 87"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11878.453125,
+      "left": 873.328125,
+      "height": 215.125,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/eleicoes-governo-de-sao-paulo-pesquisas-ultima-semana.htm",
+    "title": "O que pesquisas para governo de São Paulo desta semana apontam"
+  }
+]

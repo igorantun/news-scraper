@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10971.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/cultura/musica/morre-gal-costa-uma-das-maiores-vozes-da-mpb-aos-77-anos/",
+    "hat": "LUTO",
+    "title": "Morre Gal Costa, ícone da Tropicália e da MPB",
+    "summary": "Causa da morte não foi divulgada; cantora estava com 77 anos e tinha shows marcados para dezembro e janeiro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10133.984375,
+      "left": 329,
+      "height": 787.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/lista-de-alckmin-revela-novos-nomes-da-transicao-saiba-quem-sao/",
+    "hat": "EXCLUSIVO",
+    "title": "Lista de Alckmin revela novos nomes da equipe de transição; veja quem são",
+    "summary": "Documento foi fotografado pelo Estadão e indica Franklin Martins na comunicação, além de Marta Suplicy e Márcio França no Turismo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10133.984375,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-se-reune-com-lira-e-petistas-falam-em-abertura-de-dialogo/",
+    "hat": "PRESIDENTE ELEITO",
+    "title": "Lula diz a Lira que PT não terá candidato próprio à presidência da Câmara"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9655.875,
+      "left": 1190.328125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/lula-banca-pec-da-transicao-para-gastos-extras-alem-do-teto-em-2023-diz-lider-do-pt/",
+    "hat": "novo governo",
+    "title": "Lula banca PEC da Transição para gastos extras além do teto em 2023, diz líder do PT",
+    "summary": "Gastos extras incluiriam a manutenção do Auxílio Brasil de R$ 600, que voltará a se chamar Bolsa Família"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9259.875,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-ve-relatorio-da-defesa-como-ultima-cartada-militares-prometem-entregar-documento-hoje/",
+    "hat": "PROCESSO ELEITORAL",
+    "title": "Defesa promete divulgar hoje relatório sobre sistema de votação"
+  }
+]

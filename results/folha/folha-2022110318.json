@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8672.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/equipe-de-lula-vai-propor-de-pec-da-transicao-para-autorizar-gastos-extras-em-2023.shtml",
+    "hat": "transição de governo",
+    "title": "Equipe de Lula vai propor 'PEC da transição' para autorizar gastos extras em 2023",
+    "summary": "Valor da fatura ainda não está definido, mas prioridade é garantir continuidade de benefícios sociais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.609375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8354.4375,
+      "left": 975,
+      "height": 241.59375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/quem-contesta-eleicao-em-atos-antidemocraticos-sera-tratado-como-criminoso-diz-moraes.shtml",
+    "hat": "atos golpistas",
+    "title": "Quem contesta eleição em atos antidemocráticos será tratado como criminoso, diz Moraes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8077.859375,
+      "left": 975,
+      "height": 144,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonarista-tenta-driblar-veto-de-moraes-em-atos-golpistas-e-e-derrubado-de-novo.shtml",
+    "hat": "+atos golpistas",
+    "title": "Bolsonarista tenta driblar veto de Moraes em atos golpistas e é derrubado de novo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7898.875,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bloqueios-golpistas-permanecem-em-11-estados-acompanhe-situacao-das-estradas.shtml",
+    "hat": "situação das estradas",
+    "title": "Bloqueios golpistas recuam também em SC e MT e caem para 5 estados; acompanhe"
+  }
+]

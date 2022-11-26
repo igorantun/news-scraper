@@ -1,0 +1,35 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": 0,
+      "left": 0,
+      "height": 0,
+      "width": 0
+    },
+    "link": null
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": 0,
+      "left": 0,
+      "height": 0,
+      "width": 0
+    },
+    "link": null
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": 0,
+      "left": 0,
+      "height": 0,
+      "width": 0
+    },
+    "link": null
+  }
+]

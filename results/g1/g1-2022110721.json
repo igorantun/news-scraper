@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5218,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/07/saques-da-poupanca-superam-depositos-em-r-11-bilhoes-em-outubro-diz-bc.ghtml",
+    "hat": "Economia",
+    "title": "Saída de recursos da poupança é a maior para o mês de outubro",
+    "summary": "Saques superaram depósitos em R$ 11 bilhões no mês passado. Movimento ocorre em meio à alta da taxa de juros e da inflação."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5218,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/veja-quem-e-quem-no-julgamento-da-ex-deputada-federal-flordelis-pela-morte-do-pastor-anderson-do-carmo.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Quem é quem no julgamento de Flordelis, que começou hoje"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4881.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/lewis-hamilton-posa-com-o-bone-cpx-apos-cerimonia-na-camara.ghtml",
+    "hat": "Piloto homenageado",
+    "title": "Lewis Hamilton ganha boné CPX após cerimônia na Câmara"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4476.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/07/convocados-da-selecao-para-a-copa-do-mundo-2022-veja-a-lista-de-tite.ghtml",
+    "hat": "Em busca do hexa",
+    "title": "Daniel Alves, Pedro e Martinelli são convocados para a Copa; veja lista",
+    "category": "seleção brasileira"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4198.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/07/copa-do-mundo-valor-de-mercado-da-selecao-e-estimado-em-r-589-bilhoes-confira-lista-de-jogadores.ghtml",
+    "hat": "⚽💵",
+    "title": "Valor de mercado da seleção é estimado em R$ 5,89 bilhões",
+    "category": "Economia"
+  }
+]

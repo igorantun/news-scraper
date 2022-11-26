@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9351.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tse-tem-maioria-para-liberar-direito-de-resposta-a-lula-na-campanha-do-bolsonaro/",
+    "hat": "CORRIDA PRESIDENCIAL",
+    "title": "TSE tem maioria para conceder direito de resposta a Lula e tirar quase 1 hora de TV de Bolsonaro",
+    "summary": "Ministros acataram parcialmente pedido do petista para se defender de publicidades que o associava à criminalidade e usava dados da votação em presídios; candidato terá direito a 116 inserções de 30 segundos na última semana de campanha"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9351.3125,
+      "left": 1190.328125,
+      "height": 338.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/adriana-fernandes-auxilio-brasil-credito-consignado-eleicao-presidencial/",
+    "hat": "Adriana Fernandes",
+    "title": "Crédito consignado do Auxílio Brasil é um caldeirão prestes a explodir"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8983.203125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/timeline-eleicoes-2022/campanha-reta-final-tse-ataque/",
+    "hat": "POLÍTICA",
+    "title": "TSE vira alvo de ataque nas redes sociais na reta final da campanha"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8395.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/grupo-de-garcia-ja-pressiona-tarcisio-por-cargos-em-eventual-governo-em-sp/",
+    "hat": "eleições em sp",
+    "title": "Grupo de Garcia já pressiona Tarcísio por cargos em eventual governo em SP",
+    "summary": "Aliados do governador devem ocupar postos no primeiro e segundo escalões da administração paulista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8395.65625,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/ex-presidente-da-china-e-escoltado-para-fora-do-congresso-do-partido-comunista/",
+    "hat": "EM PEQUIM",
+    "title": "Ex-presidente da China é escoltado para fora do Congresso do Partido Comunista; veja vídeo",
+    "summary": "Hu Jintao estava sentado ao lado do atual líder chinês, Xi Jinping, quando foi retirado por seguranças"
+  }
+]

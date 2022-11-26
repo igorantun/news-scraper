@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5953,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-e-indiciado-pela-pf-por-tentativas-de-homicidio.ghtml",
+    "hat": "Aliado de Bolsonaro",
+    "title": "Roberto Jefferson é indiciado por 4 tentativas de homicídio contra policiais",
+    "summary": "Ex-deputado bolsonarista voltou para a cadeia após desrespeitar ordens da Justiça, atirar com fuzil e lançar granadas em agentes da PF."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5953,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2022/10/24/leslie-jordan-ator-de-will-and-grace-morre-aos-67-anos-diz-site.ghtml",
+    "hat": "Hollywood",
+    "title": "Leslie Jordan, de 'Will and Grace', morre em acidente aos 67 anos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5616.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2022/10/24/royal-caribbean-lancara-o-maior-navio-de-cruzeiros-do-mundo-em-2024.ghtml",
+    "hat": "🚢🔝",
+    "title": "Maior navio de cruzeiros do mundo será lançado em 2024; conheça"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5211.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/estudio-i/video/linha-do-tempo-mostra-a-relacao-de-bolsonaro-e-roberto-jefferson-11054519.ghtml",
+    "title": "VÍDEO: linha do tempo mostra como Bolsonaro e Jefferson são próximos",
+    "category": "Estúdio i"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4933.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/imagens-mostram-fuzil-usado-por-roberto-jefferson-para-atirar-na-pf-e-grande-quantidade-de-municao-achada-na-casa-dele.ghtml",
+    "title": "PF apreendeu fuzil usado por Jefferson no ataque e munições",
+    "category": "Rio de Janeiro"
+  }
+]

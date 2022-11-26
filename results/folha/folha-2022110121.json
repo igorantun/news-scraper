@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10548.109375,
+      "left": 315,
+      "height": 314.640625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-quebra-silencio-condena-bloqueios-e-fala-em-indignacao-com-injusticas-na-eleicao.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro quebra silêncio, condena bloqueios e fala em indignação e injustiça com eleição",
+    "summary": "Presidente diz ainda que 'a direita surgiu de verdade no país'; ele ficou quase dois dias sem se pronunciar após derrota para Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.609375,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições na internet",
+    "title": "'Debate legislativo é necessário', diz especialista sobre regulamentação na internet",
+    "summary": "Especialistas apontam para a insuficiência da autorregulação dos serviços nos espaços digitais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10548.109375,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/tv-folha-discute-resultados-da-eleicao-ao-vivo-durante-a-semana.shtml",
+    "hat": "ao vivo",
+    "title": "Live com jornalistas às 18h repercute impactos dos bloqueios golpistas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10198.484375,
+      "left": 315,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/bruno-boghossian/2022/11/bolsonaro-mede-palavras-para-manter-golpismo-vivo-enquanto-busca-protecao.shtml",
+    "hat": "Bruno Boghossian",
+    "title": "Bolsonaro mede palavras para manter golpismo vivo enquanto busca proteção",
+    "summary": "Presidente não desautoriza contestação e tenta manter protagonismo na direita"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -10198.484375,
+      "left": 645,
+      "height": 189.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/aras-silencia-em-mais-uma-crise-e-procuradores-cobram-acao-sobre-bloqueios-de-rodovias.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Aras silencia em mais uma crise, e procuradores cobram ação sobre bloqueios de rodovias",
+    "summary": "Ministros do Supremo intensificaram as críticas ao procurador-geral da República"
+  }
+]

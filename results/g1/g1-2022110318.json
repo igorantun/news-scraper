@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5585,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/relator-do-orcamento-propoe-pec-para-tirar-despesas-inadiaveis-do-teto-de-gastos.ghtml",
+    "hat": "Previsão para 2023",
+    "title": "Relator do Orçamento e Alckmin propõem PEC para manter auxílio de R$ 600",
+    "summary": "Texto prevê tirar gastos considerados 'inadiáveis' do teto. Avaliação é que não há espaço no orçamento enviado ao Congresso pelo atual governo."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5585,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/noticia/2022/11/03/close-de-boca-de-crocodilo-em-cuba-ganha-premio-de-fotos-de-mangue.ghtml",
+    "hat": "📸🐊",
+    "title": "Close de boca de crocodilo em Cuba ganha prêmio de fotos de mangue"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5248.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/11/03/lagoa-surge-em-faixa-de-areia-alargada-ha-11-meses-em-balneario-camboriu-entenda.ghtml",
+    "hat": "Santa Catarina",
+    "title": "Lagoa surge em praia alargada há 11 meses em Balneário Camboriú"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4843.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/alckmin-chega-ao-planalto-para-primeira-reuniao-sobre-transicao-com-ministro-de-bolsonaro.ghtml",
+    "hat": "Passagem de bastão",
+    "title": "Alckmin se reúne com Ciro Nogueira no Planalto e inicia transição",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4565.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/presidente-do-tse-diz-que-resultado-das-urnas-sao-incontestaveis-e-criminosos-serao-responsabilizados.ghtml",
+    "hat": "Acabou a eleição",
+    "title": "Moraes diz que resultado das urnas é incontestável e condena atos golpistas",
+    "summary": "Presidente do TSE afirmou que quem ataca a democracia comete crime e será punido.",
+    "category": "Política"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8704.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pec-para-tirar-bolsa-familia-do-teto-ganha-forca-como-solucao-para-orcamento.shtml",
+    "hat": "transição de governo",
+    "title": "PEC para tirar Bolsa Família do teto de gastos ganha força em negociação",
+    "summary": "Segundo interlocutores ouvidos pela Folha, saída é vista como a mais viável do ponto de vista técnico e político"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.53125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8386.4375,
+      "left": 975,
+      "height": 257.203125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/alckmin-acumula-funcoes-em-sinal-de-que-tera-papel-chave-em-governo-lula.shtml",
+    "hat": "vice eleito",
+    "title": "No comando da transição, Alckmin acumula funções e mostra que terá papel-chave em governo Lula",
+    "summary": "Protagonismo gera desconforto entre petistas, que temem perda de espaço"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8094.25,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/psdb-nao-sera-base-nem-tera-cargos-sob-lula-mas-apoiara-governabilidade-diz-bruno-araujo.shtml",
+    "hat": "tucanos",
+    "title": "PSDB não será base nem terá cargos sob Lula, mas apoiará governabilidade, diz Araújo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7893.21875,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/11/janones-e-convidado-para-falar-sobre-janonismo-cultural-no-exterior.shtml",
+    "hat": "Painel",
+    "title": "André Janones é convidado para falar sobre 'janonismo cultural' no exterior"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4023,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/10/29/veja-o-que-e-fato-ou-fake-nas-falas-dos-presidenciaveis-no-debate-da-globo-do-2o-turno.ghtml",
+    "hat": "Último embate do 2º turno",
+    "title": "O que é #FATO ou #FAKE nas falas de Lula e Bolsonaro no debate da Globo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4023,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/debate-de-2o-turno-para-presidente-na-globo-fotos.ghtml",
+    "title": "FOTOS: caras e bocas, bastidores e outros momentos do debate"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3686.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/o-que-lula-e-bolsonaro-vao-fazer-na-vespera-das-eleicoes-veja-a-agenda-dos-candidatos-a-presidencia-neste-sabado.ghtml",
+    "hat": "Agenda dos presidenciáveis",
+    "title": "Na véspera da eleição, Lula estará na Av. Paulista, e Bolsonaro, em BH"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3281.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/debate-da-globo-do-2o-turno-para-presidente-veja-integra-em-videos.ghtml",
+    "title": "VÍDEOS: assista ao debate na íntegra",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3003.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/29/g1-tv-globo-e-globonews-divulgam-pesquisas-presidenciais-de-ipec-e-datafolha-a-partir-das-18h.ghtml",
+    "hat": "Pesquisa presidencial",
+    "title": "g1, TV Globo e GloboNews divulgam Ipec e Datafolha a partir das 18h",
+    "category": "Pesquisa Eleitoral"
+  }
+]

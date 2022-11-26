@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12538.609375,
+      "left": 365,
+      "height": 308.71875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/thais-oyama/2022/11/09/stf-teme-que-bolsonaro-use-relatorio-das-forcas-para-reanimar-golpismo.htm",
+    "title": "STF teme que Bolsonaro use relatório das Forças para reanimar golpismo",
+    "summary": "Documento não apontará fraudes, mas dirá que há espaço para 'aperfeiçoamento'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12180.890625,
+      "left": 365,
+      "height": 448.796875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/09/zeca-camargo-gal-costa-era-aguda-e-doce-na-voz-e-nas-opinioes.htm",
+    "title": "Zeca Camargo: Gal Costa era aguda e doce na voz e nas opiniões"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12180.890625,
+      "left": 619.15625,
+      "height": 453.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/lira-e-lula-nao-ficam-sozinhos-em-encontro-e-pec-segue-sem-definicao.htm",
+    "title": "Lira e Lula não ficam sozinhos em 1º encontro após eleição, e PEC continua sem definição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12180.890625,
+      "left": 873.328125,
+      "height": 453.609375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/09/neymar-cuida-do-rosto-para-ter-pele-de-bebe-na-copa-veja-o-que-ele-faz.htm",
+    "title": "Neymar cuida do rosto para ter 'pele de bebê' na Copa; veja o que ele faz"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11678.28125,
+      "left": 365,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/casagrande/2022/11/09/dependencia-quimica-e-uma-doenca-grave-qualquer-deboche-e-perversidade.htm",
+    "title": "Casão: Dependência química é uma doença grave, qualquer deboche é perversidade"
+  }
+]

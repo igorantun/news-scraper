@@ -1,0 +1,64 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5975,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-ja-esta-preso-no-rio.ghtml",
+    "title": "Roberto Jefferson chega a cadeia 14 h após reagir à prisão e atacar a PF a tiros"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5975,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/apos-jefferson-atacar-policiais-bolsonaro-diz-que-nao-tem-nem-foto-com-ex-deputado-apesar-de-registros-no-palacio-do-planalto.ghtml",
+    "title": "Bolsonaro diz não ter foto com Roberto Jefferson; veja imagens"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5638.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2022/10/23/cinegrafista-agredido-em-cobertura-da-prisao-de-roberto-jefferson-vai-passar-a-noite-em-observacao-na-uti.ghtml",
+    "title": "Cinegrafista atacado por bolsonarista passa noite na UTI"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5233.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/24/prisao-de-roberto-jefferson-comentaristas-da-globonews-analisam-ataque-de-ex-deputado-a-policiais.ghtml",
+    "title": "ANÁLISES: Jefferson quis virar mártir, mas se tornou criminoso comum"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4955.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/24/o-assunto-820-amazonia-urgente-o-impacto-no-clima.ghtml",
+    "hat": "🎧 Podcast",
+    "title": "O ASSUNTO: por que salvar a Amazônia é uma missão de extrema urgência",
+    "category": "O Assunto"
+  }
+]

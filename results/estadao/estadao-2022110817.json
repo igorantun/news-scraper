@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9837.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/lula-stf-bancar-bolsa-familia-r600-2023-pec/",
+    "hat": "NOVO GOVERNO",
+    "title": "Lula pode usar decisão do STF sobre renda mínima para bancar Bolsa Família de R$ 600 sem PEC",
+    "summary": "Argumento é que o governo eleito poderá fazer esse pagamento via crédito extraordinário, despesa que fica fora do teto de gastos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9837.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/dossie-apocrifo-mente-ao-usar-fracasso-de-bolsonaro-no-vale-do-javari-como-sinal-de-fraude-nas-urnas/",
+    "hat": "REGIÃO DA AMAZÔNIA",
+    "title": "Dossiê mente ao usar derrota de Bolsonaro no Vale do Javari como sinal de fraude nas urnas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9367.3125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/blatter-fifa-copa-catar-polemica-escolha-sede/",
+    "hat": "Ex-presidente da Fifa",
+    "title": "Blatter diz que escolher Catar como sede da Copa do Mundo foi um erro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9367.3125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pl-vai-para-a-oposicao-a-lula-e-busca-acordo-com-pp-de-lira-para-comandar-senado/",
+    "hat": "Política",
+    "title": "PL de Bolsonaro vai para a oposição a Lula e busca acordo com PP no Senado"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9367.3125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-nomeia-irma-de-paulo-guedes-para-conselho-nacional-de-educacao/",
+    "hat": "Elizabeth Regina Nunes Guedes",
+    "title": "Bolsonaro nomeia irmã de Paulo Guedes para Conselho Nacional de Educação",
+    "summary": "Órgão auxilia o Ministério da Educação com formulação e avaliação de políticas educacionais"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12447.609375,
+      "left": 365,
+      "height": 311.921875,
+      "width": 732.5
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/04/meirelles-defende-furar-teto-como-excepcionalidade-nao-ha-alternativa.htm",
+    "title": "Meirelles defende que Lula fure teto de gastos para ter auxílio de R$ 600",
+    "summary": "Ex-ministro disse que não recebeu nenhum convite para integrar governo petista"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12086.6875,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/edir-macedo-lula-novo-video.htm",
+    "title": "Em novo vídeo, Edir Macedo não cita Gleisi Hoffmann e nega precisar perdoar Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11564.890625,
+      "left": 365,
+      "height": 146.375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/04/quem-sao-as-mulheres-cotadas-para-assumir-ministerios-no-governo-lula.htm",
+    "title": "Quais são as mulheres cotadas para assumir ministérios no governo Lula?"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12086.6875,
+      "left": 619.15625,
+      "height": 342.671875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-tem-semana-pos-eleicao-recluso-e-sem-agenda-de-trabalho-motociata-ou-comentarios-nas-redes.shtml",
+    "title": "Bolsonaro tem semana pós-eleição recluso e sem agenda de trabalho"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11720.015625,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/nos-eua-zambelli-pede-que-apoiadores-mandem-denuncias-de-censura.htm",
+    "title": "Nos Estados Unidos, Carla Zambelli pede a apoiadores que mandem denúncias de 'censura'"
+  }
+]

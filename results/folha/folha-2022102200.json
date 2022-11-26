@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8954.109375,
+      "left": 315,
+      "height": 260.734375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aliados-de-bolsonaro-protocolam-pedido-de-cpi-na-camara-para-intimidar-institutos-de-pesquisa.shtml",
+    "hat": "Eleições 2022",
+    "title": "Aliados de Bolsonaro protocolam pedido de CPI na Câmara para intimidar institutos de pesquisa",
+    "summary": "Objetivo é investigar levantamentos realizados a partir de 2014; Eduardo Bolsonaro é coautor do projeto"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.4375,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8658.390625,
+      "left": 974.984375,
+      "height": 392,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministra-do-tse-suspende-direitos-de-resposta-de-bolsonaro-apos-ter-suspendido-os-de-lula.shtml",
+    "hat": "justiça eleitoral",
+    "title": "Após Lula, ministra do TSE suspende direitos de resposta de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8231.40625,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/michelle-bolsonaro-vai-a-minas-no-mesmo-dia-de-ex-presidente-e-entoa-lula-ladrao.shtml",
+    "hat": "campanha",
+    "title": "Michelle Bolsonaro vai a MG no mesmo dia de ex-presidente e entoa 'Lula ladrão'; veja",
+    "summary": "Primeira-dama diz que Bíblia ensina que tolos se inclinam para a esquerda"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8611.40625,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Senado e Câmara",
+    "title": "O que muda na política brasileira com um Congresso mais conservador?"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5864.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/economia-impoe-missao-ardua-a-lula-para-fazer-o-brasil-voltar-a-crescer/",
+    "hat": "Desafios",
+    "title": "Economia impõe missão árdua a Lula para o Brasil voltar a crescer",
+    "summary": "O governo terá que lidar com adversidades fiscais e retomar reformas como a tributária para conquistar a confiança de investidores e empresários"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4243.921875,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -2851.796875,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5534.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/cultura/dilma-o-futuro-governo-vai-achar-um-lugar-para-ela/",
+    "hat": "Ex-presidente",
+    "title": "Dilma Rousseff: o futuro governo vai achar um lugar para ela"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5534.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/a-inspiracao-de-bolsonaro-para-tentar-voltar-ao-poder/",
+    "hat": "Política",
+    "title": "A inspiração de Jair Bolsonaro para tentar voltar ao poder"
+  }
+]

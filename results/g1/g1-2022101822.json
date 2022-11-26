@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5933,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/numero-de-denuncias-de-assedio-eleitoral-de-empresas-contra-funcionarios-sobe-para-447-diz-mpt.ghtml",
+    "hat": "Funcionários coagidos",
+    "title": "Assédio eleitoral: nº de denúncias contra empresas sobe para 447, diz MPT",
+    "summary": "Houve um salto de 160% em uma semana. Empresa ou empregador que constrange funcionário a votar em um candidato comete crime."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5933,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/18/humorista-e-vitima-de-xingamentos-racistas-por-vizinha-ao-tentar-usar-elevador-em-predio-na-zona-oeste-de-sp.ghtml",
+    "hat": "São Paulo",
+    "title": "Humorista Eddy Junior sofre ataque racista de vizinha em prédio"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5596.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/10/18/junior-fala-sobre-eleicoes-sou-contra-o-governo-atual.ghtml",
+    "hat": "Música e eleições",
+    "title": "'Tiozão do Zap': Junior comenta apoio de Chitãozinho a Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5191.828125,
+      "left": 348.65625,
+      "height": 178.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/barroso-permite-oferta-de-servico-de-transporte-publico-gratuito-no-segundo-turno-das-eleicoes.ghtml",
+    "hat": "Dia da votação",
+    "title": "Ministro do STF autoriza transporte público de graça no 2º turno",
+    "summary": "Barroso afirma que prefeitos não poderão ser punidos e que serviço não pode discriminar eleitores por suas posições políticas.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4980.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/tse-da-prazo-para-carlos-bolsonaro-se-manifestar-sobre-uso-de-redes-sociais-para-desinformacao.ghtml",
+    "hat": "Disseminação de conteúdo falso",
+    "title": "TSE investiga rede de fake news e dá prazo para Carlos Bolsonaro se manifestar",
+    "summary": "Ministro indica que esquema usado na eleição de 2018 cresceu, com novas formas de financiamento.",
+    "category": "Eleições 2022"
+  }
+]

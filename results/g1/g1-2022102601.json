@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5756,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/25/ipec-indica-empate-tecnico-em-sp-tarcisio-tem-46percent-e-haddad-43percent.ghtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Ipec aponta empate técnico entre Tarcísio e Haddad na reta final em SP",
+    "summary": "Candidato do Republicanos manteve 46%, enquanto petista oscilou de 41% para 43%. Em votos válidos, Tarcísio tem 52%, e Haddad, 48%."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5756,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/25/susana-naspolini-reporter-da-tv-globo-morre-aos-50-anos.ghtml",
+    "hat": "Luto na TV",
+    "title": "Susana Naspolini morre aos 49 anos após longa batalha contra o câncer"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5419.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/25/veja-momentos-marcantes-em-reportagens-de-susana-naspolini.ghtml",
+    "title": "VÍDEO: Repórter se popularizou por denúncias com leveza e bom humor"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5014.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/sp/sao-paulo/eleicoes/2022/pesquisas-eleitorais/governador/2-turno/Ipec/",
+    "hat": "Mais pesquisa",
+    "title": "Tarcísio x Haddad: veja pesquisa em SP por sexo, idade e renda"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4736.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2022/noticia/2022/10/25/ipec-em-pernambuco-raquel-lyra-tem-51percent-no-2o-turno-e-marilia-arraes-43percent.ghtml",
+    "title": "Ipec em Pernambuco: Raquel tem 51%, e Marília, 43%",
+    "category": "Eleições 2022 em Pernambuco"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5851.890625,
+      "left": 324,
+      "height": 276,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/como-bolsonaro-e-lula-se-preparam-para-o-primeiro-debate-do-segundo-turno/%20",
+    "hat": "Eleições 2022",
+    "title": "Como Bolsonaro e Lula se preparam para o primeiro debate do segundo turno",
+    "summary": "Presidente candidato à reeleição passou por treinamento com especialista em oratória e o líder petista pretende devolver os ataques no mesmo tom"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4268.234375,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/silencio-de-lula-sobre-economia-inquieta-mercado-na-reta-final-da-campanha",
+    "hat": "Reportagem de capa",
+    "title": "Incertezas sobre plano econômico de Lula inquietam mercado na reta final da eleição",
+    "summary": "Falta de clareza sobre diretrizes de um futuro governo do petista pode prejudicar desempenho do candidato em um momento decisivo da campanha"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3697.109375,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/romeu-zema-o-brasil-se-transformou-no-pais-das-pautas-irrelevantes/",
+    "hat": "Política",
+    "title": "Romeu Zema: 'O Brasil se transformou no país das pautas irrelevantes'",
+    "summary": "O governador reeleito de Minas defende Bolsonaro, critica a possibilidade de o PT voltar ao poder e afirma que a classe política perde tempo com temas pequenos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5551.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/o-que-damares-viu-nas-declaracoes-de-bolsonaro/",
+    "hat": "Campanha eleitoral",
+    "title": "Damares: presidente é vítima de 'maldade' em polêmica sobre pedofilia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5551.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/lula-usa-bolsonaro-como-desculpa-para-nao-detalhar-plano-economico/",
+    "hat": "Eleição",
+    "title": "Lula usa governo atual como desculpa para não detalhar plano econômico"
+  }
+]

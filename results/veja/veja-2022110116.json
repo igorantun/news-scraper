@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5866.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/cupula-da-prf-nega-passividade-para-conter-bloqueios-nas-estradas/",
+    "hat": "Brasil",
+    "title": "Cúpula da PRF diz que 'não se omitiu' sobre bloqueios; 306 pontos foram liberados",
+    "summary": "Corporação afirma que está usando 'todos os meios possíveis' para encerrar as paralisações de bolsonaristas nas vias de 20 estados e do DF e nega passividade em sua atuação"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1179.453125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -608.328125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5536.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/zema-critica-atos-em-rodovias-a-eleicao-ja-acabou-vamos-cumprir-a-lei/",
+    "hat": "Atos em rodovias",
+    "title": "Zema critica bloqueios: ‘A eleição já acabou, vamos cumprir a lei’"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5536.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/ministro-do-tcu-alerta-bolsonaristas-que-fecham-estradas-serao-presos/",
+    "hat": "Radar",
+    "title": "Chefe do TCU alerta bolsonaristas que fecham estradas: 'Serão presos'"
+  }
+]

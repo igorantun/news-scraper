@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9058.109375,
+      "left": 315,
+      "height": 198.8125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/plano-de-guedes-preve-salario-minimo-e-aposentadoria-sem-correcao-pela-inflacao-passada.shtml",
+    "hat": "Eleições 2022",
+    "title": "Plano de Guedes prevê salário mínimo e aposentadoria sem correção pela inflação passada",
+    "summary": "Proposta seria apresentada após o 2º turno em caso de vitória de Bolsonaro; presidente já rechaçou mudança semelhante no passado"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -903.109375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9011.125,
+      "left": 1305,
+      "height": 104.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/podcast-a-tentativa-de-lira-de-emparedar-institutos-com-projeto-para-criminalizar-pesquisas.shtml",
+    "hat": "criminalização",
+    "title": "A tentativa de Lira de emparedar institutos de pesquisa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8824.3125,
+      "left": 974.984375,
+      "height": 251.578125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/esporte/2022/10/flamengo-bate-corinthians-nos-penaltis-e-repete-na-bonanca-titulo-obtido-com-torneira-fechada.shtml",
+    "hat": "Copa do Brasil",
+    "title": "Flamengo ganha do Corinthians nos pênaltis e é campeão da Copa do Brasil pela quarta vez"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8537.75,
+      "left": 974.984375,
+      "height": 274.203125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-campanha-de-lula-ve-resiliencia-a-fake-news-e-bolsonaro-celebra-sudeste.shtml",
+    "hat": "datafolha",
+    "title": "Datafolha: Campanha de Lula vê resiliência a fake news, e Bolsonaro celebra Sudeste"
+  }
+]

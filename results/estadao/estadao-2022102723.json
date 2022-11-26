@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9760.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/entenda-as-acusacoes-de-bolsonaro-sobre-propagandas-em-radios-e-suas-eventuais-fragilidades/",
+    "hat": "JUSTIÇA ELEITORAL",
+    "title": "Entenda as acusações de Bolsonaro sobre propaganda eleitoral em rádios e suas eventuais fragilidades",
+    "summary": "Presidente do TSE, Alexandre de Moraes, arquivou caso sem ouvir as emissoras, por falta de consistência nas provas apresentadas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9364.359375,
+      "left": 329,
+      "height": 759.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/putin-afirma-ter-bom-relacionamento-tanto-com-lula-quanto-com-bolsonaro/",
+    "hat": "DIPLOMACIA",
+    "title": "Putin diz ter boas relações tanto com Lula quanto com Bolsonaro",
+    "summary": "Presidente da Rússia diz que 'o mais importante' é que o país não interfere em processos políticos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9364.359375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/lula-carta-2022-visao-mercado-financeiro/",
+    "hat": "E-investidor",
+    "title": "Como o mercado avaliou a carta de Lula que promete 'política fiscal responsável'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8946.25,
+      "left": 1190.328125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/cnj-suspende-redes-sociais-de-dois-magistrados-do-rio-e-do-amazonas-por-causa-de-publicacoes-de-teor-politico-partidario/",
+    "hat": "RETA FINAL DA ELEIÇÃO",
+    "title": "CNJ derruba pela primeira vez redes sociais de juízes pró-Lula e pró-Bolsonaro",
+    "summary": "Decisão atinge desembargador do Tribunal de Justiça do Rio e juíza do Amazonas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8542.703125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/datafolha-no-segundo-turno-lula-tem-49-das-intencoes-de-voto-bolsonaro-44-3/",
+    "hat": "NOVA PESQUISA",
+    "title": "Datafolha: Lula tem 49% das intenções de voto, e Bolsonaro aparece com 44%"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12674.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/desempenho-tarcisio-haddad-debate-globo.htm",
+    "title": "Campanhas veem erros com Haddad sem timing e Tarcísio desestabilizado",
+    "summary": "Equipes dos candidatos ao governo de SP avaliam desempenhos no último debate"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12249.3125,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/tarcisio-haddad-colunistas-debate.htm",
+    "title": "Quem ganhou o debate entre Tarcísio e Haddad na Globo? Colunistas do UOL opinam"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11928.203125,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/cupula-do-judiciario-ve-bolsonaro-em-modo-trump-e-preparando-tapetao-na-reta-final.shtml",
+    "title": "Cúpula do Judiciário vê Bolsonaro em modo Trump e preparando tapetão na reta final"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12249.3125,
+      "left": 619.15625,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/josias-de-souza/2022/10/27/bolsonaro-precisa-de-goleada-no-debate-da-globo-lula-joga-pelo-zero-a-zero.htm",
+    "title": "Josias: Bolsonaro precisa de goleada no debate da Globo; Lula joga pelo zero a zero"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12249.3125,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.band.uol.com.br/noticias/bora-brasil/ultimas/adolescente-e-morto-no-cpx-do-chapadao-em-operacao-da-prf-apos-morte-de-policial-16550546",
+    "title": "Adolescente é morto no Complexo do Chapadão, zona norte do Rio, em operação da PRF"
+  }
+]

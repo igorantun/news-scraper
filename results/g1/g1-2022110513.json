@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5849,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/05/desmatamento-garimpo-e-mais-veja-os-principais-desafios-do-governo-lula-no-meio-ambiente.ghtml",
+    "hat": "Herança bolsonarista",
+    "title": "Desmatamento, garimpo e mais: veja os desafios de Lula no meio ambiente",
+    "summary": "Recorde de queimadas, aumento na emissão de gases, invasão de terra indígena e Fundo Amazônia paralisado são alguns dos marcos negativos da gestão Bolsonaro."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5849,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/11/05/de-velma-a-bob-esponja-os-personagens-que-sao-da-comunidade-lgbt-e-talvez-voce-nao-saiba.ghtml",
+    "hat": "Sexualidade 🌈🏳️‍🌈",
+    "title": "Velma, Bob Esponja: conheça famosos personagens LGBTQIA+"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5512.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/05/tesouro-viking-de-cerca-de-mil-anos-e-encontrado-na-suecia.ghtml",
+    "hat": "Moedas em bolsa de linho",
+    "title": "Tesouro viking de cerca de mil anos é encontrado na Suécia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5107.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/05/por-que-lula-vai-precisar-de-um-ministro-mais-politico-do-que-tecnico-para-a-economia.ghtml",
+    "hat": "Governo Lula",
+    "title": "Economia deverá ter ministro mais político do que técnico para negociar",
+    "summary": "Propostas do petista dependem de diálogo com Congresso, com forte oposição ao presidente.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4829.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/go/goias/um-ano-sem-marilia/noticia/2022/11/05/marilia-mendonca-lider-do-movimento-que-colocou-as-mulheres-como-protagonistas-da-musica-sertaneja.ghtml",
+    "hat": "1 ano sem a Rainha da Sofrência",
+    "title": "Marília Mendonça colocou mulheres como protagonistas no sertanejo",
+    "category": "Um Ano Sem Marília"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12478.609375,
+      "left": 365,
+      "height": 382.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/29/zambelli-arma-rua-sp.htm",
+    "title": "Carla Zambelli persegue e aponta arma para homem negro em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12047.296875,
+      "left": 365,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/29/campanha-de-bolsonaro-ve-erros-de-zambelli-e-faz-calculo-do-estrago.htm",
+    "title": "Campanha de Bolsonaro vê erros de Zambelli e faz cálculo do 'estrago'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11634.25,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/resumo-pesquisas-presidencial.htm",
+    "title": "Vantagem de Lula sobre Bolsonaro é de 8 pontos no Ipec e de 4 no Datafolha"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12047.296875,
+      "left": 619.15625,
+      "height": 385.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/moraes-veta-qualquer-acao-da-prf-sobre-transporte-gratuito-no-2-turno.htm",
+    "title": "Moraes proíbe PRF de fazer qualquer ação contra transporte gratuito no 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11637.4375,
+      "left": 619.15625,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/29/lula-caminhada-paulista.htm",
+    "title": "Com Mujica, Lula faz última caminhada da campanha na Paulista"
+  }
+]

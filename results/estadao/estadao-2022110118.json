@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7868.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-paralisacao-bloqueio-greve-caminhoneiros-bolsonaro-protesto-lula-hoje/?liveId=ZO47737KVJBJ3LFCG76GMYV4YA",
+    "hat": "estradas interditadas",
+    "title": "Governadores acionam PM após ordem de Moraes; número de bloqueios passa de 200",
+    "summary": "Ao vivo: Operações para liberar estradas bloqueadas por bolsonaristas se intensificaram após ordem do ministro do Supremo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7472.359375,
+      "left": 329,
+      "height": 835.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes-bloqueio-estradas-abastecimento-paralisacoes-rodovias-ceagesp-abras/",
+    "hat": "PROTESTOS CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Paralisações nas estradas começam a afetar supermercados",
+    "summary": "Associação que representa setor pede apoio de Bolsonaro para cessar confusão; na Rod. Castello Branco, em SP, tropa de choque faz operação para liberar via interditada por bolsonaristas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7472.359375,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/alckmin-sera-coordenador-de-transicao-gleisi-diz-que-ha-aval-do-governo-bolsonaro-para-o-processo/",
+    "hat": "PRÓXIMO GOVERNO",
+    "title": "Alckmin vai coordenar equipe de transição para o governo Lula",
+    "summary": "Gleisi Hoffmann, presidente nacional do PT, diz que processo tem aval de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7038.25,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ministros-do-stf-tentam-convencer-bolsonaro-a-reconhecer-derrota-para-lula/",
+    "hat": "sucessão presidencial",
+    "title": "Ministros do STF tentam convencer Bolsonaro a reconhecer derrota para Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6574.703125,
+      "left": 329,
+      "height": 410.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/pedro-fernando-nery-revisao-reforma-trabalhista-governo-lula-proposta/",
+    "hat": "Pedro Fernando Nery",
+    "title": "O que de bom pode sair da revisão da reforma trabalhista proposta pelo próximo governo?"
+  }
+]

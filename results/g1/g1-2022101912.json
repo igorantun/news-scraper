@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5847,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/18/bloqueio-de-r-263-bilhoes-do-orcamento-atinge-11-pastas-informa-ministerio-da-economia.ghtml",
+    "hat": "Corte de gastos",
+    "title": "Bloqueio de R$ 2,63 bilhões no orçamento atinge 11 ministérios; veja lista"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5847,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/19/camera-registra-vizinhos-com-faca-e-garrafa-na-porta-de-humorista-eddy-jr-vitima-de-racismo-em-sp.ghtml",
+    "hat": "Racismo em SP",
+    "title": "VÍDEO mostra vizinhos com faca na porta do humorista Eddy Junior"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5510.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/19/portugueses-encontram-o-maior-peixe-osseo-ja-registrado-pela-ciencia-veja-video.ghtml",
+    "hat": "Quase 3 toneladas 🐟",
+    "title": "VÍDEO: portugueses acham maior peixe ósseo já registrado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5105.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/19/governo-reduz-orcamento-para-criancas-e-adolescentes-e-transforma-infancia-em-pauta-de-ordem-moral.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Governo reduz verbas para crianças e transforma infância em pauta moral",
+    "category": "O Assunto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4827.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/19/g1-tv-globo-e-globonews-divulgam-nesta-quarta-feira-19-3a-pesquisa-datafolha-do-2o-turno.ghtml",
+    "hat": "Lula x Bolsonaro",
+    "title": "g1, TV Globo e GloboNews divulgam hoje novo Datafolha presidencial",
+    "category": "Pesquisa Eleitoral"
+  }
+]

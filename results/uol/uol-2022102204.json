@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12409.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aras-vai-ao-stf-contra-resolucao-que-ampliou-poderes-do-tse-para-combater-fake-news.shtml",
+    "title": "Aras questiona no STF 'superpoderes' do TSE para combater fake news",
+    "summary": "Procurador-geral diz que norma viola liberdade de expressão prevista em Constituição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12079.078125,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/jair-bolsonaro-sabatina-justica.htm",
+    "title": "Bolsonaro critica Bonner no SBT ao falar sobre condenações anuladas de Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11622.84375,
+      "left": 365,
+      "height": 322.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/live-janones-lula.htm",
+    "title": "Live de Janones com Lula atrasa, tem queda de sinal e críticas a Guedes"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12079.078125,
+      "left": 619.15625,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/economia-contradiz-guedes-e-diz-que-basta-ter-recursos-para-dar-aumento-real-no-salario-minimo.shtml",
+    "title": "Basta ter recursos para dar aumento real no salário mínimo, diz Ministério da Economia"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11707.59375,
+      "left": 619.15625,
+      "height": 121,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/pressionada-em-reuniao-prefeitura-volta-a-negar-passe-livre-em-sao-paulo-no-2o-turno.shtml",
+    "title": "Pressionada em reunião, prefeitura volta a negar passe livre em São Paulo no 2º turno"
+  }
+]

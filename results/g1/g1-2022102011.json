@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4903,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/20/segundo-turno-da-impulso-a-bolsonaro-que-arrecada-mais-de-r-65-milhoes-de-pessoas-fisicas-lula-recebe-r-13-milhao.ghtml",
+    "hat": "Financiamento",
+    "title": "Campanha de Bolsonaro recebe R$ 65 milhões de pessoas físicas; e a de Lula, R$ 1,3 milhão",
+    "summary": "Mesmo com mais doações ao candidato do PL, verba do PT faz ex-presidente ter mais dinheiro para gastar: R$ 126 milhões contra R$ 85 milhões."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4903,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/19/policiamento-e-reforcado-para-saida-dos-torcedores-do-maracana.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Saída dos torcedores do Maracanã tem novas confusões"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4566.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/10/20/video-mostra-momento-de-explosao-de-predio-na-ucrania.ghtml",
+    "hat": "Região tomada pela Rússia",
+    "title": "VÍDEO mostra momento de explosão de prédio na Ucrânia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4161.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/20/agronegocio-foi-favorecido-por-lula-e-dilma-mas-resistencia-as-fiscalizacoes-trabalhistas-faz-setor-apoiar-bolsonaro-avalia-caio-pompeia.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Favorecido por Lula e Dilma, agro impulsiona campanha de Bolsonaro",
+    "category": "O Assunto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3883.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/de-olho-no-orcamento/noticia/2022/10/20/orcamento-secreto-fnde-destinou-r-423-milhoes-a-obras-de-escolas-e-creches-sem-aprovacao-diz-levantamento.ghtml",
+    "hat": "De olho no orçamento",
+    "title": "Orçamento secreto: fundo da educação destinou R$ 423 milhões a obras sem aprovação",
+    "summary": "Projetos de creches e escolas tinham apenas contrato provisório.",
+    "category": "De olho no orçamento"
+  }
+]

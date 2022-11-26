@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9014.3125,
+      "left": 329,
+      "height": 302,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/classe-c-impulsiona-voto-a-direita-no-pais-segmento-representa-100-milhoes-de-brasileiros/",
+    "hat": "Estadão Analisa",
+    "title": "Fatia de 100 milhões de brasileiros, classe C impulsiona voto à direita",
+    "summary": "Grupo socioeconômico exprime sentimento de abandono e desconfiança do Estado; representa 55% da população e é maior no Sudeste, Sul e Centro-Oeste, onde Bolsonaro venceu no 1º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9014.3125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-e-passado-que-projeta-um-futuro-melhor-bolsonaro-e-futuro-que-traz-de-volta-o-pior-do-passado/",
+    "hat": "Eliane Cantanhêde",
+    "title": "'Lula e Bolsonaro são dois líderes populistas que dividem o País ao meio'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8566.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/pme/turismo-rural-programa-cria-rotas-gastronomicas-no-interior-e-litoral-de-sao-paulo/",
+    "hat": "roteiro de delícias",
+    "title": "Queijo premiado e farofa de ostras frescas são destaque em rotas gastronômicas de SP",
+    "summary": "Programas turísticos incluem visitas a restaurantes e produtores no interior e no litoral; escolha seu destino"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8566.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/china-tem-controle-total-de-hong-kong-e-pretende-fazer-o-mesmo-com-taiwan-diz-xi-jinping/",
+    "hat": "Presidente chinês",
+    "title": "Xi Jinping: 'China tem controle total de Hong Kong e pretende fazer o mesmo com Taiwan'",
+    "summary": "Líder defendeu crescimento militar chinês em discurso de 2 horas na abertura do Congresso do Partido Comunista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8566.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/depois-de-tres-dias-fechadas-passarelas-das-cataratas-do-iguacu-sao-reabertas-nprm/",
+    "hat": "Paraná",
+    "title": "Passarelas das Cataratas do Iguaçu são reabertas após três dias de interdição",
+    "summary": "Vazão de água na região bateu novo recorde na quinta e chegou a 16,5 milhões de litros por segundo"
+  }
+]

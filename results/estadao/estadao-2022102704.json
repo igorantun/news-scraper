@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9036.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/moraes-rejeita-pedido-de-bolsonaro-sobre-radios-e-aponta-crime-eleitoral-para-tumultuar-2-turno/",
+    "hat": "Eleições 2022",
+    "title": "Moraes rejeita ação sobre rádios; Bolsonaro diz que campanha foi prejudicada e avisa que vai recorrer",
+    "summary": "Presidente afirma que irá até as últimas consequências dentro das ‘quatro linhas da Constituição’; assim que soube da decisão do TSE, chefe do Executivo convocou reunião com ministros e Forças Armadas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9036.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/a-verdadeira-bomba-nuclear-de-vladimir-putin-leia-o-artigo-de-thomas-friedman/",
+    "hat": "Conflito no Leste Europeu",
+    "title": "Thomas Friedman: A verdadeira 'bomba nuclear' que Putin pode detonar neste inverno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8526.203125,
+      "left": 329,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/investimentos/onde-investir-renda-fixa-selic-13-75",
+    "hat": "E-Investidor",
+    "title": "Veja quais são os melhores investimentos em renda fixa com a Selic a 13,75% ao ano",
+    "summary": "Tesouro IPCA, prefixados e pós-fixados: especialistas indicam as melhores aplicações em renda fixa"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8526.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/movimento-de-pais-em-defesa-de-voto-para-lula-causa-conflito-em-colegio-de-elite-de-sao-paulo/",
+    "hat": "RETA FINAL DA ELEIÇÃO",
+    "title": "Movimento de pais por voto em Lula provoca bate-boca em colégio de elite de São Paulo",
+    "summary": "Pai de aluno do Santa Cruz acusa o grupo de ‘doutrinar crianças’ na porta da escola; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8526.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-que-esperar-do-debate-entre-tarcisio-e-haddad-na-globo-veja-o-que-dizem-analistas/",
+    "hat": "Disputa estadual",
+    "title": "O que esperar do debate entre Tarcísio e Haddad na Globo? Veja o que dizem analistas",
+    "summary": "Encontro de quinta será o último entre os candidatos ao governo de São Paulo antes do segundo turno"
+  }
+]

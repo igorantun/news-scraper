@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4665,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/em-video-bolsonaro-faz-apelo-para-manifestantes-desobstruirem-as-rodovias.ghtml",
+    "hat": "Atos contra democracia",
+    "title": "Após 3 dias de bloqueios ilegais, Bolsonaro pede que apoiadores liberem estradas",
+    "summary": "Em vídeo, presidente afirma que interdições em rodovias impedem direito de ir e vir da população e afetam economia."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4665,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2022/11/02/carro-atropela-grupo-de-manifestantes-durante-bloqueio-em-rodovia-no-interior-de-sp.ghtml",
+    "title": "Motorista atropela bolsonaristas em bloqueio ilegal e deixa 16 feridos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4328.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/02/cidade-de-sp-registra-nesta-terca-a-menor-temperatura-maxima-para-novembro-desde-1999-diz-inmet.ghtml",
+    "hat": "Friaca forte",
+    "title": "Com 15,4ºC, SP tem a menor máxima para novembro desde 1999"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3923.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/02/mp-pede-que-policia-federal-investigue-diretor-da-prf-por-blitz-nas-eleicoes-e-omissao-em-protestos-nas-rodovias.ghtml",
+    "title": "MP pede investigação de diretor da PRF por blitz na eleição e bloqueios",
+    "category": "Distrito Federal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3645.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/02/estamos-diante-de-uma-verdadeira-organizacao-criminosa-afirma-o-procurador-geral-de-justica-de-sp-sobre-bloqueios-de-bolsonaristas.ghtml",
+    "title": "'Estamos diante de organização criminosa', diz procurador-geral de SP",
+    "category": "São Paulo"
+  }
+]

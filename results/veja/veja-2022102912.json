@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5858.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/bolsonaro-diz-que-respeitara-o-resultado-quem-tiver-mais-votos-leva/",
+    "hat": "Política",
+    "title": "Bolsonaro garante respeito ao resultado da eleição: ‘Quem tiver mais votos leva’",
+    "summary": "'É isso que é democracia', afirmou o presidente, em entrevista depois do último debate com Lula. Diferentemente de outras declarações recentes, não colocou condicionantes, como a de que o pleito teria que ser 'limpo'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4785.90625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3647.78125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5528.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/veja-tera-live-especial-no-domingo-de-eleicao-a-partir-das-17h/",
+    "hat": "Política",
+    "title": "VEJA terá live especial no domingo de eleição, a partir das 17h"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5528.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/cultura/william-bonner-da-bronca-em-lula-e-bolsonaro-durante-debate-na-globo/",
+    "hat": "Eleições",
+    "title": "William Bonner dá bronca em Lula e Bolsonaro durante debate na Globo"
+  }
+]

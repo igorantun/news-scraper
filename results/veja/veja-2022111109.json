@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5866.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/fantasma-do-risco-fiscal-assusta-mercado-apos-recados-da-transicao-de-lula/",
+    "hat": "Economia",
+    "title": "Fantasma do risco fiscal assusta mercado após recados da transição de Lula",
+    "summary": "Bolsa caiu 3,35% e dólar comercial fechou em forte alta de 4,14%, cotado a R$ 5,397, após o discurso do presidente eleito e dos números da inflação do Brasil"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1193.765625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -285.765625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/mundo/terra-chega-aos-8-bilhoes-com-um-desafio-a-desaceleracao-do-crescimento",
+    "hat": "Reportagem de capa",
+    "title": "Terra chega aos 8 bilhões com um novo desafio: a desaceleração do crescimento",
+    "summary": "O mundo começa a revelar uma mudança no seu desenho demográfico que impõe questões inéditas aos países. Se bem aproveitada, a guinada pode levar a um futuro melhor"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5536.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/pf-instaura-inquerito-para-investigar-chefe-da-prf/",
+    "hat": "Radar",
+    "title": "Polícia Federal instaura inquérito para investigar chefe da PRF"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5536.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/equipe-de-transicao-de-lula-ja-tem-mais-de-60-nomes-veja-a-lista-completa/",
+    "hat": "Política",
+    "title": "Equipe de transição de Lula já tem mais de 60 nomes; confira lista"
+  }
+]

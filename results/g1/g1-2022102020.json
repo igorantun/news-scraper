@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5907,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/20/datafolha-democracia-tem-apoio-recorde-de-79percent-dos-eleitores.ghtml",
+    "hat": "Pesquisa Eleitoral",
+    "title": "Datafolha: democracia tem apoio recorde de 79% dos eleitores"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5907,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/educacao/enem/2022/noticia/2022/10/20/casimiro-e-professora-de-portugues-discutem-sobre-redacao-do-enem-ta-me-criticando-brinca-youtuber.ghtml",
+    "hat": "'React' do 'react'",
+    "title": "VÍDEO: Casimiro e professora 'discutem' sobre redação do Enem"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5570.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/segue-o-fio/noticia/2022/10/20/cdd-vdg-ppg-conheca-comunidades-do-rio-que-tambem-usam-abreviacoes-em-seus-nomes.ghtml",
+    "hat": "Muito além do CPX",
+    "title": "CDD, VDG, PPG: as siglas que identificam comunidades do RJ"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5165.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/20/peguei-o-emprestimo-consignado-e-perdi-o-auxilio-brasil-o-que-acontece-agora.ghtml",
+    "hat": "Dinheiro emprestado",
+    "title": "Quem pega consignado e perde Auxílio Brasil terá que pagar dívida",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4887.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/tse-resolucao-combate-fake-news-eleicoes.ghtml",
+    "hat": "Justiça eleitoral",
+    "title": "TSE aprova medida para remover fake news em até 2 horas",
+    "category": "Eleições 2022"
+  }
+]

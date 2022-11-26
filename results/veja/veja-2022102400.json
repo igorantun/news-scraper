@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5867.890625,
+      "left": 324,
+      "height": 284,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/roberto-jefferson-se-entrega-a-policia-horas-depois-de-atacar-agentes/",
+    "hat": "Política",
+    "title": "Roberto Jefferson se entrega à polícia horas depois de atacar agentes da PF",
+    "summary": "Polícia Federal informou que ex-deputado resistiu a mandado de prisão e atirou granada, ferindo dois policiais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4828.921875,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/quem-sao-os-17-milhoes-de-eleitores-que-podem-definir-o-2o-turno",
+    "hat": "Reportagem de capa",
+    "title": "Quem são os 17 milhões de eleitores indecisos que podem definir o 2º turno",
+    "summary": "Como a imensa maioria já sabe em quem vai votar, o resultado do pleito passa por quem não escolheu ou pode mudar de lado, um grupo de votantes homogêneo e bem definido"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3705.109375,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/sergio-moro-a-volta-do-lula-seria-um-suicidio-moral-e-economico/",
+    "hat": "Política",
+    "title": "Sergio Moro: 'A volta do Lula seria um suicídio moral e econômico'",
+    "summary": "Senador eleito explica reaproximação com Bolsonaro, dispara contra o petista e diz que a Justiça passa a impressão de que o crime compensa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5559.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/brasil/bolsonaro-mente-ao-dizer-que-nao-tem-fotos-com-roberto-jefferson/",
+    "hat": "Política",
+    "title": "Bolsonaro diz que 'não tem uma foto dele' com Jefferson; veja fotos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5559.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/brasil/o-futuro-de-fernando-collor-depende-de-jair-bolsonaro/",
+    "hat": "Política",
+    "title": "O futuro de Fernando Collor depende de Jair Bolsonaro"
+  }
+]

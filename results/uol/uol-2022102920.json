@@ -1,0 +1,62 @@
+[
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12092.421875,
+      "left": 365,
+      "height": 342.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/mujica-participa-de-ultimo-ato-de-lula-em-sao-paulo.htm",
+    "title": "Em SP, Mujica diz que eleição de Lula será retorno da democracia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11725.75,
+      "left": 365,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/motociata-pro-lula-com-entregadores-de-app-atravessa-a-paulista-veja-video.shtml",
+    "title": "Motociata pró-Lula com entregadores de app atravessa a Paulista"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12092.421875,
+      "left": 619.15625,
+      "height": 539.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/bolsonaro-faz-campanha-em-bh-ao-lado-de-zema-na-vespera-do-2-turno.htm",
+    "title": "Bolsonaro faz campanha em BH ao lado de Zema na véspera do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11529.0625,
+      "left": 619.15625,
+      "height": 72,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/29/lula-sinaliza-nova-politica-externa-e-fim-da-condicao-de-paria.htm",
+    "title": "No Le Monde, Lula sinaliza fim da condição de 'pária' se vencer"
+  },
+  {
+    "type": "article",
+    "position": 4,
+    "coordinates": {
+      "top": -12092.421875,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/29/coreia-do-sul-incidente-halloween.htm",
+    "title": "Tragédia em festa de Halloween tem mais de 140 mortos na Coreia do Sul"
+  }
+]

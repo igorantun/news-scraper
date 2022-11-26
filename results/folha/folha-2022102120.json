@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9768.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/plano-de-militares-para-fiscalizacao-de-urnas-preve-8-etapas-e-fim-so-em-janeiro.shtml",
+    "hat": "Eleições 2022",
+    "title": "Plano de militares para fiscalização de urnas prevê 8 etapas e fim só em janeiro",
+    "summary": "Bolsonaro tem usado fiscalização de militares do processo eleitoral em ofensiva contra sistema de votação"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.421875,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9504.34375,
+      "left": 974.984375,
+      "height": 277.40625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/bannon-e-condenado-a-4-meses-de-prisao-por-desacato-ao-congresso-dos-eua.shtml",
+    "hat": "Estados Unidos",
+    "title": "Steve Bannon é condenado a 4 meses de prisão por desacato ao Congresso dos EUA",
+    "summary": "Ex-estrategista de Trump foi acusado de desrespeitar intimações sobre Capitólio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9191.953125,
+      "left": 974.984375,
+      "height": 296.25,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-diz-rejeitar-acordo-com-tse-sobre-direitos-de-resposta-pedidos-contra-bolsonaro.shtml",
+    "hat": "justiça eleitoral",
+    "title": "Lula diz rejeitar acordo com TSE sobre direitos de resposta pedidos contra Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9457.359375,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Senado e Câmara",
+    "title": "O que muda na política brasileira com um Congresso mais conservador?"
+  }
+]

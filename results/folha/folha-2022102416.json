@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9001.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pf-apreende-caixas-de-municao-e-jefferson-pode-responder-por-tentativa-quadrupla-de-homicidio.shtml",
+    "hat": "Caso Roberto Jefferson",
+    "title": "PF apreende munições, e Jefferson pode responder por tentativa quádrupla de homicídio",
+    "summary": "Político de extrema direita atirou e jogou granadas contra policiais federais; dois ficaram feridos sem gravidade"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -541.890625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8629.53125,
+      "left": 974.984375,
+      "height": 301.34375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/procuradoria-geral-se-omite-sobre-fake-news-e-uso-da-maquina-na-eleicao-presidencial.shtml",
+    "hat": "Eleições 2022",
+    "title": "Procuradoria-Geral se omite sobre fake news e uso da máquina na eleição presidencial",
+    "summary": "Nada foi apresentado também quanto ao uso da máquina pública; Procuradoria não se manifesta"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8293.203125,
+      "left": 974.984375,
+      "height": 233.9375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/brasil-retoma-crescimento-de-forma-desigual-e-convive-com-alta-na-extrema-pobreza.shtml",
+    "hat": "Economia do país",
+    "title": "Brasil retoma crescimento de forma desigual e convive com alta na extrema pobreza",
+    "summary": "Governo contempla recorde de famílias em programa social, mas fome atinge 33 milhões"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8287.390625,
+      "left": 1305,
+      "height": 74.0625,
+      "width": 300
+    },
+    "link": null,
+    "hat": "CAFÉ DA MANHÃ"
+  }
+]

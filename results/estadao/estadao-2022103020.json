@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7357.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/?liveId=QPELZVKIPRCQZLWTRIB6F2PXEY",
+    "hat": "segundo turno",
+    "title": "Ao vivo: Moraes diz que operações da PRF não impediram eleitores de chegar aos locais de votação",
+    "summary": "Presidente do TSE havia proibido ações contra ônibus no dia da eleição; foram mais de 500 operações no transporte, em especial no Nordeste"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6961.359375,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/lula-promete-pacificacao-e-harmonia-bolsonaro-diz-que-sua-vitoria-e-pelo-bem-do-brasil/",
+    "hat": "DOMINGO DE ELEIÇÃO",
+    "title": "Lula vota e fala em pacificação e 'harmonia'; Bolsonaro diz que vitória é 'pelo bem do Brasil'",
+    "summary": "Petista compareceu ao seu berço político em São Bernardo do Campo nesta manhã; mais cedo, presidente votou no Rio"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6961.359375,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-e-haddad-repetem-postura-de-bolsonaro-e-lula-durante-votacao-em-sao-paulo/",
+    "hat": "DISPUTA ESTADUAL",
+    "title": "Segundo turno em SP: Tarcísio exalta 'otimismo' e Haddad pede 'fim da violência'",
+    "summary": "Candidatos ao governo do Estado repetiram postura dos presidenciáveis Bolsonaro e Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6527.25,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/votometro-estadao-leitor-podera-acompanhar-a-evolucao-da-apuracao-em-tempo-real-com-nova-ferramenta/",
+    "hat": "DESEMPENHO DOS CANDIDATOS",
+    "title": "Votômetro Estadão: leitor poderá seguir a apuração em tempo real com nova ferramenta",
+    "summary": "Será possível seguir a disputa minuto a minuto e compará-la com o 1º turno; saiba como"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6053.703125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.youtube.com/watch?v=2brO8LoGFDs&feature=emb_title",
+    "hat": "Política",
+    "title": "Jornalistas do Estadão contam os bastidores da cobertura das eleições 2022; veja o vídeo",
+    "summary": "Grupo Estado lançou produtos inovadores e trouxe uma abordagem propositiva da corrida eleitoral"
+  }
+]

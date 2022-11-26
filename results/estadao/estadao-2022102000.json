@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9220.734375,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/defesa-diz-a-tse-que-so-entregara-relatorio-sobre-urnas-apos-segundo-turno/",
+    "hat": "Política",
+    "title": "Ministério da Defesa diz a TSE que só entregará relatório sobre urnas após segundo turno",
+    "summary": "Forças Armadas alegam que trabalho de fiscalização ainda não terminou e não poderiam entregar um documento preliminar sobre o primeiro turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9220.734375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/",
+    "hat": "Eleições 2022",
+    "title": "'Nossas divergências ficaram no passado', diz Bolsonaro sobre Moro; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8802.625,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/datafolha-no-segundo-turno-lula-tem-49-das-intencoes-de-voto-bolsonaro-45/",
+    "hat": "PESQUISA ELEITORAL",
+    "title": "Datafolha no segundo turno: Lula tem 49% das intenções de voto; Bolsonaro, 45%"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8313.078125,
+      "left": 329,
+      "height": 338.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tse-se-transformou-em-faccao-politica-em-favor-de-uma-candidatura/",
+    "hat": "J.R.  Guzzo",
+    "title": "TSE se transformou em facção política em favor de uma candidatura"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8313.078125,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ministerio-comprou-22-milhoes-de-cestas-basicas-de-empresa-laranja-diz-tcu/",
+    "hat": "'fortes indícios' de fraude",
+    "title": "Ministério comprou 2,2 milhões de cestas básicas de empresa laranja, diz TCU"
+  }
+]

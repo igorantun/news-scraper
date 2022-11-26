@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9607.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bloqueios-refluem-e-agora-atingem-17-estados-acompanhe-a-situacao-nesta-quarta.shtml",
+    "hat": "ATOS ANTIDEMOCRÁTICOS",
+    "title": "Bloqueios de estradas diminuem e agora atingem 17 estados; acompanhe a situação",
+    "summary": "Manifestantes golpistas protestam contra a eleição de Lula no domingo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.09375,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições na internet",
+    "title": "'Debate legislativo é necessário', diz especialista sobre regulamentação na internet",
+    "summary": "Especialistas apontam para a insuficiência da autorregulação dos serviços nos espaços digitais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9607.109375,
+      "left": 1305,
+      "height": 303.9375,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml",
+    "hat": "tempo real",
+    "title": "Acompanhe os protestos golpistas em estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9268.1875,
+      "left": 975,
+      "height": 207.71875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/grupos-de-extrema-direita-convocaram-bloqueios-antes-da-eleicao-de-lula.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Grupos extremistas convocaram bloqueios antes da eleição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9025.484375,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/diferenca-da-votacao-entre-nordeste-e-outras-regioes-volta-a-cair-apos-recorde-em-2018.shtml",
+    "hat": "2º turno",
+    "title": "Diferença da votação entre Nordeste e outras regiões volta a cair após recorde em 2018"
+  }
+]

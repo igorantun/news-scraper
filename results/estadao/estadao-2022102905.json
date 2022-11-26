@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9691.3125,
+      "left": 329,
+      "height": 132,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/quem-tiver-mais-voto-leva-diz-bolsonaro-sobre-resultado-das-eleicoes/",
+    "hat": "PROCESSO ELEITORAL",
+    "title": "Bolsonaro sobre eleição: 'Quem tiver mais voto leva'",
+    "summary": "Presidente afirma que 'isso é democracia' e que irá respeitar votação do segundo turno; declaração foi feita logo após o debate da Globo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9481.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/lula-ou-bolsonaro-quem-ganhou-o-debate-da-globo-veja-o-que-dizem-analistas/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Lula ou Bolsonaro: quem ganhou o último debate antes do 2º turno? Veja o que dizem analistas",
+    "summary": "Encontro da Globo reforçou temática agressiva das campanhas, acusações e carência de propostas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9481.3125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/debate-globo-lula-bolsonaro-visao-mercado/",
+    "hat": "E-investidor",
+    "title": "Como o mercado avalia o último debate entre Lula e Bolsonaro antes do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9111.203125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/debate-truncado-e-tenso-e-o-retrato-da-polarizacao-em-tempo-real-e-ao-vivo-do-brasil-leia-analise/",
+    "hat": "CONFRONTO NA RETA FINAL",
+    "title": "Análise: 'Debate truncado é retrato da polarização em tempo real do Brasil'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8525.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=GIWUJ5UGNRCZ5BBWJLDBZKEJOU",
+    "hat": "EMBATE DO 2º TURNO",
+    "title": "'Não digo coisas da minha cabeça', diz Bonner após ser citado por Bolsonaro; veja vídeo"
+  }
+]

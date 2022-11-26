@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9389.3125,
+      "left": 329,
+      "height": 801.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-soma-mais-prefeitos-que-lula-na-corrida-por-apoios-locais-na-campanha/",
+    "hat": "CORRIDA ELEITORAL",
+    "title": "Bolsonaro soma mais prefeitos que Lula na corrida por apoios locais na campanha",
+    "summary": "Na reta final, sem 2º turno para governador na maioria dos Estados, campanhas buscam o eleitor na ponta: partido do presidente, PL  conquistou 345 prefeituras em 2020, quase o dobro do PT"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9389.3125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tse-exonera-servidor-da-area-de-propaganda-eleitoral-bolsonaro-cobra-explicacoes-tem-dedo-do-pt/",
+    "hat": "eleições 2022",
+    "title": "TSE exonera servidor da área de propaganda eleitoral, e Bolsonaro cobra explicações: 'Tem dedo do PT'",
+    "summary": "Nas redes sociais, o profissional já compartilhou publicações a favor do presidente e contra Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8997.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/soma-aquisicao-hering-lucro/",
+    "hat": "Negócios",
+    "title": "Dona de Farm e Animale ainda sofre para arrumar casa da Hering um ano após compra"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8525.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/russia-simula-contra-ataque-nuclear-apos-insinuar-que-ucrania-prepara-bomba-suja/",
+    "hat": "A GUERRA DE PUTIN",
+    "title": "Rússia simula contra-ataque nuclear após insinuar que Ucrânia prepara 'bomba suja'",
+    "summary": "Treinamento, previsto em calendário anual, teve disparo de míssil intercontinental e uso de submarino nuclear"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8525.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/endrick-palmeiras-imprensa-europa/",
+    "hat": "joia do futebol",
+    "title": "Endrick ganha destaque na imprensa europeia após gol: 'Fenômeno imparável'"
+  }
+]

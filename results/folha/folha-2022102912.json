@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10111.109375,
+      "left": 315,
+      "height": 238.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/quem-tiver-mais-voto-leva-diz-bolsonaro-sobre-resultado-de-eleicoes.shtml",
+    "hat": "sucessão presidencial",
+    "title": "'Quem tiver mais voto leva', diz Bolsonaro sobre a eleição",
+    "summary": "Presidente fez afirmação após debate com Lula, na Globo, sem nenhum condicionante"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.0625,
+      "left": 315,
+      "height": 123.65625,
+      "width": 739.984375
+    },
+    "link": "https://www.folha.uol.com.br/",
+    "hat": "Eleições 2022",
+    "title": "Como Lula e Bolsonaro estampam as fachadas",
+    "summary": "Nabil Bonduki, urbanista e colunista da Folha, fala sobre expressões populares como a colocação de bandeiras nas janelas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10111.109375,
+      "left": 1305,
+      "height": 322.125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-a-melhor-sobre-bolsonaro-em-debate-de-monologos.shtml",
+    "hat": "TV Folha",
+    "title": "Veja melhores momentos do debate e análise de Igor Gielow"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9623.359375,
+      "left": 974.984375,
+      "height": 377.46875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/receio-de-virar-alvo-de-moraes-leva-fabio-faria-a-recuar-em-caso-de-radios-dizem-aliados.shtml",
+    "hat": "Eleições 2022",
+    "title": "Receio de virar alvo de Moraes leva Fábio Faria a recuar em caso de rádios, dizem aliados",
+    "summary": "Ministro de Bolsonaro ouviu críticas de magistrados por ofensiva sem provas e ficou apreensivo com investigação"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9209.90625,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-focaram-economia-e-bombaram-promessas-em-campanha-na-tv.shtml",
+    "hat": "Disputa presidencial",
+    "title": "Lula e Bolsonaro focaram economia e 'bombaram' promessas na TV",
+    "summary": "Metas e sugestões de reajustes cresceram ao longo da campanha"
+  }
+]

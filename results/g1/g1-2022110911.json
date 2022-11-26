@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5074,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ao-vivo/eua-eleicao-meio-mandato.ghtml",
+    "hat": "ao vivo",
+    "title": "Oposição a Biden tem vantagem apertada na Câmara dos EUA, aponta projeção; SIGA"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5074,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2022/11/09/musa-do-caldeirao-usou-whatsapp-para-fazer-alerta-de-que-nao-estava-bem-pouco-antes-de-morrer.ghtml",
+    "hat": "Morte no litoral de SP",
+    "title": "Musa do 'Caldeirão' disse a amiga que não estava bem"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4737.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-da-globo/playlist/jornal-da-globo-ultimos-videos.ghtml#video-11108559-id",
+    "hat": "Brasileirão",
+    "title": "São Paulo perde, é vaiado e fica distante da Libertadores"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4054.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/presidente-eleito-lula-deve-se-reunir-nesta-quarta-com-lira-pacheco-moraes-e-rosa-weber.ghtml",
+    "hat": "Presidente eleito",
+    "title": "Lula deve se reunir hoje com Lira, Pacheco, Moraes e Rosa Weber",
+    "summary": "Pauta inclui saída para garantir auxílio de R$ 600 e valorização do salário mínimo.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3776.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/educacao/enem/2022/noticia/2022/11/08/enem-2022-saiba-como-consultar-o-local-de-prova-e-programe-se-para-chegar-no-dia-com-antecedencia.ghtml",
+    "hat": "Tá chegando!",
+    "title": "Enem 2022 começa no domingo; saiba como consultar o local da prova",
+    "category": "Enem 2022"
+  }
+]

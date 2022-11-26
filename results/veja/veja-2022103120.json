@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5866.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/flavio-bolsonaro-fala-pela-primeira-vez-apos-a-derrota-do-pai/",
+    "hat": "Política",
+    "title": "Flávio fala em 'não desistir do Brasil'; Bolsonaro segue em silêncio",
+    "summary": "Senador foi o primeiro dos filhos do presidente a se pronunciar sobre o resultado da eleição. O político agradeceu a quem 'orou, rezou, foi para as ruas' e ajudou no 'resgate do patriotismo'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1179.453125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -608.328125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5536.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/presidente-do-senado-liga-para-lula-e-parabeniza-pela-vitoria/",
+    "hat": "Radar",
+    "title": "Presidente do Senado liga para Lula e o parabeniza pela vitória"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5536.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/o-que-mais-preocupou-lula-durante-a-apertada-apuracao-de-votos/",
+    "hat": "Política",
+    "title": "O que mais preocupou Lula durante a apertada apuração de votos"
+  }
+]

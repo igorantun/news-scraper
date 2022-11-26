@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10254.109375,
+      "left": 315,
+      "height": 196.828125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/equipe-de-tarcisio-mandou-cinegrafista-apagar-video-de-tiroteio-em-paraisopolis-ouca-audio.shtml",
+    "hat": "Eleições 2022",
+    "title": "Equipe de Tarcísio mandou cinegrafista apagar vídeo de tiroteio em Paraisópolis; ouça áudio",
+    "summary": "Campanha diz que cenas poderiam 'expor quem estava lá'; Jovem Pan, emissora do profissional, afirma que exibiu tudo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -556.328125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10022.296875,
+      "left": 974.984375,
+      "height": 185.671875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/policiais-relatam-clima-de-tensao-antes-de-tiros-e-granadas-de-roberto-jefferson.shtml",
+    "hat": "caso jefferson",
+    "title": "Policiais relatam clima de tensão antes de tiros e granadas de Jefferson"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9801.640625,
+      "left": 974.984375,
+      "height": 181.859375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ipespe-lula-tem-50-contra-44-de-bolsonaro-brancos-e-nulos-sao-4-e-indecisos-2.shtml",
+    "hat": "sucessão presidencial",
+    "title": "Ipespe: Lula tem 50% contra 44% de Bolsonaro; brancos e nulos são 4%, e indecisos, 2%",
+    "summary": "Pesquisa foi realizada com 1.100 eleitores por telefone entre os dias 22 e 24 de outubro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9584.796875,
+      "left": 974.984375,
+      "height": 194.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/stf-nega-pedido-de-aras-contra-resolucao-do-tse-de-combate-as-fake-news.shtml",
+    "hat": "+eleições",
+    "title": "STF forma maioria e mantém resolução que amplia poderes do TSE para combater fake news"
+  }
+]

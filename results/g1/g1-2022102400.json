@@ -1,0 +1,64 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5359,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/roberto-jefferson-se-entrega.ghtml",
+    "title": "Jefferson se entrega após atacar policiais com fuzil e granadas e desrespeitar ordens do STF por 8 horas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5359,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/apos-jefferson-atacar-policiais-bolsonaro-diz-que-nao-tem-nem-foto-com-ex-deputado-apesar-de-registros-no-palacio-do-planalto.ghtml",
+    "title": "Bolsonaro diz não ter foto com Roberto Jefferson; veja imagens"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5022.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/reporter-cinematografico-da-intertv-afiliada-da-tv-globo-e-agredido-por-apoiadores-de-roberto-jefferson-e-jair-bolsonaro.ghtml",
+    "title": "Bolsonaristas agridem cinegrafista na porta da casa de Jefferson"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4339.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/em-decisao-moraes-diz-que-roberto-jefferson-cometeu-repetidas-violacoes.ghtml",
+    "title": "Jefferson não podia usar redes sociais nem ter armas: entenda por que a prisão domiciliar foi revogada",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4061.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/especial-de-domingo/video/ana-flor-bolsonaro-tentou-se-dissociar-de-roberto-jefferson-mas-isso-e-impossivel-11052642.ghtml",
+    "title": "ANA FLOR: 'Bolsonaro tenta se dissociar de Jefferson, mas é impossível'",
+    "category": "Especial de Domingo"
+  }
+]

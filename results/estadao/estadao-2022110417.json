@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10368.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/quem-vai-comandar-o-exercito-lula-ja-tem-nomes-na-manga-veja-quais-sao/",
+    "hat": "TRANSIÇÃO",
+    "title": "Quem vai comandar o Exército no novo governo? Lula já tem nomes na manga; veja quais são",
+    "summary": "Conselheiros do petista e oficiais das Forças Armadas sugerem que presidente eleito reedite escolhas com base no critério de antiguidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10368.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-agro-esta-triste-mas-e-hora-de-seguir-adiante-diz-tereza-cristina/",
+    "hat": "Agronegócio",
+    "title": "'O agro está triste, mas é hora de seguir adiante', diz Tereza Cristina"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9950.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/gadgets/iphone-14-pro-empolga-com-o-novo-recurso-dynamic-island-leia-analise/",
+    "hat": "SMARTPHONE",
+    "title": "iPhone 14 Pro empolga com o novo recurso 'Dynamic Island'; leia análise"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9460.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/cogumelos-magicos-psicodelicos-util-depressao-grave-estudo/",
+    "hat": "estudo",
+    "title": "Substância encontrada em ‘cogumelo mágico’ pode ser útil para depressão grave; entenda",
+    "summary": "Adultos que receberam uma única dose de 25 miligramas de psilocibina apresentaram melhora na saúde mental"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9460.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/gripe-covid-sintomas-semelhantes-testagem-melhor-caminho-diagnostico-/",
+    "hat": "Saúde",
+    "title": "Gripe ou covid? Veja como diferenciar os sintomas em meio ao aumento no nº de casos"
+  }
+]

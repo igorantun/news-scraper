@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12604.609375,
+      "left": 365,
+      "height": 387.125,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/o-gigante-voltou-vasco-sofre-mas-vence-ituano-e-esta-na-serie-a.htm",
+    "title": "Vasco sofre, mas vence Ituano por 1 a 0 fora de casa e sela retorno à Série A",
+    "summary": "Único gol da partida foi marcado por Nenê, em cobrança de pênalti"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12168.484375,
+      "left": 365,
+      "height": 304.296875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2022/11/06/sob-forte-chuva-bahia-supera-crb-em-maceio-e-garante-volta-a-serie-a.htm",
+    "title": "Sob forte chuva, Bahia vence o CRB por 2 a 1 e volta à Série A"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11840.1875,
+      "left": 365,
+      "height": 304.296875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/cuiaba-x-palmeiras-campeonato-brasileiro.htm",
+    "title": "Palmeiras reage, mas fica no empate em 1 a 1 com o Cuiabá"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11511.890625,
+      "left": 365,
+      "height": 48,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/coritiba-x-flamengo-36-rodada-brasileirao.htm",
+    "title": "Coritiba vence reservas do Flamengo por 1 a 0"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12168.484375,
+      "left": 619.15625,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/philippe-coutinho-esta-fora-da-copa-do-mundo-por-lesao-muscular.htm",
+    "title": "Philippe Coutinho tem lesão e está fora da Copa do Mundo"
+  }
+]

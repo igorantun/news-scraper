@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7524.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-paralisacao-bloqueio-greve-caminhoneiros-bolsonaro-protesto-lula-hoje/?liveId=5QDEDXARUVFO3GCUNHHA7MXRKU",
+    "hat": "PROTESTOS CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Ao vivo: Brasil ainda registra 178 pontos de bloqueios e interdições em rodovias, diz PRF",
+    "summary": "Manifestações ilegais ocorrem em 17 Estados, sendo Santa Catarina o local com mais registros, com 37 bloqueios notificados pela Polícia Rodoviária Federal"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7524.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/reforma-tributaria-unifica-imposto-governo-lula/",
+    "hat": "Economia",
+    "title": "Reforma que unifica impostos de bens e serviços sai na frente em novo governo Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7046.203125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-nao-quer-passar-a-faixa-presidencial-para-lula-e-tarefa-pode-ficar-com-mourao/",
+    "hat": "Vera Rosa",
+    "title": "Bolsonaro não quer passar a faixa para Lula e tarefa pode ficar com Mourão"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6568.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/com-mais-bolsonaristas-no-senado-pt-ve-risco-na-saida-de-aliados-para-ministerios/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "Com mais bolsonaristas no Senado, PT vê risco na saída de aliados para ministérios",
+    "summary": "Aliados de Lula colocam na balança os benefícios de convocar senadores eleitos para assumir pastas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6568.65625,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/no-allianz-parque-palmeiras-joga-para-confirmar-11-titulo-nacional-e-coroar-campanha-irretocavel/",
+    "hat": "BRASILEIRÃO",
+    "title": "Palmeiras joga hoje para confirmar 11º título nacional e coroar campanha irretocável"
+  }
+]

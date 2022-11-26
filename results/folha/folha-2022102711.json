@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9228.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-reforca-ataques-ao-tse-na-reta-final-e-pavimenta-3o-turno-em-caso-de-derrota.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro reforça ataques ao TSE na reta final e pavimenta '3º turno' em caso de derrota",
+    "summary": "Presidente usa relatório frágil e fala em recorrer até o fim após Moraes negar ação e citar tentativa de tumultuar eleição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8856.53125,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/propostas-do-congresso-para-reforma-do-stf-buscam-reduzir-influencia-do-presidente.shtml",
+    "hat": "folhajus",
+    "title": "Propostas do Congresso para reforma do STF buscam reduzir influência do presidente",
+    "summary": "Iniciativa contrapõe desejo de Bolsonaro de ampliar força na Corte"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8598.21875,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/meirelles-reforca-aproximacao-com-lula-e-rebate-ataque-de-guedes-desespero.shtml",
+    "hat": "economia na eleição",
+    "title": "Meirelles reforça aproximação com Lula e rebate ataque de Guedes: 'desespero'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8397.1875,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/emprestimo-do-auxilio-brasil-custa-ate-87-a-mais-em-juros-do-que-outros-consignados.shtml",
+    "hat": "seu bolso",
+    "title": "Empréstimo do Auxílio Brasil custa até 87% a mais em juros do que outros consignados"
+  }
+]

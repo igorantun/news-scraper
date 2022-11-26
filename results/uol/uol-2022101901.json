@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12592.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/tse-desmonetiza-brasil-paralelo-e-intima-carlos-bolsonaro-por-fake-news.htm",
+    "title": "TSE manda YouTube deixar de pagar 4 canais que apoiam Bolsonaro",
+    "summary": "Tribunal desmonetiza Brasil Paralelo e intima Carlos Bolsonaro por fake news"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12230.453125,
+      "left": 365,
+      "height": 451.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/no-flow-lula-faz-apelo-para-que-eleitores-votem-e-cita-transporte-gratuito.htm",
+    "title": "No Flow, Lula faz apelo para que eleitores votem e liga Bolsonaro a pedofilia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11755.03125,
+      "left": 365,
+      "height": 360.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/18/ministro-da-defesa-se-encontra-com-moraes-mas-nao-entrega-documentos.htm",
+    "title": "Ministro da Defesa se encontra com Moraes, mas não entrega documentos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12230.453125,
+      "left": 619.15625,
+      "height": 440.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/colunas/lucas-pasin/2022/10/18/o-que-fez-gusttavo-lima-encabecar-evento-de-bolsonaro-com-sertanejos.htm",
+    "title": "O que fez Gusttavo Lima encabeçar evento de Bolsonaro com cantores sertanejos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11766.21875,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/10/18/estudante-e-arrastada-em-capo-de-carro-que-furou-bloqueio-em-ato-na-ufv.htm",
+    "title": "Homem arrasta em carro aluna que protestava contra cortes na educação em MG"
+  }
+]

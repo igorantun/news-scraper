@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6384,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/eleicoes-nos-eua-ex-astronauta-vence-no-arizona-e-deixa-democratas-mais-perto-de-controlar-senado.ghtml",
+    "hat": "Eleições nos EUA",
+    "title": "Astronauta vence no Arizona e democratas ficam a uma cadeira de controlar Senado"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6384,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/12/transicao-de-governo-bela-gil-e-nomeada-para-o-grupo-de-desenvolvimento-social-e-combate-a-fome.ghtml",
+    "hat": "Transição de Lula",
+    "title": "Bela Gil é nomeada para grupo de combate à fome e promoção social"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6047.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/agro-de-gente-pra-gente/noticia/2022/11/09/de-onde-vem-o-que-como-mel-comeca-com-o-vomito-das-abelhas-pode-durar-alguns-anos-e-tem-tipos-venenosos.ghtml",
+    "hat": "De onde vem o que eu como",
+    "title": "Mel começa com o 'vômito' das abelhas e pode durar mais de 1 ano"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5642.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/11/12/humilhacao-para-putin-o-que-a-retirada-das-tropas-russas-de-kherson-significa-para-a-guerra-na-ucrania.ghtml",
+    "hat": "Guerra na Ucrânia",
+    "title": "Retirada das tropas russas de Kherson impõe humilhação para Putin",
+    "category": "Ucrânia e Rússia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5364.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/12/reforma-da-previdencia-completa-3-anos-com-alivio-nas-contas-publicas-mas-dificuldades-para-segurados.ghtml",
+    "hat": "Aposentadoria",
+    "title": "Reforma da Previdência faz 3 anos com alívio para governo e dificuldades para segurados",
+    "category": "Economia"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9783.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/oposicao-a-lula-encolhe-no-congresso-antes-mesmo-de-petista-tomar-posse/",
+    "hat": "Novo governo",
+    "title": "Oposição a Lula encolhe no Congresso antes mesmo de petista tomar posse",
+    "summary": "Cargos e verbas do Orçamento viram ‘ímã’ para presidente eleito atrair aliados; partidos do Centrão, base de Bolsonaro, mostram disposição de diálogo com novo governo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9783.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/live-que-distorce-informacoes-sobre-urnas-e-assistida-por-300-mil-pessoas/",
+    "hat": "DOSSIÊ APÓCRIFO",
+    "title": "Live que distorce informações sobre urnas é disseminada em grupos bolsonaristas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9313.3125,
+      "left": 329,
+      "height": 402.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/adriana-fernandes-fiador-pec-transicao-gastos-nao-prioritarios/",
+    "hat": "Adriana Fernandes",
+    "title": "Quem será fiador se a PEC da Transição abrir espaço para gastos nem tão prioritários?",
+    "summary": "'A impressão é a de que não tem ninguém para botar freio na fome de expansão de gastos'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9313.3125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/paladar-infantil-entre-adultos-o-que-e-e-como-tratar/",
+    "hat": "REEDUCAÇÃO",
+    "title": "Paladar infantil na vida adulta? Saiba o que é e como tratar a 'monotonia alimentar'",
+    "summary": "Problema começa na infância e tratamento pode exigir acompanhamento com psicólogo ou psiquiatra"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9313.3125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://economia.estadao.com.br/blogs/coluna-do-broad/lado-butanta-da-marginal-pinheiros-vira-mini-faria-lima-com-novas-torres/",
+    "hat": "coluna do broadcast",
+    "title": "Lado Butantã da Marginal Pinheiros vira 'mini Faria Lima' com novas torres"
+  }
+]

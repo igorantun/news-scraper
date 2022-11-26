@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9488.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/timeline-eleicoes-2022/bolsonaro-lula-alcance-redes/",
+    "hat": "CORRIDA PRESIDENCIAL",
+    "title": "Bolsonaro e Lula gastam R$ 42 mi em propaganda digital; presidente mantém maior alcance nas redes",
+    "summary": "Levantamento do 'Estadão' sobre os perfis mostra que petista conquistou seguidores na mesma proporção do candidato à reeleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9488.3125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/servidor-do-tse-muda-versao-e-diz-que-apenas-alertou-falha-na-suspensao-de-programas/",
+    "hat": "Eleições 2022",
+    "title": "Servidor do TSE muda versão e diz que apenas alertou falha na 'suspensão' de inserções na TV",
+    "summary": "Alexandre Machado havia dito à PF que tribunal falhava ao fiscalizar veiculação de programas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9096.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-ou-haddad-quem-ganhou-o-debate-da-globo-veja-o-que-dizem-analistas/",
+    "hat": "DISPUTA ELEITORAL EM SP",
+    "title": "Tarcísio ou Haddad: quem ganhou o debate da Globo? Veja o que dizem analistas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8526.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sao-paulo/20-anos-do-caso-suzane-richthofen-onde-e-como-estao-ela-e-os-irmaos-cravinhos/",
+    "hat": "crime brutal",
+    "title": "20 anos do caso Suzane Richthofen: onde e como estão ela e os irmãos Cravinhos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8526.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/emais/gente/gisele-bundchen-e-tom-brady-se-divorciam-apos-13-anos-de-casamento/",
+    "hat": "SEPARAÇÃO",
+    "title": "Gisele Bündchen e Tom Brady se divorciam após 13 anos de casamento",
+    "summary": "Relação do casal teria sido abalada após atleta desistir da aposentadoria do futebol americano"
+  }
+]

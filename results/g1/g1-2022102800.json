@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4457,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/27/datafolha-lula-tem-49percent-no-2o-turno-e-bolsonaro-44percent.ghtml",
+    "hat": "Pesquisa Eleitoral",
+    "title": "Datafolha: Lula mantém 49%, e Bolsonaro oscila de 45% para 44%",
+    "summary": "Brancos e nulos somam 5%. Em votos válidos, Lula lidera com 53%, e Bolsonaro tem 47%."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4457,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Datafolha/",
+    "title": "Veja os números da pesquisa por idade, renda e região"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3715.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/27/datafolha-50percent-dizem-nao-votar-em-bolsonaro-de-jeito-nenhum-lula-e-rejeitado-por-45percent.ghtml",
+    "title": "50% dizem não votar em Bolsonaro de jeito nenhum; Lula é rejeitado por 45%",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3437.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/27/datafolha-comentaristas-do-g1-e-da-globonews-analisam-pesquisa-presidencial-desta-quinta.ghtml",
+    "title": "Pesquisa foi melhor para quem? Veja análise dos comentaristas",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3159.484375,
+      "left": 348.65625,
+      "height": 273.25,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/tv-globo-e-afiliadas-promovem-debates-de-2o-turno-entre-candidatos-aos-governos-de-12-estados-nesta-quinta-feira.ghtml",
+    "hat": "Disputas estaduais",
+    "title": "Globo e afiliadas fazem hoje debate para governador em 10 estados",
+    "category": "Eleições 2022"
+  }
+]

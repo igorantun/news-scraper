@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12580.609375,
+      "left": 365,
+      "height": 387.125,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/26/inter-x-ceara.htm",
+    "title": "Inter vence Ceará de virada e impede título antecipado do Palmeiras",
+    "summary": "Vitória por 2 a 1 garante equipe gaúcha na fase de grupos da Libertadores"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12144.484375,
+      "left": 365,
+      "height": 670.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/moraes-arquiva-acao-de-bolsonaro-no-tse-sobre-insercoes-de-radio.htm",
+    "title": "Moraes nega ação sobre rádios; Bolsonaro fala em recorrer até o fim"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11450,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/26/bolsonaro-manipula-e-tira-jefferson-das-redes-e-das-manchetes.htm",
+    "title": "Toledo: Bolsonaro manipula e tira Jefferson das redes e das manchetes"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12144.484375,
+      "left": 619.15625,
+      "height": 361.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/lula-26-de-outubro.htm",
+    "title": "'Se ele perder, tem que ficar quieto', diz Lula sobre Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11758.625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/beto-carrero-faz-promocao-para-petistas-nao-irem-votar-no-dia-da-eleicao.htm",
+    "title": "Beto Carrero faz promoção para petistas não irem votar no dia da eleição"
+  }
+]

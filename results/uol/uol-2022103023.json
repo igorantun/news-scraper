@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12366.609375,
+      "left": 365,
+      "height": 211.1875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/tarcisio-vitoria-governo-de-sao-paulo.htm",
+    "title": "Ex-ministro de Bolsonaro, Tarcísio é eleito governador de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11974.421875,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/paulo-dantas-mdb-vence-e-e-reeleito-em-alagoas.htm",
+    "title": "Após afastamento judicial, Paulo Dantas vence e é reeleito em Alagoas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11653.3125,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/leite-supera-maldicao-e-e-1-governador-reeleito-no-rio-grande-do-sul.htm",
+    "title": "Após sufoco no 1º turno, Leite bate Onyx de virada e supera 'maldição' no RS"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11332.203125,
+      "left": 365,
+      "height": 472.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/nordeste-com-27-dos-eleitores-tem-metade-dos-onibus-abordados-pela-prf.htm",
+    "title": "Com 27% dos eleitores, região Nordeste tem metade dos ônibus parados pela PRF"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11974.421875,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://piaui.folha.uol.com.br/eleicoes-2022/agente-da-prf-comemora-no-whatsapp-bloqueio-eleitores-de-lula/",
+    "title": "Agente da PRF comemora no WhatsApp bloqueio de eleitores de Lula"
+  }
+]

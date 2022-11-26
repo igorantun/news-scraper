@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4471,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/mais-de-300-cidades-terao-passe-livre-no-transporte-publico-do-2o-turno-diz-levantamento.ghtml",
+    "hat": "Dia da votação",
+    "title": "Mais de 300 cidades terão passe livre no 2º turno, diz levantamento"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4471,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/temperatura-aumenta-nos-grupos-de-familia-no-whatsapp-na-reta-final-da-eleicao-leia-historias.ghtml",
+    "hat": "Cutucadas, provocações e brigas",
+    "title": "Temperatura esquenta nos grupos de família no WhatsApp; leia relatos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4134.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/10/28/gisele-bundchen-e-tom-brady-se-divorciam.ghtml",
+    "hat": "💔",
+    "title": "Gisele Bündchen e Tom Brady se divorciam após 13 anos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3451.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "title": "Veja todos os números das pesquisas Ipec e Datafolha do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3173.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2022/noticia/2022/10/28/nikolas-ferreira-posta-direito-de-resposta-ao-pt-determinado-pelo-tse-seguido-de-100-tuites-com-foto-de-moraes.ghtml",
+    "hat": "Batalha nas redes",
+    "title": "Nikolas posta direito de resposta ao PT seguido de 100 fotos de Moraes",
+    "category": "Eleições 2022 em Minas Gerais"
+  }
+]

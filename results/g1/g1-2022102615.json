@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6423,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2022/10/26/papa-francisco-manda-mensagem-ao-brasil-que-nossa-senhora-aparecida-livre-o-brasileiro-do-odio-intolerancia-e-violencia.ghtml",
+    "hat": "Recado do Vaticano",
+    "title": "Papa manda mensagem ao Brasil: 'Que Nossa Senhora livre o brasileiro do ódio'",
+    "summary": "Francisco não fez menção direta à eleição e também recordou beatificação de menina no Ceará."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6423,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/26/aluna-que-acusa-professor-diz-que-era-assediada-on-line-e-na-sala.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Aluna que acusa professor diz que era assediada on-line e na sala"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6086.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/10/26/kanye-west-deixa-de-ser-bilionario-com-o-fim-de-contrato-com-adidas-diz-forbes.ghtml",
+    "hat": "Queda de patrimônio 💸",
+    "title": "Após Adidas romper acordo, Kanye West deixa lista de bilionários"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5681.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/26/25-milhoes-de-eleitores-apertaram-13-ou-22-ao-votar-para-governador-em-estados-sem-candidato-do-pt-ou-do-pl-votos-foram-anulados.ghtml",
+    "hat": "Eleição em Números",
+    "title": "2,5 milhões apertaram 13 ou 22 em estados sem candidatos de PT e PL",
+    "summary": "Votos foram computados como nulos.",
+    "category": "Eleição em Números"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5403.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/10/26/empresario-suspeito-de-orientar-funcionarias-a-colocar-celular-no-sutia-para-filmar-voto-na-ba-vai-pagar-indenizacao-por-danos-morais.ghtml",
+    "hat": "Assédio eleitoral na Bahia",
+    "title": "Ruralista terá que pagar R$ 150 mil por pressionar funcionárias a filmar voto",
+    "category": "Bahia"
+  }
+]

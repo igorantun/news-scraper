@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10263.203125,
+      "left": 315,
+      "height": 238.453125,
+      "width": 1290
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-agradece-a-deus-fala-em-conciliacao-e-diz-ter-derrotado-a-maquina-do-governo-de-bolsonaro.shtml",
+    "title": "É a vitória de um imenso movimento democrático, afirma Lula após eleição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9989.765625,
+      "left": 315,
+      "height": 526.59375,
+      "width": 1290
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-eleito-presidente-pela-3a-vez-projeta-datafolha.shtml"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -7463.65625,
+      "left": 315,
+      "height": 346.5,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-diz-que-buscara-alinhamento-com-governo-de-lula.shtml",
+    "hat": "eleições pelo Brasil",
+    "title": "Tarcísio diz que buscará alinhamento com governo de Lula",
+    "summary": "Governador eleito de São Paulo afirma que vai discutir câmera de policiais com Segurança Pública"
+  },
+  {
+    "type": "headline",
+    "position": 3,
+    "coordinates": {
+      "top": -549.40625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9428.1875,
+      "left": 315,
+      "height": 192.125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/nao-existem-dois-brasis-leia-integra-comentada-do-discurso-de-lula-apos-a-vitoria.shtml",
+    "hat": "presidente eleito",
+    "title": "Leia íntegra comentada do discurso de Lula"
+  }
+]

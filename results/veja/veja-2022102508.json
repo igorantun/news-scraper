@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5886.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/moraes-da-24-horas-para-bolsonaro-apresentar-provas-de-fraude-eleitoral/",
+    "hat": "Política",
+    "title": "Moraes dá 24 horas para Bolsonaro apresentar provas de fraude eleitoral",
+    "summary": "O presidente do TSE disse que a acusação da campanha do atual presidente sobre suposto boicote de seu programa de rádio, 'sem base documental alguma', poderá configurar crime eleitoral por tumultuar o processo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -786.453125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/quem-sao-os-17-milhoes-de-eleitores-que-podem-definir-o-2o-turno",
+    "hat": "Reportagem de capa",
+    "title": "Quem são os 17 milhões de eleitores indecisos que podem definir o 2º turno",
+    "summary": "Como a imensa maioria já sabe em quem vai votar, o resultado do pleito passa por quem não escolheu ou pode mudar de lado, um grupo de votantes homogêneo e bem definido"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -215.328125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/sergio-moro-a-volta-do-lula-seria-um-suicidio-moral-e-economico/",
+    "hat": "Política",
+    "title": "Sergio Moro: 'A volta do Lula seria um suicídio moral e econômico'",
+    "summary": "Senador eleito explica reaproximação com Bolsonaro, dispara contra o petista e diz que a Justiça passa a impressão de que o crime compensa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5556.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/moraes-garante-visita-de-advogados-a-roberto-jefferson-na-prisao/",
+    "hat": "Radar",
+    "title": "Moraes garante visita de advogados a Roberto Jefferson na prisão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5556.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/economia/tcu-da-24-horas-para-caixa-esclarecer-consignado-do-auxilio-brasil/",
+    "hat": "Auxílio Brasil",
+    "title": "Tribunal de Contas dá 24 horas para Caixa esclarecer consignado"
+  }
+]

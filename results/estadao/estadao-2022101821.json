@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9299.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/defesa-alega-que-nao-fez-auditoria-das-urnas-em-resposta-a-cobranca-de-moraes/",
+    "hat": "SISTEMA DE VOTAÇÃO",
+    "title": "Defesa vai alegar que não fez auditoria de urnas em resposta à cobrança de Alexandre de Moraes",
+    "summary": "Presidente do TSE determinou envio de documentos no prazo de 48 horas, mas Forças Armadas sustentam que atuaram apenas como entidade fiscalizadora da eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9299.3125,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-recusa-convite-para-participar-de-debate-do-estadaoeldorado-bolsonaro-sera-entrevistado/",
+    "hat": "Política",
+    "title": "Lula recusa convite para participar de debate do Estadão; Bolsonaro será entrevistado",
+    "summary": "Sabatina do presidente será exibida nesta sexta, às 21h30, em parceria com pool de veículos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8817.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/uso-de-fgts-futuro-para-pagar-emprestimos-de-imoveis-e-aprovado-a-2-semanas-das-eleicoes/",
+    "hat": "Economia",
+    "title": "Uso de FGTS futuro para pagar empréstimos de imóveis é aprovado a 2 semanas da eleição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8367.09375,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/alianca-com-bolsonaro-reacende-planos-de-moro-no-stf-e-ate-candidatura-a-presidencia/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Aliança com Bolsonaro reacende planos de Moro no STF e até candidatura à Presidência"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8367.09375,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pintou-um-clima-bolsonaro-pede-desculpas-a-meninas-venezuelanas/",
+    "hat": "DECLARAÇÃO CRITICADA",
+    "title": "'Pintou um clima': Bolsonaro pede desculpas a meninas venezuelanas; veja vídeo"
+  }
+]

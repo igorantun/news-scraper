@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9657.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pf-apreende-caixas-de-municao-e-jefferson-pode-responder-por-tentativa-quadrupla-de-homicidio.shtml",
+    "hat": "Caso Roberto Jefferson",
+    "title": "PF apreende munições, e Jefferson vai responder por quádrupla tentativa de homicídio",
+    "summary": "Político de extrema direita, que está detido no presídio de Benfica, no Rio, atirou e jogou granadas contra policiais federais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.65625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9285.53125,
+      "left": 974.984375,
+      "height": 219.546875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/procuradoria-geral-se-omite-sobre-fake-news-e-uso-da-maquina-na-eleicao-presidencial.shtml",
+    "hat": "Eleições 2022",
+    "title": "Procuradoria-Geral se omite sobre fake news e uso da máquina na eleição presidencial"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9031,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/mst-mudou-e-risco-para-o-agro-agora-e-o-bozo-diz-alckmin-a-empresarios.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "MST mudou e risco para o agro agora é o 'Bozo', diz Alckmin a empresários"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8829.96875,
+      "left": 974.984375,
+      "height": 113.921875,
+      "width": 299.984375
+    },
+    "link": "https://f5.folha.uol.com.br/colunistas/cristina-padiglione/2022/10/eleicoes-2022-saiba-como-sera-o-ultimo-debate-entre-lula-e-bolsonaro.shtml",
+    "hat": "Na TV",
+    "title": "Saiba como será o último debate entre Lula e Bolsonaro",
+    "summary": "Encontro vai ao ar pela Globo na sexta-feira"
+  }
+]

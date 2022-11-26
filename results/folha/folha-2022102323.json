@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7643.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/roberto-jefferson-se-entrega-a-policia-federal.shtml",
+    "hat": "após ação armada",
+    "title": "Roberto Jefferson se entrega à Polícia Federal após jogar granada e atirar contra policiais",
+    "summary": "Ex-deputado reagiu a uma ordem de prisão de Moraes"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.96875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7271.53125,
+      "left": 974.984375,
+      "height": 353.734375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-nega-fotos-com-jefferson-publicadas-pelo-ex-deputado-veja-imagens.shtml",
+    "hat": "aliados",
+    "title": "Bolsonaro mente e agora nega até ter foto com Jefferson, mas tem; veja imagens",
+    "summary": "Registros estão nas redes sociais do político que atacou agentes da PF"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6882.8125,
+      "left": 974.984375,
+      "height": 194.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/bolsonaro-da-mais-dinheiro-para-construir-escola-militar-em-sp-do-que-para-casas-populares.shtml",
+    "hat": "governo bolsonaro",
+    "title": "Bolsonaro dá mais dinheiro para construir escola militar em SP do que para casas populares"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6580.1875,
+      "left": 315,
+      "height": 371.875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/site-de-bolsonaro-pede-cadastro-de-apoiadores-como-fiscais-no-2o-turno.shtml",
+    "hat": "Eleições 2022",
+    "title": "Site de Bolsonaro pede cadastro de apoiadores como 'fiscais' no 2º turno",
+    "summary": "Eleitor precisa concordar em compartilhar uma série de dados com partido"
+  }
+]

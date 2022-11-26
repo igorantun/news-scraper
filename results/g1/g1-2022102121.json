@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5306,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/21/na-fila-pelo-emprestimo-consignado-beneficiarios-do-auxilio-brasil-nao-sabem-que-dinheiro-saira-do-beneficio.ghtml",
+    "hat": "Crédito consignado",
+    "title": "No sufoco, famílias com Auxílio Brasil pegam empréstimo sem saber como irão pagar",
+    "summary": "Valores da dívida e dos juros serão descontados do próprio benefício. Nas filas, relatos são de aperto no presente e incerteza sobre futuro."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5306,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/21/ele-debochava-e-agia-como-se-isso-fosse-natural-diz-mulher-que-denunciou-racismo-ao-se-candidatar-a-vaga-de-emprego.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "'Ele ria, debochava', diz vítima de racismo ao se candidatar a emprego"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4969.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/21/anitta-coloca-mansao-a-venda-na-barra-da-tijuca-veja-fotos-da-casa-que-ja-hospedou-famosos-e-tem-ate-quarto-do-sexo.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Anitta coloca mansão com 'quarto do sexo' à venda no Rio; veja fotos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4564.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/21/consignado-no-auxilio-brasil-beneficiarios-reclamam-de-taxa-extra-atraso-de-pagamento-e-venda-casada.ghtml",
+    "title": "Beneficiários reclamam de pagamento que não cai e taxa extra",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4286.65625,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/21/tcu-parecer-suspensao-emprestimo-consignado-auxilio-brasil.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Parecer do TCU recomenda suspender consignado do Auxílio Brasil",
+    "summary": "Tribunal considera que governo estaria usando benefício para interferir na eleição.",
+    "category": "Blog da Andréia Sadi"
+  }
+]

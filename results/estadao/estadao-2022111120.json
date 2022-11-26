@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9961.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/pec-da-transicao-e-adiada-para-semana-que-vem-apos-repercussao-negativa-do-mercado/",
+    "hat": "CONTAS PÚBLICAS",
+    "title": "Equipe de Lula adia PEC da Transição após críticas e avalia deixar Auxílio fora do teto por 4 anos",
+    "summary": "Integrantes da transição cogitam limitar o prazo em que programa social ficaria de fora da regra fiscal; Wellington Dias, que negocia o Orçamento, diz que ponto 'ainda precisa de entendimento'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9961.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/comandantes-das-forcas-armadas-falaram-pelas-instituicoes-militares-e-nao-pelo-governo-bolsonaro/",
+    "hat": "NOTA SOBRE MANIFESTAÇÕES",
+    "title": "Comandantes das Forças Armadas falaram pelas instituições e não pelo governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9391.203125,
+      "left": 329,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/grupo-de-advogados-anti-lava-jato-tera-vagas-na-transicao-e-discute-lista-sextupla-para-pgr/",
+    "hat": "Novo governo",
+    "title": "Grupo de advogados anti-Lava Jato terá vagas na transição e discute lista sêxtupla para PGR",
+    "summary": "Grupo Prerrogativas terá ao menos quatro integrantes nomeados para grupos temáticos da transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9391.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/viagens-de-onibus-ganham-luxos-de-1-classe-com-sala-vip-poltrona-massageadora-e-tv-conheca/",
+    "hat": "Negócios",
+    "title": "Viagens de ônibus ganham luxos de 1ª classe, com sala vip, poltrona massageadora e TV",
+    "summary": "Empresas disputam os passageiros assustados com o preço das viagens de avião"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9391.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/elon-musk-diz-a-funcionarios-que-twitter-pode-ir-a-falencia/",
+    "hat": "Link",
+    "title": "Elon Musk diz a funcionários que Twitter pode 'ir à falência'"
+  }
+]

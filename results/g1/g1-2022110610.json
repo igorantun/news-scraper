@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5869,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/06/cop-27-comeca-neste-domingo-com-expectativa-por-participacao-do-futuro-governo-lula-veja-o-que-esperar.ghtml",
+    "hat": "Conferência do Clima da ONU",
+    "title": "COP 27 começa hoje no Egito; veja o que esperar",
+    "summary": "g1 lista os pontos-chave da conferência em Sharm el-Sheikh, com expectativa por participação do futuro governo Lula."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5869,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/06/primavera-sound-estreia-em-sp-com-arctic-monkeys-bjork-55-mil-fas-e-arvores-na-plateia.ghtml",
+    "hat": "Festival em SP",
+    "title": "Primavera Sound atrai 55 mil fãs, mas árvores atrapalham visão"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5532.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/11/05/fotos-veja-imagens-do-segundo-dia-do-micareta-salvador.ghtml",
+    "hat": "FOTOS",
+    "title": "Micareta Salvador: 2ª noite tem Daniela, Alinne, Ludmilla e mais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5127.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/carmen-lucia-suspende-efeitos-de-mp-que-permitia-adiar-pagamento-de-beneficios-para-o-setor-cultural.ghtml",
+    "hat": "Leis Paulo Gustavo e Aldir Blanc 2",
+    "title": "Cármen Lúcia suspende efeitos de MP que adia benefícios da cultura",
+    "summary": "Ministra analisou ação da Rede; tema ainda será julgado no plenário virtual do STF.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4849.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/campinas-regiao/educacao/noticia/2022/11/05/unicamp-2023-comissao-da-dicas-para-estudante-conseguir-bom-desempenho-na-1a-fase-do-vestibular-veja-videos.ghtml",
+    "hat": "Vestibular",
+    "title": "1ª fase da Unicamp ocorre hoje; veja dicas para se dar bem na prova",
+    "summary": "Exame com 72 testes começa às 13h e tem 5 horas de duração.",
+    "category": "Educação"
+  }
+]

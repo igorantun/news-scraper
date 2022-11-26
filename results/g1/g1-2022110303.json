@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4651,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/em-video-bolsonaro-faz-apelo-para-manifestantes-desobstruirem-as-rodovias.ghtml",
+    "hat": "Atos golpistas",
+    "title": "Após 3 dias de bloqueios ilegais, Bolsonaro pede que apoiadores liberem estradas",
+    "summary": "Em vídeo, presidente afirma que interdições em rodovias impedem direito de ir e vir da população e afetam economia."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4651,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/02-11-2022/palmeiras-fortaleza.ghtml",
+    "hat": "É campeão! 🏆",
+    "title": "Palmeiras goleia e festeja em casa 11º título do Brasileirão",
+    "summary": "Endrick, Rony (2) e Dudu marcaram os gols alviverdes."
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4314.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/02-11-2022/flamengo-corinthians.ghtml",
+    "title": "Corinthians vence Flamengo e assegura vaga na Libertadores"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3909.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/02/mp-pede-que-policia-federal-investigue-diretor-da-prf-por-blitz-nas-eleicoes-e-omissao-em-protestos-nas-rodovias.ghtml",
+    "title": "MP pede investigação de diretor da PRF por blitz na eleição e bloqueios",
+    "category": "Distrito Federal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3631.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/02/estamos-diante-de-uma-verdadeira-organizacao-criminosa-afirma-o-procurador-geral-de-justica-de-sp-sobre-bloqueios-de-bolsonaristas.ghtml",
+    "title": "'Estamos diante de organização criminosa', diz procurador-geral de SP",
+    "category": "São Paulo"
+  }
+]

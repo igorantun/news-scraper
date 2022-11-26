@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7549.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/alexandre-moraes-determina-fim-bloqueios-vias-bolsonaristas/",
+    "hat": "Estradas bloqueadas",
+    "title": "Moraes manda polícias acabarem com bloqueios e autoriza prisão de diretor da PRF em caso de desobediência",
+    "summary": "Ministro do Supremo determina que sejam tomadas 'todas as medidas necessárias' para desmobilizar bolsonaristas que fecham vias em 20 Estados e impõe multa de R$ 100 mil/hora"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7549.3125,
+      "left": 1190.328125,
+      "height": 358,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ministros-e-militares-agem-para-bolsonaro-reconhecer-logo-derrota-na-eleicao/",
+    "hat": "SUCESSÃO PRESIDENCIAL",
+    "title": "Ministros e militares agem para Bolsonaro reconhecer derrota na eleição o quanto antes",
+    "summary": "Interlocutores dizem que presidente se sente injustiçado, mas indicou que irá aceitar vitória de Lula; silêncio passa de 24 horas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7161.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-deve-compor-ministerios-com-nomes-alem-do-pt-veja-os-mais-cotados/",
+    "hat": "NOVO GOVERNO",
+    "title": "Lula deve compor ministérios com nomes além do PT; veja os mais cotados"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6593.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/o-joelho-operado-falhou-o-passo-falseou-diz-barao-seguranca-de-carla-zambelli-sobre-tiro-na-perseguicao-a-jornalista/",
+    "hat": "DEPOIMENTO À POLÍCIA",
+    "title": "Segurança de Zambelli diz que atirou por acidente porque 'joelho operado falhou'",
+    "summary": "Policial militar conhecido como 'Barão' estava com a deputada durante perseguição a jornalista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6593.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-fala-por-telefone-com-biden-e-discute-compromissos-entre-brasil-e-eua-sobre-clima-e-imigracao/",
+    "hat": "RELAÇÃO INTERNACIONAL",
+    "title": "Lula fala com Biden e discute compromissos entre países sobre clima e imigração"
+  }
+]

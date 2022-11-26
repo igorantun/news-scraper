@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9270.203125,
+      "left": 315,
+      "height": 153.671875,
+      "width": 1290
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-eleito-presidente-pela-3a-vez-projeta-datafolha.shtml",
+    "title": "LULA PRESIDENTE"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9081.546875,
+      "left": 315,
+      "height": 526.59375,
+      "width": 1290
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-eleito-presidente-pela-3a-vez-projeta-datafolha.shtml"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -8484.984375,
+      "left": 315,
+      "height": 248.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-de-freitas-e-eleito-governador-de-sao-paulo-projeta-datafolha.shtml",
+    "hat": "Pelo país",
+    "title": "Tarcísio de Freitas é o novo governador de São Paulo",
+    "summary": "Candidato patrocinado pelo presidente Bolsonaro confirma favoritismo e derrota Fernando Haddad, do PT"
+  },
+  {
+    "type": "headline",
+    "position": 3,
+    "coordinates": {
+      "top": -549.34375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8483.984375,
+      "left": 1305,
+      "height": 310.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/tv-folha-tem-programacao-especial-ao-vivo-no-segundo-turno.shtml",
+    "hat": "TV Folha",
+    "title": "Especialista da USP e jornalistas debatem a imagem do Brasil no exterior; assista agora"
+  }
+]

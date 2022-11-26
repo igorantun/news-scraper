@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8425.109375,
+      "left": 315,
+      "height": 198.8125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-quer-rever-norma-de-bolsonaro-e-limitar-tempo-de-militar-em-cargo-politico.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula quer rever norma de Bolsonaro e limitar tempo de militar em cargo político",
+    "summary": "Ex-presidente decidiu, se eleito, nomear civil para Ministério da Defesa; generais destacam receio de mudança em três pontos sensíveis"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.609375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8191.3125,
+      "left": 974.984375,
+      "height": 185.671875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/china-nao-descarta-uso-da-forca-para-reunificar-taiwan-diz-xi-no-congresso-do-pc.shtml",
+    "hat": "Congresso do PC",
+    "title": "China não descarta uso da força para reunificar Taiwan, diz Xi Jinping"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7970.65625,
+      "left": 974.984375,
+      "height": 188.09375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/venezuelana-refuta-fala-de-bolsonaro-e-diz-que-casa-abrigava-acao-social.shtml",
+    "hat": "presidente",
+    "title": "Venezuelana refuta fala de Bolsonaro e diz que casa abrigava ação social"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7747.578125,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/campanha-de-bolsonaro-impulsiona-anuncios-que-dizem-que-presidente-nao-e-pedofilo.shtml",
+    "hat": "Painel",
+    "title": "Campanha de Bolsonaro impulsiona anúncios que dizem que presidente não é pedófilo"
+  }
+]

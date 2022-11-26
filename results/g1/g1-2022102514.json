@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6449,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/cidades-onde-lula-e-bolsonaro-empataram-no-1o-turno-vivem-tranquilidade-nas-ruas-e-tensao-nas-redes-sociais.ghtml",
+    "hat": "Polarização ao extremo",
+    "title": "Cidades onde Lula e Bolsonaro empataram no 1º turno têm tranquilidade nas ruas e tensão nas redes",
+    "summary": "Conheça os três municípios onde os dois candidatos tiveram a mesma votação."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6449,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/25/tempos-dificeis-virao-diz-novo-primeiro-ministro-do-reino-unido.ghtml",
+    "hat": "Reino Unido",
+    "title": "'Decisões difíceis virão', diz Rishi Sunak em 1º discurso"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6112.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/noticia/2022/10/25/turista-filmou-queda-de-tirolesa-que-o-levou-a-morte-em-canoa-quebrada.ghtml",
+    "hat": "Canoa Quebrada",
+    "title": "Turista filmou queda de tirolesa que o levou à morte no Ceará"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5707.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2022/noticia/2022/10/25/coronel-sapucaia-ms-na-fronteira-com-o-paraguai-repete-contradicoes-territoriais-no-1o-turno-ao-ter-mesma-votacao-para-lula-e-bolsonaro.ghtml",
+    "title": "Cidade na fronteira com o Paraguai tem divisão de votos, nacionalidades e moedas",
+    "category": "Eleições 2022 no Mato Grosso do Sul"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5429.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/stj-julga-pedido-da-pgr-para-suspender-resolucao-do-tse-sobre-fake-news.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "Maioria no STF vota por manter resolução do TSE sobre fake news",
+    "summary": "PGR havia contestado as medidas adotadas pela Corte eleitoral.",
+    "category": "Eleições 2022"
+  }
+]

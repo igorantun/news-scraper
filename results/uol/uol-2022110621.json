@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12661.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-calibra-escolha-de-ministros-para-evitar-desfalque-no-senado.shtml",
+    "title": "Lula calibra escolha de ministros para evitar desfalque no Senado",
+    "summary": "Presidente eleito considera necessidade de fazer frente a bolsonaristas no Legislativo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12299.453125,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop-27-ultimos-oito-anos-foram-os-mais-quentes-da-historia-diz-onu.shtml",
+    "title": "COP 27: últimos oito anos podem ser os mais quentes já registrados, alerta ONU"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11843.21875,
+      "left": 365,
+      "height": 296.109375,
+      "width": 224.15625
+    },
+    "link": "https://congressoemfoco.uol.com.br/area/pais/orcamento-secreto-e-o-maior-esquema-de-corrupcao-institucionalizada-da-historia-diz-diretor-da-transparencia-internacional/",
+    "title": "'Orçamento secreto é o maior esquema de corrupção', diz diretor de orgão de transparência"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12299.453125,
+      "left": 619.15625,
+      "height": 384.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/opiniao/coluna/2022/11/06/o-que-fazer-para-bolsonaro-nao-voltar.htm",
+    "title": "Telles: O que fazer para Bolsonaro não voltar"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11891.21875,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/11/06/cla-bolsonaro-brigas-campanha-carlos-michelle-jair-eduardo-flavio.htm",
+    "title": "Dal Piva: as brigas do clã Bolsonaro que abalaram Jair na campanha"
+  }
+]

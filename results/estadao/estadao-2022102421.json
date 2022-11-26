@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9788.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/economia/auxilio-brasil-consignado-suspensao-tse-caixa/",
+    "hat": "Economia",
+    "title": "TCU recomenda que Caixa suspenda consignado do Auxílio Brasil",
+    "summary": "Tribunal analisa pedido do MP, que citou possível 'uso meramente eleitoral' do benefício; banco tem 24 horas para enviar informações"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9416.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/pf-apreendeu-caixas-de-municao-de-grosso-calibre-na-casa-de-jefferson-veja-o-fuzil-762-que-ele-usou-para-atacar-policiais/",
+    "hat": "ATAQUE A AGENTES",
+    "title": "PF indicia Roberto Jefferson por 4 tentativas de homicídio e apreende caixas de munição pesada e fuzil",
+    "summary": "Arsenal inclui mira telescópica usada para atacar policiais que foram à casa do ex-deputado no interior do Rio; imagens mostram pistola em poder do político"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9416.3125,
+      "left": 1190.328125,
+      "height": 572.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/vesti-um-personagem-para-desacelerar-a-situacao/",
+    "hat": "EX-DEPUTADO",
+    "title": "'Vesti um personagem', diz mensagem atribuída a policial que negociou prisão",
+    "summary": "Fala do agente gerou desconforto entre delegados da PF; Jefferson recebeu corporação com tiros e granadas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8814.203125,
+      "left": 1190.328125,
+      "height": 356.109375,
+      "width": 400.65625
+    },
+    "link": "https://paladar.estadao.com.br/noticias/geral,ceci-e-a-campea-de-concurso-de-padarias-em-sao-paulo,70004155886",
+    "hat": "Paladar",
+    "title": "Padaria Ceci é eleita a melhor de São Paulo em concurso; veja ganhadoras por região",
+    "summary": ""
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8396.09375,
+      "left": 329,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/eleicoes-bolsonaro-doacoes-dobram-2-turno-veja-quem-mais-doou/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Doações para Bolsonaro mais que dobram no 2º turno e chegam a R$ 77 milhões; veja quem mais transferiu dinheiro",
+    "summary": "Repasses de pessoas físicas ao candidato do PL às vésperas do primeiro turno somaram R$ 25 milhões"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10215.109375,
+      "left": 315,
+      "height": 216.734375,
+      "width": 960
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2922/10/29/6224-eleicoes-2022-as-principais-noticias-do-segundo-turno.shtml#post421292",
+    "hat": "Eleições 2022",
+    "title": "Brasil vai às urnas para escolher presidente e 12 governadores",
+    "summary": "Votação acontece das 8h às 17h; previsão da Justiça Eleitoral é de que filas sejam menores no segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.71875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-a-melhor-sobre-bolsonaro-em-debate-de-monologos.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula leva a melhor sobre Bolsonaro em debate de monólogos",
+    "summary": "Evento na Globo coroa eleição de rejeições que marca a disputa que chega a seu fim"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10215.109375,
+      "left": 1305,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/tv-folha-tem-programacao-especial-ao-vivo-no-segundo-turno.shtml",
+    "hat": "lives",
+    "title": "TV Folha tem programação especial ao vivo no segundo turno",
+    "summary": "Jornalistas e colunistas da Folha analisam resultados das eleições a partir das 17h"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9963.390625,
+      "left": 315,
+      "height": 623.015625,
+      "width": 465
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-aposta-legado-e-futuro-da-esquerda-em-sua-eleicao-mais-importante.shtml",
+    "hat": "Quer voltar",
+    "title": "Lula aposta legado e futuro da esquerda em sua eleição mais importante"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9963.390625,
+      "left": 810,
+      "height": 623.015625,
+      "width": 465
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-busca-sedimentar-conservadorismo-agora-sem-a-imagem-de-outsider.shtml",
+    "hat": "Quer permanecer",
+    "title": "Bolsonaro busca sedimentar conservadorismo, agora sem a imagem de outsider"
+  }
+]

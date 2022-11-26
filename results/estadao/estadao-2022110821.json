@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10119.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica//alckmin-confirma-transicao-com-lara-resende-e-arida-na-economia-e-tebet-na-area-social-veja-lista/",
+    "hat": "NOVO GOVERNO",
+    "title": "Alckmin confirma transição com Lara Resende e Persio Arida na economia e Simone Tebet na área social; veja lista",
+    "summary": "Vice-presidente eleito assina portaria com Aloizio Mercadante como coordenador técnico; Floriano Pesaro e Gleisi Hoffmann serão responsáveis por área política"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10119.3125,
+      "left": 1190.328125,
+      "height": 386,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/equipe-lula-dois-modelos-pec-furar-teto-de-gastos/",
+    "hat": "NOVO GOVERNO",
+    "title": "Equipe de Lula trabalha com 2 tipos de PEC para furar teto de gastos e abrir espaço para mais R$ 175 bi",
+    "summary": "Apelidadas de 'PEC transparente' e 'PEC prática', ambas abrem espaço em 2023 para despesas da nova gestão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9703.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/luis-stuhlberger-preocupacao-equipe-lula/",
+    "hat": "E-Investidor",
+    "title": "Stuhlberger diz ver 'com preocupação' primeiras sinalizações da equipe de Lula",
+    "summary": "Sócio-fundador da Verde Asset  disse que PEC da Transição se tornou mais um 'trem da alegria dos gastos'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9211.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pl-anuncia-que-sera-oposicao-a-lula-e-nao-vai-questionar-resultado-da-eleicao/",
+    "hat": "Política",
+    "title": "PL anuncia que será oposição a Lula e não vai questionar resultado da eleição",
+    "summary": "Valdemar Costa Neto admitiu, no entanto, que Bolsonaro poderá contestar o resultado se houver 'algo real na mão'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9211.65625,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/apoiadores-de-bolsonaro-sugerem-que-comerciantes-coloquem-estrela-do-pt-em-lojas-no-rs/",
+    "hat": "ATOS ANTIDEMOCRÁTICOS",
+    "title": "Apoiadores de Bolsonaro sugerem colocar estrela do PT em lojas cujos donos votaram em Lula no RS",
+    "summary": "Ideia remete ao boicote a estabelecimentos de judeus promovido pelo nazismo na Alemanha"
+  }
+]

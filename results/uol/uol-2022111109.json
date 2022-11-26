@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12504.609375,
+      "left": 365,
+      "height": 251.15625,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/aliados-de-lula-resistem-a-separacao-de-ministerios-da-justica-e-seguranca-publica.shtml",
+    "title": "Aliados de Lula resistem a separação de ministérios da Justiça e Segurança",
+    "summary": "Desmembramento de pasta foi uma das promessas de campanha do presidente eleito"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12204.453125,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/11/lula-brasilia-reuniao-poderes-parlamentares.htm",
+    "title": "Lula em Brasília esnoba mercado, retoma laço com centrão e cutuca Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11748.21875,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://educacao.uol.com.br/noticias/2022/11/11/governo-lula-novo-formato-enem.htm",
+    "title": "Governo Lula terá de criar questões e reformular Enem com novo ensino médio"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12204.453125,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/11/11/stf-e-tse-avaliam-que-relatorio-da-defesa-enfraquece-atos-antidemocraticos.htm",
+    "title": "STF e TSE avaliam que relatório da Defesa enfraquece atos antidemocráticos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11748.21875,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/11/brasil-ira-reabrir-embaixada-em-caracas-e-rever-relacao-com-guaido.htm",
+    "title": "Jamil Chade: Brasil irá reabrir embaixada em Caracas e rever relação com Guaidó"
+  }
+]

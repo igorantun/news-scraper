@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12839.609375,
+      "left": 365,
+      "height": 414.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/31/liberacao-vias-decisao-moraes.htm",
+    "title": "Após decisão de Moraes, PRF age em rodovias; ainda há 271 bloqueios",
+    "summary": "Segundo a polícia, 192 manifestações haviam sido desfeitas até as 6h"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12162.765625,
+      "left": 365,
+      "height": 413.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/01/aliados-no-exterior-abandonam-bolsonaro-ao-menos-87-paises-reconhecem-lula.htm",
+    "title": "Aliados no exterior abandonam Bolsonaro, e ao menos 88 países reconhecem Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11725.71875,
+      "left": 365,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/apos-michelle-e-flavio-jair-renan-bolsonaro-se-manifesta-sobre-eleicoes.htm",
+    "title": "Jair Renan se manifesta sobre eleições: 'Teu filho não foge à luta'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12162.765625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-deve-responder-no-tse-por-abuso-de-poder-em-acoes-que-podem-leva-lo-a-inelegibilidade.shtml",
+    "title": "Bolsonaro deve responder no TSE por abuso em ações que preveem inelegibilidade"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11841.65625,
+      "left": 619.15625,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/tempo-joga-a-favor-de-zambelli-em-pedido-de-cassacao-de-mandato.htm",
+    "title": "Tempo joga a favor de Zambelli em pedido de cassação de mandato"
+  }
+]

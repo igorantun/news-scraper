@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5859,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/20/nova-primeira-ministra-do-reino-unido-renuncia-apos-45-dias-de-governo.ghtml",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido após 45 dias",
+    "summary": "Truss, que substituiu Boris Johnson, vinha sofrendo forte pressão por causa de polêmico plano econômico."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5859,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/19/correios-de-sp-vao-leiloar-na-segunda-41-mil-itens-de-bijuterias-e-brinquedos-a-celulares-confira-lotes-e-como-participar.ghtml",
+    "hat": "Encomendas esquecidas",
+    "title": "Correios de SP vão leiloar 41 mil itens não entregues"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5522.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/10/20/video-mostra-momento-de-explosao-de-predio-na-ucrania.ghtml",
+    "hat": "Região tomada pela Rússia",
+    "title": "VÍDEO mostra momento de explosão de prédio na Ucrânia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5117.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/20/governo-de-liz-truss-durou-menos-que-o-pe-de-alface-do-tabloide-britanico.ghtml",
+    "title": "Governo de Liz Truss durou menos que pé de alface de tabloide britânico",
+    "summary": "Jornal Daily Star iniciou transmissão ao vivo há uma semana para comparar a durabilidade de cada um.",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4839.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/20/segundo-turno-da-impulso-a-bolsonaro-que-arrecada-mais-de-r-65-milhoes-de-pessoas-fisicas-lula-recebe-r-13-milhao.ghtml",
+    "hat": "Doações às campanhas",
+    "title": "Bolsonaro recebe R$ 65 milhões de pessoas físicas; Lula, R$ 1,3 milhão",
+    "category": "Eleição em Números"
+  }
+]

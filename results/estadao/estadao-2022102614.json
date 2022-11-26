@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9729.3125,
+      "left": 329,
+      "height": 218,
+      "width": 1262
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/ex-tesoureiro-do-pt-prepara-dossie-para-bombardear-moro-e-dallagnol-no-congresso/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Ex-tesoureiro do PT prepara dossiê para bombardear Moro e Dallagnol no Congresso",
+    "summary": "João Vaccari, condenado e preso na Lava Jato, mostrou versão de arquivo, produzido desde novembro de 2021, a Rui Falcão, coordenador da comunicação da campanha de Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9433.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/fernando-haddad-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "Disputa eleitoral em SP",
+    "title": "Haddad diz que Tarcísio 'não confia' na polícia e 'não entende nada' de Segurança",
+    "summary": "Candidato do PT ao governo de SP concedeu entrevista à Rádio Eldorado/Estadão e criticou ideia de retirar câmeras dos uniformes dos policiais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9433.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/papa-nossa-senhora-brasileiros-odio-violencia/",
+    "hat": "Vaticano",
+    "title": "Papa: 'Peço a Nossa Senhora Aparecida que livre o povo brasileiro do ódio e violência'",
+    "summary": "Pontífice se manifestou durante audiência geral na Praça São Pedro nesta quarta; assista ao vídeo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8999.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/argentina-crise-impacto-populacao-perda-poder-compra/",
+    "hat": "América latina",
+    "title": "Argentinos precisam fazer pagamentos à vista e perdem poder de compra"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8525.65625,
+      "left": 329,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleitor-vai-definir-no-domingo-qual-sentimento-e-maior-o-antipetismo-ou-o-antibolsonarismo/",
+    "hat": "Marcelo Godoy",
+    "title": "Eleitor vai definir qual sentimento é maior: o antipetismo ou o antibolsonarismo"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10295.109375,
+      "left": 315,
+      "height": 314.640625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/judiciario-articula-com-guedes-e-tarcisio-pressao-para-bolsonaro-falar-e-conter-bloqueios.shtml",
+    "hat": "bloqueios antidemocráticos",
+    "title": "Judiciário articula com Guedes e Tarcísio pressão para Bolsonaro falar e conter bloqueios",
+    "summary": "Em meio a articulação, Bolsonaro afirma a aliados que falará nesta tarde e que dirá que sempre zelou pela ordem"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.59375,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições na internet",
+    "title": "'Debate legislativo é necessário', diz especialista sobre regulamentação na internet",
+    "summary": "Especialistas apontam para a insuficiência da autorregulação dos serviços nos espaços digitais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10295.109375,
+      "left": 1305,
+      "height": 303.9375,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml",
+    "hat": "tempo real",
+    "title": "Acompanhe os protestos golpistas em estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9945.484375,
+      "left": 315,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/diretor-da-prf-diz-precisar-de-mobilizacao-extraordinaria-de-servidores-para-desobstruir-rodovias.shtml",
+    "hat": "PRF",
+    "title": "Diretor da PRF diz precisar de 'mobilização extraordinária de servidores' para desbloqueios"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9945.484375,
+      "left": 645,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml#post421692",
+    "hat": "em sp",
+    "title": "'Não são amadores', afirma superintendente da PRF de SP sobre bloqueio de rodovias"
+  }
+]

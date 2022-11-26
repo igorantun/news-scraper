@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4325,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/16/eleicoes-lula-e-bolsonaro-fazem-primeiro-debate-presidencial-do-segundo-turno.ghtml",
+    "hat": "Eleições",
+    "title": "Lula e Bolsonaro participam do 1° debate do 2° turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3583.828125,
+      "left": 348.65625,
+      "height": 299.640625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/16/moraes-manda-plataformas-e-campanha-de-lula-excluirem-video-com-fala-de-bolsonaro-sobre-meninas-venezuelanas.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Moraes manda excluir e proíbe PT de usar vídeo de Bolsonaro com fala 'pintou um clima'",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3252.1875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/10/16/simone-tebet-pede-votos-para-lula-no-leblon-e-canta-jingle-contra-bolsonaro.ghtml",
+    "title": "Tebet faz campanha para Lula na Zona Sul do Rio",
+    "category": "Eleições 2022 no Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -2974.015625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/10/16/a-cada-2-dias-1-crianca-com-menos-de-5-anos-morre-de-covid-no-brasil-grupo-esta-sem-vacina-e-governo-nao-diz-quando-tera-doses-da-pfizer.ghtml",
+    "hat": "Campanha de vacinação",
+    "title": "A cada 2 dias, 1 criança com menos de 5 anos morre de Covid; vacina não foi liberada pelo governo",
+    "category": "Vacinas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -2695.84375,
+      "left": 348.65625,
+      "height": 95.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/saude/coronavirus/noticia/2022/10/16/media-de-obitos-por-covid-segue-em-queda-no-brasil-sao-687-mil-mortes-desde-o-inicio-da-pandemia.ghtml",
+    "title": "Média de óbitos por Covid segue em queda no Brasil",
+    "category": "Coronavírus"
+  }
+]

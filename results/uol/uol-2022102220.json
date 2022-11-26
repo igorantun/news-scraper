@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12763.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/tse-mantem-direito-de-resposta-de-lula-em-programa-de-bolsonaro.htm",
+    "title": "TSE devolve a Lula 116 direitos de resposta em vídeos de Bolsonaro",
+    "summary": "Decisão inicial era de 164 réplicas, mas número foi reduzido hoje pela corte"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12395.875,
+      "left": 365,
+      "height": 478.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/marina-e-xingada-por-bolsonaristas-em-mg-lula-e-tebet-repudiam-covarde.htm",
+    "title": "Marina é xingada por bolsonaristas em MG; Lula e Tebet repudiam: 'Covarde'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11893.265625,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/10/22/rosangela-sergio-moro-nao-acompanha-ex-juiz-campanha-bolsonaro.htm",
+    "title": "Esposa de Sergio Moro não acompanha ex-juiz em campanha por Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12395.875,
+      "left": 619.15625,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/bolsonaro-evento-clamor-pela-nacao.htm",
+    "title": "'Não podemos admitir censura', diz Bolsonaro em comício; apoiadores gritam 'Jovem Pan'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11874.078125,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/22/governo-corta-87-de-doacao-de-leite-a-familias-na-miseria-em-nordeste-e-mg.htm",
+    "title": "Governo corta 87% de doação de leite a famílias na miséria no NE e em MG"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5023,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/02/bloqueios-estradas-3o-dia.ghtml",
+    "hat": "Atos antidemocráticos",
+    "title": "Bloqueios ilegais de bolsonaristas em rodovias diminuem no 3º dia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5023,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/02/mutirao-nacional-de-negociacao-de-dividas-veja-como-participar-de-acao-que-reune-160-instituicoes.ghtml",
+    "hat": "Seu bolso",
+    "title": "Saiba como participar do mutirão de negociação de dívidas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4686.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/go/goias/um-ano-sem-marilia/noticia/2022/11/02/fas-prestam-homenagens-em-tumulo-de-marilia-mendonca-no-dia-de-finados.ghtml",
+    "hat": "Goiás",
+    "title": "Fãs prestam homenagens a Marília Mendonça no Dia de Finados"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4281.828125,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/02/bolsonaristas-organizaram-bloqueios-em-grupos-nas-redes-sociais-pf-identificara-responsaveis.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "PF mira grupos que planejaram e convocaram atos bolsonaristas",
+    "summary": "Investigadores suspeitam que há financiadores bancando bloqueios ilegais.",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4094.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/02/aliados-de-bolsonaro-querem-opcoes-para-entrega-da-faixa-a-lula.ghtml",
+    "hat": "Blog da Julia Duailibi",
+    "title": "Aliados de Bolsonaro discutem opções para entrega da faixa a Lula",
+    "category": "Blog da Julia Duailibi"
+  }
+]

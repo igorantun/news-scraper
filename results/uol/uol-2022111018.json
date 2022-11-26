@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12381.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-ve-papel-humilhante-das-forcas-armadas-cobra-bolsonaro-e-elogia-moraes-nas-eleicoes.shtml",
+    "title": "Lula diz que Bolsonaro deve desculpas às Forças Armadas",
+    "summary": "Presidente eleito vê papel humilhante dos militares nas eleições e elogia Moraes"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12051.078125,
+      "left": 365,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/lula-primeira-fala-gabinete-de-transicao.htm",
+    "title": "Em discurso, Lula chora ao falar da fome e diz que democracia voltou"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11753.96875,
+      "left": 365,
+      "height": 364.046875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop27-sofre-com-filas-comida-cara-e-rio-de-esgoto-veja-video.shtml",
+    "title": "No Egito, COP27 sofre com filas, comida cara e rio de esgoto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12051.078125,
+      "left": 619.15625,
+      "height": 323.484375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/10/roberto-guilherme.htm",
+    "title": "Morre aos 84 Roberto Guilherme, o Sargento Pincel dos 'Trapalhões'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11703.59375,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/mais/ultimas-noticias/2022/11/10/por-que-o-dolar-comecou-o-dia-subindo.htm",
+    "title": "Inflação, discussão sobre PEC e mais: por que o dólar disparou e passou de R$ 5,30"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8859.109375,
+      "left": 315,
+      "height": 238.6875,
+      "width": 960
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml",
+    "hat": "sucessão presidencial",
+    "title": "Começa o debate entre Lula e Bolsonaro; acompanhe ao vivo",
+    "summary": "Primeiro debate do 2º turno é promovido por Folha, UOL, TV Bandeirantes e TV Cultura"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -876.171875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8585.4375,
+      "left": 974.984375,
+      "height": 381.78125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moraes-manda-campanha-de-lula-remover-conteudo-que-associa-bolsonaro-a-pedofilia-por-fala-sobre-venezuelanas.shtml",
+    "hat": "eleições 2022",
+    "title": "Moraes manda campanha de Lula remover conteúdo que associa Bolsonaro a pedofilia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8168.671875,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/mathias-alencastro/2022/10/bolsonaristas-travam-guerra-contra-debates-a-imagem-de-republicanos-nos-eua.shtml",
+    "hat": "Mathias Alencastro",
+    "title": "Bolsonaristas travam guerra contra debates à imagem de republicanos nos EUA",
+    "summary": "Para seguidores do atual presidente, maior pecado nos embates é excesso de civilidade"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8536.453125,
+      "left": 1305,
+      "height": 106.203125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/bolsonaro-prometeu-nao-demarcar-terras-indigenas-e-cumpriu-o-que-aconteceu-na-amazonia-4-anos-depois-ouca-podcast.shtml",
+    "hat": "floresta",
+    "title": "A Amazônia e os indígenas na corrida eleitoral"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9522.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/rodrigo-garcia-atua-como-cabo-eleitoral-de-bolsonaro-em-sp-e-eleva-ataques-ao-pt.shtml",
+    "hat": "Eleições 2022",
+    "title": "Rodrigo Garcia atua como cabo eleitoral de Bolsonaro em SP e eleva ataques ao PT",
+    "summary": "Tucano se une a Tarcísio e Zema contra rivais, e governador mineiro diz que futuro do Brasil depende de SP e MG para virar eleição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.578125,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9258.34375,
+      "left": 974.984375,
+      "height": 241.59375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-apoio-a-democracia-atinge-recorde-no-brasil-as-portas-do-2o-turno.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Datafolha: Apoio à democracia atinge recorde às vésperas do segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8981.765625,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/datafolha-bolsonaro-tem-melhor-patamar-de-aprovacao-e-intencao-de-votos-entre-publico-do-auxilio-brasil.shtml",
+    "hat": "+datafolha",
+    "title": "Bolsonaro tem melhor patamar de aprovação e intenção de votos entre público do Auxílio"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8780.734375,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/reinaldoazevedo/2022/10/venca-lula-ou-bolsonaro-os-democratas-terao-de-ir-para-a-resistencia.shtml",
+    "hat": "Reinaldo Azevedo",
+    "title": "Vença Lula ou Bolsonaro, os democratas terão de ir para a resistência"
+  }
+]

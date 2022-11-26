@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9867.3125,
+      "left": 329,
+      "height": 350,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/pauta-bomba-100-bi-camara-pressiona-governo-eleito/",
+    "hat": "Economia",
+    "title": "'Pauta-bomba' de mais de R$ 100 bi na Câmara pressiona governo eleito",
+    "summary": "Com a reeleição de Lira em jogo, dois projetos engatilhados para votação neste ano  podem abrir um rombo na arrecadação da União, de Estados e de municípios em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9867.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/covid-medicos-defendem-tomar-3-e-4-doses-mas-nao-veem-necessidade-de-5-reforco-para-todos/",
+    "hat": "saúde",
+    "title": "Nova onda de covid-19: médicos orientam 2 reforços; 5ª dose não é necessária agora"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9417.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pl-vai-para-a-oposicao-a-lula-e-busca-acordo-com-pp-de-lira-para-comandar-senado/",
+    "hat": "Política",
+    "title": "PL de Bolsonaro vai para a oposição a Lula e busca acordo com PP no Senado",
+    "summary": "De acordo com parlamentares, anúncio será feito nesta terça pelo presidente do PL, Valdemar Costa Neto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9417.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/elon-musk-quer-colocar-paywall-no-twitter-entenda/",
+    "hat": "rede social",
+    "title": "Elon Musk quer colocar paywall para todos os usuários do Twitter; entenda",
+    "summary": "Medida seria opção para que a empresa possa recuperar prejuízo previsto no Twitter Blue"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9417.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.facebook.com/estadao/videos/694491445227920",
+    "hat": "AO VIVO",
+    "title": "Summit Agronegócio debate código florestal e inovações na área de alimentos; acompanhe",
+    "summary": "Evento do Estadão traz especialistas para debater as tendências do agro no Brasil e no mundo"
+  }
+]

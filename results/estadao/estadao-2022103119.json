@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7914.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-se-reune-com-ministros-e-avalia-discurso-sobre-resultado-das-eleicoes/",
+    "hat": "SUCESSÃO PRESIDENCIAL",
+    "title": "Bolsonaro se reúne com ministros e avalia discurso sobre resultado das eleições",
+    "summary": "Auxiliares escreveram texto a ser lido pelo presidente, que ainda se mantém em silêncio sobre derrota para Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7518.359375,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/governo-lula-simone-tebet-e-governadora-do-ceara-sao-nomes-fortes-para-o-mec-entenda-a-escolha/",
+    "hat": "NOVA ADMINISTRAÇÃO",
+    "title": "Governo Lula: Simone Tebet e atual governadora do Ceará são nomes fortes para o MEC; entenda a escolha",
+    "summary": "Izolda Cela tem o apoio de educadores e de petistas próximos ao presidente eleito. Mas a ex-candidata pelo MDB quer o posto"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7518.359375,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caminhoneiros-pro-bolsonaro-fazem-bloqueios-na-via-dutra-e-na-rio-santos-e-afetam-acesso-a-sp/",
+    "hat": "MANIFESTAÇÕES PELO PAÍS",
+    "title": "Caminhoneiros pró-Bolsonaro bloqueiam Via Dutra e Rio-Santos e afetam acesso a SP"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6980.25,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.youtube.com/watch?v=hFiFv0klRjk",
+    "hat": "assista aqui",
+    "title": "Ao vivo: embaixador Rubens Barbosa mostra como a eleição de Lula afeta política externa"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6578.140625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/eleicao-de-tarcisio-faz-aumentar-aposta-do-mercado-em-privatizacao-da-sabesp/",
+    "hat": "NEGÓCIOS EM SP",
+    "title": "Eleição de Tarcísio faz aumentar aposta em privatização da Sabesp, mas há incertezas"
+  }
+]

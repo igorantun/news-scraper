@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12662.609375,
+      "left": 365,
+      "height": 172.78125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/05/pt-governadores-oposicao-apoiadores.htm",
+    "title": "Lula busca novo pacto federativo e já articula com governadores eleitos",
+    "summary": "PT tem procurado adversários que vão governar estados a partir do dia 1º de janeiro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12440.828125,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/05/demandas-setores-governo-lula.htm",
+    "title": "Empresários pedem que Lula mantenha reforma trabalhista e seja contra invasões de terras"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12050.15625,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/04/quem-vai-comandar-o-exercito-lula-ja-tem-nomes-na-manga-veja-quais-sao.htm",
+    "title": "Quem vai comandar o Exército? Lula já tem nomes na manga; veja quais são"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12440.828125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/05/quem-e-ciro-nogueira-bolsonarista-que-faz-transicao-de-governo-com-alckmin.htm",
+    "title": "Bolsonaro escolhe líder do centrão para transição; ministro já elogiou Lula"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12050.15625,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/11/04/derrota-de-bolsonaro-deflagrou-casos-de-violencia-politica-pelo-brasil.htm",
+    "title": "Sakamoto: Derrota de Bolsonaro deflagrou nova onda de violência política no Brasil"
+  }
+]

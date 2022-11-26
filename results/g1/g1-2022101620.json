@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4325,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/10/16/a-cada-2-dias-1-crianca-com-menos-de-5-anos-morre-de-covid-no-brasil-grupo-esta-sem-vacina-e-governo-nao-diz-quando-tera-doses-da-pfizer.ghtml",
+    "hat": "Campanha de vacinação",
+    "title": "A cada 2 dias, 1 criança com menos de 5 anos morre de Covid; vacina não foi liberada pelo governo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4325,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2022/10/16/fotos-mostram-cataratas-do-iguacu-apos-segunda-maior-vazao-de-agua-desde-1997-veja-galeria.ghtml",
+    "hat": "É muita água",
+    "title": "FOTOS mostram Cataratas após 2ª maior vazão desde 1997"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3988.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/10/16/viih-tube-e-eliezer-revelam-sexo-do-bebe-em-live.ghtml",
+    "hat": "BBBaby",
+    "title": "Viih Tube e Eliezer revelam sexo do bebê; veja o momento"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3583.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/16/xi-jinping-diz-que-a-china-ja-conquistou-controle-total-de-hong-kong-e-que-esta-determinada-a-fazer-isso-em-taiwan.ghtml",
+    "hat": "Ásia",
+    "title": "Xi Jinping diz que a China tem 'controle total' de Hong Kong e fará isso em Taiwan",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3305.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/10/16/chuva-causa-alagamentos-deslizamentos-e-problemas-no-transito-em-sc-fotos.ghtml",
+    "hat": "Temporais no Sul",
+    "title": "Chuva causa alagamentos, deslizamentos e bloqueios em SC",
+    "category": "Santa Catarina"
+  }
+]

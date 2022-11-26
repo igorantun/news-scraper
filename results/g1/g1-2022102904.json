@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4457,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/debate-na-globo-lula-e-bolsonaro-comparam-governos-e-trocam-acusacoes-salario-minimo-armas-jefferson-mensalao-e-viagra-sao-temas.ghtml",
+    "title": "Lula e Bolsonaro comparam governos e trocam acusações; salário mínimo, Jefferson, mensalão e viagra são temas",
+    "summary": "Debate entre os candidatos na Globo foi o último antes do 2º turno, no domingo."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3715.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/bolsonaro-afirma-que-vai-respeitar-o-resultado-das-urnas-no-segundo-turno-quem-tiver-mais-voto-leva.ghtml",
+    "title": "Bolsonaro diz que respeitará resultado das urnas: 'Quem tiver mais voto leva'",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3437.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/eleicoes-sao-para-garantir-o-regime-democratico-diz-lula-apos-debate-na-globo.ghtml",
+    "title": "'Eleições são para garantir o regime democrático', diz Lula após debate",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3159.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/debate-na-globo-comentaristas-do-g1-e-da-globonews-avaliam-desempenho-de-lula-e-bolsonaro.ghtml",
+    "title": "Lula ou Bolsonaro, quem se saiu melhor no debate? Veja análises",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -2881.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/video/debate-na-globo-consideracoes-finais-jair-bolsonaro-pl-11072287.ghtml",
+    "title": "Veja as considerações finais de Bolsonaro",
+    "category": "G1 Eleições"
+  }
+]

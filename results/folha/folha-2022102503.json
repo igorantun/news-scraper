@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9326.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ipec-lula-tem-50-e-bolsonaro-43-indecisos-sao-2-e-brancos-e-nulos-5.shtml",
+    "hat": "Eleições 2022",
+    "title": "Ipec: Lula tem 50%, e Bolsonaro, 43%; indecisos são 2%, e brancos e nulos, 5%",
+    "summary": "No levantamento anterior, realizado há uma semana, os resultados com vistas ao segundo turno eram os mesmos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.6875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9008.4375,
+      "left": 974.984375,
+      "height": 401.984375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/roberto-jefferson-diz-a-pf-ter-dado-cerca-de-50-tiros-de-fuzil-ao-resistir-a-prisao.shtml",
+    "hat": "caso jefferson",
+    "title": "Jefferson diz à PF ter dado cerca de 50 tiros de fuzil ao resistir à prisão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8571.46875,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/dolar-salta-ante-real-com-tensao-politica-domestica-e-exterior.shtml",
+    "hat": "Mercado financeiro",
+    "title": "Bolsa tem maior tombo em quase 1 ano após caso Jefferson; Petrobras cai 10%",
+    "summary": "Dólar registra forte alta e real, o pior desempenho entre principais moedas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8618.3125,
+      "left": 1305,
+      "height": 90,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/sobretudo/carreiras/2022/10/saiba-como-montar-seu-plano-de-carreira.shtml",
+    "hat": "Folha carreiras",
+    "title": "Confira como montar seu plano de carreira"
+  }
+]

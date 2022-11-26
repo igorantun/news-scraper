@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4323,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/31/joe-biden-presidente-dos-eua-liga-para-lula-para-cumprimentar-pela-vitoria.ghtml",
+    "hat": "Diplomacia",
+    "title": "Lula e Biden conversam por telefone sobre mudança climática e combate à fome"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4323,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/mapas/mapa-da-apuracao-no-brasil-presidente/2-turno/",
+    "hat": "Raio X da eleição",
+    "title": "MAPA DA APURAÇÃO: veja a votação para presidente na sua cidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3581.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/31/lula-se-encontra-com-presidente-da-argentina-alberto-fernandez-em-hotel-de-sao-paulo.ghtml",
+    "title": "Presidente argentino faz 1ª viagem ao Brasil e se reúne com Lula",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3303.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/g1-publica-reportagens-e-videos-com-a-votacao-em-todos-os-5568-municipios-no-segundo-turno-das-eleicoes-2022.ghtml",
+    "hat": "2º turno da eleição",
+    "title": "g1 publica reportagens e vídeos com a votação em todos os municípios",
+    "summary": "Sistema desenvolvido pela Globo exibe, de maneira automática, dados do TSE em texto e vídeo.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3025.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/bolsonaro-pode-fazer-pronunciamento-ainda-nesta-segunda-ou-na-terca-sem-contestar-as-eleicoes-diz-ministro.ghtml",
+    "hat": "Derrotado nas urnas",
+    "title": "Bolsonaro não deve contestar resultado da eleição, diz ministro",
+    "category": "Eleições 2022"
+  }
+]

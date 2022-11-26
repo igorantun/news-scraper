@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12558.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/11/11/comandantes-forcas-armadas-manifestacoes-legitimas.htm",
+    "title": "Forças Armadas dizem que atos são legítimos, mas condenam excessos",
+    "summary": "Chefes de Marinha, Exército e Aeronáutica lançaram hoje uma nota conjunta"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12169.265625,
+      "left": 365,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/11/velorio-gal-costa.htm",
+    "title": "Corpo de Gal Costa é velado em cerimônia aberta ao público em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12169.265625,
+      "left": 619.15625,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/10/toledo-mercado-chantageia-histeria-e-causa-e-consequencia-da-fala-de-lula.htm",
+    "title": "Toledo: Faria Lima precisa tomar calmante, pois Lula fala conforme o público"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12169.265625,
+      "left": 873.328125,
+      "height": 426.421875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/aliados-de-lula-resistem-a-separacao-de-ministerios-da-justica-e-seguranca-publica.shtml",
+    "title": "Aliados de Lula resistem à separação de ministérios da Justiça e Segurança Pública"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11685.84375,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/colunas/mariana-londres/2022/11/11/fiscal-bolsonaro.htm",
+    "title": "R$ 400 bilhões? Entenda o cálculo do rombo fiscal que o governo Bolsonaro deixa"
+  }
+]

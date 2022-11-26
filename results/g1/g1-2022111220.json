@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6274,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/12/flordelis-e-interrogada-em-julgamento-sobre-a-morte-do-pastor-anderson.ghtml",
+    "hat": "Crime no Rio",
+    "title": "Flordelis diz que abusos motivaram morte do marido, mas nega crime",
+    "summary": "Julgamento entra na reta final. Ex-deputada é acusada de arquitetar assassinato do pastor Anderson do Carmo."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6274,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/como-caes-dados-por-kim-jong-un-criaram-disputa-entre-atual-e-ex-presidente-na-coreia-do-sul.ghtml",
+    "hat": "Coreia do Sul",
+    "title": "Cães dados por Kim Jong-un são motivo de briga entre atual e ex-presidente na Coreia do Sul"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5937.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/12/inauguracao-da-shein-em-sp-tem-longas-filas-confusao-e-brigas.ghtml",
+    "hat": "Cenas lamentáveis",
+    "title": "Clientes saem no tapa em inauguração de loja temporária em SP"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5532.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/11/12/em-dia-historico-ucranianos-celebram-reconquista-de-kherson-em-clima-de-vitoria-na-guerra.ghtml",
+    "hat": "Marco na guerra",
+    "title": "Ucrânia celebra retomada de Kherson, maior derrota da Rússia até agora",
+    "category": "Ucrânia e Rússia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4976.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/filho-de-brasileiros-george-santos-sera-deputado-no-congresso-dos-eua.ghtml",
+    "title": "Apoiador de Trump e gay: o filho de brasileiros eleito deputado nos EUA",
+    "category": "Mundo"
+  }
+]

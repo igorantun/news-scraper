@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8707.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/tcu-diz-que-governo-bolsonaro-quer-fornecer-as-informacoes-e-acredita-em-transicao-tranquila.shtml",
+    "hat": "transição de governo",
+    "title": "TCU diz que governo Bolsonaro 'quer fornecer informações' e acredita em transição tranquila",
+    "summary": "Conversa a portas fechadas com representantes da atual gestão é realizada para apresentar o comitê de acompanhamento"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -556.015625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8389.4375,
+      "left": 975,
+      "height": 219.546875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/quem-contesta-eleicao-em-atos-antidemocraticos-sera-tratado-como-criminoso-diz-moraes.shtml",
+    "hat": "PRESIDENTE DO TSE",
+    "title": "Quem contesta eleição em atos antidemocráticos será tratado como criminoso, diz Moraes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8134.90625,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bloqueios-golpistas-permanecem-em-11-estados-acompanhe-situacao-das-estradas.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Caem para 6 os estados com bloqueios golpistas; acompanhe a situação das estradas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7977.96875,
+      "left": 975,
+      "height": 188.09375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonarista-tenta-driblar-veto-de-moraes-em-atos-golpistas-e-e-derrubado-de-novo.shtml",
+    "hat": "+atos antidemocráticos",
+    "title": "Bolsonarista tenta driblar veto de Moraes em atos golpistas e é derrubado de novo"
+  }
+]

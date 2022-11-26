@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5473,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/roberto-jefferson-resiste-a-ordem-de-prisao-do-stf-e-fere-a-tiros-policiais-federais.ghtml",
+    "title": "Roberto Jefferson resiste à ordem de prisão do STF e atira contra policiais federais",
+    "summary": "2 agentes ficaram feridos, segundo a PM. Prisão foi ordenada por Alexandre de Moraes após ex-deputado xingar a ministra Cármen Lúcia."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5473,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/23/por-dentro-da-prisao-de-evin-no-ira-nao-posso-imaginar-o-que-os-presos-estao-passando.ghtml",
+    "hat": "Violação de direitos",
+    "title": "Frio, tortura e teste de virgindade: por dentro da prisão de Evin, no Irã"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5136.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/go/goias/noticia/2022/10/23/bombeiro-de-folga-salva-bebe-de-16-dias-de-vida-que-se-engasgou-com-leite-apos-avo-pedir-ajuda-video.ghtml",
+    "hat": "Goiás",
+    "title": "VÍDEO: bombeiro de folga salva bebê que se engasgou com leite"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4731.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/23/ipec-veja-a-intencao-de-votos-para-os-candidatos-ao-governo-dos-12-estados-em-que-ha-2o-turno.ghtml",
+    "hat": "Pesquisa Ipec",
+    "title": "Veja quem está na frente e onde tem empate nos 12 estados com 2º turno",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4453.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/10/08/e-fake-video-que-mostra-bolsonaro-na-lideranca-da-pesquisa-ipec-divulgada-em-5-de-outubro-de-2022.ghtml",
+    "hat": "Cuidado com boatos",
+    "title": "É #FAKE vídeo que mostra Bolsonaro na frente da pesquisa Ipec de 5 de outubro",
+    "category": "Eleições"
+  }
+]

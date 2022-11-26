@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5796,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/moraes-indefere-pedido-da-campanha-de-bolsonaro-sobre-insercoes-em-radios.ghtml",
+    "hat": "Justiça Eleitoral",
+    "title": "Moraes nega pedido de Bolsonaro para investigar suposto boicote de rádios",
+    "summary": "Presidente do TSE afirma que campanha levantou hipótese de fraude sem indícios mínimos de prova e determina apuração de possível crime eleitoral; Bolsonaro diz que vai recorrer."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5796,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/26-10-2022/internacional-ceara.ghtml",
+    "hat": "Brasileirão",
+    "title": "Inter vira sobre o Ceará e evita título antecipado do Palmeiras",
+    "summary": "Vitória garante à equipe gaúcha vaga na fase de grupos da Libertadores."
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5459.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/10/26/policia-diz-que-ha-indicios-de-racismo-durante-show-de-seu-jorge-em-porto-alegre-e-aguarda-pericia-em-audios.ghtml",
+    "hat": "Rio Grande do Sul",
+    "title": "Polícia diz que há indícios de racismo durante show de Seu Jorge"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5054.828125,
+      "left": 348.65625,
+      "height": 136.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/tse-diz-que-servidor-foi-exonerado-por-suspeita-de-assedio-moral-e-que-deu-depoimento-a-pf-com-afirmacoes-falsas-e-mentirosas.ghtml",
+    "title": "TSE exonera servidor por assédio moral e indícios de atuação política",
+    "summary": "Tribunal afirma que Alexandre Machado fez alegações falsas e mentirosas à PF.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4886.4375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/26/bolsonaro-queria-radicalizar-e-propor-adiar-eleicao-sem-apoio-recua-e-antecipa-terceiro-turno.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Bolsonaro queria propor adiar eleição, mas não teve apoio de aliados",
+    "summary": "Presidente foi alertado que radicalização seria 'por sua conta e risco'.",
+    "category": "Blog da Andréia Sadi"
+  }
+]

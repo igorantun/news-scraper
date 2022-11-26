@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12719.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministro-de-bolsonaro-cita-radio-do-proprio-pai-em-relatorio-ao-tse-sobre-suposta-fraude.shtml",
+    "title": "Ministro cita rádio do próprio pai em relatório ao TSE sobre suposta fraude",
+    "summary": "Documento de Fábio Faria acusa rádio Agreste de veicular menos peças de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12330.265625,
+      "left": 365,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/desempenho-tarcisio-haddad-debate-globo.htm",
+    "title": "Campanhas veem erros com Haddad sem timing e Tarcísio desestabilizado"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12330.265625,
+      "left": 619.15625,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/28/carta-de-lula-mercado-financeiro.htm",
+    "title": "Carta de Lula para economia busca acalmar mercado, mas é vaga, dizem analistas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12330.265625,
+      "left": 873.328125,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/28/gisele-tom-brady.htm",
+    "title": "Gisele Bündchen e Tom Brady anunciam fim do casamento após 13 anos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12033.15625,
+      "left": 873.328125,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-caso-roberto-jefferson-mostra-insanidade-do-pais-com-bolsonaro.htm",
+    "title": "Lula diz que caso Jefferson mostra 'grau de insanidade' do país com Bolsonaro"
+  }
+]

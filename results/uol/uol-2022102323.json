@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12319.609375,
+      "left": 365,
+      "height": 249.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-se-entrega-a-pf-depois-de-atirar-contra-policiais.htm",
+    "title": "Roberto Jefferson se entrega à PF depois de atirar contra policiais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12021.078125,
+      "left": 365,
+      "height": 478.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/23/bolsonaro-sobre-roberto-jefferson-nao-tem-uma-foto-dele-comigo.htm",
+    "title": "Bolsonaro sobre Roberto Jefferson: 'Não tem uma foto dele comigo'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11518.46875,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/23/cinegrafista-da-tv-globo-e-agredido-por-apoiadores-de-roberto-jefferson.htm",
+    "title": "Cinegrafista da TV Globo é agredido por apoiadores de Roberto Jefferson"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12021.078125,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/bolsonaro-igreja-mundial-apostolo-valdemiro-santiago.htm",
+    "title": "Bolsonaro distorce decreto de Lula durante discurso homofóbico em igreja de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11564.84375,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://f5.folha.uol.com.br/celebridades/2022/10/flavio-bolsonaro-posta-foto-falsa-do-casimiro-apoiando-reeleicao-do-presidente.shtml",
+    "title": "Flávio posta foto manipulada para simular apoio de Casimiro a Bolsonaro"
+  }
+]

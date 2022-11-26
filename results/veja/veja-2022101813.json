@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5863.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/michelle-e-damares-vao-ao-rio-buscar-votos-para-bolsonaro/",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro escala Michelle e Damares para tentar ampliar vantagem no Rio",
+    "summary": "Primeira-dama e senadora eleita terão três agendas no estado nesta semana; campanha do presidente mira aumentar a margem de votos sobre Lula no terceiro maior colégio eleitoral do país após o bom resultado no primeiro turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1179.453125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/silencio-de-lula-sobre-economia-inquieta-mercado-na-reta-final-da-campanha",
+    "hat": "Reportagem de capa",
+    "title": "Incertezas sobre plano econômico de Lula inquietam mercado na reta final da eleição",
+    "summary": "Falta de clareza sobre diretrizes de um futuro governo do petista pode prejudicar desempenho do candidato em um momento decisivo da campanha"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -608.328125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/romeu-zema-o-brasil-se-transformou-no-pais-das-pautas-irrelevantes/",
+    "hat": "Política",
+    "title": "Romeu Zema: 'O Brasil se transformou no país das pautas irrelevantes'",
+    "summary": "O governador reeleito de Minas defende Bolsonaro, critica a possibilidade de o PT voltar ao poder e afirma que a classe política perde tempo com temas pequenos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5533.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/brasil/o-milagre-operado-por-alexandre-de-moraes-na-campanha-de-bolsonaro/",
+    "hat": "Campanha",
+    "title": "Para aliados, Moraes 'salvou' Bolsonaro com decisão sobre polêmica"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5533.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/brasil/nogueira-anuncia-representacao-contra-janones-na-camara/",
+    "hat": "Radar",
+    "title": "Ciro Nogueira anuncia representação contra Janones na Câmara"
+  }
+]

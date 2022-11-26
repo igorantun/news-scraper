@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9032.3125,
+      "left": 329,
+      "height": 302,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/brasileiro-faz-de-tudo-para-limpar-nome/",
+    "hat": "Economia",
+    "title": "Brasileiro faz de tudo para limpar o nome; endividamento está em alta",
+    "summary": "Além da venda de objetos pessoais e saque da poupança, famílias têm recorrido cada vez mais a fintechs, que viram procura por crédito aumentar 62,8% ao ano desde 2016"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9032.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/debate-para-presidente-band-lula-bolsonaro-segundo-turno/",
+    "hat": "eleições 2022",
+    "title": "O que esperar do debate entre Lula e Bolsonaro na Band? Veja análise"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8582.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/pme/turismo-rural-programa-cria-rotas-gastronomicas-no-interior-e-litoral-de-sao-paulo/",
+    "hat": "roteiro de delícias",
+    "title": "Queijo premiado e farofa de ostras frescas são destaque em rotas gastronômicas de SP",
+    "summary": "Gim da Barra do Sahy, sashimi de piranha do Timboré e queijo de cabra de Joaquim Egídio; escolha seu destino"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8582.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/china-tem-controle-total-de-hong-kong-e-pretende-fazer-o-mesmo-com-taiwan-diz-xi-jinping/",
+    "hat": "Presidente chinês",
+    "title": "Xi Jinping: 'China tem controle total de Hong Kong e pretende fazer o mesmo com Taiwan'",
+    "summary": "Líder defendeu crescimento militar chinês em discurso de 2 horas na abertura do Congresso do Partido Comunista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8582.203125,
+      "left": 1190.3125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-reage-a-polemica-sobre-meninas-venezuelanas-e-diz-que-pt-ultrapassou-todos-os-limites/",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro reage a polêmica envolvendo meninas venezuelanas: 'PT ultrapassou todos os limites'",
+    "summary": "Presidente disse que a fala, feita durante entrevista a um podcast, foi tirada de contexto por seus adversários"
+  }
+]

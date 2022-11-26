@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12524.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/governo-bolsonaro-concedeu-r-21-bilhoes-extras-a-eleitores-na-campanha.htm",
+    "title": "Governo despejou R$ 21 bi extras na mão de eleitores durante campanha",
+    "summary": "Ritmo de transferência de recursos aumentou na reta final das eleições"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12162.453125,
+      "left": 365,
+      "height": 323.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/cristina-tardaguila/2022/10/21/pgr-questiona-no-stf-a-inconstitucionalidade-de-super-poderes-do-tse.htm",
+    "title": "Procuradoria-Geral questiona STF sobre 'superpoderes' do TSE"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11814.96875,
+      "left": 365,
+      "height": 323.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-aprova-direito-de-resposta-de-lula-no-twitter-de-bolsonaro.shtml",
+    "title": "TSE aprova direito de resposta de Lula no Twitter de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11467.484375,
+      "left": 365,
+      "height": 72,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/pm-paulista-tem-setembro-menos-letal-de-serie-historica-com-15-mortes.shtml",
+    "title": "PM paulista tem setembro menos letal de série, com 15 mortes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12162.453125,
+      "left": 619.15625,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/21/fim-da-aposentadoria-diz-representante-de-inativos-sobre-plano-de-guedes.htm",
+    "title": "Plano de Guedes é o 'fim da aposentadoria', diz representante de inativos"
+  }
+]

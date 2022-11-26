@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12641.609375,
+      "left": 365,
+      "height": 278.34375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/aliados-de-lula-resistem-a-separacao-de-ministerios-da-justica-e-seguranca-publica.shtml",
+    "title": "Aliados de Lula resistem à separação de ministérios da Justiça e Segurança",
+    "summary": "Desmembramento de pasta foi uma das promessas de campanha do presidente eleito"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12228.265625,
+      "left": 873.328125,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/10/toledo-mercado-chantageia-histeria-e-causa-e-consequencia-da-fala-de-lula.htm",
+    "title": "Toledo: Mercado chantageia; histeria é causa e consequência da fala de Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11744.84375,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/11/extremistas-evangelicos-estimulam-atos-golpistas-por-guerra-espiritual.htm",
+    "title": "Líderes evangélicos instigam atos golpistas com 'guerra espiritual' no país"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11423.734375,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/11/brasil-ira-reabrir-embaixada-em-caracas-e-rever-relacao-com-guaido.htm",
+    "title": "Jamil Chade: Brasil irá reabrir embaixada em Caracas e rever relação com Guaidó"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11744.84375,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/play/videos/splash/2022/11/10/mortos-em-abrilep-02v13.htm",
+    "title": "Mortes de 4 funkeiros da Baixada Santista estão há mais de dez anos sem respostas"
+  }
+]

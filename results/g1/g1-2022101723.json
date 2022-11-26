@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5879,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/17/ipec-lula-tem-50percent-no-2o-turno-e-bolsonaro-43percent.ghtml",
+    "hat": "Pesquisa Eleitoral",
+    "title": "Ipec: Lula tem 50% no 2º turno, e Bolsonaro, 43%",
+    "summary": "Brancos e nulos somam 5%. Em votos válidos, Lula aparece com 54%, e Bolsonaro tem 46%."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5879,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "title": "Veja os números do Ipec por região, sexo, renda e religião"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5137.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/17/ipec-46percent-nao-votariam-em-bolsonaro-de-jeito-nenhum-lula-e-rejeitado-por-41percent.ghtml",
+    "title": "46% não votariam em Bolsonaro; Lula é rejeitado por 41%",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4859.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/17/ipec-g1-globonews-colunistas-analise-resultado-da-pesquisa-presidencial-segunda-17-outubro-2022-videos.ghtml",
+    "title": "Pesquisa foi melhor para quem? Colunistas analisam",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4581.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/17/eleicoes-2022-4164percent-dos-deputados-estaduais-e-distritais-eleitos-sao-milionarios.ghtml",
+    "hat": "Brasil desigual",
+    "title": "41% dos deputados estaduais eleitos são milionários; veja infográfico",
+    "summary": "Conteúdo interativo mostra o tamanho dos patrimônios declarados à Justiça Eleitoral.",
+    "category": "Eleições 2022"
+  }
+]

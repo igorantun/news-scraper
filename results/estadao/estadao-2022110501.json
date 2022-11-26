@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10201.3125,
+      "left": 329,
+      "height": 835.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br//economia/equipe-de-lula-admite-plano-b-a-pec-da-transicao-apos-critica-de-aliados/",
+    "hat": "GASTOS EXTRAS",
+    "title": "Equipe de Lula admite plano B à PEC da Transição após crítica de aliados",
+    "summary": "Medida em análise dispensaria negociação no Congresso para bancar auxílio de R$ 600 e outras despesas; Gleisi fala em 'ver todas as possibilidades'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10201.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/live-que-distorce-informacoes-sobre-urnas-e-assistida-por-300-mil-pessoas/",
+    "hat": "DOSSIÊ APÓCRIFO",
+    "title": "Live que distorce informações sobre urnas é disseminada em grupos bolsonaristas",
+    "summary": "Dono de canal direitista na Argentina que fez a transmissão é ligado a Eduardo Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9767.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/shoppings-centers-vazios-em-grandes-capitais-viram-alvo-de-fusoes-e-aquisicoes/",
+    "hat": "MUDANÇA DE HÁBITOS",
+    "title": "Shoppings centers vazios em grandes capitais viram alvo de fusões e aquisições"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9303.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/quem-vai-comandar-o-exercito-lula-ja-tem-nomes-na-manga-veja-quais-sao/",
+    "hat": "TRANSIÇÃO",
+    "title": "Quem vai comandar o Exército? Lula já tem nomes na manga; veja quais são"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9303.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/leite-admite-fusao-ou-nova-federacao-partidaria-do-psdb-para-fortalecer-centro/",
+    "hat": "FUTURO DOS TUCANOS",
+    "title": "Live que distorce informações sobre urnas é disseminada em grupos bolsonaristas",
+    "summary": "Governador do Rio Grande do Sul eleito também defende que o partido faça oposição ao governo Lula"
+  }
+]

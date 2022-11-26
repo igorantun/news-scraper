@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12444.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-quer-rever-norma-de-bolsonaro-e-limitar-tempo-de-militar-em-cargo-politico.shtml",
+    "title": "Lula quer rever norma atual e limitar tempo de militar em cargo político",
+    "summary": "Ex-presidente decidiu, se eleito, nomear civil para comandar Ministério da Defesa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12168.453125,
+      "left": 365,
+      "height": 451.421875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-diz-que-pt-ultrapassou-todos-os-limites-ao-mencionar-video-sobre-venezuelanas-em-que-fala-pintou-um-clima.shtml",
+    "title": "Bolsonaro diz que 'PT ultrapassou limites' ao mencionar vídeo sobre jovens venezuelanas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11693.03125,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/venezuelana-diz-que-casa-abrigava-acao-social-durante-visita-de-bolsonaro.htm",
+    "title": "Venezuelana visitada por Bolsonaro refuta fala e diz que casa abrigava ação social"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12168.453125,
+      "left": 619.15625,
+      "height": 440.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/15/hulk-provoca-torcida-do-fla-e-reclama-da-arbitragem-so-precisa-ser-justo.htm",
+    "title": "Hulk provoca torcida do Flamengo e reclama da arbitragem: 'Só precisa ser justo'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11704.21875,
+      "left": 619.15625,
+      "height": 298.484375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/16/lesao-de-richarlison-ativa-pior-medo-da-selecao-antes-da-copa-do-qatar-2022.htm",
+    "title": "Lesão de Richarlison ativa pior medo da seleção antes da Copa"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6449,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/24/prefeitura-de-sp-libera-passe-livre-no-segundo-turno-das-eleicoes.ghtml",
+    "hat": "Transporte público gratuito",
+    "title": "Prefeitura de SP libera passe livre em ônibus no 2º turno das eleições"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6449,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/10/24/o-que-e-a-bomba-suja-artefato-nao-nuclear-que-pode-disseminar-material-radioativo.ghtml",
+    "hat": "Armas na guerra",
+    "title": "O que é a 'bomba suja' que a Rússia acusa a Ucrânia de preparar"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6112.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2022/10/24/leslie-jordan-ator-de-will-and-grace-morre-aos-67-anos-diz-site.ghtml",
+    "hat": "Hollywood",
+    "title": "Leslie Jordan, de 'Will and Grace', morre em acidente de carro aos 67"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5707.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/24/dolar.ghtml",
+    "hat": "Mercado financeiro",
+    "title": "Dólar fecha em forte alta e passa de R$ 5,30; bolsa cai 3%",
+    "summary": "Possível corte de juros nos EUA e caso Roberto Jefferson preocupam investidores.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5429.65625,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/24/ministro-do-tcu-determina-que-caixa-preste-esclarecimentos-em-24-horas-sobre-emprestimos-consignados-do-auxilio-brasil.ghtml",
+    "hat": "Prazo de 24 horas",
+    "title": "TCU pede esclarecimentos à Caixa sobre consignado do Auxílio Brasil",
+    "summary": "Ministro também recomendou que banco suspenda empréstimos de novos valores.",
+    "category": "Política"
+  }
+]

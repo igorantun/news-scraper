@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12312.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/centrao-e-aliados-de-lula-aceitam-negociar-mudancas-em-emendas-de-relator.shtml",
+    "title": "Centrão e aliados de Lula aceitam negociar emendas de relator",
+    "summary": "Na campanha, petista defendeu fim do mecanismo, que será julgado pelo Supremo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12063.640625,
+      "left": 365,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/bolsonaro-pede-apoiadores-liberacao-rodovias.htm",
+    "title": "Bolsonaro faz apelo por fim de bloqueios em estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11650.59375,
+      "left": 365,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/reportagens-especiais/palmeiras-campeao-brasileiro-de-2022-os-quatro-cavaleiros-do-aporcolipse/#cover",
+    "title": "Cavaleiros do 'aporcolipse' carregam o Palmeiras rumo a mais uma taça"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12063.640625,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bloqueio-faz-idosa-perder-biopsia-de-cancer-corrida-contra-o-tempo.htm",
+    "title": "Bloqueio de rodovia no Rio faz idosa perder exame de câncer: 'Corrida contra o tempo'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11607.40625,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/02/flamengo-x-corinthians---brasileirao-2022.htm",
+    "title": "Corinthians carimba faixa do Flamengo e garante vaga direta na Libertadores"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3473,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/debate-na-globo-lula-e-bolsonaro-comparam-governos-e-trocam-acusacoes-salario-minimo-armas-jefferson-mensalao-e-viagra-sao-temas.ghtml",
+    "title": "Lula e Bolsonaro comparam governos e trocam acusações; salário mínimo, Jefferson, mensalão e viagra são temas",
+    "summary": "Debate entre os candidatos na Globo foi o último antes do 2º turno."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2731.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/debate-da-globo-do-2o-turno-para-presidente-veja-integra-em-videos.ghtml",
+    "title": "VÍDEOS: assista ao debate na íntegra",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2453.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/10/29/veja-o-que-e-fato-ou-fake-nas-falas-dos-presidenciaveis-no-debate-da-globo-do-2o-turno.ghtml",
+    "title": "Veja o que é #FATO ou #FAKE nas falas dos presidenciáveis no debate",
+    "category": "Eleições"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -2175.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/debate-na-globo-comentaristas-do-g1-e-da-globonews-avaliam-desempenho-de-lula-e-bolsonaro.ghtml",
+    "title": "Quem ganhou o último debate da eleição? Veja análises",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -1897.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/bolsonaro-afirma-que-vai-respeitar-o-resultado-das-urnas-no-segundo-turno-quem-tiver-mais-voto-leva.ghtml",
+    "title": "Bolsonaro diz que respeitará resultado das urnas: 'Quem tiver mais voto leva'",
+    "category": "Eleições 2022"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4621,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/03/petrobras-tem-lucro-de-r-461-bilhoes-no-terceiro-trimestre.ghtml",
+    "hat": "Economia",
+    "title": "Petrobras anuncia lucro de R$ 46,1 bilhões no 3º trimestre, alta de 48%"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4621,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/03/transicao-para-governo-lula-conheca-local-onde-equipe-do-presidente-eleito-vai-trabalhar-em-brasilia.ghtml",
+    "hat": "Brasília",
+    "title": "Gabinete de transição é preparado em Brasília; conheça local"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4284.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/ginastica-artistica/noticia/2022/11/03/rebeca-andrade-e-ouro-no-individual-geral-no-mundial-de-ginastica.ghtml",
+    "hat": "No topo",
+    "title": "Rebeca Andrade faz história e é campeã mundial de ginástica"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3879.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/alckmin-chega-ao-planalto-para-primeira-reuniao-sobre-transicao-com-ministro-de-bolsonaro.ghtml",
+    "hat": "Passagem de bastão",
+    "title": "Alckmin se reúne com Ciro Nogueira no Planalto e inicia transição",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3601.65625,
+      "left": 348.65625,
+      "height": 132.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/03/arcebispo-de-brasilia-costurou-encontro-entre-alckmin-e-bolsonaro.ghtml",
+    "title": "JULIA DUAILIBI: Arcebispo convenceu Bolsonaro a receber Alckmin",
+    "category": "Blog da Julia Duailibi"
+  }
+]

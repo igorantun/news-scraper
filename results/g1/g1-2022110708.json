@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5127,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/11/06/um-ano-sem-marilia-mendonca-fantastico-tem-acesso-aos-detalhes-da-investigacao-que-apura-queda-do-aviao.ghtml",
+    "hat": "1 ano do acidente",
+    "title": "Fantástico mostra detalhes da investigação da queda do avião de Marília Mendonça",
+    "summary": "Aeronave estava em baixa altitude quando bateu em linha de transmissão de energia."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5127,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/ex-deputada-flordelis-e-mais-quatro-reus-comecam-a-ser-julgados-nesta-segunda-feira-no-rj.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Flordelis e mais quatro réus começam a ser julgados hoje"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4790.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fantastico/playlist/videos-veja-todas-as-reportagens-do-fantastico.ghtml#video-11052883-id",
+    "hat": "Gols do Brasileirão",
+    "title": "Vasco e Bahia vencem e voltam à Série A com Cruzeiro e Grêmio"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4385.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/11/06/golpe-do-pix-ja-atingiu-pelo-menos-11-cidades-do-sudeste-e-causou-prejuizos-de-mais-r-10-milhoes.ghtml",
+    "hat": "Fantástico",
+    "title": "Golpe do PIX atinge 11 cidades; prejuízo passa de R$ 10 milhões",
+    "summary": "Criminosos usam dados de prefeituras para roubar dinheiro público.",
+    "category": "Fantástico"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4107.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/06/lula-participa-de-reunioes-com-a-equipe-de-transicao-de-governo-em-sp-nesta-segunda-feira.ghtml",
+    "hat": "Novo governo",
+    "title": "Lula se reúne com equipe de transição em SP nesta segunda",
+    "category": "São Paulo"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9625.65625,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/prf-prioriza-transporte-de-passageiros-multiplica-abordagens-e-descumpre-decisao-de-moraes.shtml",
+    "hat": "Justiça eleitoral",
+    "title": "PRF multiplica abordagens de ônibus neste domingo de eleição e descumpre decisão de Moraes",
+    "summary": "TSE proibiu ontem à noite operações contra transporte de eleitores; número de abordagens já é 70% maior do que no 1º turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -864.875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-a-melhor-sobre-bolsonaro-em-debate-de-monologos.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula leva a melhor sobre Bolsonaro em debate de monólogos",
+    "summary": "Evento na Globo coroa eleição de rejeições que marca a disputa que chega a seu fim"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9254.078125,
+      "left": 315,
+      "height": 91.984375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/prf-faz-operacoes-em-estradas-federais-do-nordeste-prefeitos-criticam.shtml",
+    "title": "Polícia Rodoviária Federal faz operações em estradas federais do Nordeste; prefeitos criticam"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9254.078125,
+      "left": 644.984375,
+      "height": 91.984375,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2922/10/29/6224-eleicoes-2022-as-principais-noticias-do-segundo-turno.shtml#post421347",
+    "title": "Em vídeo, prefeito de cidade do interior da Bahia questiona ação de agentes da PRF"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9254.078125,
+      "left": 974.96875,
+      "height": 91.984375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/justica-da-bahia-convoca-superintendente-da-prf-para-prestar-esclarecimentos.shtml",
+    "title": "Justiça da Bahia convoca superintendente da PRF para prestar esclarecimentos"
+  }
+]

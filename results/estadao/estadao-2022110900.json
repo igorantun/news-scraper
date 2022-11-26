@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10167.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica//alckmin-confirma-transicao-com-lara-resende-e-arida-na-economia-e-tebet-na-area-social-veja-lista/",
+    "hat": "FORMAÇÃO DE EQUIPE",
+    "title": "Alckmin confirma transição com Lara Resende e Persio Arida na economia e Simone Tebet na área social; veja lista",
+    "summary": "Vice-presidente eleito assina portaria com Aloizio Mercadante como coordenador técnico; Floriano Pesaro e Gleisi Hoffmann serão responsáveis por área política"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10167.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/gleisi-hoffmann-e-hostilizada-em-restaurante-em-brasilia/",
+    "hat": "Política",
+    "title": "Gleisi Hoffmann é hostilizada em restaurante de Brasília e registra boletim de ocorrência"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9749.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/luis-stuhlberger-preocupacao-equipe-lula/",
+    "hat": "E-Investidor",
+    "title": "Stuhlberger diz ver 'com preocupação' primeiras sinalizações da equipe de transição",
+    "summary": "Para sócio-fundador da Verde Asset, a PEC da Transição se tornou mais um 'trem da alegria dos gastos'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9211.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pl-anuncia-que-sera-oposicao-a-lula-e-nao-vai-questionar-resultado-da-eleicao/",
+    "hat": "PARTIDO DO PRESIDENTE",
+    "title": "PL diz que será oposição ao novo governo e não vai questionar resultado da eleição",
+    "summary": "Valdemar Costa Neto admitiu, no entanto, que Bolsonaro poderá contestar a derrota se houver 'algo real na mão'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9211.65625,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/equipe-lula-cinco-propostas-bolsa-familia-600-2023/",
+    "hat": "NOVO GOVERNO",
+    "title": "Equipe de Lula já conta com cinco propostas para bancar o Bolsa Família de R$ 600 em 2023; entenda",
+    "summary": "Solução para cumprir promessa de campanha será definida nos próximos dias, segundo Alckmin"
+  }
+]

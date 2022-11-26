@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12300.609375,
+      "left": 365,
+      "height": 172.78125,
+      "width": 732.5
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/19/quais-sao-as-propostas-de-lula-e-bolsonaro-para-a-economia.htm",
+    "title": "Campanhas prometem auxílio maior e imposto menor, mas não dizem como",
+    "summary": "Economistas consideram vagas as propostas tanto de Lula quanto de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12078.828125,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/19/governo-esconde-orcamento-secreto-e-diz-a-ocde-que-contas-sao-transparentes.htm",
+    "title": "Governo esconde orçamento secreto e diz à OCDE que contas são transparentes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11757.71875,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/com-agenda-de-candidata-michelle-chega-a-sp-para-falar-sobre-aborto.htm",
+    "title": "Com agenda de candidata, Michelle chega a São Paulo para falar sobre aborto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12078.828125,
+      "left": 619.15625,
+      "height": 385.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/lula-pt-transporte-gratuito-dia-votacao-prefeitos-governadores.htm",
+    "title": "Contra abstenção, PT articula com prefeitos por transporte gratuito no segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11668.96875,
+      "left": 619.15625,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2022/10/19/lira-usa-pesquisas-para-tentar-ser-o-capataz-dos-reacas-projeto-fere-carta.htm",
+    "title": "Reinaldo: Com projeto contra pesquisas, Lira tentar ser capataz dos reacionários"
+  }
+]

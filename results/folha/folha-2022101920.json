@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9399.65625,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/desinformacao-esta-um-desastre-neste-2o-turno-diz-moraes-em-reuniao-com-plataformas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Moraes vê desastre das fake news, e TSE busca poder de polícia para reta final da eleição",
+    "summary": "Presidente do TSE afirma que redes sociais demoram para remover conteúdo falso e pede que não levem 'mais que 4 a 5 horas'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.28125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9352.671875,
+      "left": 1305,
+      "height": 222.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/live-para-assinantes-analisa-novo-datafolha-as-19h-desta-quarta.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Live para assinantes analisa novo Datafolha a partir das 19h"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9081.984375,
+      "left": 974.984375,
+      "height": 241.59375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-lanca-carta-aos-evangelicos-e-rechaca-aborto-banheiro-unissex-e-pastor-que-mente.shtml",
+    "hat": "+eleições",
+    "title": "Lula lança carta aos evangélicos e rechaça aborto, banheiro unissex e pastor que mente"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8805.40625,
+      "left": 974.984375,
+      "height": 144,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/quatro-empresas-do-rs-ja-fecharam-acordo-por-assedio-eleitoral.shtml",
+    "hat": "eleição e trabalho",
+    "title": "Empresa gaúcha que ameaçou cortes se Lula vencer eleição pode ter que pagar R$ 10 mi"
+  }
+]

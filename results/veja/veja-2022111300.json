@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5880.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/lula-prometeu-picanha-mas-o-cardapio-e-da-natureba-bela-gil/",
+    "hat": "Política",
+    "title": "Transição terá Bela Gil e Simone Tebet na área encarregada de acabar com a fome",
+    "summary": "Filha do cantor Gilberto Gil, que já foi ministro de Lula, chef famosa por defender cardápios alternativos terá missão de conciliar promessa de picanha com hábitos alimentares saudáveis"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4247.234375,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/mundo/terra-chega-aos-8-bilhoes-com-um-desafio-a-desaceleracao-do-crescimento",
+    "hat": "Reportagem de capa",
+    "title": "Terra chega aos 8 bilhões com um novo desafio: desaceleração do crescimento",
+    "summary": "O mundo começa a revelar uma mudança no seu desenho demográfico que impõe questões inéditas aos países. Se bem aproveitada, a guinada pode levar a um futuro melhor"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3676.109375,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/marina-silva-o-maior-desafio-do-governo-lula-e-o-desmatamento-zero/",
+    "hat": "Política",
+    "title": "Marina Silva: 'O maior desafio do governo Lula é o desmatamento zero'",
+    "summary": "Ex-ministra do Meio Ambiente diz que não existe mais espaço para os chamados desenvolvimentistas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5550.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/fake-news-oracao-e-comida-de-graca-um-dia-no-acampamento-golpista/",
+    "hat": "Política",
+    "title": "Fake news, oração e comida de graça: um dia no acampamento golpista"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5550.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/por-revisao-de-regras-de-aposentadoria-militares-querem-reuniao-com-lula/",
+    "hat": "Política",
+    "title": "Por revisão de regras de aposentadoria, militares querem reunião com Lula"
+  }
+]

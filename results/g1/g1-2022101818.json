@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5913,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/moraes-manda-ministerio-da-defesa-entregar-documentos-de-eventual-auditoria-nas-urnas.ghtml",
+    "hat": "Votação no 1º turno",
+    "title": "Moraes dá 48 horas para Defesa apresentar 'eventual auditoria nas urnas'",
+    "summary": "Presidente do TSE cita notícias de que militares teriam levado relatório a Bolsonaro e aponta possível desvio de finalidade e abuso de poder."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5913,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pr/parana/noticia/2022/10/18/sheik-dos-bitcoins-safadao-trava-disputa-judicial-por-aeronave-de-r-37-milhoes-recebida-como-garantia-de-pagamento.ghtml",
+    "hat": "Aeronave de R$ 37 milhões",
+    "title": "Safadão trava disputa judicial por jatinho do Sheik dos Bitcoins"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5576.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/18/farfetch-site-de-moda-de-luxo-cobra-r-531-em-chinelo-havaianas-e-recebe-criticas-de-internautas.ghtml",
+    "hat": "Preço 10 vezes maior",
+    "title": "Site de moda de luxo é criticado por cobrar R$ 531 por chinelos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5171.828125,
+      "left": 348.65625,
+      "height": 255.640625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/apos-dizer-que-meninas-venezuelanas-se-arrumavam-para-fazer-programa-bolsonaro-diz-que-mulheres-de-casa-que-visitou-eram-trabalhadoras.ghtml",
+    "hat": "'Pintou um clima'",
+    "title": "Bolsonaro agora nega prostituição em casa de venezuelanas e diz que eram trabalhadoras",
+    "summary": "Antes, presidente usou expressões 'fazer programa' e 'ganhar a vida' para se referir às meninas. Hoje, após ampla repercussão negativa, pediu desculpas.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4884.1875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/18/bolsonaro-disse-pintou-um-clima-por-achar-que-meninas-venezuelanas-estariam-se-prostituindo-diz-partido-de-chapa-do-presidente.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Em documento, PP de Ciro Nogueira afirma que Bolsonaro achou que eram prostitutas",
+    "summary": "Partido aliado expôs esse argumento para tentar justificar o uso da expressão 'pintou um clima'.",
+    "category": "Blog da Andréia Sadi"
+  }
+]

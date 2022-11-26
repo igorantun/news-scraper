@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6159,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/saiba-quem-sao-os-cotados-para-a-equipe-de-transicao-de-governo.ghtml",
+    "hat": "Articulações políticas",
+    "title": "Governo Lula: veja quem já foi confirmado na transição e quem pode entrar"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6159,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2022/11/08/destaque-do-carnaval-paulista-e-musa-do-caldeirao-e-achada-morta-em-casa-marido-bombeiro-tentou-salva-la.ghtml",
+    "hat": "Litoral de SP",
+    "title": "Destaque do carnaval e musa do 'Caldeirão' é achada morta em casa"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5822.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/11/08/influenciador-digital-arnon-do-grau-e-suspeito-de-integrar-faccoes-criminosas-em-bh-diz-policia.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Influencer Arnon do Grau é preso suspeito de participar de homicídio"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5417.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/alckmin-anuncia-que-simone-tebet-colaborara-na-transicao-com-area-de-desenvolvimento-social.ghtml",
+    "title": "Tebet terá vaga na transição e vai trabalhar com políticas sociais",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4861.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2022/11/08/como-o-arizona-virou-o-celeiro-dos-negacionistas-eleitorais.ghtml",
+    "hat": "Análise: Sandra Cohen",
+    "title": "Como o Arizona virou o celeiro dos negacionistas eleitorais",
+    "category": "Blog da Sandra Cohen"
+  }
+]

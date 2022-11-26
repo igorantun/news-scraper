@@ -1,0 +1,73 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5697,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/07/convocados-da-selecao-para-a-copa-do-mundo-2022-veja-a-lista-de-tite.ghtml",
+    "title": "Tite convoca Daniel Alves, Pedro e Martinelli para a Copa",
+    "summary": "Lista inclui Everton Ribeiro e 9 atacantes. Veja quem são os 26 escolhidos para buscar o hexa."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4677.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/07/equipe-de-lula-tenta-frear-indicacoes-de-bolsonaro-para-judiciario-e-postos-no-exterior.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Lula quer frear indicados de Bolsonaro para tribunais e cargos no exterior",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4399.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/07/equipe-de-lula-preve-varredura-em-computadores-da-pf-apos-transicao.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Governo eleito prevê varredura em computadores da PF",
+    "summary": "Equipe de Lula teme que agentes bolsonaristas instalem programas espiões.",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4121.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/g1-em-1-minuto/video/g1-em-1-minuto-novo-governo-vai-encontrar-mais-desigualdade-menos-dinheiro-e-outros-desafios-na-educacao-11102774.ghtml",
+    "hat": "Cenário renovado",
+    "title": "g1 em 1 Minuto estreia novo estúdio; veja vídeo",
+    "category": "G1 em 1 Minuto"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -3341.140625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/11/06/ataques-de-odio-em-escolas-estudante-negro-de-colegio-tradicional-de-sp-denuncia-postagens-racistas-luto-pela-justica-luto-pelo-amor-diz.ghtml",
+    "hat": "São Paulo",
+    "title": "'Me sinto atingido', diz aluno que denunciou posts racistas em escola",
+    "summary": "Antonio afirma que ataques de ódio em colégio de alto padrão aumentaram após fim da eleição.",
+    "category": "Fantástico"
+  }
+]

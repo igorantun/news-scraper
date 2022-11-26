@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9135.109375,
+      "left": 315,
+      "height": 314.640625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/gal-costa-tem-varias-camadas-ainda-nao-exploradas-em-sua-biografia.shtml",
+    "hat": "luto na música",
+    "title": "Gal Costa tem várias camadas ainda não exploradas em sua biografia",
+    "summary": "Trajetória da artista extrapolou o campo da música, flertando constantemente com outros territórios da arte"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.1875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8785.484375,
+      "left": 975,
+      "height": 185.671875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/gal-costa-foi-sex-symbol-tropical-com-suas-roupas-jovens-e-ousadas.shtml",
+    "hat": "Maria Claudia Bonadio",
+    "title": "Gal Costa foi grande sex symbol tropical com suas roupas jovens e ousadas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8564.828125,
+      "left": 975,
+      "height": 192.125,
+      "width": 300
+    },
+    "link": "https://guia.folha.uol.com.br/shows/2022/11/gal-costa-10-musicas-essenciais-para-conhecer-a-carreira-da-cantora-morta-aos-77-anos.shtml",
+    "hat": "saiba como ouvir",
+    "title": "Dez músicas essenciais para conhecer a carreira da cantora"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8337.71875,
+      "left": 975,
+      "height": 116,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/gal-costa-nao-morreu-ela-ficou-encantada-diria-guimaraes-rosa.shtml",
+    "hat": "José Simão",
+    "title": "Gal Costa não morreu, ela ficou encantada"
+  }
+]

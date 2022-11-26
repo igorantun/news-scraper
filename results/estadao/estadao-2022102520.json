@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8818.3125,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/supremo-forma-maioria-para-manter-resolucao-do-tse-que-ampliou-poderes-da-corte-no-combate-a-fake-news/",
+    "hat": "Eleições",
+    "title": "Supremo forma maioria para manter resolução do TSE que ampliou poderes da Corte contra fake news",
+    "summary": "Seis ministros já acompanharam o entendimento do relator, Edson Fachin, de que não há censura nas regras aprovadas pelo Tribunal Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8818.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/espionagem-russa-em-alvos-de-infraestrutura-energetica-preocupa-governo-da-noruega/",
+    "hat": "Internacional",
+    "title": "Noruega prende com passaporte brasileiro suspeito de espionar para a Rússia no Ártico"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8368.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/alzheimer-ver-televisao-pode-aumentar-o-risco-de-demencia-em-idosos-aponta-pesquisa/",
+    "hat": "Saúde",
+    "title": "Alzheimer: Ver televisão pode aumentar o risco de demência em idosos, aponta pesquisa"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8368.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/uso-eleitoral-da-lava-jato-no-2-turno-cria-onda-de-autocritica-no-judiciario-e-no-mp/",
+    "hat": "JUSTIÇA E POLÍTICA",
+    "title": "Movimentos de Moro no 2º turno criam onda de autocrítica no Judiciário e no MP"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8368.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/sua-carreira/habilidades-comportamentais-tem-peso-maior-para-crescer-na-carreira-diz-ceo-do-rappi/",
+    "hat": "comunicação e relacionamento",
+    "title": "Comportamento é mais importante para crescer na carreira, diz CEO do Rappi Brasil",
+    "summary": "Nascida na Sérvia e radicada no Brasil, Tijana Jankovic explica que 'comunicação é a grande palavra do século'"
+  }
+]

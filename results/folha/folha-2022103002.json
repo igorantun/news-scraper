@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10875.109375,
+      "left": 315,
+      "height": 292.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-52-dos-votos-validos-contra-48-de-bolsonaro-na-vespera-da-eleicao.shtml",
+    "hat": "Eleições 2022",
+    "title": "Datafolha: Lula tem 52% dos votos válidos contra 48% de Bolsonaro na véspera da eleição",
+    "summary": "Métrica que exclui votos brancos/nulos e indecisos segue a contagem feita pelo TSE na eleição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.515625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-a-melhor-sobre-bolsonaro-em-debate-de-monologos.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula leva a melhor sobre Bolsonaro em debate de monólogos",
+    "summary": "Evento na Globo coroa eleição de rejeições que marca a disputa que chega a seu fim"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10547.4375,
+      "left": 315,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-em-sp-bolsonaro-tem-51-dos-votos-validos-contra-49-de-lula.shtml",
+    "hat": "principal colégio eleitoral",
+    "title": "Em São Paulo, Bolsonaro tem 51% dos votos válidos, contra 49% de Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10547.4375,
+      "left": 644.984375,
+      "height": 116,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-em-minas-lula-tem-53-dos-votos-validos-e-bolsonaro-47.shtml",
+    "hat": "votos válidos",
+    "title": "Em Minas, Lula lidera com 53%, ante 47% de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -10547.4375,
+      "left": 974.96875,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/12-estados-vao-decidir-governadores-no-2o-turno-veja-as-ultimas-pesquisas.shtml",
+    "hat": "pleitos estaduais",
+    "title": "12 estados vão decidir governadores no 2º turno; veja as últimas pesquisas"
+  }
+]

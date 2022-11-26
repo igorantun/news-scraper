@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9318.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/denuncias-de-assedio-eleitoral-crescem-mais-de-2500-no-segundo-turno-mpt-investiga/",
+    "hat": "Eleições 2022",
+    "title": "Denúncias de assédio eleitoral crescem 2.577% entre 1º e 2º turnos; MPT investiga",
+    "summary": "Casos de coerção para forçar funcionário a votar em determinado candidato têm dimensão inédita; MPT instalou gabinete de crise"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -8944.359375,
+      "left": 329,
+      "height": 747.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/pode-colocar-bandeira-na-sacada-disputa-lula-x-bolsonaro-toma-fachadas-de-predios/",
+    "hat": "convivência eleitoral",
+    "title": "Pode colocar bandeira na sacada? Disputa Lula x Bolsonaro toma fachadas de prédios",
+    "summary": "Pendurar símbolo de apoio a candidato pode render multa; associação de condomínios registra alta nas reclamações"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8944.359375,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/fhc-lula-pt-video-campanha-segundo-turno-eleicoes/",
+    "hat": "CORRIDA ELEITORAL",
+    "title": "Fernando Henrique grava vídeo pedindo voto para Lula no segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8466.25,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/adriana-fernandes-eleicoes-promessas-resultado/",
+    "hat": "Economia",
+    "title": "Adriana Fernandes: Assessores próximos de Paulo Guedes falam em 'medidas duras' depois das eleições",
+    "summary": "Entre as propostas para mitigar o impacto do aumento de gastos, Economia prevê menos R$ 11 bilhões no Fundeb"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8042.25,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/proximo-a-lula-meirelles-defende-licenca-para-gastar-de-ate-r-100-bi-fora-do-teto/",
+    "hat": "ex-ministro",
+    "title": "Próximo a Lula, Meirelles defende 'licença para gastar' de até R$ 100 bi fora do teto"
+  }
+]

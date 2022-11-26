@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5875.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/coluna/radar-economico/o-que-lula-precisa-fazer-para-reatar-a-lua-de-mel-com-o-mercado/",
+    "hat": "Economia",
+    "title": "Incertezas sobre equipe econômica abalam a 'lua de mel' entre o mercado e Lula",
+    "summary": "Bolsa cai e dólar dispara em meio a especulações sobre o próximo ministro da Economia. Investidores precificam a escolha de um nome técnico e não disfarçam a preferência por Henrique Meirelles"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1194.140625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -679.140625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5545.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/clarissa-oliveira/lula-da-a-largada-no-governo-de-transicao/",
+    "hat": "Giro VEJA",
+    "title": "Lula dá a largada no governo de transição com reunião em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5545.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/pgr-pede-arquivamento-de-investigacao-contra-bolsonaro-no-stf/",
+    "hat": "Radar",
+    "title": "PGR pede arquivamento de investigação contra Bolsonaro no STF"
+  }
+]

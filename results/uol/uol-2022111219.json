@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12387.609375,
+      "left": 365,
+      "height": 203.171875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/12/escalada-da-fome-gera-1-milhao-de-menores-com-desnutricao-no-pais-em-2022.htm",
+    "title": "Escalada da fome gera 1 milhão de menores com desnutrição no Brasil",
+    "summary": "Diagnósticos de crianças e adolescentes disparam na atenção básica da rede pública"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12049.4375,
+      "left": 365,
+      "height": 408.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2022/11/12/covid-19-internacoes-casos-hospitais-privados-sus-einstein-sirio-libanes.htm",
+    "title": "Do Einstein ao SUS: internações por covid-19 disparam em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11617.203125,
+      "left": 365,
+      "height": 296.6875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/petistas-defendem-acordo-de-lula-com-congresso-para-emendas-de-relator.shtml",
+    "title": "Petistas defendem acordo de Lula com Congresso para emendas de relator"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12049.4375,
+      "left": 619.15625,
+      "height": 385.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/12/escalada-da-fome-gera-1-milhao-de-menores-com-desnutricao-no-pais-em-2022.htm",
+    "title": "Escalada da fome gera 1 milhão de menores de idade com desnutrição no país em 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11639.578125,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/12/flamengo-tera-volta-de-gabigol-em-despedida-de-diegos-veja-as-escalacoes.htm",
+    "title": "Flamengo terá volta de Gabigol em despedida de 'Diegos' contra Avaí; veja as escalações"
+  }
+]

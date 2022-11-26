@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6193,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/alckmin-anuncia-novos-nomes-da-equipe-de-transicao-de-governo.ghtml",
+    "hat": "Mudança de governo",
+    "title": "Alckmin anuncia ex-ministro Mantega e irmã de Marielle para transição; veja nomes"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6193,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/10/ator-roberto-guilherme-o-sargento-pincel-morreu-no-rio-aos-84-anos.ghtml",
+    "hat": "Luto no humor",
+    "title": "Morre Roberto Guilherme, o Sargento Pincel dos 'Trapalhões'"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5856.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/geraldo-alckmin-veste-meias-com-bolinhas-e-viraliza.ghtml",
+    "hat": "Evento com aliados",
+    "title": "Geraldo Alckmin viraliza ao vestir meias com bolinhas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5451.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/10/dolar.ghtml",
+    "hat": "Economia",
+    "title": "Dólar fecha em alta de 4% com inflação e crítica de Lula ao teto",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5173.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/mercado-fica-nervoso-a-toa-diz-lula-apos-repercussao-de-fala-sobre-estabilidade-fiscal.ghtml",
+    "title": "'Mercado fica nervoso à toa', diz Lula após reação a fala sobre estabilidade fiscal",
+    "category": "Política"
+  }
+]

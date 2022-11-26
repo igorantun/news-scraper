@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8619.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/centrao-e-aliados-de-lula-aceitam-negociar-mudancas-em-emendas-de-relator.shtml",
+    "hat": "transição de governo",
+    "title": "Centrão e aliados de Lula aceitam negociar mudanças em emendas de relator",
+    "summary": "Durante a campanha, presidente eleito defendeu o fim do mecanismo, que será julgado pelo Supremo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -541.078125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8301.4375,
+      "left": 975,
+      "height": 273.625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bloqueios-golpistas-permanecem-em-11-estados-acompanhe-situacao-das-estradas.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Caem para 6 os estados com bloqueios golpistas; acompanhe a situação das estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7992.828125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonarista-tenta-driblar-veto-de-moraes-em-atos-golpistas-e-e-derrubado-de-novo.shtml",
+    "hat": "justiça eleitoral",
+    "title": "Bolsonarista tenta driblar veto de Moraes em atos golpistas e é derrubado de novo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7835.890625,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/11/o-que-reacao-de-trump-ao-perder-nos-eua-pode-ensinar-ao-brasil-apos-derrota-de-bolsonaro.shtml",
+    "hat": "EUA X Brasil",
+    "title": "O que os EUA pós-Trump podem ensinar ao Brasil depois da derrota de Bolsonaro"
+  }
+]

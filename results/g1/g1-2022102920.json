@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4522,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/guerra-suja-nas-redes-aposta-em-fake-news-batalha-religiosa-apoios-ineditos-como-foi-a-campanha-do-2o-turno-da-eleicao.ghtml",
+    "hat": "Lula x Bolsonaro",
+    "title": "2º turno teve guerra suja nas redes, batalha religiosa e apoios inéditos; relembre",
+    "summary": "Segunda etapa da campanha foi marcada por episódios como 'pintou um clima', ataque de Jefferson à PF e enxurrada de casos de assédio eleitoral."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4522,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/libertadores/jogo/29-10-2022/flamengo-athletico-pr.ghtml",
+    "hat": "Final da Libertadores",
+    "title": "Flamengo x Athletico-PR"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4185.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/29/halloween-na-coreia-do-sul-dezenas-tem-parada-cardiaca-e-dificuldade-de-respirar-dizem-agencias.ghtml",
+    "hat": "Tragédia na Ásia",
+    "title": "Mais de 140 pessoas morrem em festa de Halloween na Coreia do Sul"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3780.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/nova-zelandia-votacao-segundo-turno.ghtml",
+    "hat": "Dada a largada",
+    "title": "Brasileiros começam a votar na Nova Zelândia",
+    "summary": "Há pouco menos de 700 mil eleitores aptos a votar fora do país este ano.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3502.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/10/29/e-fake-que-lula-usou-ponto-eletronico-em-debate-da-globo.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "É #FAKE que Lula usou ponto eletrônico em debate da Globo",
+    "category": "Eleições"
+  }
+]

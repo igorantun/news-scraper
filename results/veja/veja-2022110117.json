@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5895.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/aliados-de-bolsonaro-ja-sabiam-do-plano-dos-caminhoneiros-ha-semanas/",
+    "hat": "Política",
+    "title": "Aliados de Bolsonaro já sabiam do plano de caminhoneiros há semanas",
+    "summary": "Em conversa com VEJA, uma das pessoas mais próximas ao presidente disse que os bloqueios de rodovias ocorreriam em caso de vitória de Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1194.140625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -623.015625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5565.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/zema-critica-atos-em-rodovias-a-eleicao-ja-acabou-vamos-cumprir-a-lei/",
+    "hat": "Atos em rodovias",
+    "title": "Zema critica bloqueios: ‘A eleição já acabou, vamos cumprir a lei’"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5565.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/postura-de-bolsonaro-estimula-bloqueios-em-rodovias-dizem-sindicatos/",
+    "hat": "Protestos",
+    "title": "Postura de Bolsonaro estimula bloqueios em rodovias, dizem sindicatos"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12412.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-reforca-ataques-ao-tse-na-reta-final-e-pavimenta-3o-turno-em-caso-de-derrota.shtml",
+    "title": "Bolsonaro reforça ataques ao TSE e esboça '3º turno' caso perca eleição",
+    "summary": "Moraes nega ação sobre rádios e cita tentativa de presidente tumultuar disputa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11932.9375,
+      "left": 365,
+      "height": 426.421875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-bolsonaro-divulgou-acao-sobre-radios-25-horas-apos-prisao-de-roberto-jefferson.shtml",
+    "title": "Campanha de Bolsonaro divulgou ação sobre rádios 25 horas após prisão de Jefferson"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11932.9375,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/cinegrafista-relata-pressao-de-equipe-de-tarcisio-e-diz-que-filmou-pessoas-a-paisana-atirando.shtml",
+    "title": "Cinegrafista filmou pessoas à paisana atirando e relata medo: 'Vão vir atrás de mim'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11611.828125,
+      "left": 619.15625,
+      "height": 72,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/27/desemprego-ibge-pnad-continua-mensal-setembro-2022.htm",
+    "title": "Desemprego cai a 8,7% e atinge 9,5 milhões, menor nível desde 2015"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11932.9375,
+      "left": 873.328125,
+      "height": 426.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/nucleo-digital-estrategia-lula-bolsonaro-segundo-turno-reta-final.htm",
+    "title": "Nas redes, falas e mentiras prejudicam Bolsonaro, e Janones impulsiona Lula"
+  }
+]

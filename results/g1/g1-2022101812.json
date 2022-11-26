@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5202,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/10/18/russia-destroi-30percent-das-estacoes-de-energia-da-ucrania-em-uma-semana-diz-zelensky.ghtml",
+    "hat": "Escalada da guerra",
+    "title": "Ucrânia relata 'apagões em massa' após Rússia atacar centrais elétricas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5202,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/18/neymar-afirma-em-julgamento-que-assinava-os-documentos-que-seu-pai-pedia.ghtml",
+    "hat": "Julgamento na Espanha",
+    "title": "Neymar diz que assinava documentos que seu pai pedia"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4865.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/10/18/premio-multishow-acontece-nesta-terca-com-shows-de-luisa-sonza-iza-e-ludmilla-e-mais.ghtml",
+    "hat": "A partir de 22h",
+    "title": "Prêmio Multishow é hoje; Anitta e Groove lideram indicações"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4460.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "hat": "Pesquisa eleitoral",
+    "title": "Lula 50% x 43% Bolsonaro: veja dados do Ipec por região, sexo e renda"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4182.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2022/10/18/empresario-ligado-a-clube-de-tiros-e-suspeito-de-desviar-armas-de-cacs-para-faccoes-criminosas-pf-investiga-o-caso.ghtml",
+    "hat": "Mato Grosso do Sul",
+    "title": "Empresário é suspeito de desviar armas de CACs para facções",
+    "summary": "Polícia apreendeu 4 fuzis, 3 pistolas, coletes, balaclavas e munições.",
+    "category": "Mato Grosso do Sul"
+  }
+]

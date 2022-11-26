@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9163.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-bolsonaro-atua-para-conter-danos-apos-video-sobre-venezuelanas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Campanha de Bolsonaro atua para conter danos após vídeo sobre venezuelanas",
+    "summary": "Presidente diz que decisão de Alexandre de Moraes põe fim à história; aliados defendem visita à fronteira"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.421875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8899.34375,
+      "left": 974.984375,
+      "height": 241.59375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/falar-em-atentado-contra-tarcisio-e-prematuro-e-cameras-irao-esclarecer-diz-secretario-de-sp.shtml",
+    "hat": "pleito em sp",
+    "title": "Falar em atentado contra Tarcísio é prematuro, e câmeras irão esclarecer, diz secretário de SP"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8622.765625,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/rosangela-moro-filha-de-jefferson-e-adrilles-repassam-r-1-mi-a-empresa-de-dirigente-do-ptb.shtml",
+    "hat": "campanha",
+    "title": "Rosângela Moro, Adrilles e filha de Jefferson repassam R$ 1 mi a empresa de dirigente do PTB",
+    "summary": "Firma contratada fica no mesmo endereço da sede do partido em Guarulhos (SP)"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8425.890625,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-ve-desinformacao-e-derruba-propagandas-de-lula-e-bolsonaro-na-tv.shtml",
+    "hat": "Propaganda eleitoral",
+    "title": "TSE vê desinformação e derruba peças de Lula e Bolsonaro na TV"
+  }
+]

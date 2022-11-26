@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5742,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/10/25/desnutricao-provoca-a-maior-hospitalizacao-de-bebes-dos-ultimos-14-anos-no-brasil-diz-fiocruz.ghtml",
+    "hat": "Saúde",
+    "title": "Nº de bebês internados por desnutrição é o maior em 14 anos, diz Fiocruz",
+    "summary": "Em 2021, 8 crianças de até 1 ano foram levadas ao hospital todos os dias por falta de comida."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5742,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/25/susana-naspolini-reporter-da-tv-globo-morre-aos-50-anos.ghtml",
+    "hat": "Luto na TV",
+    "title": "Susana Naspolini morre aos 49 anos após longa batalha contra o câncer"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5405.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/25/veja-momentos-marcantes-em-reportagens-de-susana-naspolini.ghtml",
+    "title": "VÍDEO: Repórter se popularizou por denúncias com leveza e bom humor"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5000.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/sp/sao-paulo/eleicoes/2022/pesquisas-eleitorais/governador/2-turno/Ipec/",
+    "hat": "Pesquisa eleitoral",
+    "title": "Tarcísio 46% x 43% Haddad: veja Ipec em SP por sexo, idade e renda"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4722.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2022/noticia/2022/10/25/ipec-em-pernambuco-raquel-lyra-tem-51percent-no-2o-turno-e-marilia-arraes-43percent.ghtml",
+    "title": "Ipec em Pernambuco: Raquel tem 51%, e Marília, 43%",
+    "category": "Eleições 2022 em Pernambuco"
+  }
+]

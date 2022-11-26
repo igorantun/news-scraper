@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9458.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-ou-haddad-quem-ganhou-o-debate-da-globo-veja-o-que-dizem-analistas/",
+    "hat": "DISPUTA ELEITORAL EM SP",
+    "title": "Tarcísio ou Haddad: quem ganhou o debate da Globo para governador de SP? Veja o que dizem analistas",
+    "summary": "Candidatos ao Palácio dos Bandeirantes participaram do último confronto antes do segundo turno; encontro foi marcado pela polarização nacional e divergências sobre projetos de desestatização"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9458.3125,
+      "left": 1190.328125,
+      "height": 302,
+      "width": 400.65625
+    },
+    "link": "https://opiniao.estadao.com.br/noticias/espaco-aberto,um-domingo-em-nossa-vida,70004156197",
+    "hat": "ANÁLISE",
+    "title": "Fernando Gabeira: 'Não bastará isolar a extrema direita, mas encontrar antídotos sociais para seu veneno'",
+    "summary": "'Assim como um presidente não basta para pacificar o País, autoridades não bastam para conter fake news'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9126.3125,
+      "left": 1190.328125,
+      "height": 572.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/elon-musk-conclui-compra-do-twitter-e-demite-executivos-do-alto-escalao/",
+    "hat": "Rede Social",
+    "title": "Elon Musk compra o Twitter por US$ 44 bi e demite executivos do alto escalão",
+    "summary": "Imprensa americana afirma que bilionário planeja demitir 75% dos funcionários da companhia"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8492.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/como-controlar-a-ansiedade-proximo-as-eleicoes-veja-dicas-de-especialistas/",
+    "hat": "Saúde",
+    "title": "Como controlar a ansiedade pré-eleitoral? Especialistas dão dicas para a reta final",
+    "summary": "Focar no presente, diminuir uso de redes sociais e canalizar angústias em ações são algumas das orientações"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8492.203125,
+      "left": 1190.3125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/debate-na-globo-lula-treina-uso-do-tempo-e-bolsonaro-vai-para-tudo-ou-nada/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Debate hoje na Globo: Lula treina uso do tempo e Bolsonaro vai para o 'tudo ou nada'",
+    "summary": "Petista e presidente encaram último confronto antes do segundo turno como principal fato da campanha"
+  }
+]

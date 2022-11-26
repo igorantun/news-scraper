@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9535.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-renega-jefferson-tenta-vincula-lo-a-lula-e-transformar-episodio-em-gesto-de-apoio-a-pf.shtml",
+    "hat": "reação após prisão",
+    "title": "Bolsonaro renega aliado Jefferson, tenta ligá-lo a Lula e evoca apoio a PF para reduzir dano",
+    "summary": "Presidente relembra mensalão e quer se distanciar de ex-deputado, que atirou e jogou granadas contra policiais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.546875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9163.53125,
+      "left": 974.984375,
+      "height": 406.359375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/rishi-sunak-conquista-maioria-conservadora-e-sera-novo-premie-do-reino-unido.shtml",
+    "hat": "Mundo",
+    "title": "Rishi Sunak conquista maioria conservadora e será novo premiê do Reino Unido",
+    "summary": "Ex-secretário de Finanças assume país em crise após renúncia de Liz Truss"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8722.1875,
+      "left": 974.984375,
+      "height": 188.09375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-travam-batalha-do-virou-e-nao-virou-em-minas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula e Bolsonaro travam batalha do 'virou' e 'não virou' em Minas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9116.546875,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/24/6217-folha-e-uol-sabatinam-raquel-lyra-candidata-em-pe-assista.shtml",
+    "hat": "sabatina",
+    "title": "Folha e UOL sabatinam Raquel Lyra, candidata ao Governo de PE; assista"
+  }
+]

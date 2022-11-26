@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8976.109375,
+      "left": 315,
+      "height": 339.625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-travam-duelo-sobre-covid-corrupcao-e-fake-news-em-debate.shtml",
+    "hat": "eleições 2022",
+    "title": "Lula e Bolsonaro travam duelo sobre Covid, corrupção e fake news em debate",
+    "summary": "Rivais no segundo turno se chamaram de mentirosos e repetiram argumentos da campanha de segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -876.34375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8601.5,
+      "left": 315,
+      "height": 189.453125,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420899",
+    "hat": "recursos públicos",
+    "title": "Bolsonaro diz que não tem nada a ver com emendas de relator",
+    "summary": "Presidente afirma que, se o orçamento estivesse na sua mão, faria melhor uso"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8377.0625,
+      "left": 315,
+      "height": 188.09375,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420889",
+    "hat": "segurança pública",
+    "title": "Petista liga rival a milicianos do Rio; presidente associa Lula ao PCC"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8153.984375,
+      "left": 315,
+      "height": 133.890625,
+      "width": 299.984375
+    },
+    "link": "https://f5.folha.uol.com.br/colunistas/cristina-padiglione/2022/10/debate-entre-lula-e-bolsonaro-leva-band-a-encostar-na-globo.shtml",
+    "hat": "Zapping",
+    "title": "Debate entre Lula e Bolsonaro leva Band a encostar na Globo",
+    "summary": "Transmissão pelo YouTube foi anunciada como maior live jornalística já vista no Brasil"
+  }
+]

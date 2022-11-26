@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10348.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/equipe-de-transicao-tem-primeiros-nomes-tebet-persio-e-andre-lara-estao-na-lista.shtml",
+    "hat": "transição de governo",
+    "title": "Equipe de transição tem primeiros nomes; Tebet, Persio Arida e Lara Resende estão na lista",
+    "summary": "Grupo econômico deve ter quatro integrantes; PSB indicou Márcio França e João Campos para transição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.234375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10084.34375,
+      "left": 975,
+      "height": 175.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/atos-antidemocraticos-sao-chefiados-e-financiados-por-empresarios-dizem-procuradores-a-moraes.shtml",
+    "hat": "Eleições 2022",
+    "title": "Atos antidemocráticos são financiados por empresários, dizem procuradores a Moraes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9873.90625,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/valdemar-anuncia-presidencia-de-honra-para-bolsonaro-e-oposicao-a-lula.shtml",
+    "hat": "Presidente do PL",
+    "title": "Valdemar anuncia presidência de honra para Bolsonaro e oposição a Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9672.875,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/11/passe-livre-eleitoral-em-todo-o-brasil-custaria-cerca-de-r-150-milhoes-por-turno-segundo-estimativa.shtml",
+    "hat": "transporte público",
+    "title": "Passe livre eleitoral em todo Brasil custaria R$ 150 milhões por turno, segundo estimativa",
+    "summary": "Para especialistas, valor é baixo na comparação com custo geral da eleição"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5481,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/am/amazonas/noticia/2022/10/22/caso-bruno-e-dom-suspeito-de-ordenar-assassinatos-de-indigenista-e-jornalista-e-solto.ghtml",
+    "hat": "Crime na Amazônia",
+    "title": "Suspeito de mandar matar Bruno e Dom é solto após pagar fiança de R$ 15 mil",
+    "summary": "Colômbia ficará em prisão domiciliar com tornozeleira eletrônica. Indigenista e jornalista foram assassinados em junho."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5481,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/22/helicotero-cai-na-lagoa-rj.ghtml",
+    "hat": "Acidente aéreo",
+    "title": "VÍDEO: Helicóptero cai na Lagoa, no Rio, e família é resgatada"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5144.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/22/furacao-roslyn-se-aproxima-da-costa-mexicana.ghtml",
+    "hat": "Roslyn",
+    "title": "Furacão 'potencialmente catastrófico' se aproxima do México"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4739.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/22/tse-forma-maioria-para-conceder-116-insercoes-para-lula-na-propaganda-eleitoral-de-bolsonaro.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "TSE decide que Lula pode veicular 24 inserções na propaganda de Bolsonaro",
+    "summary": "Direito de resposta deverá ser veiculado 116 vezes, já que cada inserção corresponde a exibições em 5 canais de TV aberta.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4461.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2022/noticia/2022/10/22/lula-faz-evento-de-campanha-com-aliados-na-grande-bh.ghtml",
+    "title": "Com Tebet e Marina, Lula diz que trabalha para reduzir a abstenção",
+    "category": "Eleições 2022 em Minas Gerais"
+  }
+]

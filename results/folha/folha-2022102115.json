@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10266.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/guerra-contra-abstencao-tem-feriado-adiado-transporte-gratuito-e-aliados-mobilizados.shtml",
+    "hat": "Eleições 2022",
+    "title": "Guerra contra abstenção tem feriado adiado, transporte gratuito e aliados mobilizados",
+    "summary": "Eleitores voltam às urnas em 30 de outubro para escolher presidente; 52,3% também votam para governos estaduais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.0625,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9948.4375,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministra-do-tse-suspende-direitos-de-resposta-dados-a-lula-na-reta-final-da-campanha.shtml",
+    "hat": "justiça eleitoral",
+    "title": "Ministra do TSE suspende direitos de resposta dados a Lula em programa de Bolsonaro",
+    "summary": "Magistrada decide levar caso ao plenário e abre 24 horas para manifestações"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9690.125,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/alexandre-de-moraes-tenta-forcar-acordo-entre-lula-e-bolsonaro-para-fim-de-ataques-na-tv.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Moraes tenta forçar acordo entre Lula e Bolsonaro para fim de ataques na TV"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9533.1875,
+      "left": 974.984375,
+      "height": 141.921875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/governo-bolsonaro-ja-tomou-18-iniciativas-que-usam-estrutura-estatal-e-dao-vantagem-eleitoral-veja.shtml",
+    "hat": "uso da máquina na campanha",
+    "title": "Governo Bolsonaro já tomou 18 iniciativas que usam estrutura estatal e dão vantagem eleitoral",
+    "summary": "Veja iniciativas desde o 7 de Setembro"
+  }
+]

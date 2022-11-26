@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8334.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-nao-contesta-derrota-e-diz-que-seguira-a-constituicao/",
+    "hat": "Palácio da Alvorada",
+    "title": "Bolsonaro não contesta derrota e autoriza transição: 'Continuarei cumprindo a nossa Constituição'",
+    "summary": "Presidente agradece os 58 milhões de votos, diz que atos pacíficos são 'bem-vindos', mas 'cercear direito de ir e vir' é 'método da esquerda'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7496.984375,
+      "left": 329,
+      "height": 865.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/bloqueio-estradas-bolsonaristas-falta-combustiveis/",
+    "hat": "PROTESTOS CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Bloqueio de estradas já causa falta pontual de combustível no Sul e Centro-Oeste",
+    "summary": "Presidente de federação do setor nega que risco de crise nacional seja iminente"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7496.984375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-pede-a-haddad-indicacao-de-nomes-da-educacao-para-equipe-de-transicao/",
+    "hat": "PRÓXIMO GOVERNO",
+    "title": "Lula pede a Haddad indicação de nomes da Educação para equipe de transição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7078.875,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-viaja-para-os-eua-e-adia-transicao-de-governo-para-evitar-pressao-de-bolsonaristas/",
+    "hat": "SUCESSÃO EM SP",
+    "title": "Tarcísio viaja para os EUA, adia transição de governo e evita pressão de bolsonaristas",
+    "summary": "Aliados dizem que governador eleito teria que despachar com apoiadores do presidente em momento complicado"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6569.328125,
+      "left": 329,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/uso-da-forca-policial-contra-bloqueios-e-silencio-de-generais-enterra-golpismo/",
+    "hat": "Marcelo Godoy",
+    "title": "Uso da força policial contra bloqueios e silêncio de generais enterram golpismo"
+  }
+]

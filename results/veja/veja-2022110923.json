@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5936.890625,
+      "left": 324,
+      "height": 358,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/nao-enxergo-essa-coisa-de-centrao-diz-lula-em-brasilia/",
+    "hat": "Política",
+    "title": "‘Não enxergo essa coisa de Centrão’, diz Lula após reuniões com chefes dos poderes",
+    "summary": "Depois de encontrar Lira, Pacheco e ministros do STF, presidente eleito afirmou que 'não há tempo para ódio nem vingança' e que vai buscar conciliação no Congresso"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1193.453125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -678.453125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5554.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/relatorio-de-militares-nao-aponta-fraudes-na-eleicao-de-lula/",
+    "hat": "Política",
+    "title": "Relatório de militares não aponta fraudes na eleição de Lula; leia documento"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5554.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/o-recado-do-ministerio-da-defesa-aos-bolsonaristas-que-pregam-o-golpe/",
+    "hat": "Radar",
+    "title": "O recado do Ministério da Defesa aos bolsonaristas que pregam o golpe"
+  }
+]

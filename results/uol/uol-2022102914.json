@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12461.609375,
+      "left": 365,
+      "height": 332.75,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/debate-globo-segundo-turno-lula-bolsonaro.htm",
+    "title": "Em debate com poucas propostas, Lula foca no passado, e Bolsonaro, em atacar",
+    "summary": "Na Globo, candidatos subiram o tom de provocações e elevaram clima de tensão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12079.859375,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/bolsonaro-sai-do-serio-apos-debate-e-e-retirado-de-coletiva-por-assessores.htm",
+    "title": "Bolsonaro sai do sério após debate e é retirado de coletiva por assessores"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12079.859375,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/toledo-lula-deu-aula-de-tatica-em-debate-bolsonaro-teve-estrategia-burra.htm",
+    "title": "Toledo: Lula deu aula de tática em debate; Bolsonaro teve estratégia burra"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12079.859375,
+      "left": 873.328125,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/lula-candidato-analogico-era-digital.htm",
+    "title": "Candidato sem celular, Lula troca rua pelo digital só no fim da campanha"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11689.1875,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/29/o-preco-do-voto-declarado.htm",
+    "title": "Fátima, Deolane, Gusttavo Lima: o preço que famosos pagam por declarar voto"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9825.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/senado-tem-que-dar-um-freio-em-alexandre-de-moraes-diz-mourao/",
+    "hat": "Eleições 2022",
+    "title": "Senado tem de 'dar um freio' em Alexandre de Moraes, diz Hamilton Mourão; leia entrevista exclusiva",
+    "summary": "Vice-presidente eleito senador diz que presidente do TSE 'ultrapassou limites' e que vai atuar pelo impeachment de ministros da Corte; ouça"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9431.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/link/cultura-digital/as-inteligencias-artificiais-que-vao-mudar-o-mundo/",
+    "hat": "link",
+    "title": "DALL-E 2, Gato, LaMDA e Yolo: as inteligências artificiais que vão mudar o mundo",
+    "summary": "Uma máquina criou as imagens futuristas acima; conheça os modelos de IA que podem alterar a maneira como vivemos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9431.3125,
+      "left": 1190.328125,
+      "height": 512.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-que-esperar-da-sabatina-de-bolsonaro-apos-lula-recusar-debate-analistas-respondem/",
+    "hat": "HOJE ÀS 21H30",
+    "title": "O que esperar da sabatina de Bolsonaro após Lula recusar debate; analistas respondem",
+    "summary": "Entrevista ao vivo com candidato à reeleição será realizada por Estadão, Rádio Eldorado e pool de veículos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8889.203125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/banqueiro-lacerda-vota-bolsonaro/",
+    "hat": "ENTREVISTA",
+    "title": "'Maior convergência com o atual governo', diz Ricardo Lacerda, que vota em Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8487.09375,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/fiesp-josue-gomes-abaixo-assinado/",
+    "hat": "Embate na federação",
+    "title": "Movimento contra Josué Gomes na Fiesp ameniza tom após má repercussão"
+  }
+]

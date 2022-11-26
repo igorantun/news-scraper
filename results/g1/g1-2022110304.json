@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4685,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/03/equipe-de-lula-tenta-montar-quebra-cabeca-orcamentario-e-manter-auxilio-em-r-600-1a-reuniao-com-relator-e-nesta-quinta.ghtml",
+    "hat": "Desafios do próximo governo",
+    "title": "Equipe de Lula começa a discutir hoje como manter auxílio em R$ 600",
+    "summary": "Geraldo Alckmin, vice-presidente eleito e coordenador da equipe de transição, e o senador Wellington Dias (PT-PI) se reúnem com o relator do Orçamento, senador Marcelo Castro (PMDB-PI)."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4685,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/#v/11091522",
+    "hat": "Atos golpistas",
+    "title": "Após 3 dias de bloqueios ilegais, Bolsonaro pede que apoiadores liberem estradas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4348.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/02-11-2022/palmeiras-fortaleza.ghtml",
+    "hat": "É campeão! 🏆",
+    "title": "Palmeiras goleia e festeja em casa 11º título do Brasileirão",
+    "summary": "Endrick, Rony (2) e Dudu marcaram os gols alviverdes."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3943.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/02/mp-pede-que-policia-federal-investigue-diretor-da-prf-por-blitz-nas-eleicoes-e-omissao-em-protestos-nas-rodovias.ghtml",
+    "title": "MP pede investigação de diretor da PRF por blitz na eleição e bloqueios",
+    "category": "Distrito Federal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3665.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/02/estamos-diante-de-uma-verdadeira-organizacao-criminosa-afirma-o-procurador-geral-de-justica-de-sp-sobre-bloqueios-de-bolsonaristas.ghtml",
+    "title": "'Estamos diante de organização criminosa', diz procurador-geral de SP",
+    "category": "São Paulo"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5507,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/10/22/numero-de-denuncias-de-assedio-eleitoral-aumenta-com-a-proximidade-do-segundo-turno.ghtml",
+    "hat": "Voto coagido",
+    "title": "Denúncias de assédio eleitoral aumentam 5 vezes entre 2018 e 2022",
+    "summary": "MPT vê disparada de casos no 2º turno e registrou 1.176 denúncias até agora, contra 212 na última eleição para presidente."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5507,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/loterias/noticia/2022/10/22/mega-sena-concurso-2532-confira-o-resultado.ghtml",
+    "hat": "Loterias",
+    "title": "Mega-Sena acumula e pode pagar R$ 115 milhões; veja dezenas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5170.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/pets/noticia/2022/10/22/desfile-de-halloween-canino-reune-fantasias-criativas-em-nova-york.ghtml",
+    "hat": "Estados Unidos",
+    "title": "Desfile de 'Halloween canino' reúne fantasias criativas em Nova York"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4765.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/10/23/mercado-de-trabalho-postar-sobre-eleicoes-nas-redes-sociais-e-um-direito-mas-exige-bom-senso-entenda.ghtml",
+    "hat": "Trabalho e eleições",
+    "title": "Funcionário pode postar sobre eleições nas redes sociais?",
+    "summary": "Especialistas dizem que comportamento é sempre avaliado.",
+    "category": "Trabalho e Carreira"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4487.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/23/xi-jinping-amplia-poderes-e-inicia-terceiro-mandato-como-secretario-geral-do-partido-comunista-chines.ghtml",
+    "hat": "Liderança chinesa",
+    "title": "Xi Jinping renova mandato como líder da China",
+    "category": "Mundo"
+  }
+]

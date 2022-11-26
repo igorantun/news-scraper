@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9690.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/aliados-de-lula-querem-esvaziar-ministerio-da-justica-para-turbinar-seguranca-publica.shtml",
+    "hat": "transição de governo",
+    "title": "Aliados de Lula querem esvaziar Ministério da Justiça para turbinar Segurança Pública",
+    "summary": "Nova pasta assumiria o controle de Polícia Federal, Polícia Rodoviária Federal, Guarda Nacional e presídios"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.328125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9372.4375,
+      "left": 975,
+      "height": 243.53125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pt-deve-deixar-regra-substituta-do-teto-de-gastos-para-2023.shtml",
+    "hat": "Economia",
+    "title": "PT deve negociar regra substituta ao teto de gastos só em 2023",
+    "summary": "Partido prefere priorizar Orçamento e redesenhar marco fiscal no Congresso"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9093.921875,
+      "left": 975,
+      "height": 141.921875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/11/veto-de-bolsonaro-a-alimentacao-escolar-tira-r-14-bi-de-estados-diz-estudo.shtml",
+    "hat": "orçamentos",
+    "title": "Veto de Bolsonaro a alimentação escolar retira R$ 1,4 bi de estados, diz estudo",
+    "summary": "SP deixará de receber R$ 247 mi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8917.015625,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/aliados-defendem-bolsonaro-fora-das-eleicoes-de-2026-e-ja-apostam-em-tarcisio-presidente.shtml",
+    "hat": "governador eleito em SP",
+    "title": "Aliados defendem Bolsonaro fora em 2026 e apostam em Tarcísio"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5890.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/camara-aprova-urgencia-a-projeto-que-pune-institutos-de-pesquisa/",
+    "hat": "Política",
+    "title": "Câmara aprova urgência a projeto que pune institutos de pesquisa",
+    "summary": "Requerimento teve o apoio de 295 parlamentares; proposta que prevê pena de prisão para responsáveis por levantamentos que divergirem dos resultados das urnas não terá de passar por comissões da Casa"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1180.125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/silencio-de-lula-sobre-economia-inquieta-mercado-na-reta-final-da-campanha",
+    "hat": "Reportagem de capa",
+    "title": "Incertezas sobre plano econômico de Lula inquietam mercado na reta final da eleição",
+    "summary": "Falta de clareza sobre diretrizes de um futuro governo do petista pode prejudicar desempenho do candidato em um momento decisivo da campanha"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -609,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/romeu-zema-o-brasil-se-transformou-no-pais-das-pautas-irrelevantes/",
+    "hat": "Política",
+    "title": "Romeu Zema: 'O Brasil se transformou no país das pautas irrelevantes'",
+    "summary": "O governador reeleito de Minas defende Bolsonaro, critica a possibilidade de o PT voltar ao poder e afirma que a classe política perde tempo com temas pequenos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5560.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/brasil/lula-decide-faltar-a-debate-promovido-por-veja-e-pool-de-veiculos/",
+    "hat": "Radar",
+    "title": "Lula decide faltar a debate promovido por VEJA e pool de veículos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5560.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/virou-viral/lula-supera-bolsonaro-e-bate-recorde-de-audiencia-no-flow-podcast/",
+    "hat": "Entrevista",
+    "title": "Lula supera Bolsonaro e bate recorde de audiência no Flow Podcast"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4920,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/22/tse-forma-maioria-para-conceder-116-insercoes-para-lula-na-propaganda-eleitoral-de-bolsonaro.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "TSE decide que Lula pode veicular 24 inserções na propaganda de Bolsonaro",
+    "summary": "Direito de resposta deverá ser veiculado 116 vezes, já que cada inserção corresponde a exibições em 5 canais de TV aberta."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4920,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/22/pequeno-aviao-cai-em-predio-de-new-hampshire-todos-a-bordo-morrem.ghtml",
+    "hat": "Estados Unidos",
+    "title": "Pequeno avião cai em prédio perto de Boston; todos a bordo morrem"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4583.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/10/22/video-carro-invade-e-destroi-restaurante-na-bahia.ghtml",
+    "hat": "Acidente impressionante",
+    "title": "VÍDEO: carro invade e destrói restaurante na Bahia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4178.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/22/ipec-corrida-presidencial-no-2o-turno-lula-e-bolsonaro-lideram-em-5-estados-cada-um.ghtml",
+    "hat": "Pesquisa Ipec",
+    "title": "Lula e Bolsonaro lideram em 5 estados cada um onde haverá 2º turno para governador",
+    "summary": "Petista e atual presidente também estão tecnicamente empatados em SP e AM.",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3900.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/10/22/marina-silva-registra-boletim-de-ocorrencia-apos-ser-hostilizada-por-bolsonaristas-em-bh.ghtml",
+    "hat": "Violência política",
+    "title": "Marina Silva faz boletim de ocorrência após ser xingada por bolsonaristas",
+    "summary": "Deputada relatou ter sido chamada de 'vagabunda' durante jantar em hotel de BH.",
+    "category": "Minas Gerais"
+  }
+]

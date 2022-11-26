@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12431.609375,
+      "left": 365,
+      "height": 222.34375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-renega-jefferson-tenta-vincula-lo-a-lula-e-transformar-episodio-em-gesto-de-apoio-a-pf.shtml",
+    "title": "Bolsonaro tenta vincular Jefferson a Lula e converter ataque em apoio à PF"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12160.265625,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/opiniao/coluna/2022/10/23/roberto-jefferson-e-jair-bolsonaro.htm",
+    "title": "Kakay: Episódio com Roberto Jefferson é resultado da política de ódio de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11572.90625,
+      "left": 365,
+      "height": 388.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-disse-em-2020-que-bolsonaro-era-seu-amigo-pessoal-veja.htm",
+    "title": "Roberto Jefferson disse em 2020 que Bolsonaro era seu 'amigo pessoal'; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12160.265625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/videos/2022/10/23/roberto-jefferson-atira-contra-pf-apos-ordem-de-prisao-por-moraes.htm",
+    "title": "Jefferson gravou vídeos em casa: 'Vai piorar muito, mas eu não me entrego'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11839.15625,
+      "left": 619.15625,
+      "height": 421.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/entrevista-bolsonaro-record-23-de-outubro.htm",
+    "title": "Bolsonaro usa sabatina da Record para tentar se afastar de Jefferson e chama Lula de 'fujão'"
+  }
+]

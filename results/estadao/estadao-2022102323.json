@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9304.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/roberto-jefferson-se-entrega-a-policia-apos-resistir-com-granada-e-fuzil-a-ordem-de-moraes/",
+    "hat": "VIOLÊNCIA",
+    "title": "Roberto Jefferson se entrega à polícia após resistir com granada e fuzil à ordem de prisão de Moraes",
+    "summary": "Três viaturas da PF deixaram sua casa, no município de Levy Gasparian (RJ), onde ele cumpria prisão domiciliar. O ex-deputado estaria dentro de uma delas, sendo levado à prisão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9304.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/",
+    "hat": "EX-PRESIDENTE DO PTB",
+    "title": "Roberto Jefferson grava vídeo após disparar contra agentes da Polícia Federal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8766.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=ZK7Y6YP3EFEZ7IYHTQ6KFYTJ4I",
+    "hat": "Repercussão",
+    "title": "Bolsonaro diz que 'não tem nem foto' com Jefferson; usuários do Twitter reagem"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8316.09375,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://economia.estadao.com.br/blogs/coluna-do-broad/cyrela-lavvi-e-hines-farao-projeto-de-r-2-bi-em-antiga-fabrica-da-kibon/",
+    "hat": "COLUNA DO BROADCAST",
+    "title": "Cyrela, Lavvi e Hines farão projeto de R$ 2 bi em antiga fábrica da Kibon"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8316.09375,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://brasil.estadao.com.br/noticias/geral,celular-roubado-saiba-o-que-voce-deve-fazer-para-bloquear-o-pix-e-outros-servicos,70004033227",
+    "hat": "PROTEJA-SE",
+    "title": "Celular roubado: saiba o que você deve fazer para bloquear o Pix e outros serviços"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12657.609375,
+      "left": 365,
+      "height": 387.125,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/fluminense-x-sao-paulo-36-rodada-brasileirao.htm",
+    "title": "Cano faz três gols em 13 minutos, e Fluminense vence o São Paulo por 3 a 1",
+    "summary": "Paulistas saem na frente no Maracanã, mas cariocas são avassaladores no 2º tempo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11874.3125,
+      "left": 365,
+      "height": 328.296875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2022/11/05/america-mg-vence-o-rb-bragantino-e-tira-o-sao-paulo-do-g8-do-brasileirao.htm",
+    "title": "América-MG faz 4 a 1 no Bragantino e tira o São Paulo do G8 do Campeonato Brasileiro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11522.015625,
+      "left": 365,
+      "height": 72,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/santos-x-avai-campeonato-brasileiro.htm",
+    "title": "Santos empata em 1 a 1 e vê Libertadores longe; Avaí cai para Série B"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12157.09375,
+      "left": 619.15625,
+      "height": 454.609375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pt-deve-deixar-regra-substituta-do-teto-de-gastos-para-2023.shtml",
+    "title": "PT deve deixar regra substituta do teto de gastos para 2023"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11678.484375,
+      "left": 619.15625,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-mira-base-raiz-e-tera-oponentes-na-disputa-pela-lideranca-da-direita.shtml",
+    "title": "Bolsonaro mira base raiz e terá oponentes pela liderança da direita"
+  }
+]

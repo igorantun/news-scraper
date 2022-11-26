@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12483.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/moraes-da-48-horas-para-defesa-entregar-eventual-auditoria-das-urnas.htm",
+    "title": "Moraes dá 48 horas para Defesa entregar eventual auditoria das urnas",
+    "summary": "Ministro do STF diz que inspeção parece atender a 'vontade eleitoral' de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12094.265625,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/17/bolsonaro-noite-clamor-catolicos-brasilia.htm",
+    "title": "Ato católico tem Bolsonaro calado, Kelmon aplaudido e folheto contra Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11638.03125,
+      "left": 365,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moro-abraca-bolsonarismo-para-fugir-de-isolamento-politico.shtml",
+    "title": "Sergio Moro abraça bolsonarismo para fugir de isolamento político"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12094.265625,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-lula-liga-alertas-para-reta-final-aciona-juridico-e-cobra-plataformas.shtml",
+    "title": "Campanha de Lula liga alertas para reta final, aciona jurídico e cobra plataformas digitais"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11638.03125,
+      "left": 619.15625,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/vivabem/colunas/jairo-bouer/2022/10/18/sera-que-o-brasil-vive-crise-de-ansiedade-coletiva-antes-do-segundo-turno.htm",
+    "title": "Jairo: Brasil vive crise de ansiedade coletiva antes do 2º turno?"
+  }
+]

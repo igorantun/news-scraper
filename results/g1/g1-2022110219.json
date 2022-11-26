@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5095,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/02/ministerio-da-justica-diz-que-912-motoristas-foram-multados-por-bloquear-rodovias-federais.ghtml",
+    "hat": "Atos contra a democracia",
+    "title": "Multas por bloqueios ilegais em rodovias federais somam R$ 18 milhões, diz PRF"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5095,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/02/aliados-de-bolsonaro-querem-opcoes-para-entrega-da-faixa-a-lula.ghtml",
+    "hat": "Blog da Julia Duailibi",
+    "title": "Aliados de Bolsonaro discutem como entregar faixa a Lula"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4758.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/11/02/mp-apura-saudacao-nazista-feita-por-centenas-de-manifestantes-em-ato-em-santa-catarina.ghtml",
+    "hat": "Prática criminosa",
+    "title": "MP investiga saudação nazista feita por bolsonaristas em SC"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4353.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/02/bolsonaristas-organizaram-bloqueios-em-grupos-nas-redes-sociais-pf-identificara-responsaveis.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "PF mira grupos que planejaram e convocaram atos bolsonaristas",
+    "summary": "Investigadores suspeitam que há financiadores bancando bloqueios ilegais.",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4075.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/02/coordenador-de-lula-para-o-orcamento-preve-ganho-real-de-13percent-ou-14percent-para-o-salario-minimo-de-2023.ghtml",
+    "hat": "Salário mínimo",
+    "title": "Coordenador de Lula para Orçamento prevê ganho de 1,3% no mínimo em 2023",
+    "summary": "Wellington Dias (PT) também disse que Auxílio Brasil de R$ 600 em janeiro está garantido.",
+    "category": "Política"
+  }
+]

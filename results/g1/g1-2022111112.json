@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6381,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/11/prf-aplicou-mais-de-90percent-das-multas-contra-organizadores-de-bloqueios-bolsonaristas-apos-decisao-do-stf-ter-ameacado-prender-diretor-geral.ghtml",
+    "hat": "Violência eleitoral",
+    "title": "Bloqueios golpistas: PRF aplicou 90% das multas após decisão do STF",
+    "summary": "Moraes estipulou multa e prisão do chefe da PRF caso não seja garantida a liberdade constitucional de locomoção da população."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6381,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/educacao/enem/2022/noticia/2022/11/11/como-calcular-a-nota-do-enem-metodo-de-correcao-antichute-deve-mudar-sua-estrategia-de-prova.ghtml",
+    "hat": "Prova é no domingo",
+    "title": "Enem 2022: quem 'chuta' respostas pode ter a nota reduzida; entenda"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6044.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/11/pedro-sampaio-lanca-feat-com-pabllo-vittar-e-diz-que-se-sente-livre-para-sair-com-homens-e-mulheres.ghtml",
+    "hat": "Entrevista ao g1",
+    "title": "Pedro Sampaio se diz livre para sair com homens e mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5639.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/11/11/dupla-suspeita-de-envolvimento-em-bloqueio-ilegal-em-sc-e-presa-com-11-armas-incluindo-fuzis-e-r-125-mil.ghtml",
+    "hat": "Santa Catarina",
+    "title": "Dupla suspeita de envolvimento em bloqueio é presa com 11 armas",
+    "summary": "Armamento, que incluía fuzis, era fabricado ilegalmente pelos próprios suspeitos.",
+    "category": "Santa Catarina"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5361.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/corpo-de-gal-costa-sera-velado-na-alesp-nesta-sexta-feira.ghtml",
+    "hat": "Mãe de todas as vozes",
+    "title": "Corpo de Gal Costa será velado hoje na Assembleia Legislativa de SP",
+    "category": "São Paulo"
+  }
+]

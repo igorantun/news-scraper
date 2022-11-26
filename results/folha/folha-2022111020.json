@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8998.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/dolar-dispara-nesta-manha-acompanhe-a-cotacao.shtml",
+    "hat": "economia",
+    "title": "Dólar dispara e Bolsa tomba 4,17% com discurso de Lula e inflação",
+    "summary": "Presidente eleito criticou regras da estabilidade fiscal; IPCA subiu mais que o esperado"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.59375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8680.4375,
+      "left": 975,
+      "height": 349.75,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-ve-papel-humilhante-das-forcas-armadas-cobra-bolsonaro-e-elogia-moraes-nas-eleicoes.shtml",
+    "hat": "Eleições 2022",
+    "title": "Presidente eleito vê papel humilhante das Forças Armadas e cobra Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8294.703125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrissima/2022/11/depois-de-trauma-de-2013-pt-volta-a-se-deparar-com-passe-livre-no-transporte.shtml",
+    "hat": "ROBERTO ANDRÉS",
+    "title": "Depois de trauma de 2013, PT volta a se deparar com passe livre no transporte"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8633.453125,
+      "left": 1305,
+      "height": 126.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/11/podcast-o-canto-de-gal-costa-e-o-impacto-da-artista-na-musica-brasileira.shtml",
+    "hat": "música",
+    "title": "O canto de Gal Costa e o impacto da artista na música brasileira"
+  }
+]

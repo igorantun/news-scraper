@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12813.609375,
+      "left": 365,
+      "height": 308.71875,
+      "width": 732.5
+    },
+    "link": "http://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/defesa-nao-apresenta-fraude-ou-falha-e-cita-risco-hipotetico-sobre-urnas.htm",
+    "title": "Defesa confirma dados do TSE sobre urnas, mas levanta 'risco' hipotético",
+    "summary": "Relatório dos militares não cita indícios de fraude nas eleições em nenhum momento"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12369.890625,
+      "left": 365,
+      "height": 499.984375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/canto-de-gal-costa-partiu-de-joao-gilberto-para-inventar-um-brasil.shtml",
+    "title": "Lucas Brêda: Canto de Gal Costa partiu de João Gilberto para inventar um Brasil"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12369.890625,
+      "left": 619.15625,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/09/sarah-oliveira-gal-era-cheia-de-tesao-pela-vida.htm",
+    "title": "Sarah Oliveira: 'Gal contribuiu para a libertação feminina com corpo livre'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12369.890625,
+      "left": 873.328125,
+      "height": 499.984375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/09/coritiba-x-corinthians-37-rodada-do-brasileirao.htm",
+    "title": "Corinthians empata com Coritiba em 2 a 2 em noite com Vitor Pereira furioso e expulsões"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11323.34375,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/09/fluminense-x-goias----campeonato-brasileiro.htm",
+    "title": "Flu vence Goiás em despedida do Maracanã e mira 2ª lugar no Campeonato Brasileiro"
+  }
+]

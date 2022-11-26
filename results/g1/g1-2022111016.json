@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6793,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/lula-pronunciamento-brasilia.ghtml",
+    "hat": "Reunião com aliados",
+    "title": "Lula diz que Alckmin não será ministro do seu governo",
+    "summary": "Em discurso, presidente eleito pregou diálogo, defendeu as urnas eletrônicas e reafirmou compromisso de combater a fome."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6793,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2022/11/10/zoologico-no-interior-de-sp-recebe-tamandua-que-pertence-a-menor-especie-do-mundo-veja-fotos.ghtml",
+    "hat": "Menos de 300 gramas 🤏🏾",
+    "title": "FOTOS: zoo de SP abriga tamanduá da menor espécie do mundo"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6456.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/11/10/estudante-do-rs-faz-curso-de-astronauta-na-nasa-me-sentia-cercada-de-grandes-pessoas.ghtml",
+    "hat": "👩🏼‍🚀👩🏼‍🚀👩🏼‍🚀",
+    "title": "Brasileira de 20 anos faz curso de astronauta na Nasa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6051.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/lula-chora-ao-dizer-que-reafirma-compromisso-com-combate-a-fome-no-pais.ghtml",
+    "title": "Presidente eleito chora ao falar da fome: 'Jamais esperava que voltasse'",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5773.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/10/tomate-cebola-passagem-aerea-etanol-veja-as-50-maiores-altas-e-baixas-em-outubro-e-no-acumulado-de-12-meses.ghtml",
+    "hat": "Peso no bolso",
+    "title": "Passagem, limão, tomate: veja os itens que ficaram mais caros em outubro",
+    "category": "Economia"
+  }
+]

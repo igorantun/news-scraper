@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8382.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/governo-eleito-busca-blindagem-juridica-com-pec-da-transicao-para-elevar-gasto-em-2023.shtml",
+    "hat": "transição de governo",
+    "title": "Governo eleito busca blindagem jurídica com PEC da transição para elevar gasto em 2023",
+    "summary": "Plano B com crédito extraordinário dispensa negociar com Congresso, mas esbarra em travas técnicas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.515625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8064.4375,
+      "left": 975,
+      "height": 185.671875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-tem-semana-pos-eleicao-recluso-e-sem-agenda-de-trabalho-motociata-ou-comentarios-nas-redes.shtml",
+    "hat": "Governo Bolsonaro",
+    "title": "Bolsonaro tem semana pós-eleição recluso e sem agenda de trabalho"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7843.78125,
+      "left": 975,
+      "height": 133.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/helioschwartsman/2022/11/por-que-bolsonaro-precisa-ser-punido.shtml",
+    "hat": "Hélio Schwartsman",
+    "title": "Por que Bolsonaro precisa ser punido",
+    "summary": "Se nada ocorrer, todos se sentirão livres para fazer o mesmo a cada quatro anos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7674.90625,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/intolerancia-apos-2o-turno-amplia-conflitos-familiares-com-insultos-e-expulsao-de-casa.shtml",
+    "hat": "Polarização política",
+    "title": "Intolerância após 2º turno amplia conflitos familiares com insultos e expulsão de casa"
+  }
+]

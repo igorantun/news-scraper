@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5964,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/24/ipec-lula-tem-50percent-no-2o-turno-e-bolsonaro-43percent.ghtml",
+    "hat": "Pesquisa Eleitoral",
+    "title": "Ipec: Lula mantém 50% no 2º turno, e Bolsonaro, 43%",
+    "summary": "Pesquisa mostra estabilidade a 6 dias da eleição. Em votos válidos, Lula aparece com 54%, e Bolsonaro tem 46%."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5964,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "title": "Veja os números da pesquisa por sexo, idade, renda e região"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5222.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/24/ipec-47percent-nao-votariam-em-bolsonaro-de-jeito-nenhum-lula-e-rejeitado-por-41percent.ghtml",
+    "title": "47% não votariam em Bolsonaro de jeito nenhum; Lula é rejeitado por 41%",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4944.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/em-depoimento-roberto-jefferson-diz-ter-dado-50-tiros-contra-a-pf.ghtml",
+    "hat": "Ataque a policiais",
+    "title": "Indiciado por tentativa de assassinato, Jefferson diz que deu 50 tiros",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4666.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/estudio-i/video/linha-do-tempo-mostra-a-relacao-de-bolsonaro-e-roberto-jefferson-11054519.ghtml",
+    "title": "VÍDEO: linha do tempo mostra como Bolsonaro e Jefferson são próximos",
+    "category": "Estúdio i"
+  }
+]

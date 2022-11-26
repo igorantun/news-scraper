@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12580.609375,
+      "left": 365,
+      "height": 273.5625,
+      "width": 732.5
+    },
+    "link": "https://placar.uol.com.br/esporte/futebol/brasileiro/2022/10/22/santos-x-corinthians.htm",
+    "title": "Corinthians marca no fim e vence Santos por 1 a 0 na Vila Belmiro pelo Brasileirão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12258.046875,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fachin-defende-resolucao-tse-de-combate-as-fake-news-e-nega-pedido-de-aras.shtml",
+    "title": "Fachin defende resolução TSE de combate às fake news e nega pedido de Aras"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11801.8125,
+      "left": 365,
+      "height": 388.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/neymar-live-bolsonaro.htm",
+    "title": "Neymar diz que expôs voto em Bolsonaro após apoio no 'momento mais difícil'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12258.046875,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/10/22/pgr-deve-pedir-ao-stf-volta-de-roberto-jefferson-para-prisao.htm",
+    "title": "PGR deve pedir ao STF volta de Jefferson à prisão após ataque a Cármen Lúcia"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11801.8125,
+      "left": 619.15625,
+      "height": 388.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/marina-e-xingada-por-bolsonaristas-em-mg-lula-e-tebet-repudiam-covarde.htm",
+    "title": "Marina é xingada por bolsonaristas em MG; Lula e Tebet repudiam: 'Covarde'"
+  }
+]

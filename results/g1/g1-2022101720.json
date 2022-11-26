@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5400,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/10/17/veja-o-que-e-fato-ou-fake-nas-falas-dos-presidenciaveis-no-primeiro-debate-do-2-turno.ghtml",
+    "hat": "Disputa no 2º turno",
+    "title": "Veja o que é #FATO e o que é #FAKE nas falas de Lula e Bolsonaro no debate"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5400,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/futebol-internacional/ao-vivo/bola-de-ouro-2022.ghtml",
+    "hat": "ao vivo",
+    "title": "Benzema leva Bola de Ouro 2022"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5063.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/17/caca-militar-russo-cai-em-predio-residencial-em-yeysk-na-russia.ghtml",
+    "hat": "Treinamento militar",
+    "title": "Caça supersônico cai em prédio residencial no sul da Rússia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4658.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/17/rifado-por-bolsonaro-moro-escolhe-ladrao-da-rachadinha-e-aposta-em-vaga-no-stf.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Moro escolhe 'ladrão' de rachadinha e se deixa usar",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4380.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/17/relembre-as-acusacoes-de-sergio-moro-a-jair-bolsonaro.ghtml",
+    "title": "FRASES: Moro acusou Bolsonaro de rachadinha, mentira e ingerência",
+    "category": "Eleições 2022"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9029.203125,
+      "left": 315,
+      "height": 328.1875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/eduardo-leite-consegue-virada-e-e-o-1o-governador-reeleito-do-rs-projeta-datafolha.shtml",
+    "hat": "Eleições 2022",
+    "title": "Eduardo Leite (PSDB) é eleito no Rio Grande do Sul, projeta Datafolha",
+    "summary": "Tucano vence de virada o bolsonarista Onyx Lorenzoni (PL) após ficar em segundo lugar no 1º turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -549.78125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9029.203125,
+      "left": 1305,
+      "height": 295,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/tv-folha-tem-programacao-especial-ao-vivo-no-segundo-turno.shtml",
+    "hat": "TV Folha",
+    "title": "Colunistas da Folha discutem o 2º turno em um país rachado; veja como foi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8666.03125,
+      "left": 974.984375,
+      "height": 424.03125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/nenhum-eleitor-foi-impedido-de-votar-por-blitze-da-prf-diz-moraes.shtml",
+    "hat": "+eleições",
+    "title": "Nenhum eleitor foi impedido de votar por blitze da PRF, diz Moraes"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8207.015625,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/diretor-geral-da-prf-pede-voto-a-bolsonaro-nas-redes-sociais-e-depois-apaga-publicacao.shtml",
+    "hat": "em rede social",
+    "title": "Diretor da PRF pede voto para Bolsonaro nas redes sociais e depois apaga publicação"
+  }
+]

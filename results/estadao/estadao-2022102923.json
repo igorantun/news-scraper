@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9822.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/quem-esta-na-frente-lula-ou-bolsonaro-pesquisa-eleitoral-para-presidente-segundo-turno-datafolha-ipec-poderdata-quaest-ideia-ipespe-mda-parana/",
+    "hat": "ÚLTIMOS LEVANTAMENTOS",
+    "title": "Lula ou Bolsonaro? Veja quem está na frente nas pesquisas eleitorais divulgadas neste sábado",
+    "summary": "Confira o resultado atualizado com as recentes sondagens de Ipec, Datafolha e Quaest"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9448.359375,
+      "left": 329,
+      "height": 773.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/no-mapa-eleitoral-de-2022-lula-repete-dilma-e-bolsonaro-replica-aecio-em-2014/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Cantanhêde: 'No mapa eleitoral de 2022, Lula repete Dilma e Bolsonaro replica Aécio em 2014'",
+    "summary": "'Os tempos são outros, mas há uma forte relação entre as duas eleições'; leia coluna"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9448.359375,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caso-zambelli-policia-vai-investigar-crimes-de-porte-ilegal-de-arma-lesao-corporal-e-disparo-de-ar/",
+    "hat": "Deputada bolsonarista",
+    "title": "Caso Zambelli: polícia vai apurar crimes de porte ilegal de arma, disparo e lesão corporal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8970.25,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ipec-em-sao-paulo-tarcisio-lidera-com-52-dos-votos-validos-haddad-tem-48/",
+    "hat": "Disputa nos Estados",
+    "title": "Ipec em São Paulo: Tarcísio lidera com 52% dos votos válidos; Haddad aparece com 48%"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8520.140625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/gabigol-decide-na-final-contra-o-athletico-pr-e-garante-tri-da-libertadores-ao-flamengo/",
+    "hat": "Futebol",
+    "title": "Gabigol decide na final contra o Athletico-PR e garante tri da Libertadores ao Flamengo",
+    "summary": "Time carioca fez valer superioridade numérica para derrotar a equipe de Felipão por 1 a 0"
+  }
+]

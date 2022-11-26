@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5215,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/05/cop27-qual-a-importancia-da-cupula-do-clima-para-o-futuro-do-planeta.ghtml",
+    "hat": "Conferência do Clima da ONU",
+    "title": "O que será discutido na COP 27? Veja perguntas e respostas",
+    "summary": "Evento começa hoje e vai reunir representantes de 200 países. Presidente eleito Lula foi convidado e deve participar."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5215,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/05/video-bombeiros-salvam-mulher-pendurada-no-20o-andar-de-predio.ghtml",
+    "hat": "Incêndio em Nova York",
+    "title": "VÍDEO: bombeiros salvam mulher pendurada no 20º andar nos EUA"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4878.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/11/05/fotos-veja-imagens-do-segundo-dia-do-micareta-salvador.ghtml",
+    "hat": "FOTOS",
+    "title": "Micareta Salvador: 2ª noite tem Daniela, Alinne, Ludmilla e mais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4473.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/carmen-lucia-suspende-efeitos-de-mp-que-permitia-adiar-pagamento-de-beneficios-para-o-setor-cultural.ghtml",
+    "hat": "Leis Paulo Gustavo e Aldir Blanc 2",
+    "title": "Cármen Lúcia suspende efeitos de MP que adia benefícios da cultura",
+    "summary": "Ministra analisou ação da Rede; tema ainda será julgado no plenário virtual do STF.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4195.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/11/05/cantor-aaron-carter-morre-aos-34-anos.ghtml",
+    "hat": "Irmão de Nick Carter",
+    "title": "Cantor Aaron Carter é achado morto em casa aos 34 anos",
+    "summary": "Ele conquistou a fama no fim dos anos 1990, aos 9 anos, com apelo do público adolescente. Aaron é irmão de Nick Carter, do Backstreet Boys.",
+    "category": "Pop & Arte"
+  }
+]

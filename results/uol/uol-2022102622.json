@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12451.609375,
+      "left": 365,
+      "height": 308.71875,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/radios-dizem-ter-provas-para-contestar-auditoria-usada-por-bolsonaro-contra-tse.shtml",
+    "title": "Rádios dizem ter provas para contestar auditoria de Bolsonaro",
+    "summary": "3 de 8 empresas citadas apontam erros em relatório encomendado por campanha"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12007.890625,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/26/copom-selic-juros-banco-central-outubro-2022.htm",
+    "title": "BC mantém juros a 13,75% em última reunião do Copom antes das eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11617.21875,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/26/bolsonaro-manipula-e-tira-jefferson-das-redes-e-das-manchetes.htm",
+    "title": "Toledo: Bolsonaro manipula e tira Jefferson das redes e das manchetes"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11226.546875,
+      "left": 365,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://piaui.folha.uol.com.br/eleicoes-2022/lista-da-intolerancia/",
+    "title": "Listas em grupos bolsonaristas incentivam boicote a 'petralhas' no Sul"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12007.890625,
+      "left": 619.15625,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/tiros-em-paraisopolis-agenda-tarcisio-suspeita-de-fraude-processual.htm",
+    "title": "PM diz ter alterado cena em Paraisópolis; analistas citam fraude"
+  }
+]

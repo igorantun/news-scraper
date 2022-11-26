@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9887.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/entenda-as-acusacoes-de-bolsonaro-sobre-propagandas-em-radios-e-suas-eventuais-fragilidades/",
+    "hat": "JUSTIÇA ELEITORAL",
+    "title": "Entenda as acusações de Bolsonaro sobre propaganda eleitoral em rádios e suas eventuais fragilidades",
+    "summary": "Presidente do TSE, Alexandre de Moraes, arquivou caso sem ouvir as emissoras, por falta de consistência nas provas apresentadas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9491.359375,
+      "left": 329,
+      "height": 759.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/putin-afirma-ter-bom-relacionamento-tanto-com-lula-quanto-com-bolsonaro/",
+    "hat": "DIPLOMACIA",
+    "title": "Putin diz ter boas relações tanto com Lula quanto com Bolsonaro",
+    "summary": "Presidente da Rússia diz que 'o mais importante' é que o país não interfere em processos políticos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9491.359375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/datafolha-no-segundo-turno-lula-tem-49-das-intencoes-de-voto-bolsonaro-44-3/",
+    "hat": "NOVA PESQUISA",
+    "title": "Datafolha: Lula tem 49% das intenções de voto, e Bolsonaro aparece com 44%"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9073.25,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pode-colocar-bandeira-na-sacada-disputa-lula-x-bolsonaro-toma-fachadas-de-predios/",
+    "hat": "convivência eleitoral",
+    "title": "Pode colocar bandeira na sacada? Disputa Lula x Bolsonaro domina fachadas de prédios",
+    "summary": "Fixar bandeiras sem autorização pode render multa de até 5 vezes o valor mensal do condomínio"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8607.140625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/pablo-mari-flamengo-esfaqueado-italia/",
+    "hat": "ZAGUEIRO DO CLUBE MONZA",
+    "title": "Pablo Marí, ex-Flamengo, é esfaqueado em mercado na Itália, diz imprensa local",
+    "summary": "Autor do ataque seria um italiano de 46 anos que sofre de transtornos mentais, segundo a agência Ansa"
+  }
+]

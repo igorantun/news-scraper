@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9500.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-ou-haddad-quem-ganhou-o-debate-da-globo-veja-o-que-dizem-analistas/",
+    "hat": "DISPUTA ELEITORAL EM SP",
+    "title": "Tarcísio ou Haddad: quem ganhou o debate da Globo para governador de SP? Veja o que dizem analistas",
+    "summary": "Candidatos ao Palácio dos Bandeirantes participaram do último confronto antes do segundo turno; encontro foi marcado pela polarização nacional e divergências sobre projetos de desestatização"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9500.3125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/servidor-do-tse-muda-versao-e-diz-que-apenas-alertou-falha-na-suspensao-de-programas/",
+    "hat": "Eleições 2022",
+    "title": "Servidor do TSE muda versão e diz que apenas alertou falha na 'suspensão' de programas",
+    "summary": "Alexandre Machado havia dito à PF que tribunal falhava ao fiscalizar veiculação de programas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9108.3125,
+      "left": 1190.328125,
+      "height": 512.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/debate-na-globo-lula-treina-uso-do-tempo-e-bolsonaro-vai-para-tudo-ou-nada/",
+    "hat": "Corrida presidencial",
+    "title": "Debate hoje na Globo: Lula treina uso do tempo e Bolsonaro vai para o 'tudo ou nada'",
+    "summary": "Petista e presidente encaram último confronto antes do segundo turno como principal fato da campanha"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8534.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sao-paulo/20-anos-do-caso-suzane-richthofen-onde-e-como-estao-ela-e-os-irmaos-cravinhos/",
+    "hat": "crime brutal",
+    "title": "20 anos do caso Suzane Richthofen: onde e como estão ela e os irmãos Cravinhos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8534.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/neymar-julgamento-promotoria-santos-barcelona/",
+    "hat": "processo sobre corrupção",
+    "title": "Promotoria retira acusações contra Neymar na transferência do Santos para o Barcelona",
+    "summary": "Brasileiro era réu em processo sobre fraude em 2013; acusação pedia dois anos de prisão e multa"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12299.609375,
+      "left": 365,
+      "height": 172.78125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/putin-declara-lei-marcial-em-areas-anexadas-e-alerta-maximo-na-russia.shtml",
+    "title": "Putin declara lei marcial em áreas anexadas e alerta máximo na Rússia",
+    "summary": "Medida em regiões agregadas da Ucrânia implica total controle sobre vida civil"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12077.828125,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/thiago-herdy/2022/10/19/candidato-bolsonaro-tarcisio-emprestou-domicilio-eleitoral-para-sobrinho.htm",
+    "title": "Sobrinho morou em imóvel indicado por Tarcísio para justificar domicílio em SP"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11621.59375,
+      "left": 365,
+      "height": 146.375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministro-da-defesa-se-compromete-com-moraes-a-entregar-relatorios-de-fiscalizacao-de-urnas.shtml",
+    "title": "Ministro da Defesa se compromete com Moraes a entregar relatórios sobre urnas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12077.828125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/19/doria-anuncia-desfiliacao-do-psdb-cumpri-minha-missao-politica-partidaria.htm",
+    "title": "Doria anuncia desfiliação do PSDB: 'Cumpri minha missão política e partidária'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11687.15625,
+      "left": 619.15625,
+      "height": 231.125,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/stf-julgamento-virtual-tranporte-publico-gratuito-segundo-turno.htm",
+    "title": "Barroso, Fachin e Cármen votam para liberar transporte gratuito no 2º turno"
+  }
+]

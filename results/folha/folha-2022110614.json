@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8701.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/decisoes-do-tse-sob-moraes-devem-servir-de-parametro-para-as-proximas-eleicoes.shtml",
+    "hat": "Eleições 2022",
+    "title": "Decisões do TSE sob Moraes devem servir de parâmetro para as próximas eleições",
+    "summary": "Tribunal vê restrição a armas e combate a fake news como bons exemplos e não garante militares entre fiscais do pleito"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=5J2ar2UK8OM",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8437.34375,
+      "left": 975,
+      "height": 251.625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrissima/2022/11/lula-vai-a-cop-para-retomar-protagonismo-do-brasil-no-clima.shtml",
+    "hat": "Ambiente",
+    "title": "Lula vai à COP27 para retomar protagonismo do Brasil no clima",
+    "summary": "Cúpula começa neste domingo no Egito"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8150.734375,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pt-quer-deixar-para-2023-discussao-sobre-tabela-do-imposto-de-renda.shtml",
+    "hat": "Economia",
+    "title": "PT quer deixar para 2023 discussão sobre tabela do Imposto de Renda"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7949.703125,
+      "left": 975,
+      "height": 149.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painelsa/2022/11/empresas-abertas-defendem-um-imposto-so-sobre-investimentos-em-reforma-de-lula.shtml",
+    "hat": "Painel S.A.",
+    "title": "Empresas abertas defendem um imposto só sobre investimentos em reforma de Lula"
+  }
+]

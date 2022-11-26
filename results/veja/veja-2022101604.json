@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5859.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reforma-da-lei-do-impeachment-mira-alteracoes-em-regra-contra-stf/",
+    "hat": "Política",
+    "title": "Reforma da Lei do Impeachment mira alterações em regra contra STF",
+    "summary": "Comissão de juristas visa aperfeiçoar regra que lista procedimentos para deposição do presidente e de juízes, e apresentar texto até 16 de novembro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4218.921875,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/silencio-de-lula-sobre-economia-inquieta-mercado-na-reta-final-da-campanha",
+    "hat": "Reportagem de capa",
+    "title": "Incertezas sobre plano econômico de Lula inquietam mercado na reta final da eleição",
+    "summary": "Falta de clareza sobre diretrizes de um futuro governo do petista pode prejudicar desempenho do candidato em um momento decisivo da campanha"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3647.796875,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/romeu-zema-o-brasil-se-transformou-no-pais-das-pautas-irrelevantes/",
+    "hat": "Política",
+    "title": "Romeu Zema: 'O Brasil se transformou no país das pautas irrelevantes'",
+    "summary": "O governador reeleito de Minas defende Bolsonaro, critica a possibilidade de o PT voltar ao poder e afirma que a classe política perde tempo com temas pequenos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5529.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/tse-suspende-propaganda-que-acusa-lula-de-incentivar-aborto/",
+    "hat": "Desinformação",
+    "title": "TSE suspende propaganda que acusa Lula de 'incentivar' aborto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5529.890625,
+      "left": 539.984375,
+      "height": 245.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/candidatos-nao-podem-ser-presos-a-partir-de-hoje-a-nao-ser-em-flagrante/",
+    "hat": "Eleições 2022",
+    "title": "Candidatos não podem ser presos a partir de hoje, a não ser em flagrante"
+  }
+]

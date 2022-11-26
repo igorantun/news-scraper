@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12497.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-poder-de-policia-remover-fake-news.htm",
+    "title": "TSE amplia seu poder de polícia para remover fake news nas eleições",
+    "summary": "Medida permite retirada de conteúdos sem precisar ouvir uma das partes ou o MP"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12108.265625,
+      "left": 365,
+      "height": 524.984375,
+      "width": 224.15625
+    },
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/20/bolsonaro-rodrigo-garcia-sp-votos-indecisos.htm",
+    "title": "Com Rodrigo e Zema em SP, Bolsonaro pede a prefeitos que convençam indecisos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12108.265625,
+      "left": 619.15625,
+      "height": 365.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-decisao-jovem-pan.htm",
+    "title": "O que o TSE decidiu sobre a Jovem Pan"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11719.21875,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/20/andre-valadao-admite-que-nao-recebeu-intimacao-do-tse-como-tinha-dito.htm",
+    "title": "André Valadão admite que não recebeu intimação do TSE antes de gravar vídeo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12108.265625,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://congressoemfoco.uol.com.br/area/congresso-nacional/os-deputados-que-negaram-prioridade-para-tornar-pedofilia-crime-hediondo-veja-lista/",
+    "title": "Quem são os deputados que negaram prioridade para pedofilia virar crime hediondo"
+  }
+]

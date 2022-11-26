@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12345.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pf-vai-a-casa-de-roberto-jefferson-por-ordem-do-stf-e-policial-fica-ferida.shtml",
+    "title": "Moraes ordena prisão de Roberto Jefferson, que reage com tiros no RJ",
+    "summary": "Uma agente da Polícia Federal ficou ferida e foi levada desacordada a hospital"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12159.015625,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/bolsonaro-igreja-mundial-apostolo-valdemiro-santiago.htm",
+    "title": "Bolsonaro distorce decreto de Lula durante discurso homofóbico em igreja de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11702.78125,
+      "left": 365,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/lula-crescimento-segundo-turno-votos.htm",
+    "title": "Com disputa apertada, campanha de Lula prevê crescimento de 10%"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12159.015625,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/23/capital-bolsonarista-do-nordeste-maceio-apoio-presidente.htm",
+    "title": "Com voto bolsonarista consolidado, Maceió vira 'ilha' anti-Lula do Nordeste"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11702.78125,
+      "left": 619.15625,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/23/luiz-galvao.htm",
+    "title": "Luiz Galvão, fundador do Novos Baianos, morre aos 87 anos"
+  }
+]

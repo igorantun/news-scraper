@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12381.609375,
+      "left": 365,
+      "height": 171.171875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/22/governo-corta-87-de-doacao-de-leite-a-familias-na-miseria-em-nordeste-e-mg.htm",
+    "title": "Governo corta 87% de doação de leite a famílias na miséria no NE e em MG"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12161.4375,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/entrevista-bolsonaro-sbt-dia-21.htm",
+    "title": "No SBT, Bolsonaro liga censura ao PT, diz que TV pública é dele e anuncia 'superlive'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11705.203125,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/live-janones-lula.htm",
+    "title": "Live de André Janones com Lula atrasa, tem queda de sinal e críticas a Paulo Guedes"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12161.4375,
+      "left": 619.15625,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/dobradinha-lula-tebet-eleva-tom-contra-bolsonaro-em-cidade-emblematica-por-facada.shtml",
+    "title": "Dobradinha Lula-Tebet eleva tom contra Bolsonaro em cidade emblemática por facada"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11639.640625,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/10/22/rosangela-sergio-moro-nao-acompanha-ex-juiz-campanha-bolsonaro.htm",
+    "title": "Mulher de Sergio Moro não acompanha ex-juiz em campanha por Bolsonaro"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5404,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/21/salario-minimo-apos-fala-de-guedes-lula-defende-reajustar-pela-alta-do-pib-e-bolsonaro-passa-a-prometer-ganho-real.ghtml",
+    "hat": "Seu bolso",
+    "title": "Salário mínimo vira tema na campanha após Guedes sugerir mudança de regra",
+    "summary": "Lula defendeu corrigir valor considerando alta do PIB para garantir aumento real, e Bolsonaro passou a prometer ganho acima da inflação."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5404,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/21/precos-combustiveis-anp.ghtml",
+    "hat": "Combustível mais caro",
+    "title": "Preço da gasolina sobe pela 2ª semana seguida nos postos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5067.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2022/10/21/a-nomade-digital-que-ja-trabalhou-em-78-paises-diferentes.ghtml",
+    "hat": "Turismo",
+    "title": "A 'nômade digital' que já trabalhou em 78 países diferentes"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4662.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/natuza-nery/post/2022/10/21/bolsonarismo-aciona-armas-da-desinformacao-uso-politico-da-religiao-e-assedio-eleitoral-as-vesperas-do-segundo-turno.ghtml",
+    "hat": "Blog da Natuza Nery",
+    "title": "Bolsonarismo aciona armas da desinformação, uso da religião e assédio eleitoral",
+    "summary": "Às vésperas do 2º turno, apoiadores do presidente promovem espécie de vale-tudo pela tentativa de reeleição.",
+    "category": "Blog da Natuza Nery"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4384.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/21/pgr-pede-ao-stf-suspensao-de-norma-do-tse-que-busca-dar-mais-agilidade-no-combate-as-fake-news-em-periodo-eleitoral.ghtml",
+    "hat": "Recurso ao Supremo",
+    "title": "Aras pede suspensão de norma do TSE que agiliza combate às fake news",
+    "summary": "Um dos pontos contestados permite tirar do ar conteúdos semelhantes sem nova decisão judicial.",
+    "category": "Eleições 2022"
+  }
+]

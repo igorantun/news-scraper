@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6168,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/governadores-rodovias-bolsonaristas.ghtml",
+    "hat": "Bloqueios antidemocráticos",
+    "title": "Governadores de 5 estados mandam PM liberar rodovias"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6168,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/01/caso-richthofen-mansao-vendida-segue-vazia-e-borrada-no-google-apos-20-anos-penas-de-suzane-e-cravinhos-acabam-em-2038-a-2043.ghtml",
+    "hat": "20 anos do crime",
+    "title": "Vendida, mansão dos Richthofen está vazia e borrada no Google"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5831.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/01/imagens-de-satelite-mostram-antes-e-depois-da-ponte-que-caiu-na-india-135-pessoas-morreram.ghtml",
+    "hat": "Tragédia com 135 mortos",
+    "title": "Imagens aéreas mostram antes e depois da ponte que caiu na Índia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5148.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/a-gente-se-sentiu-intimidado-a-todo-momento-os-impactos-causados-pelos-bloqueios-bolsonaristas-nas-rodovias.ghtml",
+    "title": "'Água do nosso ônibus acabou', 'fomos cercados': leia relatos de quem está preso nas estradas",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4870.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/conexao-globonews/video/miriam-leitao-direcao-da-prf-esta-se-comportando-de-maneira-ilegal-11085360.ghtml",
+    "title": "MIRIAM LEITÃO: PRF age de forma ilegal, e Bolsonaro é conivente",
+    "category": "Conexão Globonews"
+  }
+]

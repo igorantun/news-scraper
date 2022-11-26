@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12576.609375,
+      "left": 365,
+      "height": 308.71875,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pf-vai-a-casa-de-roberto-jefferson-por-ordem-do-stf-e-policial-fica-ferida.shtml",
+    "title": "Roberto Jefferson atira contra PF após ordem de prisão por Moraes",
+    "summary": "Dois agentes são feridos, e polícia suspeita de uso de granada"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12069.75,
+      "left": 365,
+      "height": 478.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/23/bolsonaro-sobre-roberto-jefferson-nao-tem-uma-foto-dele-comigo.htm",
+    "title": "Bolsonaro sobre Roberto Jefferson: 'Não tem uma foto dele comigo'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11567.140625,
+      "left": 365,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/lula-crescimento-segundo-turno-votos.htm",
+    "title": "Com disputa apertada, campanha de Lula prevê crescimento de 10%"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12069.75,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/bolsonaro-igreja-mundial-apostolo-valdemiro-santiago.htm",
+    "title": "Bolsonaro distorce decreto de Lula durante discurso homofóbico em igreja de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11613.515625,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/flavio-posta-foto-manipulada-para-simular-apoio-de-casimiro-a-bolsonaro.htm",
+    "title": "Flávio posta foto manipulada para simular apoio de Casimiro a Bolsonaro"
+  }
+]

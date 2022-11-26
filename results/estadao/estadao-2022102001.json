@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9348.734375,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/defesa-diz-a-tse-que-so-entregara-relatorio-sobre-urnas-apos-segundo-turno/",
+    "hat": "Política",
+    "title": "Ministério da Defesa diz a TSE que só entregará relatório sobre urnas após segundo turno",
+    "summary": "Forças Armadas alegam que trabalho de fiscalização ainda não terminou e não poderiam entregar um documento preliminar sobre o primeiro turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9051.734375,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/datafolha-no-segundo-turno-lula-tem-49-das-intencoes-de-voto-bolsonaro-45/",
+    "hat": "PESQUISA ELEITORAL",
+    "title": "Datafolha no segundo turno: Lula tem 49% das intenções de voto; Bolsonaro, 45%"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8441.078125,
+      "left": 329,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-volta-a-defender-regulamentacao-da-midia-e-cita-direito-de-resposta-ja-previsto-na-constituicao/",
+    "hat": "Eleições 2022",
+    "title": "Lula volta a defender regulamentação da mídia e cita direito de resposta já previsto na Constituição",
+    "summary": "Petista defende uma mídia mais 'plural', sem dar detalhes do que defende para nova legislação sobre o tema"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8441.078125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/guerra-santa-do-segundo-turno-provoca-ataques-a-religiosos-veja-casos/",
+    "hat": "Acirramento político",
+    "title": "'Guerra santa' do segundo turno provoca ataques a líderes religiosos; veja casos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8441.078125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ministerio-comprou-22-milhoes-de-cestas-basicas-de-empresa-laranja-diz-tcu/",
+    "hat": "'fortes indícios' de fraude",
+    "title": "Ministério comprou 2,2 milhões de cestas básicas de empresa laranja, diz TCU",
+    "summary": "Empresa vencedora de mais de R$ 200 mi em compra de alimentos está em nome de beneficiário do auxílio"
+  }
+]

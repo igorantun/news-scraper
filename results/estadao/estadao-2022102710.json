@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9083.3125,
+      "left": 329,
+      "height": 262,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/denuncias-de-assedio-eleitoral-crescem-mais-de-2500-no-segundo-turno-mpt-investiga/",
+    "hat": "Eleições 2022",
+    "title": "Denúncias de assédio eleitoral crescem 2.577% entre 1º e 2º turnos; MPT investiga",
+    "summary": "Casos de coerção para forçar funcionário a votar em determinado candidato têm dimensão inédita; MPT instalou gabinete de crise"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9083.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/55735-2/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "PT minimiza denúncias de Bolsonaro sobre rádios e não crê que afetem eleição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8633.203125,
+      "left": 759.65625,
+      "height": 402.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/nao-havera-concertacion/",
+    "hat": "William Waack",
+    "title": "Não haverá 'concertación' após as eleições, não há acordo sequer sobre o que são fatos",
+    "summary": "\"É difícil imaginar a quatro dias da decisão de domingo que o resultado das urnas 'resolva' a disputa política\""
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8633.203125,
+      "left": 1190.3125,
+      "height": 402.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/adriana-fernandes-eleicoes-promessas-resultado/",
+    "hat": "ADRIANA FERNANDES",
+    "title": "Assessores próximos de Guedes falam em 'medidas duras' depois das eleições",
+    "summary": "'Após as bondades e as promessas do período eleitoral, o tempo das maldades chegará'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8157.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/internacional-leva-sufoco-vira-sobre-o-ceara-e-adia-titulo-do-palmeiras-no-brasileirao/",
+    "hat": "Reta final do campeonato",
+    "title": "Internacional leva sufoco, vira sobre o Ceará e adia título do Palmeiras no Brasileirão"
+  }
+]

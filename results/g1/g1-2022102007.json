@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5362,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/rj/futebol/copa-do-brasil/jogo/19-10-2022/flamengo-corinthians.ghtml",
+    "hat": "Copa do Brasil",
+    "title": "Flamengo vence Corinthians nos pênaltis, é tetracampeão e vai à Libertadores 2023",
+    "summary": "Mateus Vital desperdiçou cobrança, e Rodinei marcou gol decisivo."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5362,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/19/policiamento-e-reforcado-para-saida-dos-torcedores-do-maracana.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Saída dos torcedores do Maracanã tem novas confusões"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5025.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/10/20/video-mostra-momento-de-explosao-de-predio-na-ucrania.ghtml",
+    "hat": "Região tomada pela Rússia",
+    "title": "VÍDEO mostra momento de explosão de prédio na Ucrânia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4620.828125,
+      "left": 348.65625,
+      "height": 150.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/19/ministro-do-tse-concede-direitos-de-resposta-as-campanhas-de-lula-e-bolsonaro-por-conteudos-ofensivos-ou-descontextualizados.ghtml",
+    "hat": "Propaganda na TV",
+    "title": "TSE concede direito de resposta a Lula em 184 inserções de Bolsonaro na TV",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4437.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/20/o-assunto-818-o-voto-e-o-peso-do-agro-em-2022.ghtml",
+    "hat": "🎧 Podcast",
+    "title": "O ASSUNTO: como o agronegócio impulsiona a campanha de Bolsonaro; OUÇA",
+    "category": "O Assunto"
+  }
+]

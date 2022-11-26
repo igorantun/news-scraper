@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6813,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/transicao-presidencial/noticia/2022/11/10/pec-da-transicao-governo-eleito-busca-saida-para-auxilio-de-r-600-veja-perguntas-e-respostas.ghtml",
+    "hat": "Futuro governo",
+    "title": "PEC da Transição: como Lula tenta garantir o auxílio de R$ 600; entenda em 5 pontos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6813,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/09/ex-lutador-e-preso-por-morte-da-esposa-de-26-anos-em-sp-camera-de-elevador-registrou-retirada-de-corpo-com-carrinho-diz-policia.ghtml",
+    "hat": "Feminicídio em SP",
+    "title": "Ex-lutador mata a esposa e retira corpo em carrinho de compras"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6476.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/10/policia-faz-nova-operacao-contra-influenciadores-suspeitos-de-sorteios-ilegais-no-df.ghtml",
+    "hat": "Investigação em Minas e no DF",
+    "title": "Influenciador suspeito de sorteios ilegais de carros é preso em MG"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6071.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiais.g1.globo.com/pop-arte/2022/gal-costa-a-mae-de-todas-as-vozes/",
+    "hat": "A mãe de todas as vozes",
+    "title": "ADEUS A GAL COSTA: DOCE, BÁRBARA E FATAL"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5793.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/10/corpo-de-rolando-boldrin-chega-a-assembleia-legislativa-de-sao-paulo-para-ser-velado.ghtml",
+    "hat": "'Sr. Brasil'",
+    "title": "Corpo de Rolando Boldrin é velado na Assembleia de SP",
+    "category": "São Paulo"
+  }
+]

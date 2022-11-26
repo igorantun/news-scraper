@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9290.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/defesa-alega-que-nao-fez-auditoria-das-urnas-em-resposta-a-cobranca-de-moraes/",
+    "hat": "SISTEMA DE VOTAÇÃO",
+    "title": "Defesa vai alegar que não fez auditoria de urnas em resposta à cobrança de Alexandre de Moraes",
+    "summary": "Presidente do TSE determinou envio de documentos no prazo de 48 horas, mas Forças Armadas sustentam que atuaram apenas como entidade fiscalizadora da eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9290.3125,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-recusa-convite-para-participar-de-debate-do-estadaoeldorado-bolsonaro-sera-entrevistado/",
+    "hat": "Política",
+    "title": "Lula recusa convite para participar de debate do Estadão; Bolsonaro será entrevistado",
+    "summary": "Sabatina do presidente será exibida nesta sexta, às 21h30, em parceria com pool de veículos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8808.203125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/presidente-do-novo-diz-que-partido-nao-liberou-voto-em-lula-no-2-turno/",
+    "hat": "corrida eleitoral",
+    "title": "Presidente do Novo diz que partido não liberou voto em Lula no 2º turno e que Amôedo foi 'decepção muito grande'",
+    "summary": "Para Eduardo Ribeiro, legenda se colocou claramente contra o PT na nota que liberou voto de filiados"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8382.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/camara-aprova-urgencia-para-projeto-que-pune-institutos-de-pesquisas-mas-relator-descarta-prisao/",
+    "hat": "TRAMITAÇÃO ACELERADA",
+    "title": "Câmara aprova urgência para projeto que pune institutos de pesquisas",
+    "summary": "Bolsonaristas querem votar mérito do texto antes do segundo turno das eleições"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8382.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/alianca-com-bolsonaro-reacende-planos-de-moro-no-stf-e-ate-candidatura-a-presidencia/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Aliança com Bolsonaro reacende planos de Moro no STF e até candidatura à Presidência"
+  }
+]

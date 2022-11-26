@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5456,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/19/lula-se-reune-com-liderancas-de-igrejas-evangelicas-em-sao-paulo.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "Em carta a evangélicos, Lula prega liberdade religiosa e reforça ser contra o aborto"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5456,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/bolsonaristas-interrompem-missas-e-ofendem-padres-religiosos-veem-falta-de-respeito.ghtml",
+    "hat": "Intolerância religiosa",
+    "title": "Bolsonaristas interrompem missas e atacam padres; veja vídeos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5119.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/19/moradores-de-predio-em-que-eddy-jr-foi-vitima-de-racismo-protestam-contra-agressora-condominio-vai-multa-la-em-ate-r-8-mil.ghtml",
+    "hat": "Racismo em SP",
+    "title": "Moradores protestam contra mulher de ataque racista a Eddy Jr."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4714.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/19/bolsonaro-agora-nega-relatorio-das-forcas-armadas-sobre-urnas-e-questiona-reporter-esta-botando-na-minha-boca-agora.ghtml",
+    "title": "Bolsonaro agora evita falar em relatório de militares sobre urnas",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4436.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/estudio-i/video/rodrigo-maia-bolsonaro-tenta-transferir-responsabilidade-do-orcamento-secreto-para-mim-11041079.ghtml",
+    "hat": "Relação com Congresso",
+    "title": "Orçamento secreto: Bolsonaro tenta transferir responsabilidade, diz Maia",
+    "category": "Estúdio i"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9124.203125,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/stf-forma-maioria-favoravel-a-decisao-de-moraes-para-liberar-rodovias.shtml",
+    "hat": "estradas bloqueadas",
+    "title": "STF forma maioria favorável a decisão de Moraes para liberar rodovias",
+    "summary": "Em caso de descumprimento, pode haver multa e até prisão do diretor-geral da Polícia Rodoviária Federal"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.609375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9124.203125,
+      "left": 1305,
+      "height": 74.0625,
+      "width": 300
+    },
+    "link": null,
+    "hat": "TEMPO REAL"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8751.625,
+      "left": 975,
+      "height": 381.78125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-prepara-transicao-sob-pressao-do-tempo-para-atrair-apoios-e-partidos-por-governabilidade.shtml",
+    "hat": "eleições 2022",
+    "title": "Lula prepara transição sob pressão do tempo para atrair apoios por governabilidade"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8334.859375,
+      "left": 975,
+      "height": 138.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/quem-perdeu-e-quem-ganhou-nas-eleicoes-de-2022.shtml",
+    "hat": "+eleições",
+    "title": "Quem perdeu e quem ganhou nas eleições de 2022"
+  }
+]

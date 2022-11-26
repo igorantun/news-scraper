@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5354,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-ja-esta-preso-no-rio.ghtml",
+    "hat": "Ex-deputado preso",
+    "title": "Jefferson chega a presídio no Rio 14 horas depois de atacar a PF com fuzil e granadas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5354,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2022/10/24/assassinada-durante-tentativa-de-estupro-aos-13-anos-quem-foi-benigna-cardoso-da-silva-cearense-que-sera-beatificada-hoje.ghtml",
+    "hat": "Morta em tentativa de estupro",
+    "title": "Quem foi a menina Benigna Cardoso, que será beatificada hoje"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5017.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/podcast/de-onde-vem-o-que-eu-como/noticia/2022/10/24/de-onde-vem-o-que-eu-como-12-mandioca.ghtml",
+    "hat": "🎧 De onde vem...",
+    "title": "Qual a diferença entre mandioca e macaxeira? Entenda no podcast"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4612.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/24/veja-fotos-da-viatura-da-policia-federal-apos-ataque-de-roberto-jefferson-com-fuzil-e-granadas.ghtml",
+    "title": "FOTOS mostram como ficou a viatura da PF após o ataque",
+    "category": "Sul do Rio e Costa Verde"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4334.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/24/prisao-de-roberto-jefferson-comentaristas-da-globonews-analisam-ataque-de-ex-deputado-a-policiais.ghtml",
+    "title": "ANÁLISES: Jefferson quis virar mártir, mas se tornou criminoso comum"
+  }
+]

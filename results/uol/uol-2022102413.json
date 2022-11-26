@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12481.609375,
+      "left": 365,
+      "height": 311.921875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/carla-araujo-bolsonaro-roberto-jefferson-tiros-desgaste-campanha.htm",
+    "title": "Aliados veem desgaste de Bolsonaro por enviar ministro em caso Jefferson",
+    "summary": "Presidente também mentiu sobre não ter sido fotografado ao lado do aliado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12120.6875,
+      "left": 365,
+      "height": 385.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/24/em-video-jefferson-diz-que-usou-granada-e-alega-que-policial-atirou-antes.htm",
+    "title": "Vídeo mostra conversa amistosa entre Jefferson e policial antes de prisão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11710.828125,
+      "left": 365,
+      "height": 538.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/opiniao/coluna/2022/10/23/roberto-jefferson-e-jair-bolsonaro.htm",
+    "title": "Kakay: Episódio com Roberto Jefferson é resultado da política de ódio de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12120.6875,
+      "left": 619.15625,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-disse-em-2020-que-bolsonaro-era-seu-amigo-pessoal-veja.htm",
+    "title": "Jefferson disse em 2020 que Bolsonaro era seu 'amigo pessoal'; veja"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11707.640625,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/entrevista-bolsonaro-record-23-de-outubro.htm",
+    "title": "Bolsonaro usa sabatina da Record para tentar se afastar de Jefferson e chama Lula de 'fujão'"
+  }
+]

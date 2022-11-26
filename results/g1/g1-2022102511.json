@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6315,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/25/whatsapp-apresenta-instabilidade-nesta-terca-feira.ghtml",
+    "hat": "App de conversas",
+    "title": "WhatsApp apresenta instabilidade no mundo todo",
+    "summary": "Parte dos usuários relata que serviço começou a voltar por volta de 6h. Meta diz que problema foi resolvido."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6315,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ao-vivo/rishi-sunak-e-o-novo-primeiro-ministro-britanico-acompanhe.ghtml",
+    "hat": "Reino Unido",
+    "title": "'Fui eleito para consertar erros', diz Sunak em 1º discurso"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5978.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/noticia/2022/10/25/turista-filmou-queda-de-tirolesa-que-o-levou-a-morte-em-canoa-quebrada.ghtml",
+    "hat": "Canoa Quebrada",
+    "title": "Turista filmou queda de tirolesa que o levou a morte no Ceará"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5573.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/25/whatsapp-instavel-como-funcionam-as-alternativas-sms-telegram-twitter-e-outros.ghtml",
+    "title": "SMS, Telegram, Twitter e mais: veja alternativas ao WhatsApp",
+    "category": "Tecnologia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5295.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "hat": "2º turno das eleições",
+    "title": "Lula 50% x 43% Bolsonaro: veja números do Ipec por região, renda, idade e sexo"
+  }
+]

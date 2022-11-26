@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12278.609375,
+      "left": 365,
+      "height": 332.75,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/11/01/bolsonaro-discurso-eleicoes-derrota-lula.htm",
+    "title": "Bolsonaro critica atos e defende direito de ir e vir; Ciro Nogueira dá início à transição",
+    "summary": "Após 44 horas de silêncio, presidente faz discurso de 2 minutos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11830.859375,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/prf-diz-ter-identificado-casos-de-policiais-supostamente-ajudando-golpistas.htm",
+    "title": "PRF diz ter identificado policiais suspeitos de ajudar atos; há 235 vias bloqueadas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11243.5,
+      "left": 365,
+      "height": 207.125,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/11/01/bloqueios-de-rodovias-de-carater-golpista-ja-levam-a-falta-de-alimentos.htm",
+    "title": "Manifestações pró-golpe levam à falta de alimentos em SC e SP"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11830.859375,
+      "left": 619.15625,
+      "height": 481.796875,
+      "width": 224.15625
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml#post421696",
+    "title": "Acidente em rodovia bloqueada deixa nove feridos no Tocantins"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11325.0625,
+      "left": 619.15625,
+      "height": 360.859375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/procuradoria-pede-a-abertura-de-inquerito-policial-contra-diretor-geral-da-prf-por-prevaricacao.shtml",
+    "title": "Procuradoria pede a abertura de inquérito policial contra diretor da PRF por prevaricação"
+  }
+]

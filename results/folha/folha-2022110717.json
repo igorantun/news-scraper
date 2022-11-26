@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8377.109375,
+      "left": 315,
+      "height": 310,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/esporte/2022/11/tite-divulga-lista-e-selecao-brasileira-esta-convocada-para-a-copa-veja-os-nomes.shtml",
+    "hat": "copa do mundo",
+    "title": "Tite convoca Daniel Alves e Pedro para a Copa do Qatar; veja os 26 nomes",
+    "summary": "Técnico se despede do comando da equipe no Mundial; Brasil terá pela frente na 1ª fase Sérvia, Suíça e Camarões"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -876.40625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://youtu.be/wie0STFrqQE",
+    "hat": "Afeganistão",
+    "title": "Sem escolas desde a volta do Talibã, afegãs trabalham em campos de açafrão",
+    "summary": "Desde que o grupo extremista retomou o poder, a educação não é um direito garantido para mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8376.109375,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/11/casagrande-e-jornalistas-comentam-escalacao-de-tite-para-copa-na-tv-folha.shtml",
+    "hat": "tv folha",
+    "title": "Casagrande e jornalistas comentam escalação de Tite para a Copa; acompanhe"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8032.125,
+      "left": 315,
+      "height": 261.796875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/fantasma-do-tuite-assombra-escolha-de-lula-para-o-exercito.shtml",
+    "hat": "transição de governo",
+    "title": "Fantasma do tuíte assombra escolha de Lula para o Exército"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7735.34375,
+      "left": 315,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-sem-mandato-estara-na-mira-de-stf-tse-e-1a-instancia-entenda.shtml",
+    "hat": "Folhajus",
+    "title": "Bolsonaro sem mandato estará na mira de STF, TSE e 1ª instância; entenda"
+  }
+]

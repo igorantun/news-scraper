@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5785,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/barroso-permite-oferta-de-servico-de-transporte-publico-gratuito-no-segundo-turno-das-eleicoes.ghtml",
+    "hat": "Dia da votação",
+    "title": "Ministro do STF autoriza transporte público de graça no 2º turno",
+    "summary": "Barroso afirma que prefeitos não poderão ser punidos e que serviço não pode discriminar eleitores por suas posições políticas."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5785,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/10/18/nao-estava-politizando-nada-diz-seu-jorge-sobre-show-com-episodio-de-racismo-em-porto-alegre.ghtml",
+    "hat": "Racismo em show",
+    "title": "'Não estava politizando nada', diz Seu Jorge sobre ataque racista"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5448.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/10/18/junior-fala-sobre-eleicoes-sou-contra-o-governo-atual.ghtml",
+    "hat": "Música e eleições",
+    "title": "'Tiozão do Zap': Junior comenta apoio de Chitãozinho a Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5043.828125,
+      "left": 348.65625,
+      "height": 255.640625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/apos-dizer-que-meninas-venezuelanas-se-arrumavam-para-fazer-programa-bolsonaro-diz-que-mulheres-de-casa-que-visitou-eram-trabalhadoras.ghtml",
+    "hat": "'Pintou um clima'",
+    "title": "Bolsonaro agora nega prostituição em casa de venezuelanas e diz que eram trabalhadoras",
+    "summary": "Antes, presidente usou expressões 'fazer programa' e 'ganhar a vida' para se referir às meninas. Hoje, após ampla repercussão negativa, pediu desculpas.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4756.1875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/bolsonaro-afirmou-em-setembro-que-meninas-venezuelanas-estavam-bem-arrumadas-para-fazer-programa.ghtml",
+    "title": "Em outros vídeos, Bolsonaro diz ou insinua que meninas fariam 'programa'",
+    "summary": "Presidente contava a mesma história que viralizou no fim de semana após entrevista na última sexta.",
+    "category": "Eleições 2022"
+  }
+]

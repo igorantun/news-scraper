@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8195.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/equipe-de-lula-quer-pec-com-r-175-bilhoes-fora-do-teto-para-bolsa-familia-por-4-anos.shtml",
+    "hat": "transição de governo",
+    "title": "Equipe de Lula quer PEC com R$ 175 bilhões fora do teto para Bolsa Família por 4 anos",
+    "summary": "Negociador do governo eleito para orçamento afirma que formato e prazo dependem de negociação com Congresso"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.1875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=xZqlDalnac0",
+    "hat": "Gal Costa (1945-2022)",
+    "title": "Como Gal Costa se tornou símbolo forte de rebeldia das mulheres",
+    "summary": "Cantora é um marco incontornável da música e desafiou o conservadorismo no auge da ditadura"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7931.34375,
+      "left": 975,
+      "height": 175.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/pt-teme-que-acao-do-stf-contra-emendas-de-relator-prejudique-aproximacao-com-lira.shtml",
+    "hat": "+transição de governo",
+    "title": "PT teme que ação do STF contra emendas de relator prejudique aproximação com Lira"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7720.90625,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/11/meirelles-critica-tentativa-de-barrar-indicacao-de-ilan-ao-bid-pelo-pt.shtml",
+    "hat": "Painel",
+    "title": "Meirelles critica tentativa de barrar indicação de Ilan ao BID pelo PT",
+    "summary": "Ele é 'extremamente qualificado' para assumir o banco, afirma ex-ministro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7524.03125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/dolar-recua-apos-disparada-da-vespera-com-discurso-de-lula.shtml",
+    "hat": "Mercado financeiro",
+    "title": "Dólar fecha em queda após disparar na véspera com discurso de Lula"
+  }
+]

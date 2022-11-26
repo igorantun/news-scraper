@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6269,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2022/10/27/fake-news-entenda-como-funciona-a-fabrica-desinformacao-politica-no-brasil.ghtml",
+    "hat": "Indústria da desinformação",
+    "title": "Entenda como funciona a fábrica de fake news nas eleições brasileiras"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6269,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/10/27/policia-militar-divulga-imagem-de-mulher-suspeita-de-furtar-joias-em-condominio-de-luxo-na-regiao-centro-sul-de-bh-fotos.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Mulher invade prédio de luxo em BH e furta R$ 1 milhão em joias"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5932.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2022/10/27/saiba-se-cortar-pedaco-da-fruta-que-esta-mofado-e-comer-o-resto-faz-mal.ghtml",
+    "hat": "Cuidados com a alimentação",
+    "title": "Cortar pedaço da fruta mofado e comer o resto faz mal? Entenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5527.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/27/desemprego-recua-para-87percent-em-setembro.ghtml",
+    "hat": "Economia",
+    "title": "Desemprego recua para 8,7%; nº de informais bate novo recorde",
+    "summary": "Falta de trabalho afeta 9,5 milhões de brasileiros.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5249.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/moraes-indefere-pedido-da-campanha-de-bolsonaro-sobre-insercoes-em-radios.ghtml",
+    "hat": "Justiça Eleitoral",
+    "title": "Moraes nega pedido de Bolsonaro para investigar suposto boicote de rádios",
+    "category": "Eleições 2022"
+  }
+]

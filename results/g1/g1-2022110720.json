@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5090,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/07/saques-da-poupanca-superam-depositos-em-r-11-bilhoes-em-outubro-diz-bc.ghtml",
+    "hat": "Economia",
+    "title": "Saída de recursos da poupança é a maior para o mês de outubro",
+    "summary": "Saques superaram depósitos em R$ 11 bilhões no mês passado. Movimento ocorre em meio à alta da taxa de juros e da inflação."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5090,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/07/lewis-hamilton-chega-a-camara-para-receber-titulo-de-cidadao-honorario-brasileiro.ghtml",
+    "hat": "Homenagem",
+    "title": "Lewis Hamilton recebe título de cidadão brasileiro na Câmara"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4753.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/go/goias/noticia/2022/11/07/padre-tira-a-batina-e-abandona-missa-apos-discussao-politica-em-igreja-de-neropolis.ghtml",
+    "hat": "Goiás",
+    "title": "VÍDEO: padre tira a batina e deixa missa após discussão política"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4348.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/07/convocados-da-selecao-para-a-copa-do-mundo-2022-veja-a-lista-de-tite.ghtml",
+    "hat": "Em busca do hexa",
+    "title": "Tite convoca Daniel Alves, Pedro e Martinelli para a Copa",
+    "category": "seleção brasileira"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4070.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/07/veja-a-numeracao-dos-jogadores-da-selecao-brasileira-na-copa-do-mundo-de-2022.ghtml",
+    "title": "Neymar usará camisa 10; veja a numeração oficial da Copa",
+    "category": "seleção brasileira"
+  }
+]

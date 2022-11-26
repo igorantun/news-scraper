@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9759.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/lula-ou-bolsonaro-quem-ganhou-o-debate-da-band-veja-a-opiniao-de-analistas-ouvidos-pelo-estadao/",
+    "hat": "ENCONTRO ENTRE PRESIDENCIÁVEIS",
+    "title": "Lula ou Bolsonaro: Quem ganhou o debate da Band? Veja a opinião de analistas ouvidos pelo Estadão",
+    "summary": "Primeiro embate do segundo turno entre o petista e o chefe do Executivo foi marcado por poucas propostas de governo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9365.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/estadao-verifica/debate-lula-bolsonaro-band/",
+    "hat": "PONTO A PONTO",
+    "title": "Estadão Verifica: Candidatos erram dados sobre covid, salário mínimo e Bolsa Família; veja checagem",
+    "summary": "Presidenciáveis se encontram pela primeira vez no segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9365.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/analise-mercado-debate-lula-bolsonaro/",
+    "hat": "E-investidor",
+    "title": "Como o mercado reagiu ao debate entre Lula e Bolsonaro; confira opinião de analistas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8887.203125,
+      "left": 1190.328125,
+      "height": 302,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/moro-assumiu-lugar-de-assessor-especial-de-bolsonaro-em-debate/",
+    "hat": "DEBATE DA BAND",
+    "title": "Coluna do Estadão: Sergio Moro assumiu lugar de assessor especial de Bolsonaro em debate",
+    "summary": "Senador eleito rompeu com o atual presidente em 2020, com acusações de interferência na Polícia Federal"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8485.65625,
+      "left": 759.65625,
+      "height": 402.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/risco-de-morte-do-populista/",
+    "hat": "Carlos Pereira",
+    "title": "É mais fácil que populistas se enfraqueçam e venham a 'morrer' do que as democracias",
+    "summary": "'Receios foram catapultados a partir de um suposto plano de Bolsonaro de aumentar o número de ministros do STF'"
+  }
+]

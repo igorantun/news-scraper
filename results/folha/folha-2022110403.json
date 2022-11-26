@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8677.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/alckmin-diz-que-reuniao-de-transicao-no-planalto-foi-proveitosa-e-cita-parabens-de-general.shtml",
+    "hat": "transição de governo",
+    "title": "Alckmin se reúne com Bolsonaro e diz que presidente prometeu colaborar com transição",
+    "summary": "Vice de Lula afirma que a reunião foi 'proveitosa' e que a transição do governo 'já começou'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.234375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8359.4375,
+      "left": 975,
+      "height": 141.578125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/kassab-quer-cargos-apoio-federal-e-reconducao-de-pacheco-para-apoiar-lula.shtml",
+    "hat": "Política",
+    "title": "Kassab apresenta condições para o PSD apoiar Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8182.875,
+      "left": 975,
+      "height": 220.078125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/prf-diz-que-todas-as-rodovias-estao-livres-de-bloqueios-totais.shtml",
+    "hat": "ATOS ANTIDEMOCRÁTICOS",
+    "title": "PRF diz que todas as rodovias estão livres de bloqueios totais",
+    "summary": "Há, porém, 24 vias com bloqueio parcial"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7927.8125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/11/estudantes-ficam-feridos-apos-bolsonaristas-invadirem-onibus-escolar-em-sp.shtml",
+    "hat": "em jundiaí",
+    "title": "Estudantes ficam feridos após bolsonaristas invadirem ônibus escolar em SP"
+  }
+]

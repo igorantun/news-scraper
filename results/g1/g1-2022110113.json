@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6182,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/01/moraes-determina-as-policias-militares-que-desobstruam-estradas-bloqueadas-no-pais-e-identifiquem-responsaveis.ghtml",
+    "hat": "Rodovias interditadas",
+    "title": "Moraes libera PMs para desbloquear vias, multar e prender responsáveis"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6182,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/01/caso-richthofen-mansao-vendida-segue-vazia-e-borrada-no-google-apos-20-anos-penas-de-suzane-e-cravinhos-acabam-em-2038-a-2043.ghtml",
+    "hat": "20 anos do crime",
+    "title": "Vendida, mansão dos Richthofen está vazia e borrada no Google"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5845.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2022/noticia/2022/11/01/veja-o-que-pensam-os-eleitores-de-guara-sp-onde-lula-e-bolsonaro-empataram-no-2o-turno.ghtml",
+    "hat": "'Amizade não acaba'",
+    "title": "Conheça a cidade paulista onde Lula e Bolsonaro empataram"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5440.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/globonews-em-ponto/video/miriam-leitao-sobre-bloqueio-de-rodovias-e-preocupante-porque-e-politico-11085066.ghtml",
+    "title": "MIRIAM LEITÃO: bloqueios são preocupantes porque são políticos",
+    "category": "GloboNews em Ponto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5162.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/01/gleisi-diz-que-lula-vai-indicar-coordenador-da-transicao-nesta-terca-feira.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Lula vai indicar hoje coordenador da transição, diz Gleisi Hoffmann",
+    "category": "Blog da Andréia Sadi"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5891.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/eleito-presidente-lula-retorna-a-brasilia-nesta-terca-para-formar-governo/",
+    "hat": "Política",
+    "title": "Lula vai a Brasília nesta terça para encontros com chefes dos poderes",
+    "summary": "Presidente eleito terá reuniões nesta semana com Arthur Lira, Rodrigo Pacheco e Rosa Weber, em meio à formação do novo governo e às negociações pela PEC da Transição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1194.125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -679.125,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5561.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/moraes-da-48-horas-para-as-policias-enviarem-dados-sobre-manifestantes/",
+    "hat": "Política",
+    "title": "Moraes dá 48 horas para polícias enviarem dados sobre manifestantes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5561.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/o-ministro-que-alimenta-os-sonhos-golpistas-do-bolsonarismo/",
+    "hat": "Radar",
+    "title": "O ministro de governo que ainda alimenta os sonhos golpistas do bolsonarismo"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12610.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bolsonaro-reiterou-compromissos-da-transicao-diz-alckmin-apos-encontro.htm",
+    "title": "Alckmin diz que Bolsonaro 'reiterou compromissos da transição'",
+    "summary": "Vice eleito considerou positiva a reunião com o presidente em Brasília"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12280.078125,
+      "left": 365,
+      "height": 342.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/efetivo-prf-eleicoes-e-bloqueios.htm",
+    "title": "PRF cortou um terço do efetivo entre 2º turno e início dos bloqueios"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11913.40625,
+      "left": 365,
+      "height": 146.375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/mpf-pede-inquerito-contra-nelson-piquet.htm",
+    "title": "MPF pede investigação contra Nelson Piquet por possível incitação pública a crime"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12280.078125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bolsonaristas-agridem-estudantes-em-jundiai.htm",
+    "title": "Bolsonaristas invadem ônibus e agridem jovens que fizeram gesto pró-Lula no interior de SP"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11889.40625,
+      "left": 619.15625,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/gesto-em-ato-golpista-em-sc-nao-teve-intencao-de-exaltar-nazismo-diz-ministerio-publico.shtml",
+    "title": "Gesto em ato golpista em SC não teve intenção de exaltar nazismo, diz Ministério Público"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9921.109375,
+      "left": 315,
+      "height": 206.828125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-amplia-poder-na-reta-final-da-eleicao-e-reduz-prazo-para-exclusao-de-fake-news.shtml",
+    "hat": "Eleições 2022",
+    "title": "TSE amplia poder na reta final da eleição e reduz prazo para exclusão de fake news",
+    "summary": "Nova resolução ainda permite TSE mandar retirar conteúdos já considerados fraudulentos pelos ministros da corte"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.09375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9874.125,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/20/6215-folha-e-uol-sabatinam-eduardo-riedel-candidato-em-ms-assista.shtml",
+    "hat": "pleito estadual",
+    "title": "Folha e UOL sabatinam Eduardo Riedel (PSDB), candidato em MS; veja como foi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9679.296875,
+      "left": 974.984375,
+      "height": 219.546875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/liz-truss-renuncia-ao-cargo-de-primeira-ministra-do-reino-unido.shtml",
+    "hat": "crise britânica",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido após 44 dias"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9424.765625,
+      "left": 974.984375,
+      "height": 322.125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pesquisa-serve-para-nos-alertar-diz-lula-sobre-datafolha.shtml",
+    "hat": "sucessão presidencial",
+    "title": "'Pesquisa serve para nos alertar', afirma Lula sobre Datafolha",
+    "summary": "Candidato diz que Bolsonaro cresce lentamente apesar de anúncios eleitoreiros"
+  }
+]

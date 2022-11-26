@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12571.609375,
+      "left": 365,
+      "height": 300.75,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-se-entrega-a-pf-depois-de-atirar-contra-policiais.htm",
+    "title": "Roberto Jefferson se entrega à Polícia Federal depois de atirar contra policiais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12221.859375,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/opiniao/coluna/2022/10/23/roberto-jefferson-e-jair-bolsonaro.htm",
+    "title": "Kakay: Episódio com Roberto Jefferson é resultado da política de ódio de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11700.0625,
+      "left": 365,
+      "height": 322.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/videos/2022/10/23/roberto-jefferson-atira-contra-pf-apos-ordem-de-prisao-por-moraes.htm",
+    "title": "Jefferson gravou vídeos em casa: 'Vai piorar muito, mas eu não me entrego'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12221.859375,
+      "left": 619.15625,
+      "height": 413.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-disse-em-2020-que-bolsonaro-era-seu-amigo-pessoal-veja.htm",
+    "title": "Roberto Jefferson disse em 2020 que Bolsonaro era seu 'amigo pessoal'; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11784.8125,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/23/cinegrafista-da-tv-globo-e-agredido-por-apoiadores-de-roberto-jefferson.htm",
+    "title": "Cinegrafista da TV Globo é agredido por apoiadores de Roberto Jefferson"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9481.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-e-lula-privilegiam-troca-de-acusacoes-em-debate-na-globo-e-deixam-propostas-de-lado/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Bolsonaro e Lula privilegiam troca de acusações em debate na Globo e deixam propostas de lado",
+    "summary": "Confronto direto entre o presidente e o petista antes da votação em segundo turno reforça temática agressiva da campanha; propostas para um futuro governo foram pontuais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9481.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/quem-tiver-mais-voto-leva-diz-bolsonaro-sobre-resultado-das-eleicoes/",
+    "hat": "CONFRONTO NA RETA FINAL",
+    "title": "'Quem tiver mais voto leva', diz Bolsonaro sobre respeitar o resultado das eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8943.203125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/debate-globo-lula-bolsonaro-visao-mercado/",
+    "hat": "E-investidor",
+    "title": "Como o mercado avalia o último debate entre Lula e Bolsonaro antes do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8525.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=GIWUJ5UGNRCZ5BBWJLDBZKEJOU",
+    "hat": "EMBATE DO 2º TURNO",
+    "title": "'Não digo coisas da minha cabeça', diz Bonner após ser citado por Bolsonaro; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8525.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/?liveId=QEKCUZUTGNGXLOOE3AYQXLBX6E",
+    "hat": "ESTADÃO VERIFICA NO DEBATE",
+    "title": "É enganoso que Guedes tenha dito que aposentadoria não terá reajuste pela inflação"
+  }
+]

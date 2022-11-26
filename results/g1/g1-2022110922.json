@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6196,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/e-plenamente-possivel-recuperar-a-normalidade-da-convivencia-entre-instituicoes-diz-lula-apos-reunioes-com-autoridades-em-brasilia.ghtml",
+    "hat": "Diálogo com autoridades",
+    "title": "Após maratona de reuniões, Lula diz que busca recuperar 'harmonia entre os poderes'",
+    "summary": "Presidente eleito afirma que quer dialogar com Centrão e que não vai interferir nas disputas pelo comando da Câmara e do Senado."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6196,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/09/velorio-do-corpo-de-gal-costa-sera-na-assembleia-legislativa-de-sp.ghtml",
+    "title": "Adeus a Gal Costa: velório será aberto ao público em SP",
+    "summary": "Cantora símbolo da Tropicália morreu aos 77 anos, deixando imenso legado cultural e social."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5454.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/lula-se-encontra-com-rosa-weber-presidente-do-supremo-em-brasilia.ghtml",
+    "title": "Após visitar Lira e Pacheco, Lula se reúne com ministros do STF",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5176.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2022/11/09/voz-de-gal-costa-fica-eternizada-como-o-cristal-luminoso-que-abrilhantou-e-atravessou-toda-a-musica-brasileira.ghtml",
+    "title": "ANÁLISE: voz tamanha de Gal atravessa a música brasileira",
+    "category": "Blog do Mauro Ferreira"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4898.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/09/caetano-lamenta-a-morte-de-gal-a-maior-cantora-do-brasil.ghtml",
+    "title": "Caetano e Gil choram juntos na TV após morte de Gal: 'A maior do Brasil'",
+    "category": "Rio de Janeiro"
+  }
+]

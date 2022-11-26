@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12461.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/bannon-e-condenado-a-4-meses-de-prisao-por-desacato-ao-congresso-dos-eua.shtml",
+    "title": "Steve Bannon pega 4 meses de prisão por desacato ao Congresso dos EUA",
+    "summary": "Ex-estrategista de Trump foi condenado por desrespeitar intimações de comitê"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12189.015625,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/21/fim-da-aposentadoria-diz-representante-de-inativos-sobre-plano-de-guedes.htm",
+    "title": "Plano de Guedes é o 'fim da aposentadoria', diz representante de inativos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11798.34375,
+      "left": 365,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/plano-de-militares-para-fiscalizacao-de-urnas-preve-8-etapas-e-fim-so-em-janeiro.shtml",
+    "title": "Plano de militares para fiscalização de urnas prevê 8 etapas e fim só em janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12189.015625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/10/21/sem-primeira-dama-atuante-michelle-ignora-legado-de-outras-mulheres.htm",
+    "title": "Michelle ignora legado de outras mulheres ao dizer que país não teve 'primeira-dama atuante'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11867.90625,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/21/guerra-politica-na-prateleira-e-permitido-fazer-promocao-a-r-13-e-r-22.htm",
+    "title": "Disputa política na prateleira: é proibido fazer promoção a R$ 13 ou R$ 22?"
+  }
+]

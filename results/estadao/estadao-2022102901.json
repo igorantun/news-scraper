@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9325.3125,
+      "left": 329,
+      "height": 865.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Ao vivo: Lula e Bolsonaro participam na Globo do último debate antes do 2º turno; acompanhe",
+    "summary": "Embate entre petista e presidente se concentra em aumento do salário mínimo e corrupção"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9325.3125,
+      "left": 1190.328125,
+      "height": 298,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/centrao-descarta-tese-de-bolsonaro-de-adiar-as-eleicoes-e-faria-abandona-estrategia-contra-radios/",
+    "hat": "RETA FINAL DA CAMPANHA",
+    "title": "Centrão descarta tese bolsonarista de adiar as eleições e Fábio Faria se arrepende da estratégia das rádios"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8997.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ato-em-apoio-a-lula-de-pais-do-colegio-santa-cruz-distribui-rosas-mas-polemica-continua/",
+    "hat": "Disputa eleitoral",
+    "title": "Ato em apoio a Lula de pais do Colégio Santa Cruz distribui rosas, mas polêmica continua"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8397.65625,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/lira-teme-desagradar-bolsonaro-com-presenca-no-tse-pacheco-deve-ir/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "Lira teme desagradar Bolsonaro com presença no TSE para apuração; Pacheco deve ir"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8397.65625,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://paladar.estadao.com.br/noticias/comida,qual-o-melhor-pao-frances-de-sp-confira-teste-as-cegas,70004156465",
+    "hat": "PALADAR TESTOU",
+    "title": "Qual o melhor pãozinho francês de SP? Confira teste às cegas com 25 padarias"
+  }
+]

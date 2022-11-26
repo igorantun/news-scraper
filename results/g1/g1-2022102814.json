@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4471,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/lula-e-bolsonaro-concentram-anuncios-politicos-no-google-em-sp-mg-e-rj.ghtml",
+    "hat": "Disputa do 2º turno",
+    "title": "Lula e Bolsonaro concentram anúncios no Google em SP, MG e RJ",
+    "summary": "Presidente quintuplicou investimento nesse tipo de propaganda em relação ao 1º turno. Já o petista reduziu em 67%."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4471,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/temperatura-aumenta-nos-grupos-de-familia-no-whatsapp-na-reta-final-da-eleicao-leia-historias.ghtml",
+    "hat": "Cutucadas, provocações e brigas",
+    "title": "Temperatura esquenta nos grupos de família no WhatsApp; leia relatos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4134.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ciencia/noticia/2022/10/28/sonda-da-nasa-registra-impacto-impressionante-de-meteorito-em-marte.ghtml",
+    "hat": "Planeta vermelho",
+    "title": "Nasa registra impacto de rocha espacial em Marte"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3451.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/28/marido-da-presidente-da-camara-dos-eua-pelosi-e-violentamente-agredido.ghtml",
+    "hat": "Ataque na Califórnia",
+    "title": "Marido da presidente da Câmara dos EUA é agredido após ter casa invadida",
+    "summary": "Nancy Pelosi não estava na residência; agressor foi detido.",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3173.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/28/promotoria-retira-acusacoes-contra-neymar-no-caso-de-sua-transferencia-para-o-barca.ghtml",
+    "hat": "Julgamento na Espanha",
+    "title": "Promotoria espanhola retira todas as acusações contra Neymar",
+    "summary": "Jogador era acusado de corrupção e fraude no caso de sua transferência ao Barcelona.",
+    "category": "Mundo"
+  }
+]

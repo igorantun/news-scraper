@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12412.21875,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/fabio-faria-diz-que-tentou-conciliacao-com-tse-e-se-arrepende-profundamente-de-entrevista-das-radios.shtml",
+    "title": "Fábio Faria diz que se arrepende de entrevista sobre inserção em rádios",
+    "summary": "Ministro afirma que quis se conciliar com TSE e protestou contra ideia de adiar eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12081.6875,
+      "left": 365,
+      "height": 585.734375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fake-news-sobre-fraude-eleitoral-ressurgem-e-ultrapassam-nivel-do-1o-turno.shtml",
+    "title": "Fake news sobre fraude eleitoral ressurgem e superam 1º turno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11471.953125,
+      "left": 365,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/ex-vereador-zezinho-do-pt-e-morto-a-tiros-em-jandira-sp.shtml",
+    "title": "Ex-vereador Zezinho do PT é morto a tiros em Jandira (SP)"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12081.6875,
+      "left": 619.15625,
+      "height": 558.546875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-e-bolsonaro-fazem-acordo-e-desistem-de-direitos-de-respostas-no-tse.htm",
+    "title": "Lula e Bolsonaro fazem acordo e desistem de direitos de respostas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11499.140625,
+      "left": 619.15625,
+      "height": 298.484375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/2022/10/28/entenda-a-polemica-que-levou-ao-fim-do-casamento-entre-brady-e-gisele.htm",
+    "title": "Como o casamento entre Brady e Gisele chegou ao fim?"
+  }
+]

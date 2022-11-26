@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9834.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/conselho-curador-aprova-uso-do-fgts-futuro-como-garantia-no-financiamento-de-imoveis.shtml",
+    "hat": "Mercado imobiliário",
+    "title": "Uso do FGTS futuro no financiamento de imóveis é aprovado na reta final da eleição",
+    "summary": "Medida, que vale para famílias com renda de até R$ 2.400, é mais uma notícia para impulsionar popularidade de Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.359375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9570.34375,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/barroso-libera-prefeitos-para-oferecerem-transporte-de-graca-a-eleitores.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Barroso libera prefeitos para oferecer transporte de graça a eleitores no segundo turno",
+    "summary": "Decisão do ministro do STF pode diminuir abstenção entre os mais pobres"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9312.03125,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-grava-pedido-de-desculpas-por-vincular-meninas-venezuelanas-a-prostituicao-veja-video.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro grava pedido de desculpas por vincular meninas venezuelanas à prostituição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9111,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moraes-manda-defesa-entregar-relatorio-de-fiscalizacao-das-urnas-em-48-horas.shtml",
+    "hat": "justiça eleitoral",
+    "title": "Moraes dá 48 horas para Defesa entregar relatório de fiscalização paralela das urnas"
+  }
+]

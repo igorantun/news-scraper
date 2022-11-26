@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12452.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/nordeste-com-27-dos-eleitores-tem-metade-dos-onibus-abordados-pela-prf.htm",
+    "title": "Nordeste, com 27% dos eleitores, tem metade dos ônibus parados pela PRF",
+    "summary": "Abordagens no transporte público violaram decisão do ministro Alexandre de Moraes"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11990.078125,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2022/10/30/acao-da-prf-nas-estradas-e-golpe-de-bolsonaro-desferido-por-outros-meios.htm",
+    "title": "Reinaldo: Ação da PRF nas estradas é golpe de Bolsonaro, desferido por outros meios"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11468.28125,
+      "left": 365,
+      "height": 519.171875,
+      "width": 224.15625
+    },
+    "link": "https://piaui.folha.uol.com.br/eleicoes-2022/agente-da-prf-comemora-no-whatsapp-bloqueio-eleitores-de-lula/",
+    "title": "Agente da PRF comemora no WhatsApp bloqueio a eleitores de Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11990.078125,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/fizeram-blitz-no-centro-para-constranger-a-populacao-diz-prefeito-baiano.htm",
+    "title": "'Fizeram blitz no centro para constranger a população', diz prefeito baiano"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11533.84375,
+      "left": 619.15625,
+      "height": 121,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/10/30/petrobras-nao-comunicou-que-vai-segurar-preco-do-combustivel-ate-eleicao.htm",
+    "title": "Petrobras não comunicou que vai segurar preço do combustível até eleição"
+  }
+]

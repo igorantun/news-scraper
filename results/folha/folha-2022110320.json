@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9495.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/equipe-de-lula-vai-propor-de-pec-da-transicao-para-autorizar-gastos-extras-em-2023.shtml",
+    "hat": "transição de governo",
+    "title": "Equipe de Lula vai propor 'PEC da transição' para autorizar gastos extras em 2023",
+    "summary": "Valor da fatura ainda não está definido, mas prioridade é garantir continuidade de benefícios sociais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.265625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9177.4375,
+      "left": 975,
+      "height": 223.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/kassab-quer-cargos-apoio-federal-e-reconducao-de-pacheco-para-apoiar-lula.shtml",
+    "hat": "Política",
+    "title": "Kassab quer cargos, parceria federal e recondução de Pacheco para apoiar Lula",
+    "summary": "Para líder do PSD sigla precisa se 'sentir governando' para entrar na base"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8919.125,
+      "left": 975,
+      "height": 242.171875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/golpistas-desmobilizam-em-sp-e-restantes-temem-infiltrados-e-ate-agua-envenenada.shtml",
+    "hat": "atos golpistas",
+    "title": "Golpistas desmobilizam em SP, e restantes temem infiltrados e até água envenenada"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8641.96875,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bloqueios-golpistas-permanecem-em-11-estados-acompanhe-situacao-das-estradas.shtml",
+    "hat": "situação das estradas",
+    "title": "Bloqueios golpistas despencam em SC e MT e caem para 5 estados; acompanhe"
+  }
+]

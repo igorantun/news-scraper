@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12575.609375,
+      "left": 365,
+      "height": 414.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/rj-justica-ordena-que-policia-libere-rodovia-bloqueada-por-caminhoneiros.htm",
+    "title": "Justiça ordena que polícia libere rodovias bloqueadas em quatro estados do país",
+    "summary": "Após derrota de Bolsonaro, motoristas fecharam rodovias em pelo menos 16 estados"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12026.296875,
+      "left": 365,
+      "height": 413.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/bolsonaro-completa-24-horas-de-silencio-apos-derrota-para-lula-na-eleicao.htm",
+    "title": "Bolsonaro completa 24 horas de silêncio após derrota para Lula na eleição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11589.25,
+      "left": 365,
+      "height": 147.375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/31/aliado-de-lula-ja-conversou-com-casa-civil-para-tratar-da-transicao.htm",
+    "title": "Aliado de Lula diz que já falou com Ciro Nogueira para tratar da transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12026.296875,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/biden-lula.htm",
+    "title": "Biden liga e conversa com Lula sobre democracia pós-Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11635.625,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/31/cupula-do-clima-convida-lula-e-consolida-isolamento-de-bolsonaro.htm",
+    "title": "Cúpula do Clima convida Lula e consolida isolamento de Jair Bolsonaro"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7495.3125,
+      "left": 329,
+      "height": 835.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/feriado-comeca-com-mais-de-160-bloqueios-em-rodovias-de-17-estados-do-pais-sc-concentra-maioria/",
+    "hat": "PROTESTOS CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Feriado começa com 167 bloqueios em rodovias federais, diz PRF",
+    "summary": "SC segue sendo o Estado com mais interdições;  563 vias já foram liberadas, segundo a corporação"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7495.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/reforma-tributaria-unifica-imposto-governo-lula/",
+    "hat": "Economia",
+    "title": "Reforma que unifica impostos de bens e serviços sai na frente em novo governo Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7017.203125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-nao-quer-passar-a-faixa-presidencial-para-lula-e-tarefa-pode-ficar-com-mourao/",
+    "hat": "Vera Rosa",
+    "title": "Bolsonaro não quer passar a faixa para Lula e tarefa pode ficar com Mourão"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6569.09375,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/com-mais-bolsonaristas-no-senado-pt-ve-risco-na-saida-de-aliados-para-ministerios/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "Com mais bolsonaristas no Senado, PT vê risco na saída de aliados para ministérios",
+    "summary": "Aliados de Lula colocam na balança os benefícios de convocar senadores eleitos para assumir pastas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6569.09375,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/tarcisio-deve-definir-posicao-sobre-cameras-em-fardas-e-venda-da-sabesp-depois-da-transicao/",
+    "hat": "São Paulo",
+    "title": "Tarcisio não quer discutir câmeras de policiais nem Sabesp na transição",
+    "summary": "Governador eleito deseja avaliar assuntos com especialistas antes de tomar uma decisão"
+  }
+]

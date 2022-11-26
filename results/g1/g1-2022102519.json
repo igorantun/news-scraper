@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6369,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/stj-julga-pedido-da-pgr-para-suspender-resolucao-do-tse-sobre-fake-news.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "Maioria no STF vota por manter resolução do TSE sobre fake news",
+    "summary": "Tribunal julga pedido de Augusto Aras, procurador-geral, para suspender medida adotada pela Justiça Eleitoral."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6369,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/10/25/ana-castela-comenta-sobre-machismo-povo-acha-que-pode-pegar-onde-quiser-por-eu-ser-mulher.ghtml",
+    "hat": "Entrevista ao g1",
+    "title": "Ana Castela sobre machismo: 'Povo acha que pode pegar onde quiser'"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6032.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/25/homem-conhecido-como-o-mais-sujo-do-mundo-morre-no-ira-meses-depois-de-tomar-banho.ghtml",
+    "hat": "Vilarejo no Irã",
+    "title": "Homem 'mais sujo do mundo' morre meses após tomar banho"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5627.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/25/usuarios-reclamam-de-instabilidade-na-plataforma-govbr-que-da-acesso-a-servicos-do-governo.ghtml",
+    "hat": "Economia",
+    "title": "gov.br: plataforma de serviços do governo federal fica fora do ar",
+    "summary": "Empresa responsável diz que site passa por ajustes técnicos. Usuários se queixam da instabilidade.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5349.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pa/para/noticia/2022/10/25/crm-vai-investigar-medico-que-aparece-pedindo-voto-a-bolsonaro-a-mae-apos-parto-em-belem-video.ghtml",
+    "hat": "Pará",
+    "title": "CRM investigará médico bolsonarista que expôs bebê e mãe no parto",
+    "summary": "Vídeo nas redes mostra profissional pressionando mulher, ainda sedada, a declarar voto.",
+    "category": "Pará"
+  }
+]

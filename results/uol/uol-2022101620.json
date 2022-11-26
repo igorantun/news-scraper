@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12375.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/china-nao-descarta-uso-da-forca-para-reunificar-taiwan-diz-xi-no-congresso-do-pc.shtml",
+    "title": "China diz ter controle de Hong Kong e não descarta usar força em Taiwan",
+    "summary": "Rumo ao 3º mandato, Xi Jinping falou na abertura do 20º Congresso do PC Chinês"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12189.015625,
+      "left": 365,
+      "height": 585.734375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/video-projeto-de-cabelereiros-atendia-venezuelanas-quando-bolsonaro-chegou.htm",
+    "title": "Projeto social atendia venezuelanas quando Bolsonaro chegou; veja"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11579.28125,
+      "left": 365,
+      "height": 296.109375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/bbc/2022/10/16/ratos-ossos-e-lama-os-alimentos-do-desespero-a-que-famintos-recorrem-para-sobreviver.htm",
+    "title": "Ratos, ossos e lama: os 'alimentos do desespero' a que famintos recorrem para sobreviver"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12189.015625,
+      "left": 619.15625,
+      "height": 350.671875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-terao-primeiro-embate-na-tv-sem-coadjuvantes.shtml",
+    "title": "Lula e Bolsonaro fazem hoje 1º debate na TV sem coadjuvantes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12189.015625,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/ooops/2022/10/16/exclusivo-hackers-jogam-material-sigiloso-da-record-na-rede.htm",
+    "title": "Feltrin: Hackers jogam material e documentos sigilosos da Record na rede"
+  }
+]

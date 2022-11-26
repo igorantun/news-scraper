@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9912.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/radios-dizem-ter-provas-para-contestar-auditoria-usada-por-bolsonaro-contra-tse.shtml",
+    "hat": "Eleições 2022",
+    "title": "Rádios dizem ter provas para contestar levantamento usado por Bolsonaro contra TSE",
+    "summary": "Empresas dizem que cumpriram a lei e apontam erros em relatório encomendado pela campanha do presidente"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.90625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9911.109375,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/simule-a-eleicao-nos-estados-e-veja-quem-seria-o-presidente-eleito.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simule o pleito nos estados e veja quem poderia ser o presidente eleito"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9594.4375,
+      "left": 974.984375,
+      "height": 277.40625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/bc-mantem-selic-em-1375-as-vesperas-do-segundo-turno-das-eleicoes.shtml",
+    "hat": "Juros",
+    "title": "Banco Central mantém Selic em 13,75% às vésperas do segundo turno das eleições",
+    "summary": "Ciclo de alta de juros foi interrompido no encontro anterior, em setembro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9282.046875,
+      "left": 974.984375,
+      "height": 255.984375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/campanha-de-bolsonaro-avalia-que-propostas-da-economia-sao-o-golpe-mais-duro-para-a-reeleicao.shtml",
+    "hat": "Corrida presidencial",
+    "title": "Campanha de Bolsonaro avalia que propostas da Economia são o golpe mais duro à reeleição",
+    "summary": "Aliados buscam rebater exploração de petistas sobre planos de Guedes para desindexar salário mínimo"
+  }
+]

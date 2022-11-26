@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8881.109375,
+      "left": 315,
+      "height": 329.71875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/esporte/2022/11/neymar-sera-o-camisa-10-da-selecao-na-copa-daniel-alves-vai-vestir-a-13.shtml",
+    "hat": "Seleção Brasileira",
+    "title": "Neymar será o camisa 10 da seleção na Copa; Daniel Alves vai vestir a 13"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.78125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://youtu.be/wie0STFrqQE",
+    "hat": "Afeganistão",
+    "title": "Sem escolas desde a volta do Talibã, afegãs trabalham em campos de açafrão",
+    "summary": "Desde que o grupo extremista retomou o poder, a educação não é um direito garantido para mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8879.109375,
+      "left": 1305,
+      "height": 295,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/11/casagrande-e-jornalistas-comentam-escalacao-de-tite-para-copa-na-tv-folha.shtml",
+    "hat": "TV Folha",
+    "title": "Casagrande lamenta ausência de Gabigol na seleção; veja como foi live com jornalistas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8516.40625,
+      "left": 975,
+      "height": 189.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/pastores-resistem-a-aderir-a-lula-e-acenos-sao-alvo-de-patrulha.shtml",
+    "hat": "Eleições 2022",
+    "title": "Pastores resistem a aderir a Lula, e acenos são alvo de patrulha",
+    "summary": "Fisiologismo de outrora é enfraquecido por radicalização pós-Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8291.96875,
+      "left": 975,
+      "height": 138.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/fantasma-do-tuite-assombra-escolha-de-lula-para-o-exercito.shtml",
+    "hat": "transição de governo",
+    "title": "Fantasma do tuíte assombra escolha de Lula para o Exército"
+  }
+]

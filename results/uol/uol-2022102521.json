@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12515.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/equipe-de-tarcisio-mandou-cinegrafista-apagar-video-de-tiroteio-em-paraisopolis-ouca-audio.shtml",
+    "title": "Equipe de Tarcísio mandou cinegrafista apagar vídeo de tiroteio",
+    "summary": "Emissora do profissional, Jovem Pan diz que exibiu todas as imagens de Paraisópolis"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12090.3125,
+      "left": 365,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/25/jefferson-fala-em-pedir-desculpas-a-prostitutas-apos-ofender-carmen.htm",
+    "title": "Jefferson volta a ofender Cármen Lúcia e diz que Moraes integra milícia judicial"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11718.828125,
+      "left": 365,
+      "height": 121,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-publica/2022/10/25/emendas-secretas-de-lira-aumentam-consultas-em-cidade-comandada-por-seu-pai.htm",
+    "title": "Emendas secretas de Lira aumentam consultas em cidade comandada por seu pai"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11573.828125,
+      "left": 365,
+      "height": 258.3125,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-concede-direito-de-resposta-a-bolsonaro-na-tv-e-a-lula-no-twitter-de-nikolas-ferreira.shtml",
+    "title": "TSE concede direito de resposta a Bolsonaro na TV e a Lula no Twitter de Nikolas Ferreira"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12090.3125,
+      "left": 619.15625,
+      "height": 413.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/bolsonaro-novas-criticas-urnas-eletronicas.htm",
+    "title": "Sem provar, Bolsonaro afirma que Forças Armadas não garantem 'credibilidade' das urnas"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9537.203125,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/caminhoneiros-bolsonaristas-bloqueiam-estradas-em-ao-menos-11-estados.shtml",
+    "hat": "manifestações pós-eleições",
+    "title": "Bolsonaristas fazem cerca de 240 bloqueios em estradas de 20 estados",
+    "summary": "Atos pelo país começaram depois da vitória de Lula no pleito para a Presidência; Polícia Rodoviária Federal não intervém"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -865.921875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9164.625,
+      "left": 975,
+      "height": 331.484375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ciro-nogueira-e-mourao-quebram-silencio-do-governo-e-conversam-com-equipe-de-lula-e-alckmin.shtml",
+    "hat": "Troca no Planalto",
+    "title": "Ciro Nogueira e Mourão quebram silêncio do governo e falam com equipe de Lula e Alckmin",
+    "summary": "Bolsonaro ainda não se manifestou sobre derrota para petista na eleição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8798.15625,
+      "left": 975,
+      "height": 242.171875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tcu-montara-comite-para-garantir-transicao-do-governo-bolsonaro-a-lula.shtml",
+    "hat": "novo governo",
+    "title": "TCU montará comitê para garantir transição do governo Bolsonaro a Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9116.640625,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/tv-folha-discute-resultados-da-eleicao-ao-vivo-durante-a-semana.shtml",
+    "hat": "Colunista da Folha",
+    "title": "Silêncio de Bolsonaro dá espaço para mobilizações radicais, diz Mônica Bergamo"
+  }
+]

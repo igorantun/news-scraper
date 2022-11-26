@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12662.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-poder-de-policia-remover-fake-news.htm",
+    "title": "TSE amplia seu poder de polícia para remover fake news nas eleições",
+    "summary": "Medida permite retirada de conteúdos sem precisar ouvir uma das partes ou o MP"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12210.125,
+      "left": 365,
+      "height": 393.859375,
+      "width": 224.15625
+    },
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/20/bolsonaro-rodrigo-garcia-sp-votos-indecisos.htm",
+    "title": "Com Rodrigo e Zema em SP, Bolsonaro pede a prefeitos que convençam indecisos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11792.265625,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/datafolha-e-alerta-mas-e-impossivel-bolsonaro-tirar-a-vantagem-diz-lula.htm",
+    "title": "Datafolha é 'alerta', mas é impossível Bolsonaro tirar a vantagem em uma semana, diz Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12210.125,
+      "left": 619.15625,
+      "height": 384.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-decisao-jovem-pan.htm",
+    "title": "O que o TSE decidiu sobre a Jovem Pan"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11801.890625,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/20/andre-valadao-admite-que-nao-recebeu-intimacao-do-tse-como-tinha-dito.htm",
+    "title": "André Valadão admite que não recebeu intimação do TSE antes de gravar vídeo"
+  }
+]

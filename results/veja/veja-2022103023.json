@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5810.890625,
+      "left": 324,
+      "height": 284,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/apuracao-segundo-turno-eleicoes-2022/",
+    "hat": "AO VIVO",
+    "title": "Jornalistas de VEJA comentam a vitória de Lula no segundo turno; acompanhe",
+    "summary": "VEJA faz live especial sobre os resultados da corrida presidencial e a definição de governadores em doze estados"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1179.765625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -608.640625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5502.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/por-que-o-eleitorado-paulista-preferiu-o-forasteiro-tarcisio-de-freitas/",
+    "hat": "Política",
+    "title": "Tarcisio derrota Haddad na disputa pelo governo de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5502.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/vitoria-de-tarcisio-em-sp-foi-aposta-certeira-de-gilberto-kassab/",
+    "hat": "Política",
+    "title": "Vitória de Tarcísio em SP foi aposta certeira de Gilberto Kassab"
+  }
+]

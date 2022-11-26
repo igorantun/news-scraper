@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10296.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/apos-chamar-lira-de-imperador-lula-se-reune-com-presidente-da-camara-para-negociar-novo-governo/",
+    "hat": "LEGISLATIVO",
+    "title": "Após chamar Lira de 'imperador', Lula se reúne com presidente da Câmara para negociar novo governo",
+    "summary": "Enquanto petista negocia PEC da Transição, parlamentar tenta apoio para reeleição na presidência da Casa; encontro está marcado para terça-feira"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10296.3125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-deve-manter-programas-da-defesa-e-enfrentar-esqueletos-no-armario-da-pasta/",
+    "hat": "Transição",
+    "title": "Marcelo Godoy: Lula deve manter programas da Defesa e enfrentar 'esqueletos no armário' da Pasta",
+    "summary": "Disposição de ficar longe de temas polêmicas não deve alcançar a discussão sobre gastos das Forças Armadas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9904.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/e-um-absurdo-nao-defender-a-tributacao-de-dividendos-diz-fundador-da-petz/",
+    "hat": "Negócios",
+    "title": "'Pago menos imposto que um caixa da minha empresa. É uma vergonha', diz CEO da Petz",
+    "summary": "Sergio Zimerman afirma que reforma tributária é a melhor forma de reduzir a desigualdade social"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9388.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/morre-guilherme-de-padua-assassino-da-atriz-daniella-perez-aos-53-anos/",
+    "hat": "CONDENADO POR ASSASSINATO",
+    "title": "Guilherme de Pádua, assassino da atriz Daniella Perez, morre aos 53 anos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9388.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/elon-musk-promete-verificar-casos-de-apoiadores-de-bolsonaro-que-se-sentem-censurados-no-twitter/",
+    "hat": "Rede social",
+    "title": "Elon Musk: 'Vou olhar isso', diz novo dono do Twitter sobre suposta censura a bolsonaristas"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4385,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/10/16/a-cada-2-dias-1-crianca-com-menos-de-5-anos-morre-de-covid-no-brasil-grupo-esta-sem-vacina-e-governo-nao-diz-quando-tera-doses-da-pfizer.ghtml",
+    "hat": "Campanha de vacinação",
+    "title": "A cada 2 dias, 1 criança com menos de 5 anos morre de Covid; vacina não foi liberada pelo governo",
+    "summary": "Anvisa autorizou em setembro a vacinação com a Pfizer para crianças entre 6 meses e 4 anos."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4385,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2022/10/16/fotos-mostram-cataratas-do-iguacu-apos-segunda-maior-vazao-de-agua-desde-1997-veja-galeria.ghtml",
+    "hat": "A força das águas",
+    "title": "FOTOS: Cataratas do Iguaçu após 2ª maior vazão desde 1997"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3643.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/16/xi-jinping-diz-que-a-china-ja-conquistou-controle-total-de-hong-kong-e-que-esta-determinada-a-fazer-isso-em-taiwan.ghtml",
+    "hat": "Ásia",
+    "title": "Xi Jinping diz que a China tem 'controle total' de Hong Kong e fará isso em Taiwan",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3365.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/15/joao-amoedo-declara-voto-em-lula-no-2o-turno-da-eleicao.ghtml",
+    "hat": "Apoio no 2º turno",
+    "title": "'Exerci um direito': Amoêdo rebate críticas por declarar voto em Lula",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3087.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/16/quem-precisa-atualizar-os-dados-do-cadastro-unico.ghtml",
+    "hat": "Economia",
+    "title": "Quem precisa atualizar os dados do Cadastro Único?",
+    "summary": "Alterações são necessárias para evitar suspensão ou cancelamento do Auxílio Brasil.",
+    "category": "Economia"
+  }
+]

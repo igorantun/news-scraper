@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8045.3125,
+      "left": 329,
+      "height": 218,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br//politica/moraes-aponta-risco-a-seguranca-nacional-e-autoriza-pms-a-cessar-bloqueio-de-estradas/",
+    "hat": "estradas bloqueadas",
+    "title": "Moraes aponta 'risco à segurança nacional' e reforça uso de PMs para cessar bloqueios de estradas",
+    "summary": "Ministro do STF chamou as paralisações realizadas em todo o País de 'movimento ilegal' e determinou a adoção de todas as medidas necessárias e 'suficientes' para dar fim a essas manifestações"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7667.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/caminhoneiros-bloqueiam-rodovias-em-protesto-a-vitoria-de-lula/",
+    "hat": "Protestos contra resultado da eleição",
+    "title": "Caminhoneiros fazem bloqueios em ao menos 22 Estados e no DF; em SP, grupo fecha trechos da Marginal Tietê",
+    "summary": "Segundo PRF, há 183 pontos de interdições e 87 bloqueios; 192 trechos já foram liberados em todo o País. Manifestações são organizadas via WhatsApp contra vitória de Lula"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7667.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bloqueios-estradas-carnes-leites-empresas/",
+    "hat": "EFEITOS DAS PARALISAÇÕES",
+    "title": "Manifestações podem comprometer entrega de gasolina, carnes e serviços de saúde",
+    "summary": "Ritmo de abates de animais nos frigoríficos pode começar a ser reduzido, com a dificuldade da chegada de cargas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7233.203125,
+      "left": 1190.328125,
+      "height": 506.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-tem-povo-na-rua-e-reconhecimento-institucional-e-internacional-falta-bolsonaro/",
+    "hat": "Eliane Cantanhêde",
+    "title": "Silêncio se torna mais um ato mal-educado de Bolsonaro, que, além de tudo, é mau perdedor"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6665.09375,
+      "left": 759.65625,
+      "height": 410.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/pedro-fernando-nery-revisao-reforma-trabalhista-governo-lula-proposta/",
+    "hat": "Pedro Fernando Nery",
+    "title": "O que de bom pode sair da revisão da reforma trabalhista proposta pelo próximo governo?"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10661.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/esportes/velocidade/grid-de-largada-gp-sao-paulo-f1-interlagos-corrida-sprint-george-russell-lewis-hamilton-mercedes/",
+    "hat": "Grande Prêmio",
+    "title": "George Russell ganha corrida sprint do GP de São Paulo de F-1, e Mercedes domina 1ª fila; veja o grid de largada",
+    "summary": "Lewis Hamilton parte na segunda posição com punição a Carlos Sainz Jr., da Ferrari; prova acontece neste domingo, às 15h, em Interlagos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10661.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/confusao-na-inauguracao-shein-sp/",
+    "hat": "VAREJISTA CHINESA",
+    "title": "Fila, tumulto e pancadaria marcam inauguração da Shein em SP; veja vídeos",
+    "summary": "Imagens compartilhadas nas redes sociais mostram momento de confusão generalizada em shopping"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10227.203125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-realiza-exames-no-hospital-sirio-libanes-antes-de-viagem-para-a-cop-27-no-egito/",
+    "hat": "POLÍTICA",
+    "title": "Exames mostram que Lula está com inflamação na garganta por esforço vocal e lesão na laringe",
+    "summary": "Presidente eleito passou por check-up em São Paulo antes de sua viagem à COP-27, no Egito"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9753.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/ele-so-chegava-as-vias-de-fato-se-me-machucasse-diz-flordelis-sobre-sexo-com-pastor-assassinado/",
+    "hat": "Julgamento",
+    "title": "Flordelis sobre pastor assassinado: 'Meu marido só sentia prazer se me machucasse'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9753.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sao-paulo/nuvens-de-areia-cobrem-cidades-no-interior-de-sp-e-fenomeno-pode-se-repetir-no-feriado-veja-video/",
+    "hat": "Condições climáticas",
+    "title": "Nuvens de areia cobrem cidades no interior de SP e fenômeno pode se repetir; veja vídeo",
+    "summary": "Rajada de poeira está ligada ao aumento da velocidade do vento na região antes de tempestades fortes"
+  }
+]

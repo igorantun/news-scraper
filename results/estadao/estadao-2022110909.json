@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9784.3125,
+      "left": 329,
+      "height": 316,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-ve-relatorio-da-defesa-como-ultima-cartada-militares-prometem-entregar-documento-hoje/",
+    "hat": "PROCESSO ELEITORAL",
+    "title": "Defesa promete divulgar hoje relatório sobre sistema de votação: veja o que se sabe sobre o documento",
+    "summary": "Forças Armadas devem apresentar ressalvas, como a de que nenhum sistema informatizado está 100% blindado e precisa de aprimoramento; Bolsonaro pode usar o dossiê para judicializar resultado das eleições"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9784.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/pt-quer-reeditar-heranca-maldita-como-vacina-contra-eventuais-frustracoes-em-23/",
+    "hat": "Coluna do Estadão",
+    "title": "PT quer reeditar 'herança maldita' como vacina contra eventuais frustrações em 2023"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9274.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/votacao-caminha-para-o-fim-e-eua-esperam-resultados-de-eleicoes-legislativas/",
+    "hat": "Estados Unidos",
+    "title": "EUA: Republicanos lideram corrida pela Câmara e têm disputa apertada no Senado"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9274.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-pais-precisa-de-um-avancaco-para-recuperar-area-ambiental-diz-capobianco/",
+    "hat": "ENTREVISTA",
+    "title": "O País precisa de um 'avançaço' para recuperar área ambiental, diz Capobianco",
+    "summary": "Cotado para integrar o governo Lula diz que só revogar medidas de Bolsonaro não é suficiente"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8793.203125,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/caso-daniella-perez-o-que-aconteceu-com-a-ex-mulher-de-guilherme-de-padua/",
+    "hat": "Paula Thomaz",
+    "title": "Por onde anda a cúmplice de Guilherme de Pádua na morte de Daniella Perez"
+  }
+]

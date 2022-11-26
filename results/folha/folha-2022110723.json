@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8452.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-mistura-liberais-e-boulos-na-transicao-e-busca-endosso-internacional-para-posse.shtml",
+    "hat": "transição de governo",
+    "title": "Lula mistura liberais e Boulos na transição e busca endosso internacional para posse",
+    "summary": "Presidente eleito define agenda de viagens e discute orçamento de 2023 em reuniões nesta segunda"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -560.828125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://youtu.be/wie0STFrqQE",
+    "hat": "Afeganistão",
+    "title": "Sem escolas desde a volta do Talibã, afegãs trabalham em campos de açafrão",
+    "summary": "Desde que o grupo extremista retomou o poder, a educação não é um direito garantido para mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8188.34375,
+      "left": 975,
+      "height": 189.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/pastores-resistem-a-aderir-a-lula-e-acenos-sao-alvo-de-patrulha.shtml",
+    "hat": "Presidente eleito",
+    "title": "Pastores resistem a aderir a Lula, e acenos são alvo de patrulha",
+    "summary": "Fisiologismo de outrora é enfraquecido por radicalização pós-Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7963.90625,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/gasolina-sobe-pela-quarta-semana-seguida-e-fica-perto-de-r-5-diz-anp.shtml",
+    "hat": "Combustíveis",
+    "title": "Gasolina sobe pela quarta semana seguida e fica perto de R$ 5, diz ANP"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7806.96875,
+      "left": 975,
+      "height": 188.09375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/moraes-do-stf-manda-policiais-informarem-financiadores-de-atos-golpistas-nos-quarteis.shtml",
+    "hat": "nos quartéis",
+    "title": "Moraes manda policiais informarem financiadores de atos antidemocráticos"
+  }
+]

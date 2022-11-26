@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9382.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/debate-band-propostas-lula-bolsonaro-graphogame-auxilio-brasil-ministerio-povos-originarios/",
+    "hat": "Eleições 2022",
+    "title": "Lula e Bolsonaro usam só 5% do debate da Band para apresentar propostas para o País",
+    "summary": "Auxílio Brasil 'vitalício', orçamento participativo e indígena como ministro foram alguns dos compromissos assumidos em encontro marcado por troca de acusações"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9382.3125,
+      "left": 1190.328125,
+      "height": 512.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/presenca-da-policia-teria-motivado-tiroteio-em-ato-de-tarcisio-diz-secretario-de-seguranca-publica/",
+    "hat": "ELEIÇÕES EM SP",
+    "title": "Presença da polícia teria motivado tiroteio em ato de Tarcísio, diz secretário de Segurança",
+    "summary": "Responsável pela pasta diz ser prematura a possibilidade de atentado em Paraisópolis, mas não descarta hipótese"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8840.203125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/zarzur-heranca-policia-herdeiros/",
+    "hat": "Espólio",
+    "title": "Disputa entre os herdeiros de Waldomiro Zarzur vira caso de polícia"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8426.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/vinicius-jr-top-10-bola-de-ouro-lista-completa/",
+    "hat": "PREMIAÇÃO",
+    "title": "Bola de Ouro: Vini Jr. é o décimo brasileiro na história a figurar no Top 10; veja lista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8426.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/experiencia-da-fe-nao-pode-ser-manipulada-para-fins-espurios-reage-vice-presidente-da-cnbb/",
+    "hat": "Política e religião",
+    "title": "'Fé não pode ser manipulada para fins espúrios', reage vice-presidente da CNBB",
+    "summary": "Após passagem de Bolsonaro por Aparecida, dom Jaime Spengler diz que manifestações extremistas preocupam"
+  }
+]

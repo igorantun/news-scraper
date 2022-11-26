@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9322.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/fachin-nega-liminar-de-aras-contra-resolucao-que-amplia-poderes-do-tse-para-barrar-fake-news/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Fachin nega liminar de Aras contra resolução que amplia poderes do TSE para barrar fake news",
+    "summary": "O ministro do STF afirmou que 'não há - nem poderia haver - imposição de censura ou restrição a nenhum meio de comunicação ou a linha editorial da mídia impressa e eletrônica'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9322.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/carmen-lucia-e-alvo-de-ataques-de-roberto-jefferson-marina-silva-faz-boletim-apos-xingamentos/",
+    "hat": "Desacato",
+    "title": "Roberto Jefferson ataca Cármen Lúcia e trata ministra como 'bruxa' e 'prostituta'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8844.203125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=AUAPVBUAERG3VEB3KEHE3CFY6Q",
+    "hat": "CORRIDA ELEITORAL",
+    "title": "Neymar diz apoiar Bolsonaro após ele ficar ao seu lado no 'momento mais difícil'; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8334.09375,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/fila-para-carros-no-brasil-e-de-ate-6-meses-espera-e-maior-para-os-modelos-mais-baratos/",
+    "hat": "Mercado nacional",
+    "title": "Fila para carros no Brasil é de até 6 meses; espera é maior para os modelos mais baratos",
+    "summary": "Apesar de fornecimento de chips já ter melhorado no País, indústria prioriza os veículos mais caros"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8334.09375,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/ex-presidente-da-china-e-escoltado-para-fora-do-congresso-do-partido-comunista/",
+    "hat": "EM PEQUIM",
+    "title": "Vídeo: Ex-presidente da China é escoltado para fora do Congresso do Partido Comunista"
+  }
+]

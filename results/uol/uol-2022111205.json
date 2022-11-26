@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12589.609375,
+      "left": 365,
+      "height": 308.71875,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/equipe-de-lula-quer-pec-com-r-175-bilhoes-fora-do-teto-para-bolsa-familia-por-4-anos.shtml",
+    "title": "Transição quer PEC com R$ 175 bi fora do teto por ao menos 4 anos",
+    "summary": "Valor tira Bolsa Família da regra fiscal, e prazo evita debate anual, diz equipe de Lula"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12231.890625,
+      "left": 365,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/11/fim-do-mito-argentina-e-a-selecao-estrangeira-que-o-brasileiro-mais-gosta.htm",
+    "title": "'Narradores forçam rivalidade': Argentina é 'queridinha' de brasileiros, diz pesquisa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12231.890625,
+      "left": 619.15625,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/thiago-herdy/2022/11/11/caetano-veloso-e-gilberto-gil-participam-do-enterro-de-gal-costa.htm",
+    "title": "Caetano Veloso e Gilberto Gil participam do enterro de Gal Costa em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12231.890625,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/11/mp-denuncia-politico-do-pl-por-abuso-sexual-de-duas-netas.htm",
+    "title": "Ministério Público denuncia ex-diretor do PL de SP por abuso sexual das netas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11910.78125,
+      "left": 873.328125,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/2022/11/11/qualificatorio-sprint-race-gp-de-sao-paulo-f1.htm",
+    "title": "Chuva bagunça tudo, e Magnussen coloca a Haas na pole da corrida sprint em Interlagos"
+  }
+]

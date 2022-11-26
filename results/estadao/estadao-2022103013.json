@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7846.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/",
+    "hat": "DOMINGO DE ELEIÇÃO",
+    "title": "Ao vivo: Lula e Bolsonaro votam",
+    "summary": "Petista compareceu ao seu berço político em São Bernardo do Campo nesta manhã; mais cedo, presidente votou no Rio"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7030.984375,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/minha-sacada-para-o-mundo/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Leandro Karnal: 'Da minha sacada para o mundo, o debate político virou uma demarcação de território'",
+    "summary": "'Os símbolos podem dizer a que grupo eu pertenço. Também proclamam que eu excluo o outro. Houve uma enorme adesão simbólica nas eleições: bandeiras do Brasil ou com a estrela do PT'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7030.984375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/frustracao-forcou-lula-a-apelar-ao-centro-e-propor-governo-alem-do-pt/",
+    "hat": "Candidato petista",
+    "title": "Frustração forçou Lula a apelar ao centro e propor governo 'além do PT'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6612.875,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/conviccao-na-virada-alimentou-cada-minuto-da-campanha-de-bolsonaro/",
+    "hat": "Candidato à reeleição",
+    "title": "Convicção na virada alimentou cada minuto da campanha de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6123.328125,
+      "left": 759.65625,
+      "height": 400.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/seguranca-de-carla-zambelli-e-preso-pela-policia-civil-apos-disparo-de-arma-de-fogo/",
+    "hat": "DEPUTADA BOLSONARISTA",
+    "title": "Segurança de Carla Zambelli é preso pela Polícia Civil após disparo de arma de fogo"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10011.203125,
+      "left": 315,
+      "height": 260.734375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-acorda-chega-ao-planalto-e-mantem-silencio-sobre-derrota-para-lula.shtml",
+    "hat": "eleições",
+    "title": "Bolsonaro acorda, chega ao Planalto e mantém silêncio sobre derrota para Lula",
+    "summary": "Mandatário está há 15 horas sem reconhecer publicamente o resultado do pleito"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -549.8125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9715.484375,
+      "left": 315,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/caminhoneiros-bolsonaristas-bloqueiam-estradas-em-ao-menos-11-estados.shtml",
+    "hat": "reação",
+    "title": "Caminhoneiros bolsonaristas bloqueiam estradas em ao menos 11 estados",
+    "summary": "Situação na BR-163 (MT) é a que tem mais pontos interditados por manifestantes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9715.484375,
+      "left": 644.984375,
+      "height": 194.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/nao-e-hora-de-parar-o-brasil-diz-um-dos-lideres-de-greve-dos-caminhoneiros-de-2018-veja-video.shtml",
+    "hat": "+protestos",
+    "title": "'Não é hora de parar o Brasil', diz um dos líderes de greve dos caminhoneiros de 2018"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9715.484375,
+      "left": 974.96875,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/dolar-tem-forte-alta-e-acoes-do-brasil-caem-no-exterior-apos-eleicao-de-lula.shtml",
+    "hat": "Folhainvest",
+    "title": "Dólar salta e ações da Petrobras têm forte queda após eleição de Lula"
+  }
+]

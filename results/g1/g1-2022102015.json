@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5759,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/20/nova-primeira-ministra-do-reino-unido-renuncia-apos-45-dias-de-governo.ghtml",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido após 45 dias",
+    "summary": "Ela estava sob forte pressão por causa de plano econômico que gerou revolta no mercado e dentro do próprio partido."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5759,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/20/governo-de-liz-truss-durou-menos-que-o-pe-de-alface-do-tabloide-britanico.ghtml",
+    "title": "Governo de Liz Truss durou menos que alface de tabloide britânico"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5422.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/19/correios-de-sp-vao-leiloar-na-segunda-41-mil-itens-de-bijuterias-e-brinquedos-a-celulares-confira-lotes-e-como-participar.ghtml",
+    "hat": "Encomendas esquecidas",
+    "title": "Correios de SP vão leiloar 41 mil itens não entregues"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5017.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/20/recusa-ao-plano-economico-de-liz-truss-e-o-principal-fator-para-a-instabilidade-no-cargo.ghtml",
+    "title": "Plano econômico recusado foi peça-chave para a queda de Truss; entenda",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4739.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/tse-resolucao-combate-fake-news-eleicoes.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "TSE aprova resolução que dá mais agilidade ao combate às fake news",
+    "category": "Eleições 2022"
+  }
+]

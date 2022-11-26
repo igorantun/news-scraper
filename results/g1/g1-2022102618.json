@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6517,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/26/trfs-vao-pagar-r-153-bilhao-em-precatorios-previdenciarios-e-assistenciais-veja-valor-por-estado-e-quem-tem-direito.ghtml",
+    "hat": "Aposentados e pensionistas",
+    "title": "Tribunais vão pagar R$ 1,53 bilhão em precatórios; veja quem tem direito",
+    "summary": "Pagamentos irão para 105 mil beneficiários. Precatórios são dívidas da União sem possibilidade de recursos."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6517,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/10/26/2023-o-ano-dos-feriadoes-veja-quais-serao-e-se-programe.ghtml",
+    "hat": "😎😎😎",
+    "title": "O ano dos 'feriadões': 2023 terá 7 feriados prolongados"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6180.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/26/aluna-que-acusa-professor-diz-que-era-assediada-on-line-e-na-sala.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Aluna diz que foi assediada por professor on-line e na sala de aula"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5775.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/tv-globo-e-afiliadas-promovem-debates-de-2o-turno-entre-candidatos-aos-governos-de-12-estados-nesta-quinta-feira.ghtml",
+    "hat": "Disputas estaduais",
+    "title": "Globo e afiliadas promovem amanhã debate para governador em 12 estados",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5497.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/10/26/empresario-suspeito-de-orientar-funcionarias-a-colocar-celular-no-sutia-para-filmar-voto-na-ba-vai-pagar-indenizacao-por-danos-morais.ghtml",
+    "hat": "Assédio eleitoral na Bahia",
+    "title": "Bolsonarista que mandou funcionárias filmarem voto terá que pagar R$ 150 mil",
+    "category": "Bahia"
+  }
+]

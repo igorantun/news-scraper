@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10371.203125,
+      "left": 315,
+      "height": 153.671875,
+      "width": 1290
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-tem-vitoria-mais-apertada-desde-a-redemocratizacao.shtml",
+    "title": "LULA PRESIDENTE"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10182.546875,
+      "left": 315,
+      "height": 526.59375,
+      "width": 1290
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-eleito-presidente-pela-3a-vez-projeta-datafolha.shtml"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -8739.546875,
+      "left": 315,
+      "height": 280.640625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-de-freitas-e-eleito-governador-de-sao-paulo-projeta-datafolha.shtml",
+    "hat": "Pelo país",
+    "title": "Tarcísio de Freitas é o novo governador de São Paulo",
+    "summary": "Candidato patrocinado pelo presidente Bolsonaro confirma favoritismo e derrota Fernando Haddad, do PT"
+  },
+  {
+    "type": "headline",
+    "position": 3,
+    "coordinates": {
+      "top": -864.78125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9620.96875,
+      "left": 315,
+      "height": 141.921875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lira-diz-que-vontade-da-maioria-nas-urnas-jamais-devera-ser-contestada-e-pede-pacificacao-do-pais.shtml",
+    "hat": "Presidente da Câmara",
+    "title": "Lira diz que vontade da maioria nas urnas jamais deverá ser contestada",
+    "summary": "Deputado pede a pacificação do país"
+  }
+]

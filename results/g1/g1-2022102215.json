@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5000,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/22/tse-forma-maioria-para-conceder-116-insercoes-para-lula-na-propaganda-eleitoral-de-bolsonaro.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "TSE tem maioria para dar 116 inserções para Lula na propaganda de Bolsonaro",
+    "summary": "Ministros entenderam que campanha do presidente usou 'fatos sabidamente inverídicos'. Julgamento ainda está em andamento."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5000,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/22/pequeno-aviao-cai-em-predio-de-new-hampshire-todos-a-bordo-morrem.ghtml",
+    "hat": "Estados Unidos",
+    "title": "Pequeno avião cai em prédio perto de Boston; todos a bordo morrem"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4663.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/22/desesperada-diz-noiva-do-rio-de-janeiro-que-tem-casamento-marcado-em-fernando-de-noronha-e-teve-voo-da-gol-cancelado.ghtml",
+    "hat": "E agora?",
+    "title": "Noiva com casamento em Noronha tem voo cancelado: 'Desesperada'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4258.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/22/ipec-corrida-presidencial-no-2o-turno-lula-e-bolsonaro-lideram-em-5-estados-cada-um.ghtml",
+    "hat": "Pesquisa Ipec",
+    "title": "Lula e Bolsonaro lideram em 5 estados cada onde haverá 2º turno para governador",
+    "summary": "Segundo levantamento do g1, petista e atual presidente também estão tecnicamente empatados em SP e AM.",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3980.65625,
+      "left": 348.65625,
+      "height": 132.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/22/entenda-a-taxacao-de-lucros-e-dividendos-proposta-ja-defendida-por-lula-e-bolsonaro-na-campanha.ghtml",
+    "title": "Entenda a taxação de lucros já defendida por Lula e Bolsonaro",
+    "category": "Economia"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12445.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/educacao/2022/10/orgao-do-mec-orientou-prefeitura-a-forjar-pedido-de-verba-ja-liberada-mostra-email.shtml?origin=folha",
+    "title": "Órgão do MEC orientou prefeitura a forjar pedido de verba já liberada",
+    "summary": "Mensagens do FNDE indicam que governo Bolsonaro burlou critérios técnicos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12109.875,
+      "left": 365,
+      "height": 408.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/18/defesa-deve-argumentar-que-nao-fez-auditoria-nem-tem-relatorio-das-eleicoes.htm",
+    "title": "Defesa dirá que não fez auditoria e ainda não tem relatório de urnas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11677.640625,
+      "left": 365,
+      "height": 298.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/barroso-libera-prefeitos-para-oferecerem-transporte-de-graca-a-eleitores.shtml",
+    "title": "STF libera prefeitos para oferecerem transporte de graça a eleitores"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12109.875,
+      "left": 619.15625,
+      "height": 628.921875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/18/sem-provas-bolsonaro-disse-que-venezuelanas-iriam-fazer-programa.htm",
+    "title": "Chico Alves: Vídeo desmente versão de Bolsonaro em desculpas a venezuelanas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11456.953125,
+      "left": 619.15625,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/18/debate-pernambuco-apoio-governador-marilia-raquel.htm",
+    "title": "Marília Arraes acusa Raquel Lyra de 'plantar' apoio do governador de PE para prejudicá-la"
+  }
+]

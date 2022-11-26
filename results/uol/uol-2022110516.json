@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12754.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/05/pt-governadores-oposicao-apoiadores.htm",
+    "title": "Lula busca novo pacto federativo e já articula com governadores eleitos",
+    "summary": "PT tem procurado adversários que vão governar estados a partir do dia 1º de janeiro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12478.453125,
+      "left": 365,
+      "height": 385.859375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/aliados-defendem-bolsonaro-fora-das-eleicoes-de-2026-e-ja-apostam-em-tarcisio-presidente.shtml",
+    "title": "Aliados defendem Bolsonaro fora do pleito de 2026 e já apostam em Tarcísio presidente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12068.59375,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/04/quem-vai-comandar-o-exercito-lula-ja-tem-nomes-na-manga-veja-quais-sao.htm",
+    "title": "Quem vai comandar o Exército? Lula já tem nomes na manga; veja quais são"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12478.453125,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/05/bolsonaro-deixa-rombo-e-brasil-pode-perder-direito-de-voto-na-fao.htm",
+    "title": "Bolsonaro deixa rombo, e Brasil pode perder voto em entidade de alimentação da ONU"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12022.21875,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/11/04/derrota-de-bolsonaro-deflagrou-casos-de-violencia-politica-pelo-brasil.htm",
+    "title": "Sakamoto: Derrota de Bolsonaro deflagrou nova onda de violência política no Brasil"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6099,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/ministra-do-tse-suspende-direito-de-resposta-que-concedeu-164-insercoes-para-lula-em-programa-de-bolsonaro.ghtml",
+    "hat": "Campanha eleitoral",
+    "title": "Ministra do TSE suspende 164 inserções de direito de resposta de Lula em programa de Bolsonaro",
+    "summary": "Maria Cláudia Bucchianeri voltou atrás na própria decisão de ontem e resolveu levar o caso ao plenário."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6099,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/20/instagram-vai-bloquear-ofensas-que-trocam-letras-por-numeros-veja-como-usar-recurso.ghtml",
+    "hat": "Tecnologia",
+    "title": "Instagram vai bloquear ofensas que trocam letras por números"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5762.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2022/10/20/ex-funcionaria-esquece-whatsapp-aberto-em-computador-de-empresa-e-tem-conversas-expostas-por-socio-durante-reuniao-em-mg.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Mulher esquece WhatsApp aberto e tem conversas expostas por patrão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5357.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/20/guedes-confirma-plano-de-desvincular-salario-minimo-da-inflacao-mas-nega-que-objetivo-seja-reajuste-menor.ghtml",
+    "hat": "Encontro com empresários",
+    "title": "Guedes confirma plano de desvincular salário mínimo da inflação",
+    "summary": "Após repercussão negativa, ministério afirmou que valores 'serão corrigidos, no mínimo, pela inflação'.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5079.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/bolsonaro-diz-que-passar-fome-nao-justifica-porque-populacao-pode-requerer-auxilio-brasil.ghtml",
+    "hat": "Entrevista a podcast",
+    "title": "Bolsonaro diz que 'não justifica passar fome' porque população pode pedir auxílio",
+    "category": "Eleições 2022"
+  }
+]

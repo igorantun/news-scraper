@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6384,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/eleicoes-nos-eua-ex-astronauta-vence-no-arizona-e-deixa-democratas-mais-perto-de-controlar-senado.ghtml",
+    "hat": "Eleições nos EUA",
+    "title": "Astronauta democrata vence no Senado e partido está a 1 cadeira de ter maioria",
+    "summary": "Disputa no Arizona era considerada crucial para o governo Biden."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6384,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/educacao/enem/2022/noticia/2022/11/12/enem-2022-veja-o-que-fazer-na-vespera-da-prova-que-acontece-neste-domingo-13.ghtml",
+    "hat": "Enem 2022",
+    "title": "O que fazer na véspera da prova, que acontece neste domingo"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6047.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pi/piaui/noticia/2022/11/12/homem-morre-e-nove-pessoas-ficam-feridas-em-tiroteio-durante-show-de-nattanzinho-e-xand-aviao-em-floriano-no-piaui.ghtml",
+    "hat": "Piauí",
+    "title": "Homem morre em tiroteio em show de Nattan e Xand Avião"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5642.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/11/12/humilhacao-para-putin-o-que-a-retirada-das-tropas-russas-de-kherson-significa-para-a-guerra-na-ucrania.ghtml",
+    "hat": "‘Humilhação para Putin’",
+    "title": "O que a retirada das tropas russas de Kherson significa para a guerra na Ucrânia",
+    "category": "Ucrânia e Rússia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5364.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/12/reforma-da-previdencia-completa-3-anos-com-alivio-nas-contas-publicas-mas-dificuldades-para-segurados.ghtml",
+    "hat": "Aposentadoria",
+    "title": "Reforma da Previdência faz 3 anos com alívio para governo e dificuldades para segurados",
+    "category": "Economia"
+  }
+]

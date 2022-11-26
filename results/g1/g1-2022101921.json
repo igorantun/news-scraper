@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5456,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/19/stf-analisa-decisao-que-permite-oferta-de-servico-de-transporte-publico-gratuito-no-segundo-turno.ghtml",
+    "hat": "Supremo",
+    "title": "Maioria no STF vota para liberar transporte público gratuito no 2º turno",
+    "summary": "Placar é de 7 a 0 para manter decisão de Barroso que autorizou prefeituras a oferecerem transporte no dia das eleições."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5456,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/bolsonaristas-interrompem-missas-e-ofendem-padres-religiosos-veem-falta-de-respeito.ghtml",
+    "hat": "Intolerância religiosa",
+    "title": "Bolsonaristas interrompem missas e atacam padres; veja vídeos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5119.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/19/moradores-de-predio-em-que-eddy-jr-foi-vitima-de-racismo-protestam-contra-agressora-condominio-vai-multa-la-em-ate-r-8-mil.ghtml",
+    "hat": "Racismo em SP",
+    "title": "Moradores protestam contra mulher de ataque racista a Eddy Jr."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4714.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/19/eleicoes-2022-veja-quais-capitais-brasileiras-terao-transporte-publico-gratuito-no-2o-turno.ghtml",
+    "title": "Ao menos 10 capitais terão passe livre no 2º turno; veja lista",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4436.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/19/g1-tv-globo-e-globonews-divulgam-nesta-quarta-feira-19-3a-pesquisa-datafolha-do-2o-turno.ghtml",
+    "hat": "Lula x Bolsonaro",
+    "title": "g1, TV Globo e GloboNews divulgam novo Datafolha daqui a pouco",
+    "category": "Pesquisa Eleitoral"
+  }
+]

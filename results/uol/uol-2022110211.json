@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12353.609375,
+      "left": 365,
+      "height": 249.53125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/centrao-de-lira-acena-com-base-de-sustentacao-para-lula-na-camara.shtml",
+    "title": "Centrão de Lira acena com base de sustentação para Lula na Câmara"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11990.6875,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/fala-de-bolsonaro-nao-da-fim-a-bloqueios-em-rodovias-mas-movimento-golpista-chega-menor-ao-3o-dia.shtml",
+    "title": "Fala de Bolsonaro não dá fim a bloqueios, mas atos ficam menores no 3º dia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11403.328125,
+      "left": 365,
+      "height": 231.125,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/01/torcedores-corinthians-bloqueio-sao-paulo.htm",
+    "title": "Grupo de corintianos acaba com bloqueio bolsonarista na Marginal Tietê em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11990.6875,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/onibus-estudantes-ufrj-bloqueio.htm",
+    "title": "'Assustador': Aluna da UFRJ relata fuga de ônibus cercado por bolsonaristas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11534.453125,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/01/ala-evangelica-ignora-lideres-e-apoia-bloqueios-pelo-pais-agora-e-guerra.htm",
+    "title": "Ala evangélica ignora líderes e apoia bloqueios pelo país: 'Agora é guerra'"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12398.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/20/liz-truss-anuncio-downing-street.htm",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido",
+    "summary": "Premiê não resistiu à grave crise financeira que atingiu seu mandato de 45 dias"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11997.640625,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/plano-de-guedes-preve-salario-minimo-e-aposentadoria-sem-correcao-pela-inflacao-passada.shtml",
+    "title": "Plano de Guedes prevê aposentadoria e salário mínimo sem correção pela inflação passada"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11410.28125,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/20/ministro-cgu-portal-da-transparencia-orcamento-secreto.htm",
+    "title": "CGU admite que Portal da Transparência não tem dados do orçamento secreto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11997.640625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/mesmo-fora-da-urna-numero-de-bolsonaro-tem-521-mil-votos-ao-governo-de-sp.htm",
+    "title": "Após 'perder' 521 mil votos em SP, Tarcísio tenta desfazer confusão com nº de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11676.53125,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://tab.uol.com.br/noticias/redacao/2022/10/20/quem-e-o-documentarista-expulso-do-zap-apos-discussao-com-sergio-moro.htm",
+    "title": "'Não devo desculpas': quem é documentarista expulso do 'zap' após discussão com Moro"
+  }
+]

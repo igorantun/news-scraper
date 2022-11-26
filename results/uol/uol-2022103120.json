@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12499.609375,
+      "left": 365,
+      "height": 355.125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/caminhoneiros-bolsonaristas-fecham-estrada-em-mt-nao-vamos-aceitar.htm",
+    "title": "Caminhoneiros bolsonaristas fecham rodovias em pelo menos 16 estados"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12009.484375,
+      "left": 365,
+      "height": 571.359375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aliados-sugerem-a-bolsonaro-discurso-em-que-reconheca-derrota-e-aponte-injusticas.shtml",
+    "title": "Aliados sugerem a Bolsonaro discurso em que reconheça derrota e aponte 'injustiças'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11414.125,
+      "left": 365,
+      "height": 192.75,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-prepara-novo-governo-sob-incerteza-de-colaboracao-de-bolsonaro-para-transicao.shtml",
+    "title": "Lula prepara novo governo sob incerteza de colaboração de Bolsonaro em transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12009.484375,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/biden-lula.htm",
+    "title": "Biden liga e conversa com Lula sobre democracia pós-Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11618.8125,
+      "left": 619.15625,
+      "height": 429.609375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painelsa/2022/10/apos-derrota-bolsonaro-prepara-pacote-de-medidas-na-economia.shtml",
+    "title": "Após derrota, Bolsonaro prepara pacote de medidas na Economia"
+  }
+]

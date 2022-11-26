@@ -1,0 +1,29 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4457,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/ao-vivo/debate-governador-segundo-turno-sao-paulo.ghtml",
+    "hat": "ao vivo",
+    "title": "ASSISTA: Haddad e Tarcísio fazem último debate em SP antes do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -764.625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ba/bahia/eleicoes/2022/noticia/2022/10/27/acm-neto-promete-atracao-de-industrias-para-o-interior-dobrar-credito-para-empreendedores-e-zerar-ipva-para-trabalhadores-de-app-veja-integra.ghtml",
+    "title": "ACM Neto dá entrevista na Bahia após Jerônimo faltar a debate",
+    "summary": "Candidato prometeu crédito a empreendedores e IPVA zero para motoristas de app.",
+    "category": "Eleições 2022 na Bahia"
+  }
+]

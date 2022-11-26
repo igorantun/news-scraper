@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7865.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-inicia-transicao-com-sequencia-de-nos-para-desatar-antes-da-posse.shtml",
+    "hat": "transição de governo",
+    "title": "Lula inicia transição com sequência de nós para desatar antes da posse",
+    "summary": "Presidente eleito retornou de descanso e tem previsão de viagem a Brasília nesta semana"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -870.953125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://youtu.be/wie0STFrqQE",
+    "hat": "Afeganistão",
+    "title": "Sem escolas desde a volta do Talibã, afegãs trabalham em campos de açafrão",
+    "summary": "Desde que o grupo extremista retomou o poder, a educação não é um direito garantido para mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7547.4375,
+      "left": 975,
+      "height": 247.265625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-sem-mandato-estara-na-mira-de-stf-tse-e-1a-instancia-entenda.shtml",
+    "hat": "Folhajus",
+    "title": "Bolsonaro sem mandato estará na mira de STF, TSE e 1ª instância; entenda",
+    "summary": "Qualquer apuração sobre crime de responsabilidade, porém, será encerrada quando o atual presidente deixar o cargo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7265.1875,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bolsonaristas-convocam-greve-para-segunda-e-caminhoneiros-dizem-que-nao-organizam-atos.shtml",
+    "hat": "manifestações antidemocráticas",
+    "title": "Bolsonaristas convocam greve para segunda e caminhoneiros dizem que não organizam atos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7063.15625,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/republicanos-promete-oposicao-a-lula-e-aposta-suas-fichas-em-tarcisio-em-sp.shtml",
+    "hat": "governo de sp",
+    "title": "Republicanos promete oposição a Lula e aposta suas fichas em Tarcísio em SP"
+  }
+]

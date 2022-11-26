@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9725.3125,
+      "left": 329,
+      "height": 316,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/aproximacao-entre-lula-e-lira-deve-tirar-protagonismo-de-bolsonaristas-raiz-do-congresso/",
+    "hat": "NOVO GOVERNO",
+    "title": "Aproximação entre Lula e Lira deve tirar protagonismo de 'bolsonaristas raiz' do Congresso",
+    "summary": "Bancada inchada do PL deve garantir cargos ao partido no Congresso, mas ala da legenda defende que espaço fique com parlamentares moderados"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9725.3125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-e-as-paredes/",
+    "hat": "William Waack",
+    "title": "Petista ainda não assumiu, mas já é possível constatar o quanto está emparedado"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9277.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/defesa-entrega-relatorio-ao-tse-e-pede-investigacao-de-suposto-risco-de-violacao-das-urnas/",
+    "hat": "FISCALIZAÇÃO DA ELEIÇÃO",
+    "title": "Relatório de militares não aponta fraude em urnas e chega à mesma contagem do TSE"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9277.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/mercado-oposicao-retirada-auxilio-teto-de-gastos/",
+    "hat": "Economia",
+    "title": "Mercado financeiro se opõe a retirar auxílio de R$ 600 do teto de gastos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8801.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/covid-19-estado-de-sp-tem-9-milhoes-com-terceira-dose-da-vacina-atrasada/",
+    "hat": "Saúde",
+    "title": "9 milhões de pessoas estão em atraso com terceira dose da vacina contra a covid em SP"
+  }
+]

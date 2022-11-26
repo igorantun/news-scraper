@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10084.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moraes-ve-tentativa-de-tumultuar-eleicao-nega-acao-de-bolsonaro-sobre-radios-e-determina-investigacao.shtml",
+    "hat": "Eleições 2022",
+    "title": "Moraes vê tentativa de tumultuar eleição, nega ação de Bolsonaro sobre rádios e determina investigação",
+    "summary": "Presidente do TSE diz que afirmação de campanha não tem provas e aciona Ministério Público e corregedor-eleitoral"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -876.171875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9712.53125,
+      "left": 974.984375,
+      "height": 319.65625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/bc-mantem-selic-em-1375-as-vesperas-do-segundo-turno-das-eleicoes.shtml",
+    "hat": "Juros",
+    "title": "Banco Central mantém Selic em 13,75% pela segunda vez seguida",
+    "summary": "Ciclo de alta de juros foi interrompido no encontro anterior, em setembro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9357.890625,
+      "left": 974.984375,
+      "height": 257.828125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/eduardo-bolsonaro-e-patroes-fazem-campanha-contra-lula-para-empregados-e-frigorifico-e-investigado-por-assedio-eleitoral.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Eduardo Bolsonaro e patrões fazem campanha contra Lula para empregados, e frigorífico é investigado por assédio eleitoral",
+    "summary": "Ministério Público do Trabalho abriu inquérito depois que filho do presidente e diretores subiram em palanque no pátio da empresa"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9712.53125,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/simule-a-eleicao-nos-estados-e-veja-quem-seria-o-presidente-eleito.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simule o pleito nos estados e veja quem poderia ser o presidente eleito"
+  }
+]

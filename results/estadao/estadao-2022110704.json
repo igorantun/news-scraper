@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9717.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/equipe-de-transicao-decide-apresentar-pec-que-aumenta-teto-de-gastos/",
+    "hat": "Novo governo",
+    "title": "Equipe de transição decide bancar PEC que dá licença para gastar; proposta será levada a Lula",
+    "summary": "Alckmin deve apresentar texto ao presidente eleito nesta segunda-feira; objetivo é liberar recursos para cumprir promessas de campanha, como o auxílio de R$ 600"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9717.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/morre-guilherme-de-padua-assassino-da-atriz-daniella-perez-aos-53-anos/",
+    "hat": "MEMÓRIA",
+    "title": "Guilherme de Pádua, assassino da atriz Daniella Perez, morre aos 53 anos",
+    "summary": "Ex-ator sofreu infarto em casa, em Belo Horizonte, afirma Igreja da Lagoinha, em que ele era pastor"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/moraes-determina-bloqueio-de-conta-de-marcos-cintra-no-twitter-apos-publicacoes-sobre-urnas/",
+    "hat": "JUSTIÇA ELEITORAL",
+    "title": "Moraes determina bloqueio de Marcos Cintra no Twitter após publicações sobre urnas",
+    "summary": "Pela decisão do ministro, o economista deve prestar depoimento à Polícia Federal sobre as declarações"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/leticia-bufoni-faz-manobra-no-ceu-inicia-transicao-de-carreira-e-mira-competir-no-automobilismo/",
+    "hat": "skatista",
+    "title": "Letícia Bufoni faz manobra com skate no céu e mira competir no automobilismo; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/ciencia/astronomos-encontram-buraco-negro-mais-proximo-da-terra-no-nosso-quintal-cosmico/",
+    "hat": "Ciência",
+    "title": "Astrônomos encontram buraco negro mais próximo da Terra, no nosso 'quintal cósmico'",
+    "summary": "A apenas 1,6 mil anos-luz de distância, a formação espacial 'adormecida'"
+  }
+]

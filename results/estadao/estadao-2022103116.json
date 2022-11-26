@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7934.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-nao-aceita-discutir-futuro-politico-e-adia-discussao-sobre-oposicao-a-lula-dizem-aliados/",
+    "hat": "SUCESSÃO PRESIDENCIAL",
+    "title": "Bolsonaro não aceita discutir futuro político e adia conversa sobre oposição a Lula, dizem aliados",
+    "summary": "Presidente não está disposto a tratar agora sobre que conduta política terá a partir de 2023"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7538.359375,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.youtube.com/watch?v=liFK9qkDeco",
+    "hat": "ASSISTA AQUI",
+    "title": "Eleição na Mesa: Cantanhêde e Felipe Moura Brasil discutem eleição de Lula e futuro de Bolsonaro",
+    "summary": "Colunistas e repórteres do Estadão debatem transição de governo no País"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7538.359375,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caminhoneiros-pro-bolsonaro-fazem-bloqueios-na-via-dutra-e-na-rio-santos-e-afetam-acesso-a-sp/",
+    "hat": "MANIFESTAÇÕES PELO PAÍS",
+    "title": "Caminhoneiros pró-Bolsonaro bloqueiam Via Dutra e Rio-Santos e afetam acesso a SP"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7060.25,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sustentabilidade/noruega-anuncia-desbloqueio-de-verbas-do-fundo-amazonia-apos-vitoria-de-lula/",
+    "hat": "Sustentabilidade",
+    "title": "Noruega anuncia desbloqueio de verbas do Fundo Amazônia após vitória de Lula",
+    "summary": "Segundo país europeu, há cerca de R$ 2,52 bilhões para serem usados em ações para a preservação da floresta"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6594.140625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/vitoria-de-lula-foi-a-mais-apertada-desde-redemocratizacao-confira-o-ranking-de-eleicoes-passadas/",
+    "hat": "Política",
+    "title": "Vitória de Lula foi a mais apertada desde a redemocratização; veja ranking desde 1989",
+    "summary": "Jair Bolsonaro perdeu a reeleição por menos de 2% dos votos, superando Aécio Neves, que perdeu em 2014"
+  }
+]

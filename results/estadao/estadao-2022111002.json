@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10517.3125,
+      "left": 329,
+      "height": 218,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/defesa-entrega-relatorio-ao-tse-e-pede-investigacao-de-suposto-risco-de-violacao-das-urnas/",
+    "hat": "FISCALIZAÇÃO DA ELEIÇÃO",
+    "title": "Relatório de militares não aponta fraude em urnas e chega à mesma contagem de votos do TSE",
+    "summary": "Documento fala em risco de 'código malicioso' no sistema de votação e sugere investigação; Tribunal agradece e ressalta que não foi encontrada qualquer inconsistência na eleição deste ano"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10139.3125,
+      "left": 329,
+      "height": 865.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/cultura/musica/gal-costa-sera-velada-na-assembleia-legislativa-de-sp-em-cerimonia-aberta-ao-publico/",
+    "hat": "LUTO",
+    "title": "Corpo de Gal Costa será velado na Assembleia Legislativa de SP em cerimônia aberta ao público",
+    "summary": "Fãs poderão se despedir da artista na próxima sexta; enterro será restrito a amigos e familiares"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10139.3125,
+      "left": 1190.328125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-diz-que-nao-enxerga-centrao-e-que-vai-conversar-senadores-e-deputados-eleitos/",
+    "hat": "Presidente eleito",
+    "title": "Lula diz que 'não enxerga Centrão' e vai conversar com senadores e deputados eleitos",
+    "summary": "Petista afirma que vê disposição dos presidentes da Câmara e do Senado em aprovar a PEC da Transição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9775.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lista-de-alckmin-revela-novos-nomes-da-transicao-saiba-quem-sao/",
+    "hat": "Novo governo",
+    "title": "Lista de Alckmin revela novos nomes da equipe de transição; veja quem são",
+    "summary": "Documento aponta Franklin Martins na comunicação, além de Marta Suplicy e Márcio França no Turismo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9211.65625,
+      "left": 329,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/democratas-mostram-forca-em-meio-a-campanha-republicana-focada-em-expor-inflacao-e-criminalidade/",
+    "hat": "'midterms'",
+    "title": "Democratas mostram força nos EUA em meio a campanha republicana focada em expor inflação e criminalidade",
+    "summary": "Avanço republicano nas eleições foi menor do que o previsto, mesmo com baixa popularidade de Biden"
+  }
+]

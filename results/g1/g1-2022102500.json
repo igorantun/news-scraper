@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5924,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/24/ipec-lula-tem-50percent-no-2o-turno-e-bolsonaro-43percent.ghtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Ipec: Lula mantém 50% no 2º turno, e Bolsonaro, 43%",
+    "summary": "Pesquisa mostra estabilidade a 6 dias da eleição. Em votos válidos, Lula aparece com 54%, e Bolsonaro tem 46%."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5924,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "hat": "Detalhes da pesquisa",
+    "title": "Lula x Bolsonaro: veja números do Ipec por região, renda, idade e sexo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5182.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/24/stf-derruba-afastamento-do-governador-de-alagoas-paulo-dantas.ghtml",
+    "hat": "De volta ao cargo",
+    "title": "STF derruba afastamento de Paulo Dantas, governador de Alagoas",
+    "summary": "Candidato à reeleição, político pode voltar ao cargo. Ele é investigado por suspeitas de desvios.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4904.65625,
+      "left": 348.65625,
+      "height": 251.640625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/em-depoimento-roberto-jefferson-diz-ter-dado-50-tiros-contra-a-pf.ghtml",
+    "hat": "Aliado de Bolsonaro",
+    "title": "Indiciado por tentativa de assassinato, Jefferson diz que deu 50 tiros contra a PF",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4621.015625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/24/ipec-47percent-nao-votariam-em-bolsonaro-de-jeito-nenhum-lula-e-rejeitado-por-41percent.ghtml",
+    "hat": "Mais Ipec",
+    "title": "47% não votariam em Bolsonaro de jeito nenhum; Lula é rejeitado por 41%",
+    "category": "Pesquisa Eleitoral"
+  }
+]

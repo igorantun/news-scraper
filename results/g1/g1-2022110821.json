@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6179,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/alckmin-assina-portarias-para-dar-inicio-formal-a-transicao-de-governo.ghtml",
+    "title": "Alckmin anuncia pais do Plano Real e ex-ministro de Dilma na equipe de transição",
+    "summary": "Núcleo da economia terá Nelson Barbosa, Pérsio Arida, Guilherme Mello e André Lara Resende."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6179,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2022/11/08/destaque-do-carnaval-paulista-e-musa-do-caldeirao-e-achada-morta-em-casa-marido-bombeiro-tentou-salva-la.ghtml",
+    "hat": "Litoral de SP",
+    "title": "Destaque do carnaval e musa do 'Caldeirão' é achada morta em casa"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5842.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/11/08/influenciador-digital-arnon-do-grau-e-suspeito-de-integrar-faccoes-criminosas-em-bh-diz-policia.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Influencer Arnon do Grau é preso suspeito de participar de homicídio"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5437.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/tebet-marcia-lopes-tereza-campello-e-andre-quintao-vao-coordenar-a-assistencia-social-durante-a-transicao.ghtml",
+    "title": "Tebet e Tereza Campello vão coordenar auxílio e benefícios",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5159.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/estudio-i/video/octavio-irma-de-paulo-guedes-e-nomeada-na-educacao-11107345.ghtml",
+    "hat": "Ensino superior",
+    "title": "Na reta final do mandato, Bolsonaro nomeia irmã de Guedes na Educação",
+    "summary": "Elizabeth Regina terá mandato de 4 anos em conselho vinculado ao ministério.",
+    "category": "Estúdio i"
+  }
+]

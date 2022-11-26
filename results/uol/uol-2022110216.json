@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12508.609375,
+      "left": 365,
+      "height": 276.71875,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/centrao-de-lira-acena-com-base-de-sustentacao-para-lula-na-camara.shtml",
+    "title": "Centrão de Lira acena com base de sustentação para Lula na Câmara"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12033.75,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/prf-bloqueios-rodovias.htm",
+    "title": "Bloqueios e interdições encolhem, mas ainda existem 156 ocorrências em 15 estados, diz PRF"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11712.640625,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/02/corintianos-tomam-faixas-bolsonaristas-e-furam-bloqueios-em-rodovias.htm",
+    "title": "Caravana de corintianos rumo ao RJ toma faixas de bolsonaristas e fura bloqueios em rodovias"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11391.53125,
+      "left": 365,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/silencio-de-bolsonaro-pos-derrota-teve-conversa-com-militares-e-apelos-por-declaracao.shtml",
+    "title": "Silêncio de Bolsonaro teve angústia de aliados e apelo por declaração"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12033.75,
+      "left": 619.15625,
+      "height": 544.171875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/bloqueios-rodovias-santa-catarina.htm",
+    "title": "'Não mandem mais ônibus', avisa caminhoneiro em bloqueio em SC"
+  }
+]

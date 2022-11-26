@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9246.734375,
+      "left": 329,
+      "height": 689.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/skaf-fiesp-josue-gomes-renuncia/",
+    "hat": "ENTIDADE EMPRESARIAL",
+    "title": "Skaf alega 'gestão ideológica' e inicia rebelião contra Josué Gomes na Fiesp",
+    "summary": "Ex-presidente da entidade, que ficou 18 anos no poder, se movimenta com presidentes de sindicatos patronais para pressionar por renúncia do sucessor"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9246.734375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/carta-de-lula-a-evangelicos-faz-compromisso-com-liberdade-de-culto-veja-integra/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Lula defende liberdade de culto e acena com participação de evangélicos em governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8828.625,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/pt-ve-avanco-de-bolsonaro-em-minas-com-acao-de-zema-sobre-prefeitos-e-ameacas/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "PT vê avanço de Bolsonaro em Minas com ação de Zema sobre prefeitos e ameaças"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8426.515625,
+      "left": 329,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/lula-aumento-salario-minimo-proposta-13-acima-inflacao/",
+    "hat": "ECONOMIA",
+    "title": "Aumento real do mínimo com regra proposta por Lula seria de 1,3% com custo de R$ 6,2 bi",
+    "summary": "Hoje, o salário mínimo está em R$ 1212. No projeto previsto a partir de  2023 é estipulado, seria R$ 1.302"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8426.515625,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/ciencia/buraco-negro-cospe-estrela-anos-depois-de-destrui-la-entenda-nprm/",
+    "hat": "Ciência",
+    "title": "Buraco negro 'cospe' estrela anos depois de destruí-la e surpreende pesquisadores"
+  }
+]

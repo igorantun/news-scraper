@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12532.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://educacao.uol.com.br/noticias/2022/11/06/governo-lula-mec-desafios.htm",
+    "title": "Lula terá orçamento da educação básica 34% menor que Bolsonaro",
+    "summary": "Petista assumirá MEC com verba enxuta em relação ao 1º ano do governo antecessor"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12346.015625,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.band.uol.com.br/noticias/cop-27-ultimos-oito-anos-podem-ser-os-mais-quentes-ja-registrados-alerta-onu-16561422",
+    "title": "COP 27: últimos oito anos podem ser os mais quentes já registrados, alerta ONU"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11889.78125,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/realidade-paralela-de-grupos-antidemocraticos-soma-medo-a-teorias-conspiratorias.shtml",
+    "title": "Realidade paralela de grupos antidemocráticos soma medo a conspirações"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12346.015625,
+      "left": 619.15625,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/opiniao/coluna/2022/11/06/o-que-fazer-para-bolsonaro-nao-voltar.htm",
+    "title": "Pedro Telles: O que fazer para Bolsonaro não voltar"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12048.90625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/11/06/cla-bolsonaro-brigas-campanha-carlos-michelle-jair-eduardo-flavio.htm",
+    "title": "Dal Piva: as brigas do clã Bolsonaro que abalaram Jair na campanha"
+  }
+]

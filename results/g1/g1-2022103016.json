@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3487,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-vota-em-sao-bernardo-e-bolsonaro-no-rio-de-janeiro.ghtml",
+    "title": "Lula diz que eleição definirá 'modelo de Brasil'; Bolsonaro fala em 'expectativa de vitória'",
+    "summary": "Petista beijou comprovante após votar em São Bernardo (SP). Atual presidente votou na abertura das urnas no Rio de Janeiro."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2745.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/30/e-o-brasil-que-nao-queremos-diz-lula-apos-deputada-bolsonarista-carla-zambelli-apontar-arma-para-cidadao-negro-em-sp.ghtml",
+    "title": "'O Brasil que não queremos', diz Lula sobre Zambelli sacar arma",
+    "category": "Eleições 2022 em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2189.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/",
+    "title": "Veja todos os números das pesquisas Ipec e Datafolha para presidente"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -1131.140625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/resultados-exterior-segundo-turno-boletins-de-urna.ghtml",
+    "title": "Nova Zelândia, Coreia do Sul, Quênia e mais: veja os resultados no exterior",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -852.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/30/haddad-e-tarcisio-votam-em-sp.ghtml",
+    "title": "Tarcísio fala em 'campanha limpa'; Haddad aposta em arrancada",
+    "category": "Eleições 2022 em São Paulo"
+  }
+]

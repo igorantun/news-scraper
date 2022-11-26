@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6776,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/11/moraes-amplia-para-todo-territorio-nacional-punicao-a-manifestante-que-bloqueia-estradas.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Moraes amplia para todo o território nacional punição a bloqueios golpistas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6776,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/filho-unico-de-gal-costa-chega-a-velorio-em-sao-paulo.ghtml",
+    "hat": "Mãe de todas as vozes",
+    "title": "Filho e a companheira de Gal Costa se despedem da cantora"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6439.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/famosos-se-despedem-de-gal-costa-em-sp.ghtml",
+    "title": "Personalidades e famosos dão adeus a Gal; FOTOS"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6034.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/11/lula-recebe-10-pedidos-para-reunioes-bilaterais-na-cop-27-presidente-viaja-com-haddad-e-amorim.ghtml",
+    "hat": "Blog da Julia Duailibi",
+    "title": "Lula recebe 10 pedidos para reuniões bilaterais na COP-27",
+    "category": "Blog da Julia Duailibi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5756.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/gal-nao-e-diva-e-divindade-diz-fa-que-foi-a-velorio-com-capas-de-discos-da-cantora-estampadas-da-roupa-ao-sapato.ghtml",
+    "hat": "Adeus a Gal",
+    "title": "'Não é diva, é divindade', diz fã vestido de Gal 'da cabeça aos pés'",
+    "category": "São Paulo"
+  }
+]

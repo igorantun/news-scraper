@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8881.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/transicao-abarca-centro-cortejado-por-lula-com-tebet-e-indicado-de-kassab.shtml",
+    "hat": "transição de governo",
+    "title": "Transição abarca centro cortejado por Lula com Tebet e indicado de Kassab",
+    "summary": "Dentre os nomes confirmados por Alckmin há economistas ligados a tucanos e integrante do PSD no conselho político"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.6875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8563.4375,
+      "left": 975,
+      "height": 349.75,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/oab-cita-integridade-das-urnas-e-diz-ao-tse-que-nao-identificou-irregularidades-na-eleicao.shtml",
+    "hat": "Eleições 2022",
+    "title": "OAB cita integridade das urnas e diz ao TSE que não identificou irregularidades na eleição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8178.703125,
+      "left": 975,
+      "height": 188.09375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/valdemar-evita-reconhecer-derrota-de-bolsonaro-e-diz-esperar-relatorio-da-defesa.shtml",
+    "hat": "Presidente do PL",
+    "title": "Valdemar evita reconhecer derrota de Bolsonaro e diz esperar relatório da Defesa"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8516.453125,
+      "left": 1305,
+      "height": 300.703125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/seminariosfolha/2022/11/folha-promove-seminario-sobre-cancer-de-prostata.shtml",
+    "hat": "Câncer de Próstata",
+    "title": "Seminário debate diagnóstico e desafios do câncer de próstata; veja como foi"
+  }
+]

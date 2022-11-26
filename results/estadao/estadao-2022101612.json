@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9003.3125,
+      "left": 329,
+      "height": 302,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/classe-c-impulsiona-voto-a-direita-no-pais-segmento-representa-100-milhoes-de-brasileiros/",
+    "hat": "Estadão Analisa",
+    "title": "Fatia de 100 milhões de brasileiros, classe C impulsiona voto à direita",
+    "summary": "Grupo socioeconômico exprime sentimento de abandono e desconfiança do Estado; representa 55% da população e é maior no Sudeste, Sul e Centro-Oeste, onde Bolsonaro venceu no 1º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9003.3125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-e-passado-que-projeta-um-futuro-melhor-bolsonaro-e-futuro-que-traz-de-volta-o-pior-do-passado/",
+    "hat": "Eliane Cantanhêde",
+    "title": "'Lula e Bolsonaro são dois líderes populistas que dividem o País ao meio'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8555.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/orcamento-reformas-economicas-2023/",
+    "hat": "Economia",
+    "title": "Controle do Orçamento pelo novo Congresso deve ditar ritmo de reformas em 2023",
+    "summary": "Nova formação atrela ritmo de votação de reformas econômicas à manutenção do orçamento secreto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8555.203125,
+      "left": 1190.3125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/a-guerra-hipocrita-de-putin/",
+    "hat": "Mario Vargas Llosa",
+    "title": "'É preciso acabar com esta guerra hipócrita de Putin, que está destruindo a Ucrânia'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8056.203125,
+      "left": 329,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/a-desordem-do-tse/",
+    "hat": "J.R.  Guzzo",
+    "title": "'Que lei em vigor no Brasil permite ao TSE definir o que é a verdade? Desordem é isso'"
+  }
+]

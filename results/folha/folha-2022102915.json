@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10425.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/10/uma-eleicao-crucial.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Em disputa de candidatos muito diferentes, Folha reafirma apartidarismo",
+    "summary": "O que está em jogo não são apenas os próximos quatro anos. São as quase quatro décadas de exercício pleno da democracia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -869.953125,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-e-haddad-nacionalizam-debate-com-salario-minimo-e-vacina-e-batem-boca-sobre-paraisopolis.shtml?utm_source=newsletter&utm_medium=email&utm_campaign=newsfolha",
+    "hat": "Eleições 2022",
+    "title": "Veja os melhores momentos do debate para governador de SP e análise de Fábio Zanini",
+    "summary": "Tarcísio e Haddad nacionalizam embate na Globo com salário mínimo e vacina a três dias do segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10215.25,
+      "left": 315,
+      "height": 185.96875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/quem-tiver-mais-voto-leva-diz-bolsonaro-sobre-resultado-de-eleicoes.shtml",
+    "hat": "debate presidencial",
+    "title": "'Quem tiver mais voto leva', diz Bolsonaro sobre a eleição",
+    "summary": "Presidente fez afirmação após debate com Lula, na Globo, sem nenhum condicionante"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10215.25,
+      "left": 644.984375,
+      "height": 194,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pistoleiro-abortista-e-descompensado-veja-falas-que-marcaram-debate-para-presidente.shtml",
+    "hat": "Eleições 2022",
+    "title": "'Pistoleiro', 'abortista' e 'descompensado'; veja falas que marcaram debate",
+    "summary": "Lula e Bolsonaro trocaram acusações"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -10215.25,
+      "left": 974.96875,
+      "height": 198.078125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-se-irrita-e-abandona-entrevista-apos-pergunta-da-folha-sobre-complexo-do-alemao-veja-video.shtml",
+    "hat": "Complexo do Alemão",
+    "title": "Bolsonaro se irrita e abandona entrevista após pergunta da Folha; veja"
+  }
+]

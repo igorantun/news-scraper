@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4373,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/01/maioria-do-stf-confirma-determinacao-para-que-policias-desbloqueiem-rodovias.ghtml",
+    "hat": "Rodovias interditadas",
+    "title": "Maioria do STF confirma ordem para PRF liberar vias bloqueadas por bolsonaristas",
+    "summary": "Alexandre de Moraes impôs multa de R$ 100 mil por hora ao diretor do órgão em caso de descumprimento da ordem."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4373,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/31/coordenador-de-comunicacao-da-campanha-de-lula-liga-para-ministro-da-casa-civil-para-tratar-da-transicao.ghtml",
+    "hat": "Novo governo",
+    "title": "Equipe de Lula discute transição de governo com ministro de Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4036.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/bolsonaro-completa-24-horas-de-silencio-sobre-vitoria-de-lula-no-segundo-turno-das-eleicoes.ghtml",
+    "hat": "Derrotado nas urnas",
+    "title": "Bolsonaro completa mais de um dia em silêncio sobre vitória de Lula"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3631.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/caminhoneiros-fecham-rodovias-contra-resultado-das-urnas-apos-derrota-de-bolsonaro.ghtml",
+    "title": "Caminhoneiros bloqueiam mais de 300 pontos contra vitória de Lula",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3353.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/31/bloqueio-em-rodovia-que-da-acesso-a-aeroporto-de-guarulhos-em-sp-provoca-cancelamento-de-voos.ghtml",
+    "title": "Bloqueio ilegal causa cancelamento de voos no Aeroporto de Guarulhos",
+    "category": "São Paulo"
+  }
+]

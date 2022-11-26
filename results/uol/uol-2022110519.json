@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12897.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/aliados-de-lula-querem-esvaziar-ministerio-da-justica-para-turbinar-seguranca-publica.shtml",
+    "title": "Aliados de Lula articulam novo Ministério da Segurança Pública",
+    "summary": "Ministério da Justiça perderia controle da PF, PRF, Guarda Nacional e presídios federais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12567.078125,
+      "left": 365,
+      "height": 385.859375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/aliados-defendem-bolsonaro-fora-das-eleicoes-de-2026-e-ja-apostam-em-tarcisio-presidente.shtml",
+    "title": "Aliados defendem Bolsonaro fora do pleito de 2026 e já apostam em Tarcísio presidente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12157.21875,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/04/quem-vai-comandar-o-exercito-lula-ja-tem-nomes-na-manga-veja-quais-sao.htm",
+    "title": "Quem vai comandar o Exército? Lula já tem nomes na manga; veja quais são"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12567.078125,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/05/bolsonaro-deixa-rombo-e-brasil-pode-perder-direito-de-voto-na-fao.htm",
+    "title": "Bolsonaro deixa rombo, e Brasil pode perder voto em entidade de alimentação da ONU"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12110.84375,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/05/aviao-fab-encontrado-sc.htm",
+    "title": "Destroços de avião da FAB são encontrados em Canelinhas (SC); 2 tripulantes morreram"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7539.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pf-vai-a-casa-de-roberto-jefferson-por-ordem-do-stf-e-policial-fica-ferida.shtml",
+    "hat": "após ataques ao STF",
+    "title": "Roberto Jefferson joga granada e atira contra  PF após ordem de prisão de Moraes",
+    "summary": "Ex-deputado de extrema-direita ainda não foi preso; dois agentes foram feridos, e quadro é estável"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.03125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7221.4375,
+      "left": 974.984375,
+      "height": 189.453125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-eleitoral-em-igrejas-chega-a-tribunais-de-7-estados.shtml",
+    "hat": "Eleições 2022",
+    "title": "Campanha eleitoral em igrejas chega a tribunais de 7 estados",
+    "summary": "Lei prevê multa de até R$ 5.000 e não atinge todo tipo de pregação política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6997,
+      "left": 974.984375,
+      "height": 189.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/bolsonaro-da-mais-dinheiro-para-construir-escola-militar-em-sp-do-que-para-casas-populares.shtml",
+    "hat": "orçamento",
+    "title": "Bolsonaro dá mais dinheiro para construir escola militar em SP do que para casas populares",
+    "summary": "Áreas sociais têm corte na proposta de Orçamento de 2023"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6772.125,
+      "left": 974.984375,
+      "height": 105.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/10/ameaca-autocratica.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Ameaça autocrática",
+    "summary": "Concentrar poder é o verdadeiro programa de governo de Jair Bolsonaro"
+  }
+]

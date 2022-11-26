@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8906.109375,
+      "left": 315,
+      "height": 130.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/encolhendo-e-em-crise-classe-c-vira-motor-do-bolsonarismo.shtml",
+    "hat": "desafios do novo mandato",
+    "title": "Encolhendo e em crise, classe C vira motor do bolsonarismo",
+    "summary": "Fenômeno nos anos Lula, segmento sofre com predominância no trabalho informal e perda de renda"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.765625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=zk3EIHOWtIc",
+    "hat": "folha explica",
+    "title": "O que racismo tem a ver com mudanças climáticas?",
+    "summary": "Entenda como os efeitos do clima afetam de forma diferente populações mais vulneráveis e marginalizadas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8729.03125,
+      "left": 975,
+      "height": 189.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/petistas-defendem-acordo-de-lula-com-congresso-para-emendas-de-relator.shtml",
+    "hat": "Congresso Nacional",
+    "title": "Petistas defendem acordo de Lula com Congresso para emendas de relator",
+    "summary": "Para ex-relatores, novo governo deve negociar sem contar com ajuda do STF"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8504.59375,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/exames-de-lula-mostram-inflacao-na-garganta-e-leucoplasia.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Exames de Lula mostram inflamação na garganta e leucoplasia",
+    "summary": "Não houve sinal de que câncer tratado pelo presidente eleito possa ter voltado"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8307.71875,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/procuradoria-cobra-ministro-da-defesa-para-identificar-responsaveis-por-atos-antidemocraticos.shtml",
+    "hat": "Ministério Público Federal",
+    "title": "Procuradoria cobra Defesa para identificar responsáveis por atos antidemocráticos"
+  }
+]

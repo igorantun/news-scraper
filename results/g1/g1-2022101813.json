@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5731,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/moraes-manda-ministerio-da-defesa-entregar-documentos-de-eventual-auditoria-nas-urnas.ghtml",
+    "hat": "Eleições",
+    "title": "Moraes manda Defesa apresentar eventual auditoria nas urnas",
+    "summary": "Presidente do TSE deu prazo de 48 horas e pediu que ministério informe também como pagou a vistoria."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5731,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/18/neymar-afirma-em-julgamento-que-assinava-os-documentos-que-seu-pai-pedia.ghtml",
+    "hat": "Julgamento na Espanha",
+    "title": "Neymar diz que assinava documentos que seu pai pedia"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5394.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/18/audio-da-cabine-emociona-no-julgamento-do-voo-rio-paris-nos-ouvimos-as-vozes-do-alem-tumulo.ghtml",
+    "hat": "Queda de avião",
+    "title": "Áudio de pilotos choca tribunal do voo Rio-Paris: 'Apavorante'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4989.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "hat": "Pesquisa eleitoral",
+    "title": "Lula 50% x 43% Bolsonaro: veja dados do Ipec por região, sexo e renda"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4711.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/10/18/russia-destroi-30percent-das-estacoes-de-energia-da-ucrania-em-uma-semana-diz-zelensky.ghtml",
+    "hat": "Escalada da guerra",
+    "title": "Ucrânia relata 'apagões em massa' após Rússia atacar centrais elétricas",
+    "category": "Ucrânia e Rússia"
+  }
+]

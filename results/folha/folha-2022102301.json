@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8142.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fachin-defende-resolucao-tse-de-combate-as-fake-news-e-nega-pedido-de-aras.shtml",
+    "hat": "fake news",
+    "title": "Fachin defende resolução do TSE de combate às fake news e nega pedido de Aras",
+    "summary": "Ministro encaminhou caso para julgamento do plenário"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.8125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos, clube de tiro e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7824.4375,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-e-haddad-planejam-campanha-a-reboque-de-bolsonaro-e-lula-na-reta-final.shtml",
+    "hat": "Eleições 2022",
+    "title": "Tarcísio e Haddad planejam campanha a reboque de Bolsonaro e Lula na reta final",
+    "summary": "Última semana antes do segundo turno tem eventos com padrinhos e debate"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7566.125,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/pacheco-conta-com-imagem-de-equilibrio-para-se-manter-a-frente-do-senado-em-2023.shtml",
+    "hat": "presidente do senado",
+    "title": "Pacheco conta com imagem de equilíbrio para se manter à frente do Senado em 2023"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7365.09375,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/plano-de-guedes-de-mexer-no-salario-minimo-vira-municao-para-lula-na-reta-final-da-campanha.shtml",
+    "hat": "campanha",
+    "title": "Plano de Guedes de mexer no salário mínimo vira munição para Lula na reta final"
+  }
+]

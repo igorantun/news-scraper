@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8922.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/terras-de-lula-e-bolsonaro-tem-eleitores-com-sonho-de-virada-no-2o-turno-e-guerra-de-rejeicoes.shtml",
+    "hat": "Eleições 2022",
+    "title": "Terras de Lula e Bolsonaro têm eleitores com sonho de virada no 2º turno e guerra de rejeições",
+    "summary": "Petista recebeu votação ampla na cidade natal, e presidente teve margem tímida no lugar onde cresceu"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.5625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8921.109375,
+      "left": 1305,
+      "height": 181.859375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/simule-a-eleicao-nos-estados-e-veja-quem-seria-o-presidente-eleito.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simule a eleição nos estados e veja quem seria o presidente eleito",
+    "summary": "Distribua votos de Lula e Bolsonaro e saiba como os estados influenciam o resultado final"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8658.34375,
+      "left": 974.984375,
+      "height": 219.546875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ordem-de-equipe-de-tarcisio-pode-configurar-crime-e-especialistas-defendem-apuracao.shtml",
+    "hat": "Eleições 2022",
+    "title": "Ordem de equipe de Tarcísio pode configurar crime, e especialistas defendem apuração"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8403.8125,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/empresas-como-a-sabesp-que-tarcisio-cogita-privatizar-sao-as-mais-reestatizadas-no-mundo.shtml",
+    "hat": "Painel",
+    "title": "Empresas como a Sabesp, que Tarcísio cogita privatizar, são as mais reestatizadas no mundo"
+  }
+]

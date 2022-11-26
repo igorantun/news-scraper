@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3487,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/coletiva-moraes-tse-segundo-turno.ghtml",
+    "hat": "Transporte de eleitores",
+    "title": "Moraes descarta estender votação após PRF descumprir ordem judicial e atrasar eleitores",
+    "summary": "Segundo presidente do TSE, diretor da polícia alegou que operações coibiram infrações de trânsito e não impediram ninguém de votar."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -3487,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-vota-em-sao-bernardo-e-bolsonaro-no-rio-de-janeiro.ghtml",
+    "title": "Lula diz que eleição definirá 'modelo de Brasil'; Bolsonaro fala em 'expectativa de vitória'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2745.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/prf-descumpre-ordem-do-tse-e-faz-pelo-menos-514-operacoes-de-fiscalizacao-contra-onibus-de-eleitores.ghtml",
+    "title": "PRF ignorou proibição e fez ao menos 560 operações, metade no Nordeste",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2467.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/30/ministro-da-justica-foi-escalado-por-bolsonaro-para-uso-da-prf-contra-transporte-de-eleitores.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Operação da PRF mira áreas mais lulistas e foi chefiada por ministro",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -2189.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/diretor-geral-da-prf-posta-em-rede-social-pedido-de-voto-em-bolsonaro-e-depois-apaga.ghtml",
+    "title": "Bolsonarista, diretor da PRF pede votos para presidente em post",
+    "category": "Eleições 2022"
+  }
+]

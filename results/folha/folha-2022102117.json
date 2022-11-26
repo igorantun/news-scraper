@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9601.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/plano-de-militares-para-fiscalizacao-de-urnas-preve-8-etapas-e-fim-so-em-janeiro.shtml",
+    "hat": "Eleições 2022",
+    "title": "Plano de militares para fiscalização de urnas prevê 8 etapas e fim só em janeiro",
+    "summary": "Bolsonaro tem usado fiscalização de militares do processo eleitoral em ofensiva contra sistema de votação"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.765625,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9337.34375,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/bannon-e-condenado-a-4-meses-de-prisao-por-desacato-ao-congresso-dos-eua.shtml",
+    "hat": "mundo",
+    "title": "Steve Bannon é condenado a 4 meses de prisão por desacato ao Congresso dos EUA",
+    "summary": "Ex-estrategista de Trump foi acusado de desrespeitar intimações sobre Capitólio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9079.03125,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/grupos-acionam-tse-e-acusam-irregularidades-na-votacao-do-1o-turno-brasileiro-nos-eua.shtml",
+    "hat": "SEGURANÇA NAS ELEIÇÕES",
+    "title": "Grupos acionam TSE e acusam irregularidades na votação do 1º turno brasileiro nos EUA"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8922.09375,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/governo-bolsonaro-ja-tomou-18-iniciativas-que-usam-estrutura-estatal-e-dao-vantagem-eleitoral-veja.shtml",
+    "hat": "uso da máquina na campanha",
+    "title": "Governo Bolsonaro já tomou 18 iniciativas que usam estrutura estatal e dão vantagem eleitoral",
+    "summary": "Desde o 7 de Setembro, presidente acelerou uso da máquina na campanha"
+  }
+]

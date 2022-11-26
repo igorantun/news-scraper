@@ -1,0 +1,64 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4949,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-ja-esta-preso-no-rio.ghtml",
+    "hat": "Ex-deputado preso",
+    "title": "Jefferson chega a presídio no Rio 14 horas depois de atacar a PF com fuzil e granadas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4949,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/apos-jefferson-atacar-policiais-bolsonaro-diz-que-nao-tem-nem-foto-com-ex-deputado-apesar-de-registros-no-palacio-do-planalto.ghtml",
+    "title": "Bolsonaro diz não ter foto com Roberto Jefferson; veja imagens"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4612.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2022/10/23/cinegrafista-agredido-em-cobertura-da-prisao-de-roberto-jefferson-vai-passar-a-noite-em-observacao-na-uti.ghtml",
+    "title": "Cinegrafista atacado por bolsonarista passa noite na UTI"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4207.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/24/veja-fotos-da-viatura-da-policia-federal-apos-ataque-de-roberto-jefferson-com-fuzil-e-granadas.ghtml",
+    "title": "FOTOS mostram como ficou a viatura da PF após o ataque",
+    "category": "Sul do Rio e Costa Verde"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3929.65625,
+      "left": 348.65625,
+      "height": 132.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/24/prisao-de-roberto-jefferson-comentaristas-da-globonews-analisam-ataque-de-ex-deputado-a-policiais.ghtml",
+    "title": "ANÁLISES: Jefferson quis virar mártir, mas se tornou criminoso comum"
+  }
+]

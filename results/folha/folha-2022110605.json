@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8400.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/persio-arida-e-andre-lara-resende-sao-sondados-para-atuar-na-transicao-do-governo-lula.shtml",
+    "hat": "TRANSIÇÃO DE GOVERNO",
+    "title": "Pérsio Arida e André Lara Resende são sondados para atuar na transição do governo Lula",
+    "summary": "Integrantes da equipe que implantou o Plano Real, economistas apoiaram o petista na disputa contra Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.21875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=5J2ar2UK8OM",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8082.4375,
+      "left": 975,
+      "height": 247.265625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/elite-brasileira-capturou-ate-65-dos-ganhos-com-educacao-nos-ultimos-40-anos.shtml",
+    "hat": "INIQUIDADE EDUCACIONAL",
+    "title": "Elite brasileira capturou até 65% dos ganhos com educação nos últimos 40 anos",
+    "summary": "Mesmo com igual grau de instrução, 10% no topo ganham 50% mais que a metade mais pobre"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7800.1875,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-mira-base-raiz-e-tera-oponentes-na-disputa-pela-lideranca-da-direita.shtml",
+    "hat": "Governo Bolsonaro",
+    "title": "Bolsonaro mira base raiz e terá oponentes na disputa pela liderança da direita",
+    "summary": "Presidente busca se manter como principal nome da oposição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7603.3125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/stf-suspende-o-adiamento-das-leis-aldir-blanc-e-paulo-gustavo-feito-por-bolsonaro.shtml",
+    "hat": "Supremo",
+    "title": "STF suspende o adiamento das leis Aldir Blanc e Paulo Gustavo feito por Bolsonaro"
+  }
+]

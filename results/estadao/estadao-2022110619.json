@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9717.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/ciro-nogueira-critica-plano-b-e-defende-negociacao-da-pec-da-transicao-com-o-centrao/",
+    "hat": "Novo governo",
+    "title": "Ciro Nogueira defende negociação da 'PEC da Transição' com o Centrão e critica 'plano B' fora do Congresso",
+    "summary": "Equipe de Lula analisa como pagar auxílio de R$ 600 e outras despesas no início do mandato; uma das possibilidades é abrir crédito extraordinário sem necessidade de acordo no Parlamento"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9717.3125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-brasil-vai-voltando-ao-normal-so-falta-os-golpistas-entenderem-que-fazem-papel-de-bobos/",
+    "hat": "Eliane Cantanhêde",
+    "title": "Lula tem imensa capacidade de atrair apoios e maiorias, e o País vai voltando à normalidade"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/ovni-piloto-relata-luzes-nao-identificadas-em-porto-alegre-durante-voo-nprm/",
+    "hat": "CONVERSA COM TORRE DE CONTROLE",
+    "title": "Óvni? Piloto relata luzes 'não identificadas' durante voo em Porto Alegre; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/polarizacao-avanca-em-escolas-vira-briga-entre-alunos-e-preocupa-educadores/",
+    "hat": "Educação",
+    "title": "Polarização avança em escolas, vira briga entre alunos e preocupa educadores"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 1190.3125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/rebeca-andrade-e-arthur-nory-levam-bronze-e-brasil-encerra-mundial-de-ginastica-com-3-medalhas/",
+    "hat": "GINÁSTICA ARTÍSTICA",
+    "title": "Rebeca Andrade e Arthur Nory levam bronze; Brasil encerra Mundial com 3 medalhas"
+  }
+]

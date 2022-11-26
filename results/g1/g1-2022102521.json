@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6423,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/dia-do-servidor-publico-maioria-dos-estados-muda-calendario-e-evita-feriadao-no-2o-turno.ghtml",
+    "hat": "Eleições",
+    "title": "Maioria dos estados muda calendário para evitar 'feriadão' no 2º turno",
+    "summary": "Ao menos 18 estados adiaram ou anteciparam o feriado do Dia do Servidor Público para evitar aumento de abstenções na votação."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6423,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/10/25/ana-castela-comenta-sobre-machismo-povo-acha-que-pode-pegar-onde-quiser-por-eu-ser-mulher.ghtml",
+    "hat": "Entrevista ao g1",
+    "title": "Ana Castela sobre machismo: 'Povo acha que pode pegar onde quiser'"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6086.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/25/homem-conhecido-como-o-mais-sujo-do-mundo-morre-no-ira-meses-depois-de-tomar-banho.ghtml",
+    "hat": "Vilarejo no Irã",
+    "title": "Homem 'mais sujo do mundo' morre meses após tomar banho"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5681.828125,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/stj-julga-pedido-da-pgr-para-suspender-resolucao-do-tse-sobre-fake-news.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "Maioria no STF vota por manter resolução do TSE sobre fake news",
+    "summary": "Tribunal julga pedido de Augusto Aras, procurador-geral, para suspender medida adotada pela Justiça Eleitoral.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5494.96875,
+      "left": 348.65625,
+      "height": 179.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/25/auxilio-brasil-caixa-pede-prazo-maior-para-concessao-de-credito-consignado.ghtml",
+    "hat": "Economia",
+    "title": "Caixa pede prazo maior para liberar consignado do Auxílio Brasil",
+    "category": "Economia"
+  }
+]

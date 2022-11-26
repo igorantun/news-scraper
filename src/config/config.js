@@ -1,6 +1,8 @@
 import { cert } from "firebase-admin/app";
+import serviceAccountKey from "./serviceAccountKey.js";
 
-const serviceAccount = JSON.parse(process.env.FIREBASE_SERVICE_ACCOUNT);
+const serviceAccount = serviceAccountKey;
+
 serviceAccount.private_key = serviceAccount.private_key?.replace(/\\n/gm, "\n");
 
 const config = {

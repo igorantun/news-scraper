@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12383.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/lula-carta-evangelicos-encontro-sp.htm",
+    "title": "Em carta a evangélicos, Lula defende liberdade religiosa e estado laico",
+    "summary": "Petista refutou fake news ligadas a religião, alfinetou Bolsonaro e relembrou governo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12053.078125,
+      "left": 365,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/putin-declara-lei-marcial-em-areas-anexadas-e-alerta-maximo-na-russia.shtml",
+    "title": "Putin declara lei marcial em áreas anexadas e alerta máximo na Rússia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11755.96875,
+      "left": 365,
+      "height": 190.5625,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/desinformacao-esta-um-desastre-neste-2o-turno-diz-moraes-em-reuniao-com-plataformas.shtml",
+    "title": "Moraes vê desastre das fake news, e TSE busca poder de polícia para agir no 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11541.40625,
+      "left": 365,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/josias-bolsonaro-sobe-em-pesquisas-por-uso-da-maquina-mentiras-e-medo.htm",
+    "title": "Josias: Bolsonaro sobe em pesquisas por uso da máquina pública, mentiras e medo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12053.078125,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/alberto-bombig/2022/10/19/empoderado-valdemar-da-costa-neto-manda-recados-a-bolsonaro-e-a-lula.htm",
+    "title": "Empoderado, Valdemar da Costa Neto manda recados a Bolsonaro e a Lula sobre infraestrutura"
+  }
+]

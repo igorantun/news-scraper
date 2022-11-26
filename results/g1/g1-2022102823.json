@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4471,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/ao-vivo/debate-presidencial-para-segundo-turno-acompanhe-em-tempo-real.ghtml",
+    "hat": "ao vivo",
+    "title": "Lula e Bolsonaro fazem hoje último debate na Globo; veja bastidores e análises",
+    "summary": "Embate final do 2º turno terá transmissão ao vivo no g1 a partir das 21h30."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3729.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/debate-de-2o-turno-para-presidente-na-globo-fotos.ghtml",
+    "title": "Último embate: veja fotos dos preparativos para o debate",
+    "category": "Central das Eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3451.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/moraes-diz-ter-absoluta-certeza-de-que-todos-os-brasileiros-vao-respeitar-resultado-das-eleicoes.ghtml",
+    "hat": "Presidente do TSE",
+    "title": "Moraes: 'Tenho certeza de que brasileiros respeitarão resultado da eleição'",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3173.484375,
+      "left": 348.65625,
+      "height": 179.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/campanhas-de-bolsonaro-e-lula-fecham-acordo-e-desistem-de-direitos-de-resposta-na-tv.ghtml",
+    "hat": "Acordo entre equipes",
+    "title": "Campanhas de Bolsonaro e Lula desistem de direitos de resposta na TV",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -2961.625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/28/ex-vereador-zezinho-do-pt-e-assassinado-em-jandira-na-grande-sao-paulo.ghtml",
+    "hat": "Jandira",
+    "title": "Ex-vereador Zezinho do PT é assassinado a tiros na Grande SP",
+    "summary": "Testemunhas afirmam que suspeito atirou de carro. Polícia apura circunstâncias do crime.",
+    "category": "São Paulo"
+  }
+]

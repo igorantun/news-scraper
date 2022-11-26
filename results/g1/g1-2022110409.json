@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4493,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/ministro-da-casa-civil-oficializa-inicio-da-transicao-do-governo-bolsonaro-para-o-governo-lula.ghtml",
+    "hat": "Passagem de bastão",
+    "title": "Ministro da Casa Civil nomeia Alckmin e oficializa início da transição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4493,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/circuito-sertanejo/noticia/2022/11/04/marilia-mendonca-ainda-e-artista-mais-ouvida-do-brasil-no-youtube-um-ano-apos-sua-morte.ghtml",
+    "hat": "Um ano sem a cantora",
+    "title": "Marília Mendonça ainda é artista mais ouvida do Brasil no YouTube"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4156.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/cinema/noticia/2022/11/04/enola-holmes-2-fa-de-herois-iconicos-henry-cavill-interpreta-sherlock-outra-vez-apos-voltar-a-superman.ghtml",
+    "hat": "Estreia hoje",
+    "title": "'Enola Holmes 2': Superman Henry Cavill interpreta Sherlock outra vez"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3751.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/03/transicao-para-governo-lula-conheca-local-onde-equipe-do-presidente-eleito-vai-trabalhar-em-brasilia.ghtml",
+    "hat": "Brasília",
+    "title": "Gabinete de transição é preparado em Brasília; conheça local",
+    "summary": "Lei prevê nomeação de 50 pessoas para trabalhar em conjunto com o atual governo.",
+    "category": "Distrito Federal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3473.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/11/04/como-governo-trump-atos-golpistas-de-bolsonaro-foram-plantados-muito-antes-das-eleicoes-analisa-professor-da-fgv.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Atos golpistas foram plantados muito antes das eleições, diz analista",
+    "category": "O Assunto"
+  }
+]

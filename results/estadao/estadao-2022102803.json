@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9372.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/debate-globo-segundo-turno-tarcisio-haddad/",
+    "hat": "DISPUTA ELEITORAL EM SP",
+    "title": "Haddad e Tarcísio nacionalizam debate na Globo com confronto sobre pandemia e salário mínimo",
+    "summary": "Ex-prefeito de São Paulo e ex-ministro participam de último encontro antes do segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9372.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/elon-musk-conclui-compra-do-twitter-e-demite-executivos-do-alto-escalao/",
+    "hat": "Rede Social",
+    "title": "Elon Musk compra o Twitter por US$ 44 bi e demite executivos do alto escalão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8894.203125,
+      "left": 1190.328125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/cnj-suspende-redes-sociais-de-dois-magistrados-do-rio-e-do-amazonas-por-causa-de-publicacoes-de-teor-politico-partidario/",
+    "hat": "RETA FINAL DA ELEIÇÃO",
+    "title": "CNJ derruba pela primeira vez redes sociais de juízes pró-Lula e pró-Bolsonaro",
+    "summary": "Decisão atinge desembargador do Tribunal de Justiça do Rio e juíza do Amazonas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8492.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/mercado/lula-carta-2022-visao-mercado-financeiro/",
+    "hat": "E-investidor",
+    "title": "Como o mercado avaliou a carta de Lula que promete 'política fiscal responsável'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8492.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/debate-na-globo-lula-treina-uso-do-tempo-e-bolsonaro-vai-para-tudo-ou-nada/",
+    "hat": "Nesta sexta",
+    "title": "Debate na Globo: Lula treina uso do tempo e Bolsonaro vai para 'tudo ou nada'"
+  }
+]

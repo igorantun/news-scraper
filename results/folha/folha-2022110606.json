@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8263.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/decisoes-do-tse-sob-moraes-devem-servir-de-parametro-para-as-proximas-eleicoes.shtml",
+    "hat": "Eleições 2022",
+    "title": "Decisões do TSE sob Moraes devem servir de parâmetro para as próximas eleições",
+    "summary": "Tribunal vê restrição a armas e combate a fake news como bons exemplos e não garante militares entre fiscais do pleito"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.546875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=5J2ar2UK8OM",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8053.25,
+      "left": 975,
+      "height": 185.671875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrissima/2022/11/lula-vai-a-cop-para-retomar-protagonismo-do-brasil-no-clima.shtml",
+    "hat": "Ambiente",
+    "title": "Lula vai à COP27 para retomar protagonismo do Brasil no clima"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7832.59375,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/elite-brasileira-capturou-ate-65-dos-ganhos-com-educacao-nos-ultimos-40-anos.shtml",
+    "hat": "INIQUIDADE EDUCACIONAL",
+    "title": "Elite brasileira capturou até 65% dos ganhos com educação nos últimos 40 anos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7675.65625,
+      "left": 975,
+      "height": 189.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/alianca-de-bolsonaro-com-evangelicos-e-pragmatica-e-pt-pode-se-reconciliar-diz-sociologo.shtml",
+    "hat": "Partidos",
+    "title": "Aliança de Bolsonaro com evangélicos é pragmática, e PT pode se reconciliar, diz sociólogo",
+    "summary": "Para Paulo Gracino Junior, governo Lula terá abertura para desarticular a mobilização"
+  }
+]

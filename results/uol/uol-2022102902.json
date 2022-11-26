@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12615.609375,
+      "left": 365,
+      "height": 414.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-bolsonaro-debate-globo-aborto.htm",
+    "title": "Lula lembra 'pílula abortiva', e Bolsonaro rebate: 'Você que é abortista'",
+    "summary": "Na Globo, candidatos se enfrentam no último encontro antes do segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12087.90625,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/vencedor-segundo-bloco.htm",
+    "title": "Quem venceu o 2º bloco do debate na Globo? Colunistas do UOL opinam"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11500.546875,
+      "left": 365,
+      "height": 298.484375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/2022/10/28/entenda-a-polemica-que-levou-ao-fim-do-casamento-entre-brady-e-gisele.htm",
+    "title": "Como o casamento entre Brady e Gisele chegou ao fim?"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12087.90625,
+      "left": 619.15625,
+      "height": 585.734375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fake-news-sobre-fraude-eleitoral-ressurgem-e-ultrapassam-nivel-do-1o-turno.shtml",
+    "title": "Fake news sobre fraude eleitoral ressurgem e superam 1º turno"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11478.171875,
+      "left": 619.15625,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/ex-vereador-zezinho-do-pt-e-morto-a-tiros-em-jandira-sp.shtml",
+    "title": "Ex-vereador Zezinho do PT é morto a tiros em Jandira (SP)"
+  }
+]

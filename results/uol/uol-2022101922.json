@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12641.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-49-e-bolsonaro-45-brancos-e-nulos-somam-4-e-indecisos-1.shtml",
+    "title": "Datafolha: Lula tem 49%, e Bolsonaro, 45%; brancos e nulos somam 4%",
+    "summary": "Petista manteve percentual da última pesquisa; presidente oscilou 1 ponto para cima"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12189.125,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/10/19/tse-da-a-lula-direito-de-se-defender-de-bolsonaro-em-184-insercoes-na-tv.htm",
+    "title": "TSE dá a Lula direito de se defender de Bolsonaro em 184 inserções na TV"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11601.765625,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/mourao-pec-decisao-monocratica-stf.htm",
+    "title": "Senador eleito, Mourão quer PEC para acabar com decisão monocrática do STF"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12189.125,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/alberto-bombig/2022/10/19/empoderado-valdemar-da-costa-neto-manda-recados-a-bolsonaro-e-a-lula.htm",
+    "title": "Empoderado, Valdemar da Costa Neto manda recados a Bolsonaro e a Lula sobre infraestrutura"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11868.015625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/propaganda-de-bolsonaro-na-tv-infringe-regras-eleitorais-e-e-interrompida.htm",
+    "title": "Programa de Bolsonaro na televisão é interrompido no ar durante ataque a Lula"
+  }
+]

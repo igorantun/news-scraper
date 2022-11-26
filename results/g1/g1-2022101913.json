@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5901,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/10/19/putin-declara-lei-marcial-em-quatro-regioes-da-ucrania-anexadas-ilegalmente.ghtml",
+    "hat": "Escalada da guerra",
+    "title": "Putin declara lei marcial em 4 regiões anexadas da Ucrânia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5901,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/19/camera-registra-vizinhos-com-faca-e-garrafa-na-porta-de-humorista-eddy-jr-vitima-de-racismo-em-sp.ghtml",
+    "hat": "Racismo em SP",
+    "title": "VÍDEO mostra vizinhos com faca na porta do humorista Eddy Junior"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5564.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/19/portugueses-encontram-o-maior-peixe-osseo-ja-registrado-pela-ciencia-veja-video.ghtml",
+    "hat": "Quase 3 toneladas 🐟",
+    "title": "VÍDEO: portugueses acham maior peixe ósseo já registrado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5159.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/19/doria-anuncia-desfiliacao-do-psdb.ghtml",
+    "hat": "São Paulo",
+    "title": "Doria anuncia desfiliação do PSDB após 22 anos",
+    "summary": "Ex-governador de SP tentou concorrer à Presidência, mas viu partido rachar e apoiar Tebet.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4881.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/bolsonaristas-interrompem-missas-e-ofendem-padres-religiosos-veem-falta-de-respeito.ghtml",
+    "hat": "Intolerância religiosa",
+    "title": "Bolsonaristas interrompem missas e hostilizam padres e católicos",
+    "category": "Eleições 2022"
+  }
+]

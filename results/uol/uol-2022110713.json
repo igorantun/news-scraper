@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12448.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/vivabem/noticias/redacao/2022/11/07/estudo-consumo-de-ultraprocessados-provoca-57-mil-mortes-ao-ano-no-brasil.htm",
+    "title": "Consumo de ultraprocessados causa 57 mil mortes por ano no Brasil",
+    "summary": "Nº é maior que total de homicídios no país em 2019, período analisado por estudo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12176.015625,
+      "left": 365,
+      "height": 571.359375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/convocacao-selecao-brasileira-tite-copa-do-mundo.htm",
+    "title": "Tite convocou 88 jogadores de 11 países até a lista de hoje; você lembra?"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11580.65625,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/veja-o-ranking-dos-clubes-que-mais-cederam-jogadores-para-o-brasil-em-copas.htm",
+    "title": "Veja o ranking dos clubes que mais cederam jogadores para o Brasil em Copas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12176.015625,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/champions-league-sorteio-oitavas-de-final-possibilidades.htm",
+    "title": "Liverpool x Real Madrid e PSG x Bayern; veja duelos das oitavas da Champions"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11719.78125,
+      "left": 619.15625,
+      "height": 253.5,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/07/inflacao-no-governo-lula.htm",
+    "title": "Como deve ficar a inflação no governo Lula? Preços vão subir?"
+  }
+]

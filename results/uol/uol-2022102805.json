@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12589.609375,
+      "left": 365,
+      "height": 414.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/debate-globo-governo-sp-27-de-outubro.htm",
+    "title": "Tarcísio e Haddad sobem tom de ataques e misturam SP com Brasil na Globo",
+    "summary": "Candidatos ao governo de São Paulo se enfrentaram pela última vez antes do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12126.296875,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/tarcisio-haddad-colunistas-debate.htm",
+    "title": "Quem ganhou o debate entre Tarcísio e Haddad na Globo? Colunistas do UOL opinam"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11805.1875,
+      "left": 365,
+      "height": 464.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/eleicoes-2022-debate-rio-grande-do-sul-segundo-turno.htm",
+    "title": "Em debate no RS, Onyx dá as costas, e Leite aposta em propostas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12126.296875,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/27/pf-suspeita-roberto-jefferson-granadas-fuzis-pregos-tentativa-homicidio.htm",
+    "title": "Polícia suspeita que Jefferson prendeu prego em granadas atiradas contra agentes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11670.0625,
+      "left": 619.15625,
+      "height": 338.25,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-49-e-bolsonaro-44-brancos-e-nulos-sao-5-e-indecisos-2.shtml",
+    "title": "Datafolha: Lula tem 49%, e Bolsonaro, 44%; brancos e nulos são 5%"
+  }
+]

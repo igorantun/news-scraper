@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6669,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/11/novo-governo-lula-posicao-partidos.ghtml",
+    "hat": "Mudança no Planalto",
+    "title": "Novo governo Lula: veja quais partidos definiram apoio, oposição ou neutralidade",
+    "summary": "Parte das 23 siglas que terão representação no Congresso já se manifestou sobre como será a postura em relação à gestão do petista."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6669,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/filho-unico-de-gal-costa-chega-a-velorio-em-sao-paulo.ghtml",
+    "hat": "Mãe de todas as vozes",
+    "title": "Velório de Gal Costa chega ao fim em SP; enterro será restrito"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6332.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/famosos-se-despedem-de-gal-costa-em-sp.ghtml",
+    "title": "FOTOS: aos prantos, Sophie Charlotte ampara esposa de Gal"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5927.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/11/guido-mantega-diz-que-pediu-adiamento-de-eleicao-de-presidente-do-bid-e-contesta-indicacao-de-ilan-goldfajn-por-bolsonaro.ghtml",
+    "hat": "Economia",
+    "title": "Guido Mantega pede adiamento de eleição de presidente do BID",
+    "summary": "Membro da equipe de transição de Lula contesta indicação de Ilan Goldfajn por Bolsonaro.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5649.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/11/lula-recebe-10-pedidos-para-reunioes-bilaterais-na-cop-27-presidente-viaja-com-haddad-e-amorim.ghtml",
+    "hat": "Blog da Julia Duailibi",
+    "title": "Lula recebe 10 pedidos para reuniões bilaterais na COP-27",
+    "category": "Blog da Julia Duailibi"
+  }
+]

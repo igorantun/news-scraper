@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10178.65625,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/10/uma-eleicao-crucial.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Em disputa de candidatos muito diferentes, Folha reafirma apartidarismo",
+    "summary": "O que está em jogo não são apenas os próximos quatro anos. São as quase quatro décadas de exercício pleno da democracia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.015625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-a-melhor-sobre-bolsonaro-em-debate-de-monologos.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula leva a melhor sobre Bolsonaro em debate de monólogos",
+    "summary": "Evento na Globo coroa eleição de rejeições que marca a disputa que chega a seu fim"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9968.796875,
+      "left": 315,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/popularidade-digital-com-debate-sobre-mei-bolsonaro-dispara-e-ultrapassa-lula-nas-redes.shtml",
+    "hat": "às vésperas do 2º turno",
+    "title": "Popularidade digital: Com debate sobre MEI, Bolsonaro ultrapassa Lula nas redes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9968.796875,
+      "left": 644.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-se-irrita-e-abandona-entrevista-apos-pergunta-da-folha-sobre-complexo-do-alemao-veja-video.shtml",
+    "hat": "Complexo do Alemão",
+    "title": "Bolsonaro se irrita e abandona entrevista após pergunta da Folha; veja"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9968.796875,
+      "left": 974.96875,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-pt-tem-mais-simpatizantes-mas-tambem-e-o-partido-mais-rejeitado.shtml",
+    "hat": "partidos políticos",
+    "title": "PT tem mais simpatizantes, mas também é o partido mais rejeitado, diz Datafolha",
+    "summary": "PL, de Bolsonaro, aparece em segundo lugar em preferência e em rejeição"
+  }
+]

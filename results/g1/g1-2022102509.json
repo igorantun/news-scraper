@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5938,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/25/whatsapp-apresenta-instabilidade-nesta-terca-feira.ghtml",
+    "hat": "Fora do ar",
+    "title": "WhatsApp apresenta instabilidade no mundo todo nesta terça",
+    "summary": "Usuários relatam que não conseguem enviar ou receber mensagens. Meta diz estar trabalhando para restabelecer o serviço."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5938,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/pesquisas-eleitorais/presidente/2-turno/Ipec/",
+    "hat": "2º turno das eleições",
+    "title": "Lula 50% x 43% Bolsonaro: veja números do Ipec por região, renda, idade e sexo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5196.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/25/policiais-federais-atingidos-por-roberto-jefferson-tem-estilhacos-no-quadril-e-no-cranio.ghtml",
+    "hat": "Descontrolado",
+    "title": "Policiais federais atingidos por Jefferson têm estilhaços no quadril e no crânio",
+    "summary": "Karina de Oliveira levou pontos no rosto e na coxa. Delegado Villela disse que não enxergou por causa de sangue no rosto.",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4918.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/em-depoimento-roberto-jefferson-diz-ter-dado-50-tiros-contra-a-pf.ghtml",
+    "title": "Indiciado por tentativa de assassinato, Jefferson diz que deu 50 tiros contra a PF",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4640.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/25/o-assunto-821-caso-jefferson-baderna-bolsonarista.ghtml",
+    "hat": "🎧 Podcast",
+    "title": "O ASSUNTO: como a violência de Jefferson atinge Bolsonaro; OUÇA",
+    "category": "O Assunto"
+  }
+]

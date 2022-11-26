@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7030.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/lula-busca-psd-uniao-brasil-e-mdb-para-ampliar-futura-base-na-camara/",
+    "hat": "novo governo",
+    "title": "Lula busca PSD, União Brasil e MDB para ampliar futura base no Congresso",
+    "summary": "Presidente eleito e cúpula do PT investem na articulação com líderes dos partidos para elevar o número de parlamentares aliados e alcançar maioria na Câmara e no Senado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7030.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/imposto-de-renda-isencao-reforma-tributaria-salario-minimo/",
+    "hat": "presidente da Câmara",
+    "title": "Lira sinaliza que poderá votar correção da tabela do Imposto de Renda ainda este ano"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6560.3125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-faz-apelo-para-que-apoiadores-desobstruam-rodovias/",
+    "hat": "MANIFESTAÇÕES CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Bolsonaro pede a manifestantes para desobstruir estradas após 3 dias de bloqueios"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6560.3125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-eleitor-nao-acreditou-que-havia-opcao-ao-populismo-diz-luiz-felipe-davila/",
+    "hat": "ENTREVISTA",
+    "title": "'O eleitor não acreditou que havia opção ao populismo', diz Luiz Felipe d'Avila",
+    "summary": "Ex-candidato ao Planalto diz que o Novo deve deixar claro que não tem dono para atrair os liberais dispersos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6079.3125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/palmeiras-planeja-manter-base-campea-e-contratar-dois-ou-tres-reforcos-para-2023/",
+    "hat": "TÍTULO BRASILEIRO",
+    "title": "Palmeiras planeja manter base campeã e contratar 'dois ou três reforços' para 2023"
+  }
+]

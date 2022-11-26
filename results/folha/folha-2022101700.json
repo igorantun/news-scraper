@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9083.109375,
+      "left": 315,
+      "height": 331.671875,
+      "width": 960
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420892",
+    "hat": "análise",
+    "title": "Lula e Bolsonaro empatam no embate direto do primeiro bloco; acompanhe o debate"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -876.25,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8716.453125,
+      "left": 315,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420880",
+    "hat": "desinformação",
+    "title": "Bolsonaro diz que Lula mente e petista diz que presidente é rei das fake news"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8716.453125,
+      "left": 644.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420889",
+    "hat": "segurança pública",
+    "title": "Bolsonaro associa Lula a PCC; petista liga rival a milicianos do Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8716.453125,
+      "left": 974.96875,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420893",
+    "hat": "ex-ministro",
+    "title": "Lula e Bolsonaro travam embate sobre Tarcísio, candidato ao Governo de SP"
+  }
+]

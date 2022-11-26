@@ -1,0 +1,64 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3487,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-vence-o-segundo-turno-e-volta-para-o-terceiro-mandato-de-presidente.ghtml",
+    "title": "LULA É ELEITO PRESIDENTE",
+    "summary": "Candidato do PT vence Bolsonaro na eleição mais polarizada da história e governará o Brasil em um 3º mandato, fato inédito."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2467.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/apuracao/governador.ghtml",
+    "title": "Tarcísio de Freitas é eleito governador de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2189.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/sp/sao-paulo/eleicoes/2022/mapas/apuracao-estado-governador/2-turno/",
+    "title": "Mapa mostra apuração de SP em cada município"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -1131.140625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/rs/rio-grande-do-sul/eleicoes/2022/mapas/apuracao-estado-governador/2-turno/",
+    "title": "Mapa mostra apuração de RS em cada município"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -852.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/mapas/apuracao-estado-presidente/",
+    "title": "MAPA: Veja a votação para presidente em cada estado",
+    "category": "Eleições"
+  }
+]

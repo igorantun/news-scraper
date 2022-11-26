@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9388.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/no-mapa-eleitoral-de-2022-lula-repete-dilma-e-bolsonaro-replica-aecio-em-2014/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Cantanhêde: 'No mapa eleitoral de 2022, Lula repete Dilma e Bolsonaro replica Aécio em 2014'",
+    "summary": "'Os tempos são outros, mas há uma forte relação entre as duas eleições'; leia coluna"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9388.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/pessoas-morrem-apos-multidao-ser-esmagada-em-halloween-na-coreia-do-sul/",
+    "hat": "tragédia",
+    "title": "Ao menos 120 pessoas morrem após multidão ser esmagada em Halloween na Coreia do Sul",
+    "summary": "Autoridades acreditam que as pessoas foram esmagadas depois de multidão avançar em um beco estreito"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8954.203125,
+      "left": 1190.328125,
+      "height": 298,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-ou-bolsonaro-quem-ganhou-o-debate-da-globo-veja-o-que-dizem-analistas/",
+    "hat": "Corrida presidencial",
+    "title": "Lula ou Bolsonaro: quem ganhou o último debate antes do 2º turno? Veja o que dizem analistas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8508.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-deve-perder-preciosos-votos-reage-temer-apos-ser-chamado-de-golpista-em-debate/",
+    "hat": "EX-PRESIDENTE",
+    "title": "Temer reage a Lula após ser chamado de golpista: 'O que houve foi um golpe de sorte'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8508.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=3SO74NB2GFBJTBBAASCOGBEJEQ",
+    "hat": "Disputa em SP",
+    "title": "Tarcísio encerra campanha em São Bernardo do Campo, local emblemático para petistas"
+  }
+]

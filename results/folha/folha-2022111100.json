@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9699.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/nunca-vi-mercado-tao-sensivel-como-o-nosso-diz-lula-apos-tombo-da-bolsa.shtml",
+    "hat": "Economia",
+    "title": "'Nunca vi mercado tão sensível como o nosso', diz Lula após tombo da Bolsa",
+    "summary": "Petista disse 'achar engraçado' não ter visto mercado nervoso nos 4 anos do governo Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.25,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9381.4375,
+      "left": 975,
+      "height": 175.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/pf-abre-investigacao-contra-diretor-geral-da-prf-por-atuacao-nas-eleicoes.shtml",
+    "hat": "Eleições 2022",
+    "title": "PF abre investigação contra diretor-geral da Polícia Rodoviária Federal nas eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9171,
+      "left": 975,
+      "height": 188.09375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-segue-em-silencio-mais-de-24-h-apos-relatorio-da-defesa-nao-constatar-fraude-nas-urnas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro segue em silêncio mais de 24 h após relatório da Defesa não constatar fraude"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8947.921875,
+      "left": 975,
+      "height": 194.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/alckmin-anuncia-anielle-franco-ex-ministros-do-pt-e-cotado-para-justica-para-equipe-de-transicao.shtml",
+    "hat": "transição de governo",
+    "title": "Alckmin anuncia Anielle Franco, ex-ministros do PT e cotado para Justiça para transição"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9450.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-ou-haddad-quem-ganhou-o-debate-da-globo-veja-o-que-dizem-analistas/",
+    "hat": "DISPUTA ELEITORAL EM SP",
+    "title": "Tarcísio ou Haddad: quem ganhou o debate da Globo para governador de SP? Veja o que dizem analistas",
+    "summary": "Candidatos ao Palácio dos Bandeirantes participaram do último confronto antes do segundo turno; encontro foi marcado pela polarização nacional e divergências sobre projetos de desestatização"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9450.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/elon-musk-conclui-compra-do-twitter-e-demite-executivos-do-alto-escalao/",
+    "hat": "Rede Social",
+    "title": "Elon Musk compra o Twitter por US$ 44 bi e demite executivos do alto escalão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8912.203125,
+      "left": 1190.328125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/cnj-suspende-redes-sociais-de-dois-magistrados-do-rio-e-do-amazonas-por-causa-de-publicacoes-de-teor-politico-partidario/",
+    "hat": "RETA FINAL DA ELEIÇÃO",
+    "title": "CNJ derruba pela primeira vez redes sociais de juízes pró-Lula e pró-Bolsonaro",
+    "summary": "Decisão atinge desembargador do Tribunal de Justiça do Rio e juíza do Amazonas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8494.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=WUZMBW2IYZGX5A7Q7V5BNBHHL4",
+    "hat": "Disputa nos Estados",
+    "title": "'A melhor vacina é pegar a doença', diz Onyx sobre covid em debate no RS; veja vídeo",
+    "summary": "Eduardo Leite, adversário na disputa, rebateu lembrando que o coronavírus matou mais de 600 mil no Brasil"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8494.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/debate-na-globo-lula-treina-uso-do-tempo-e-bolsonaro-vai-para-tudo-ou-nada/",
+    "hat": "Nesta sexta",
+    "title": "Debate na Globo: Lula treina uso do tempo e Bolsonaro vai para 'tudo ou nada'"
+  }
+]

@@ -20,12 +20,12 @@ node_modules/
 
 # Credentials
 .env
-src/config/serviceAccountKey.json
+src/config/serviceAccountKey.js
 
 # Editor configs
 .vscode
 
 # Reports
 reports
-results
+results/**/*.html
 TODO.md

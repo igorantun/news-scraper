@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5907,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/20/datafolha-1-em-cada-4-brasileiros-recebe-auxilio-brasil-veja-a-intencao-de-voto-dos-beneficiarios-em-lula-e-bolsonaro.ghtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Veja intenção de voto dos beneficiários do Auxílio Brasil, segundo Datafolha",
+    "summary": "Lula mantém vantagem entre os que recebem o benefício, e apoio a Bolsonaro cresce."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5907,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/ao-vivo/sp2-entrevista-tarcisio-de-freitas-candidato-do-republicanos-ao-governo-de-sp.ghtml",
+    "hat": "Eleição em SP",
+    "title": "SP2 entrevista daqui a pouco Tarcísio de Freitas, candidato ao governo de SP"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5165.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/20/datafolha-democracia-tem-apoio-recorde-de-79percent-dos-eleitores.ghtml",
+    "title": "Datafolha: democracia tem apoio recorde de 79% dos eleitores",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4887.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/20/peguei-o-emprestimo-consignado-e-perdi-o-auxilio-brasil-o-que-acontece-agora.ghtml",
+    "hat": "Dinheiro emprestado",
+    "title": "Quem pega consignado e perde Auxílio Brasil terá que pagar dívida",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4609.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/20/guedes-confirma-plano-de-desvincular-salario-minimo-da-inflacao-mas-nega-que-objetivo-seja-reajuste-menor.ghtml",
+    "hat": "Encontro com empresários",
+    "title": "Guedes confirma plano de desvincular salário mínimo da inflação",
+    "summary": "Ministro da Economia negou que objetivo da proposta seja dar reajuste menor.",
+    "category": "Economia"
+  }
+]

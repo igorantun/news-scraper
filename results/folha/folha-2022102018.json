@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10016.109375,
+      "left": 315,
+      "height": 238.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-apoio-a-democracia-atinge-recorde-no-brasil-as-portas-do-2o-turno.shtml",
+    "hat": "pesquisa eleitoral",
+    "title": "Apoio à democracia atinge recorde às vésperas do 2º turno",
+    "summary": "Datafolha mostra que 79% dos brasileiros apoiam a democracia e 5% defendem a ditadura em algumas circunstâncias"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.484375,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9742.4375,
+      "left": 974.984375,
+      "height": 273.625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-amplia-poder-na-reta-final-da-eleicao-e-reduz-prazo-para-exclusao-de-fake-news.shtml",
+    "hat": "Eleições 2022",
+    "title": "TSE amplia poder na reta final da eleição e reduz prazo para exclusão de fake news"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9433.828125,
+      "left": 974.984375,
+      "height": 274.203125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/liz-truss-renuncia-ao-cargo-de-primeira-ministra-do-reino-unido.shtml",
+    "hat": "crise britânica",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido após 44 dias"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9695.453125,
+      "left": 1305,
+      "height": 104.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/podcast-a-tentativa-de-lira-de-emparedar-institutos-com-projeto-para-criminalizar-pesquisas.shtml",
+    "hat": "criminalização",
+    "title": "A tentativa de Lira de emparedar institutos de pesquisa"
+  }
+]

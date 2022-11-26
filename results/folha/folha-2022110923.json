@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9714.109375,
+      "left": 315,
+      "height": 395.71875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/morre-gal-costa-uma-das-maiores-vozes-da-musica-brasileira-aos-77-anos.shtml"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9283.40625,
+      "left": 315,
+      "height": 238.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/canto-de-gal-costa-partiu-de-joao-gilberto-para-inventar-um-brasil.shtml",
+    "hat": "Lucas Brêda",
+    "title": "Canto de Gal partiu de João Gilberto para inventar um Brasil",
+    "summary": "Bossa nova foi o ponto de partida para a cantora se tornar a voz mais expressiva da tropicália e sinônimo da MPB"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -871.71875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9009.734375,
+      "left": 975,
+      "height": 185.671875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/como-gal-costa-se-tornou-simbolo-de-rebeldia-feminina.shtml",
+    "hat": "Marina Lourenço",
+    "title": "Gal Costa se tornou símbolo forte de rebeldia das mulheres"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8789.078125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/gal-costa-foi-sex-symbol-tropical-com-suas-roupas-jovens-e-ousadas.shtml",
+    "hat": "Maria Claudia Bonadio",
+    "title": "Gal Costa foi grande sex symbol tropical com suas roupas jovens e ousadas"
+  }
+]

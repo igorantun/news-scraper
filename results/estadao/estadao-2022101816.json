@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9262.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/alianca-com-bolsonaro-reacende-planos-de-moro-no-stf-e-ate-candidatura-a-presidencia/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Aliança com Bolsonaro reacende planos de Moro no STF e até candidatura à Presidência",
+    "summary": "Senador eleito passou a apoiar ostensivamente a reeleição do atual presidente"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9262.3125,
+      "left": 1190.328125,
+      "height": 194,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/alexandre-manda-ministerio-da-defesa-entregar-documentos-sobre-auditoria-das-urnas/",
+    "hat": "SISTEMA DE VOTAÇÃO",
+    "title": "Alexandre de Moraes dá 48 horas para  Ministério da Defesa entregar documentos sobre fiscalização das urnas eletrônicas",
+    "summary": "Pela decisão do presidente do TSE, pasta deve apresentar cópias da auditoria realizada no primeiro turno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9038.3125,
+      "left": 1190.328125,
+      "height": 572.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/ataques-russos-deixam-partes-da-ucrania-sem-energia-e-agua-npri/",
+    "hat": "GUERRA DE PUTIN",
+    "title": "Novos ataques russos deixam partes da Ucrânia no escuro e sem água",
+    "summary": "Ao menos três cidades foram alvos de bombardeios; presidente ucraniano chama ação de 'terrorista'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8382.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/voo-rio-paris-da-air-france-tentamos-de-tudo-repetiram-pilotos-antes-da-queda-do-aviao-em-2009/",
+    "hat": "TRAGÉDIA EM 2009",
+    "title": "'Tentamos de tudo', repetiram pilotos antes da queda do avião que ia do Rio a Paris",
+    "summary": "Trechos do áudio da cabine da Air France foram tocados durante julgamento da empresa e da Airbus"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8382.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/emais/seu-jorge-fala-sobre-ataques-racistas-em-porto-alegre-nao-reconheci-a-cidade-que-aprendi-a-amar/",
+    "hat": "RESPOSTA A ATAQUES",
+    "title": "'Não reconheci a cidade que aprendi a amar', diz Seu Jorge após racismo em Porto Alegre"
+  }
+]

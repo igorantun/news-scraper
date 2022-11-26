@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9679.109375,
+      "left": 315,
+      "height": 260.734375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pericia-da-pf-ve-indicios-de-que-roberto-jefferson-premeditou-ataque-a-policiais.shtml",
+    "hat": "Caso roberto jefferson",
+    "title": "Perícia da PF vê indícios de que Roberto Jefferson premeditou ataque a policiais",
+    "summary": "Análise realizada nesta segunda (24) encontra indícios de que ex-deputado planejou ação violenta contra agentes"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -876.484375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9678.109375,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/simule-a-eleicao-nos-estados-e-veja-quem-seria-o-presidente-eleito.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simule o pleito nos estados e veja quem poderia ser o presidente eleito"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9383.390625,
+      "left": 974.984375,
+      "height": 175.453125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/haddad-enaltece-sua-alianca-e-ve-tarcisio-nas-garras-do-centrao-e-no-vacuo-do-bolsonarismo.shtml",
+    "hat": "Sabatina Folha/UOL",
+    "title": "Haddad enaltece alianças e vê Tarcísio nas garras do centrão e no vácuo do bolsonarismo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9172.953125,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ordem-de-equipe-de-tarcisio-pode-configurar-crime-e-especialistas-defendem-apuracao.shtml",
+    "hat": "Eleições 2022",
+    "title": "Ordem de equipe de Tarcísio pode configurar crime, dizem especialistas"
+  }
+]

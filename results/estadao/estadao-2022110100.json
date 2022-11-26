@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7945.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ministros-e-militares-agem-para-bolsonaro-reconhecer-logo-derrota-na-eleicao/",
+    "hat": "SUCESSÃO PRESIDENCIAL",
+    "title": "Ministros e militares agem para Bolsonaro reconhecer derrota na eleição o quanto antes",
+    "summary": "Interlocutores dizem que presidente se sente injustiçado, mas indicou que irá aceitar vitória de Lula; silêncio passa de 24 horas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7549.359375,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/caminhoneiros-bloqueiam-rodovias-em-protesto-a-vitoria-de-lula/",
+    "hat": "MANIFESTAÇÕES PELO PAÍS",
+    "title": "Caminhoneiros fazem bloqueios em rodovias de 20 Estados; em SP, faixas da Marginal Tietê são fechadas",
+    "summary": "São mais de 200 pontos de interdição, bloqueio ou protesto contra a vitória de Lula; líderes da categoria criticam ação"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7549.359375,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/mourao-e-alckmin-conversam-por-telefone-enquanto-bolsonaro-silencia-sobre-vitoria-de-lula/",
+    "hat": "CONVERSA DE VICES",
+    "title": "Mourão e Alckmin falam por telefone enquanto Bolsonaro silencia sobre eleição",
+    "summary": "Ex-governador ligou para agradecer mensagem de felicitação que recebeu do atual vice-presidente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7115.25,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-deve-compor-ministerios-com-nomes-alem-do-pt-veja-os-mais-cotados/",
+    "hat": "NOVO GOVERNO",
+    "title": "Lula deve compor ministérios com nomes além do PT; veja os mais cotados"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6593.703125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/o-joelho-operado-falhou-o-passo-falseou-diz-barao-seguranca-de-carla-zambelli-sobre-tiro-na-perseguicao-a-jornalista/",
+    "hat": "DEPOIMENTO À POLÍCIA",
+    "title": "Segurança de Zambelli diz que atirou por acidente porque 'joelho operado falhou'",
+    "summary": "Policial militar conhecido como 'Barão' estava com a deputada durante perseguição a jornalista"
+  }
+]

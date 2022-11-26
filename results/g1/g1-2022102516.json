@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6429,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/cidades-onde-lula-e-bolsonaro-empataram-no-1o-turno-vivem-tranquilidade-nas-ruas-e-tensao-nas-redes-sociais.ghtml",
+    "hat": "Polarização ao extremo",
+    "title": "Cidades onde deu empate no 1º turno têm tranquilidade nas ruas e tensão nas redes",
+    "summary": "Só em 3 dos mais de 5 mil municípios do país Lula e Bolsonaro tiveram a mesma votação. Conheça Coronel Sapucaia, Ribeirão do Sul e Alecrim."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6429,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/25/justica-russa-mantem-prisao-de-jennifer-griner.ghtml",
+    "hat": "Condenada a 9 anos",
+    "title": "Justiça russa mantém prisão de jogadora de basquete dos EUA"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6092.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/10/25/vascaino-jovem-vai-a-festa-sem-saber-que-era-a-fantasia-descobre-que-esta-de-casimiro-viraliza-e-recebe-resposta-do-sosia-famoso.ghtml",
+    "hat": "Meteu essa?",
+    "title": "Vascaíno vai a festa sem saber que era à fantasia e vira Casimiro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5687.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2022/noticia/2022/10/25/coronel-sapucaia-ms-na-fronteira-com-o-paraguai-repete-contradicoes-territoriais-no-1o-turno-ao-ter-mesma-votacao-para-lula-e-bolsonaro.ghtml",
+    "title": "Na fronteira com o Paraguai, a divisão de votos, moedas e nacionalidades",
+    "category": "Eleições 2022 no Mato Grosso do Sul"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5409.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/stj-julga-pedido-da-pgr-para-suspender-resolucao-do-tse-sobre-fake-news.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "Maioria no STF vota por manter resolução do TSE sobre fake news",
+    "summary": "Procurador-geral, Augusto Aras, havia contestado medidas adotadas pelo tribunal.",
+    "category": "Eleições 2022"
+  }
+]

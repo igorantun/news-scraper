@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5656,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/01/silencio-de-bolsonaro-sobre-resultado-da-eleicao-estimula-bloqueios-dizem-associacoes-de-policiais-rodoviarios-federais.ghtml",
+    "hat": "Atos antidemocráticos",
+    "title": "Silêncio de Bolsonaro estimula bloqueios em rodovias, dizem agentes da PRF"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5656,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/01/caso-richthofen-mansao-vendida-segue-vazia-e-borrada-no-google-apos-20-anos-penas-de-suzane-e-cravinhos-acabam-em-2038-a-2043.ghtml",
+    "hat": "20 anos do crime",
+    "title": "Vendida, mansão dos Richthofen está vazia e borrada no Google"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5319.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/01/imagens-de-satelite-mostram-antes-e-depois-da-ponte-que-caiu-na-india-135-pessoas-morreram.ghtml",
+    "hat": "Tragédia com 135 mortos",
+    "title": "Imagens aéreas mostram antes e depois da ponte que caiu na Índia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4914.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/governadores-rodovias-bolsonaristas.ghtml",
+    "title": "Governadores de 8 estados mandam PM tirar bolsonaristas de rodovias",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4636.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/conexao-globonews/video/miriam-leitao-direcao-da-prf-esta-se-comportando-de-maneira-ilegal-11085360.ghtml",
+    "hat": "Conivência com bolsonaristas",
+    "title": "MIRIAM: Alinhada a Bolsonaro, direção da PRF tem conduta ilegal",
+    "category": "Conexão Globonews"
+  }
+]

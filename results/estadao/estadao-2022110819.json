@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9773.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/equipe-lula-dois-modelos-pec-furar-teto-de-gastos/",
+    "hat": "NOVO GOVERNO",
+    "title": "Equipe de Lula trabalha com 2 tipos  de PEC para furar teto de gastos e abrir espaço para mais R$ 175 bi",
+    "summary": "Estão em discussão duas alternativas, apelidadas de 'PEC transparente' e 'PEC prática', ambas abrindo espaço em 2023 para despesas da nova gestão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9773.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/alckmin-anuncia-que-simone-tebet-vai-atuar-na-area-de-desenvolvimento-social-do-governo-de-transicao/",
+    "hat": "DEFINIÇÃO DE EQUIPE",
+    "title": "Transição de governo: Simone Tebet vai atuar na área de desenvolvimento social"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9303.3125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pl-anuncia-que-sera-oposicao-a-lula-e-nao-vai-questionar-resultado-da-eleicao/",
+    "hat": "Política",
+    "title": "PL anuncia que será oposição a Lula e não vai questionar resultado da eleição",
+    "summary": "Presidente da legenda, Valdemar Costa Neto disse que o PL vai lutar pelas bandeiras de Jair Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9303.3125,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/apoiadores-de-bolsonaro-sugerem-que-comerciantes-coloquem-estrela-do-pt-em-lojas-no-rs/",
+    "hat": "ATOS ANTIDEMOCRÁTICOS",
+    "title": "Apoiadores de Bolsonaro sugerem colocar estrela do PT em lojas cujos donos votaram em Lula no RS",
+    "summary": "Ideia remete ao boicote a estabelecimentos de judeus promovido pelo nazismo na Alemanha"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9303.3125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/dossie-apocrifo-mente-ao-usar-fracasso-de-bolsonaro-no-vale-do-javari-como-sinal-de-fraude-nas-urnas/",
+    "hat": "eleições",
+    "title": "Dossiê mente ao usar derrota de Bolsonaro no Vale do Javari como sinal de fraude nas urnas"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10962.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/cultura/musica/morre-gal-costa-uma-das-maiores-vozes-da-mpb-aos-77-anos/",
+    "hat": "LUTO",
+    "title": "Morre Gal Costa, uma das maiores vozes da MPB",
+    "summary": "Causa da morte não foi divulgada; cantora estava com 77 anos e tinha shows marcados para dezembro e janeiro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10124.984375,
+      "left": 329,
+      "height": 787.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/lula-se-reune-com-lira-e-petistas-falam-em-abertura-de-dialogo/",
+    "hat": "PRESIDENTE ELEITO",
+    "title": "Lula se reúne com Lira e petistas falam em 'abertura de diálogo'",
+    "summary": "Encontro foi na residência oficial do presidente da Câmara, em Brasília; petista também se reúne com o presidente do Senado, Rodrigo Pacheco"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10124.984375,
+      "left": 1190.328125,
+      "height": 298,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-ve-relatorio-da-defesa-como-ultima-cartada-militares-prometem-entregar-documento-hoje/",
+    "hat": "PROCESSO ELEITORAL",
+    "title": "Defesa promete divulgar hoje relatório sobre sistema de votação: veja o que se sabe sobre o documento"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9796.984375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/persio-arida-iva-reforma-tributaria/",
+    "hat": "equipe de transição",
+    "title": "Unificação de impostos via IVA deve ser prioridade para o País, afirma Persio Arida"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9275.328125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/facebook-vai-deixar-principal-escritorio-no-brasil-para-reduzir-custos/",
+    "hat": "REDE SOCIAL",
+    "title": "Facebook vai deixar principal escritório no Brasil para reduzir custos após demissões"
+  }
+]

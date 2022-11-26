@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12306.609375,
+      "left": 365,
+      "height": 276.71875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/alexandre-de-moraes-tse-eleicoes-votacao.htm",
+    "title": "TSE manda PRF parar ações; Moraes diz que operação não impediu voto"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11916.5,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/ciro-nogueira-ri-de-denuncias-e-diz-que-prf-vai-cumprir-tudo-o-que-tse-determinar.shtml",
+    "title": "Ciro Nogueira ri de denúncias e diz que PRF vai 'cumprir tudo' o que TSE determinar"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11394.703125,
+      "left": 365,
+      "height": 429.609375,
+      "width": 224.15625
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2922/10/29/6224-eleicoes-2022-as-principais-noticias-do-segundo-turno.shtml#post421341",
+    "title": "Bolsonaro vence com menos folga em Israel, e Lula ganha na Palestina"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11916.5,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/lula-vota-em-sao-bernardo-pela-manha.htm",
+    "title": "Lula vota em São Bernardo (SP) e diz que ação de Zambelli foi 'cena grotesca'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11525.828125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/bolsonaro-vota-as-8h-no-rio-assim-que-escola-abriu-para-as-portas.htm",
+    "title": "Bolsonaro chega a seção antes das 8h, fala em vitória e não comenta sobre Zambelli"
+  }
+]

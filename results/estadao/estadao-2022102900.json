@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9734.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/centrao-descarta-tese-de-bolsonaro-de-adiar-as-eleicoes-e-faria-abandona-estrategia-contra-radios/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Centrão descarta tese bolsonarista de adiar as eleições e Fábio Faria se arrepende da estratégia das rádios",
+    "summary": "Ministro das Comunicações afirma que parou de tratar de denúncia que apresentou há três dias, após suposta irregularidade"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9338.359375,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/especialistas-apontam-caminhos-e-prioridades-do-proximo-governo-leia-analises/",
+    "hat": "CORRIDA PRESIDENCIAL",
+    "title": "Especialistas apontam caminhos para o progresso e prioridades do próximo governo; leia análises",
+    "summary": "Temas são considerados fundamentais para que o Brasil atinja o seu potencial máximo de crescimento econômico e social"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9338.359375,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://paladar.estadao.com.br/noticias/comida,qual-o-melhor-pao-frances-de-sp-confira-teste-as-cegas,70004156465",
+    "hat": "PALADAR TESTOU",
+    "title": "Qual o melhor pãozinho francês de SP? Confira teste às cegas com 25 padarias"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8968.25,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ato-em-apoio-a-lula-de-pais-do-colegio-santa-cruz-distribui-rosas-mas-polemica-continua/",
+    "hat": "Disputa eleitoral",
+    "title": "Ato em apoio a Lula de pais do Colégio Santa Cruz distribui rosas, mas polêmica continua"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8398.140625,
+      "left": 329,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes/feed-estadao/?liveId=W4JC26ZIXZF7TLIXU2Q62XZWXQ",
+    "hat": "RETA FINAL",
+    "title": "Alívio cômico: confira os momentos mais engraçados dos debates presidenciais",
+    "summary": "De ‘candidato padre’ a ´não cutucar a onça’, embates televisivos geraram uma enxurrada de memes"
+  }
+]

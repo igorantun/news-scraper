@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5493,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/23/ipec-veja-a-intencao-de-votos-para-os-candidatos-ao-governo-dos-12-estados-em-que-ha-2o-turno.ghtml",
+    "hat": "Pesquisa Ipec",
+    "title": "Veja quem está na frente e onde tem empate nos 12 estados com segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5493,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/go/goias/noticia/2022/10/23/bombeiro-de-folga-salva-bebe-de-16-dias-de-vida-que-se-engasgou-com-leite-apos-avo-pedir-ajuda-video.ghtml",
+    "hat": "Goiás",
+    "title": "VÍDEO: bombeiro de folga salva bebê que se engasgou com leite"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5156.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/23/foto-de-olho-de-vulcao-e-grande-vencedora-do-drone-photo-awards-2022-veja-galeria.ghtml",
+    "hat": "📸",
+    "title": "Concurso premia as melhores fotos feitas com drones; veja vencedoras"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4751.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/23/xi-jinping-amplia-poderes-e-inicia-terceiro-mandato-como-secretario-geral-do-partido-comunista-chines.ghtml",
+    "hat": "Liderança chinesa",
+    "title": "Xi Jinping renova mandato como líder da China",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4473.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/23/fortalecido-na-lideranca-da-china-xi-jinping-tera-grandes-desafios-em-seu-3o-mandato-entenda-quais-sao.ghtml",
+    "title": "Xi Jinping terá grandes desafios em seu 3º mandato; entenda quais são",
+    "category": "Mundo"
+  }
+]

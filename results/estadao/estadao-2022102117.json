@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9679.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/senado-tem-que-dar-um-freio-em-alexandre-de-moraes-diz-mourao/",
+    "hat": "Eleições 2022",
+    "title": "Senado tem de 'dar um freio' em Alexandre de Moraes, diz Hamilton Mourão; leia entrevista exclusiva",
+    "summary": "Vice-presidente eleito senador pelo RS diz que presidente do TSE 'ultrapassou limites' e que vai atuar pelo impeachment de ministros da Corte"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9285.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/link/cultura-digital/as-inteligencias-artificiais-que-vao-mudar-o-mundo/",
+    "hat": "link",
+    "title": "DALL-E 2, Gato, LaMDA e Yolo: as inteligências artificiais que vão mudar o mundo",
+    "summary": "Uma máquina criou as imagens futuristas acima; conheça os modelos de IA que podem alterar a maneira como vivemos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9285.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-que-esperar-da-sabatina-de-bolsonaro-apos-lula-recusar-debate-analistas-respondem/",
+    "hat": "Sucessão presidencial",
+    "title": "O que esperar da sabatina de Bolsonaro após Lula recusar debate; analistas respondem",
+    "summary": "Presidente deve adotar tom moderado, falar sobre a melhora econômica  e acenar ao eleitorado mais pobre"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8851.203125,
+      "left": 1190.328125,
+      "height": 386,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/auxilio-brasil-consignado-tcu-relatorio-area-tecnica/",
+    "hat": "Economia",
+    "title": "Auxílio Brasil: área técnica do TCU pede suspensão do consignado; relator do caso deve decidir nesta sexta",
+    "summary": "Parecer  do órgão levanta dúvidas que, na avaliação de ministros, já deveriam estar respondidas pela Caixa antes de iniciar os pagamentos aos beneficiários"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8377.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/steve-bannon-ex-assessor-de-donald-trump-e-condenado-a-4-meses-de-prisao/",
+    "hat": "EUA",
+    "title": "Steve Bannon, ex-assessor de Donald Trump, é condenado a 4 meses de prisão",
+    "summary": "Estrategista político se negou a colaborar com investigação sobre a invasão ao Capitólio"
+  }
+]

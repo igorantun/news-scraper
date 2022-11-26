@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12571.609375,
+      "left": 365,
+      "height": 387.125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/31/mpf-da-24-horas-para-diretor-da-prf-explicar-acoes-contra-caminhoneiros.htm",
+    "title": "Ministério Público dá 24 h para PRF explicar providências contra caminhoneiros",
+    "summary": "Ofício questiona ações que serão adotadas para garantir fluxo nas rodovias"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11921.953125,
+      "left": 365,
+      "height": 505.796875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aliados-sugerem-a-bolsonaro-discurso-em-que-reconheca-derrota-e-aponte-injusticas.shtml",
+    "title": "Aliados sugerem a Bolsonaro discurso em que reconheça derrota e aponte 'injustiças'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11392.15625,
+      "left": 365,
+      "height": 239.125,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-prepara-novo-governo-sob-incerteza-de-colaboracao-de-bolsonaro-para-transicao.shtml",
+    "title": "Lula prepara novo governo sob incerteza de colaboração de Bolsonaro em transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11921.953125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/biden-lula.htm",
+    "title": "Biden liga e conversa com Lula sobre democracia pós-Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11531.28125,
+      "left": 619.15625,
+      "height": 383.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painelsa/2022/10/apos-derrota-bolsonaro-prepara-pacote-de-medidas-na-economia.shtml",
+    "title": "Após derrota, Bolsonaro prepara pacote de medidas na Economia"
+  }
+]

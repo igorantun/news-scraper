@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9507.3125,
+      "left": 329,
+      "height": 865.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tse-diz-que-servidor-da-propaganda-foi-exonerado-por-atuar-com-motivacao-politica/",
+    "hat": "eleições 2022",
+    "title": "TSE: servidor do setor de propaganda foi exonerado por assédio moral e atuar com 'motivação política'",
+    "summary": "Alexandre Machado procurou a PF após perder cargo; tribunal diz que alegações são 'falsas'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9507.3125,
+      "left": 1190.328125,
+      "height": 358,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/banco-central-mantem-juro-basico-em-1375-pela-segunda-vez-consecutiva/",
+    "hat": "taxa selic",
+    "title": "Banco Central mantém juro básico em 13,75% ao ano pela segunda vez seguida",
+    "summary": "Copom já havia indicado estabilidade da taxa por 'período suficientemente prolongado', após ter decretado o fim do ciclo de alta em setembro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9119.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/moscou-luta-para-aumentar-producao-de-armas-para-guerra-na-ucrania/",
+    "hat": "Guerra na Ucrânia",
+    "title": "Moscou luta para ampliar produção de armas; imprensa russa relata falta de equipamentos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8579.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/soma-aquisicao-hering-lucro/",
+    "hat": "Negócios",
+    "title": "Dona de Farm e Animale ainda luta para arrumar casa da Hering um ano após compra"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8579.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/jose-olympio-banco-safra/",
+    "hat": "mudança",
+    "title": "José Olympio Pereira, ex-Credit Suisse, vai assumir a presidência do Banco J. Safra",
+    "summary": "Executivo é figura conhecida no mercado brasileiro desde os anos 1980"
+  }
+]

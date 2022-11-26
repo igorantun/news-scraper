@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6816,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/11/11/texto-da-pec-para-pagar-o-bolsa-familia-em-2023-deve-ser-divulgado-na-quarta-16.ghtml",
+    "hat": "Transição de governo",
+    "title": "Impasse sobre duração do Bolsa Família fora do teto de gastos deixa PEC para depois do feriado",
+    "summary": "Equipe de Lula discute se vai propor a retirada do benefício por 4 anos ou de forma permanente da regra que limita despesas."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6816,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/11/11/banksy-na-ucrania-artista-publica-imagem-de-ilustracao-em-predio-destruido-perto-de-kiev.ghtml",
+    "hat": "Guerra na Ucrânia",
+    "title": "Banksy publica foto de ilustração em prédio destruído perto de Kiev"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6479.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pa/para/noticia/2022/11/11/caso-kat-torres-saiba-quem-e-a-influencer-paraense-denunciada-por-trafico-humano-presa-nos-eua.ghtml",
+    "hat": "Denunciada por tráfico humano",
+    "title": "Caso Kat Torres: saiba quem é a influencer brasileira presa nos EUA"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6074.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/11/mantega-diz-que-nao-sera-ministro-e-que-escolhido-tera-que-se-enquadrar-na-gestao-de-lula.ghtml",
+    "title": "Mantega diz que não será ministro e que titular deverá 'se enquadrar'",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5796.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/11/dolar.ghtml",
+    "hat": "Mercado financeiro",
+    "title": "Dólar fecha em queda, mas tem maior alta semanal em 2 anos",
+    "category": "Economia"
+  }
+]

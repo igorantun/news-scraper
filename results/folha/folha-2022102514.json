@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10793.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-acumula-desculpas-para-tentar-se-afastar-do-ataque-de-roberto-jefferson-a-policiais.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro acumula desculpas para tentar se afastar do ataque de Roberto Jefferson a policiais",
+    "summary": "Episódio com o ex-deputado se tornou ponto de desgaste contra a campanha do presidente"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.296875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10475.4375,
+      "left": 974.984375,
+      "height": 329.640625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/ipca-15-sobe-016-em-outubro-apos-dois-meses-em-queda.shtml",
+    "hat": "inflação",
+    "title": "Após dois meses de deflação, IPCA-15 sobe 0,16% em outubro",
+    "summary": "Indicador prévio de inflação acumula alta de 6,85% em 12 meses, diz IBGE"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10110.8125,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/10/reeleicao-de-bolsonaro-pode-levar-a-desmatamento-de-mais-de-27-mil-km2-em-2026.shtml",
+    "hat": "Planeta em Transe",
+    "title": "Reeleição de Bolsonaro pode levar a desmatamento de mais de 27 mil km2 em 2026"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9953.875,
+      "left": 974.984375,
+      "height": 93.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-recebeu-em-dez-dias-r-264-milhoes-em-doacoes.shtml",
+    "hat": "recursos",
+    "title": "Bolsonaro recebeu em dez dias R$ 26,4 milhões em doações"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5731,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/05/desmatamento-garimpo-e-mais-veja-os-principais-desafios-do-governo-lula-no-meio-ambiente.ghtml",
+    "hat": "Herança bolsonarista",
+    "title": "Desmatamento, garimpo e mais: veja os desafios de Lula no meio ambiente",
+    "summary": "Recorde de queimadas, aumento na emissão de gases estufa, invasão de terra indígena e Fundo Amazônia paralisado são alguns dos marcos negativos da gestão Bolsonaro."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5731,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/11/05/apos-polemicas-durante-campanha-eleitoral-claudia-leitte-e-vaiada-em-show-na-bahia-vivemos-em-uma-democracia.ghtml",
+    "hat": "Micareta em Salvador",
+    "title": "VÍDEO: após polêmica na eleição, Claudia Leitte é vaiada na Bahia"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5394.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/05/primavera-sound-veja-horarios-dos-shows-neste-sabado-e-no-domingo-e-saiba-como-chegar-ao-festival.ghtml",
+    "hat": "Festival em São Paulo",
+    "title": "Veja horários dos shows de hoje e amanhã do Primavera Sound"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4989.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/11/04/ocupacoes-em-areas-de-risco-no-brasil-triplicam-de-1985-a-2021-mostra-estudo.ghtml",
+    "hat": "Habitação",
+    "title": "Ocupações em áreas de risco no Brasil triplicam em 4 décadas",
+    "summary": "Dados do MapBiomas revelam ainda aumento de favelas.",
+    "category": "Jornal Nacional"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4711.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/04/programas-como-o-auxilio-brasil-devem-ser-reajustados-por-medida-provisoria-avalia-equipe-de-transicao.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Equipe de Lula estuda caminho mais fácil para auxílio de R$ 600",
+    "category": "Blog do Valdo Cruz"
+  }
+]

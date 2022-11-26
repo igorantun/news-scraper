@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5267,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/20/datafolha-democracia-tem-apoio-recorde-de-79percent-dos-eleitores.ghtml",
+    "hat": "Pesquisa Eleitoral",
+    "title": "Datafolha: democracia tem apoio recorde de 79% dos eleitores"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5267,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/20/airbus-a320-faz-pouso-de-emergencia-na-colombia-com-combustivel-para-voar-so-mais-6-minutos-autoridade-local-investigara-incidente.ghtml",
+    "hat": "Colômbia",
+    "title": "Avião faz pouso de emergência com combustível para 6 minutos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4930.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/20/pf-apreende-com-patrick-abrahao-r-5-milhoes-em-carros-de-luxo-r-75-mil-em-especie-e-r-13-milhao-em-criptoativos.ghtml",
+    "hat": "Pirâmide financeira",
+    "title": "Rede de Patrick Abrahão tinha carrões, lancha e pedras preciosas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4525.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/20/peguei-o-emprestimo-consignado-e-perdi-o-auxilio-brasil-o-que-acontece-agora.ghtml",
+    "hat": "Dinheiro emprestado",
+    "title": "Quem pega consignado e perde o Auxílio Brasil terá que pagar dívida",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4247.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/tse-confirma-abertura-de-investigacao-sobre-rede-de-desinformacao-bolsonarista.ghtml",
+    "hat": "Justiça Eleitoral",
+    "title": "TSE confirma abertura de investigação sobre 'rede de desinformação' bolsonarista",
+    "summary": "Lista de pessoas a serem investigadas inclui Bolsonaro e o filho Carlos.",
+    "category": "Eleições 2022"
+  }
+]

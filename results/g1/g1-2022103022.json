@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3487,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/apuracao/presidente.ghtml",
+    "hat": "Tempo real",
+    "title": "80,89% das urnas apuradas: Lula tem 50,32%, e Bolsonaro, 49,68%"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2745.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/mapas/mapa-da-apuracao-no-brasil-presidente/2-turno/",
+    "title": "MAPA DA APURAÇÃO: veja a votação para presidente na sua cidade",
+    "category": "Eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2467.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/30/acompanhe-ao-vivo-o-grafico-com-a-evolucao-da-apuracao-dos-votos-para-presidente.ghtml",
+    "title": "Gráfico mostra marcha da apuração e distância entre candidatos",
+    "category": "Eleição em Números"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -1911.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/coletiva-moraes-tse-segundo-turno.ghtml",
+    "hat": "Transporte de eleitores",
+    "title": "Moraes diz que PRF descarta que eleitores foram impedidos de votar",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -1131.140625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/apuracao/governador.ghtml",
+    "title": "SÃO PAULO: siga a apuração para governador"
+  }
+]

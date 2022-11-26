@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12596.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/moraes-mantem-ofensiva-contra-bolsonaristas-mesmo-apos-eleicao.shtml",
+    "title": "Moraes mantém ofensiva contra bolsonaristas mesmo após eleição",
+    "summary": "Cúpula do Judiciário respalda presidente do TSE; especialistas veem excessos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12234.453125,
+      "left": 365,
+      "height": 323.484375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2022/11/08/cbf-inicia-campanha-para-dissociar-politica-da-camisa-da-selecao.htm",
+    "title": "CBF quer dissociar camisa da seleção do bolsonarismo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11886.96875,
+      "left": 365,
+      "height": 388.046875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/08/pele-ronaldo-kaka-selecoes-campeas-mundiais-sempre-tiveram-novatos.htm",
+    "title": "Pelé, Ronaldo, Kaká: seleções brasileiras campeãs mundiais sempre tiveram novatos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12234.453125,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/ecoa/colunas/noticias-da-floresta/2022/11/08/marina-silva-parte-do-agro-percebeu-que-bolsonaro-e-pessimo-negocio.htm",
+    "title": "Marina Silva: 'Parte do agro percebeu que Bolsonaro é péssimo negócio'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11913.34375,
+      "left": 619.15625,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/08/alianca-de-democracias-ajudou-a-sufocar-bolsonaro.htm",
+    "title": "Aliança de democracias atua para blindar eleição e posse no Brasil"
+  }
+]

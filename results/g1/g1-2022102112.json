@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6025,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/21/endividamento-recorde-das-familias-sera-desafio-para-o-proximo-governo.ghtml",
+    "hat": "Economia",
+    "title": "Endividamento recorde das famílias será desafio para o próximo governo",
+    "summary": "8 em cada 10 famílias estavam inadimplentes em setembro, segundo levantamento; 30% já tinham contas ou dívidas atrasadas."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6025,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/10/21/dj-kotim-quem-e-o-produtor-que-fez-a-musica-mais-tocada-do-brasil-aos-13-anos-de-idade.ghtml",
+    "hat": "Talento prodígio",
+    "title": "Kotim: quem é o DJ de 13 anos que fez o hit mais tocado do Brasil"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5688.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/games/noticia/2022/10/21/mario-rabbids-sparks-of-hope-inova-e-evolui-para-fazer-de-boa-ideia-um-otimo-game-g1-jogou.ghtml",
+    "hat": "g1 jogou 🎮",
+    "title": "Novo jogo do Mario inova, evolui e faz de boa ideia um ótimo game"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5283.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/21/procura-se-por-que-empresarios-tem-dificuldade-de-contratar-mesmo-com-desemprego-alto.ghtml",
+    "hat": "'Procura-se'",
+    "title": "Por que empresários têm dificuldade de contratar mesmo com desemprego alto",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5005.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/al/alagoas/noticia/2022/10/21/policia-federal-faz-operacao-em-clube-de-tiros-de-maceio.ghtml",
+    "hat": "Investigação",
+    "title": "PF mira uso de CACs e clubes de tiro para comércio ilegal de armas",
+    "summary": "Grupo é suspeito de fraudar registros de caçador e colecionador para comprar e vender armas.",
+    "category": "Alagoas"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4457,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/28/tarcisio-e-haddad-debatem-salario-minimo-e-outros-temas-nacionais-e-trocam-acusacoes-sobre-a-cracolandia-e-o-tiroteio-em-paraisopolis.ghtml",
+    "hat": "Reta final",
+    "title": "Debate em SP tem temas nacionais e acusações sobre Paraisópolis e Cracolândia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3715.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2022/noticia/2022/10/28/debate-para-governador-no-rs-tem-troca-de-acusacoes-entre-onyx-e-leite-alem-de-farpas-sobre-recuperacao-fiscal-e-pandemia.ghtml",
+    "title": "Recuperação fiscal e vacina são temas em debate quente no RS",
+    "category": "Eleições 2022 no Rio Grande do Sul"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3437.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2022/noticia/2022/10/28/debate-da-globo-para-governadora-de-pernambuco-veja-integra-em-videos.ghtml",
+    "title": "Raquel x Marília: em PE, debate é dominado por arengas sobre alianças",
+    "category": "Eleições 2022 em Pernambuco"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3159.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ba/bahia/eleicoes/2022/noticia/2022/10/27/acm-neto-promete-atracao-de-industrias-para-o-interior-dobrar-credito-para-empreendedores-e-zerar-ipva-para-trabalhadores-de-app-veja-integra.ghtml",
+    "title": "ACM Neto dá entrevista na Bahia após Jerônimo faltar a debate",
+    "category": "Eleições 2022 na Bahia"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -2881.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/lula-e-bolsonaro-concentram-anuncios-politicos-no-google-em-sp-mg-e-rj.ghtml",
+    "hat": "2º turno",
+    "title": "Lula e Bolsonaro concentram anúncios no Google em SP, MG e RJ",
+    "category": "Eleições 2022"
+  }
+]

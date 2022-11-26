@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9610.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/economia/ministerio-da-economia-paulo-guedes-retirar-isencao-imposto-de-renda-saude-educacao/",
+    "hat": "IMPOSTO DE RENDA",
+    "title": "Equipe do Ministério da Economia estuda retirar do IR dedução de gasto com saúde e educação",
+    "summary": "Medida compensaria, em parte, gastos extras com promessas eleitorais de Bolsonaro; Guedes, porém, disse em nota ao Estadão ser contra a ideia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9342.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-de-freitas-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "eleições em SÃO PAULO",
+    "title": "Tarcísio de Freitas defende 'liberdade' para obter posse e porte de armas em São Paulo",
+    "summary": "Candidato ao governo participou de sabatina no Jornal Eldorado e considerou lamentável o ataque a tiros de Roberto Jefferson contra policiais federais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9342.3125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-procura-um-bode-na-sala-para-se-livrar-de-roberto-jefferson/",
+    "hat": "Vera Rosa",
+    "title": "Bolsonaro procura um 'bode na sala' para se livrar de Roberto Jefferson; leia análise"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8926.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/rishi-sunak-se-encontra-com-rei-charles-iii-e-e-oficializado-premie-do-reino-unido/",
+    "hat": "Londres",
+    "title": "Sunak assume como premiê do Reino Unido e faz 1º discurso: 'Desfazer erros de Liz Truss'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8434.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/campanhas-de-lula-e-bolsonaro-recrutam-exercito-de-anonimos-nas-redes-para-virar-voto-no-2-turno/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "'É guerra': veja como exércitos digitais de Lula e Bolsonaro atuam no segundo turno"
+  }
+]

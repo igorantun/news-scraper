@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4323,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/31/salario-minimo-endividamento-distribuicao-de-renda-e-tabela-do-ir-lembre-das-promessas-de-lula-na-economia.ghtml",
+    "hat": "Presidente eleito",
+    "title": "Combate à fome, tabela do IR, salário mínimo: as promessas de Lula na economia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4323,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/mapas/mapa-da-apuracao-no-brasil-presidente/2-turno/",
+    "hat": "Raio X da eleição",
+    "title": "MAPA DA APURAÇÃO: veja a votação para presidente na sua cidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3581.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/g1-publica-reportagens-e-videos-com-a-votacao-em-todos-os-5568-municipios-no-segundo-turno-das-eleicoes-2022.ghtml",
+    "hat": "2º turno da eleição",
+    "title": "g1 publica reportagens e vídeos com a votação em todos os municípios",
+    "summary": "Sistema desenvolvido pela Globo exibe, de maneira automática, dados do TSE em texto e vídeo.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3303.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/31/lula-se-encontra-com-presidente-da-argentina-alberto-fernandez-em-hotel-de-sao-paulo.ghtml",
+    "hat": "Lula e Fernández",
+    "title": "Presidente argentino faz 1ª visita oficial ao Brasil e encontra Lula",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3025.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/31/bolsonaro-trancado-em-copas-assessores-escalam-chanceler.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Assessores pressionam Bolsonaro para reconhecer derrota",
+    "category": "Blog da Andréia Sadi"
+  }
+]

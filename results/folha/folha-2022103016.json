@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9132.65625,
+      "left": 315,
+      "height": 368.546875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-votam-petista-enaltece-democracia-e-presidente-fala-em-deus.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula e Bolsonaro votam; petista enaltece democracia, e presidente fala em Deus",
+    "summary": "Presidenciáveis comparecem nesta manhã às suas seções eleitorais após disputa marcada por ataques"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -549.5625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-a-melhor-sobre-bolsonaro-em-debate-de-monologos.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula leva a melhor sobre Bolsonaro em debate de monólogos",
+    "summary": "Evento na Globo coroa eleição de rejeições que marca a disputa que chega a seu fim"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9085.671875,
+      "left": 1305,
+      "height": 314.921875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/tv-folha-tem-programacao-especial-ao-vivo-no-segundo-turno.shtml",
+    "hat": "lives",
+    "title": "TV Folha tem programação especial ao vivo no 2º turno",
+    "summary": "Jornalistas e colunistas da Folha analisam resultados das eleições a partir das 17h"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8694.140625,
+      "left": 315,
+      "height": 381.78125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moraes-proibe-operacoes-da-pf-e-prf-que-envolvam-transporte-publico-no-dia-da-eleicao.shtml",
+    "hat": "Justiça eleitoral",
+    "title": "Moraes proíbe operações da PF e PRF que envolvam transporte público no dia da eleição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8277.375,
+      "left": 315,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-52-dos-votos-validos-contra-48-de-bolsonaro-na-vespera-da-eleicao.shtml",
+    "hat": "datafolha",
+    "title": "Lula tem 52% dos votos válidos contra 48% de Bolsonaro na véspera da eleição"
+  }
+]

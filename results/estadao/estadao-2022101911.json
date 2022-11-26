@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8847.734375,
+      "left": 329,
+      "height": 262,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/so-8-dos-eleitos-para-o-congresso-sao-nomes-novos-na-politica/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Só 8% dos eleitos este ano para o Congresso são nomes novos na política brasileira",
+    "summary": "Levantamento do Instituto Millenium aponta que a maioria dos deputados e senadores vitoriosos nas urnas já ocupou mandatos, cargos públicos ou é herdeira de clãs tradicionais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8847.734375,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-fogo-amigo-que-atinge-haddad/",
+    "hat": "Vera Rosa",
+    "title": "Bronca dada em dirigentes do PT pelo WhatsApp provocou mal-estar no comitê"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8399.625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/rodovias-federais-concessoes-falta-de-recursos-publicos/",
+    "hat": "Economia",
+    "title": "Concessão 'light' de 70 estradas federais pode driblar falta de recurso público",
+    "summary": "Estudo aponta que rodovias de 13 Estados poderiam ser concedidas em pequenos trechos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8399.625,
+      "left": 1190.3125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/cultura/nem-um-nem-outro/",
+    "hat": "Roberto DaMatta",
+    "title": "Lula e Bolsonaro foram 'piores' no 'debate', nem um nem outro vale o meu voto"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -7918.625,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/coreia-do-norte-dispara-tiros-de-artilharia-na-fronteira-em-resposta-a-exercicios-militares-do-sul/",
+    "hat": "INTERNACIONAL",
+    "title": "Coreia do Norte dispara tiros de artilharia na fronteira em resposta a exercícios do Sul"
+  }
+]

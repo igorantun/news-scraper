@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6404,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/eleicoes-nos-eua-ex-astronauta-vence-no-arizona-e-deixa-democratas-mais-perto-de-controlar-senado.ghtml",
+    "hat": "Eleições nos EUA",
+    "title": "Astronauta vence no Arizona e democratas ficam a uma cadeira de controlar Senado"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6404,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pi/piaui/noticia/2022/11/12/homem-morre-e-nove-pessoas-ficam-feridas-em-tiroteio-durante-show-de-nattanzinho-e-xand-aviao-em-floriano-no-piaui.ghtml",
+    "hat": "Piauí",
+    "title": "Homem morre em tiroteio em show de Nattan e Xand Avião"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6067.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/o-que-levou-os-neandertais-a-extincao-violencia-ou-sexo.ghtml",
+    "hat": "Ciência",
+    "title": "O que levou os neandertais à extinção: violência ou sexo?"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5662.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/11/12/humilhacao-para-putin-o-que-a-retirada-das-tropas-russas-de-kherson-significa-para-a-guerra-na-ucrania.ghtml",
+    "hat": "Guerra na Ucrânia",
+    "title": "Retirada das tropas russas de Kherson impõe humilhação para Putin",
+    "category": "Ucrânia e Rússia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5384.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/12/reforma-da-previdencia-completa-3-anos-com-alivio-nas-contas-publicas-mas-dificuldades-para-segurados.ghtml",
+    "hat": "Aposentadoria",
+    "title": "Reforma da Previdência faz 3 anos com alívio para governo e dificuldades para segurados",
+    "category": "Economia"
+  }
+]

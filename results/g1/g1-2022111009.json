@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6813,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/transicao-presidencial/noticia/2022/11/10/pec-da-transicao-governo-eleito-busca-saida-para-auxilio-de-r-600-veja-perguntas-e-respostas.ghtml",
+    "hat": "Futuro governo",
+    "title": "PEC da Transição: como Lula tenta garantir o auxílio de R$ 600; entenda 5 pontos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6813,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiais.g1.globo.com/pop-arte/2022/gal-costa-a-mae-de-todas-as-vozes/",
+    "title": "DOCE, BÁRBARA, FATAL",
+    "summary": "Morte de Gal Costa, aos 77, encerra a imensa carreira de um símbolo da música brasileira. Ícone da Tropicália e da liberdade sexual, foi mãe de todas as vozes e deixa legado potente às novas gerações. Veja especial."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6071.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/09/velorio-do-corpo-de-gal-costa-sera-na-assembleia-legislativa-de-sp.ghtml",
+    "hat": "O Brasil sem Gal",
+    "title": "Adeus a Gal Costa: velório será amanhã em SP",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5793.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/10/corpo-de-rolando-boldrin-chega-a-assembleia-legislativa-de-sao-paulo-para-ser-velado.ghtml",
+    "hat": "'Sr. Brasil'",
+    "title": "Corpo de Rolando Boldrin é velado hoje na Assembleia de SP",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -5515.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/educacao/enem/2022/noticia/2022/11/10/enem-2022-confira-cinco-pensadores-para-citar-na-redacao-e-somar-pontos-na-prova.ghtml",
+    "hat": "3 dias para prova",
+    "title": "Enem 2022: confira 5 pensadores para citar na redação e somar pontos",
+    "category": "Enem 2022"
+  }
+]

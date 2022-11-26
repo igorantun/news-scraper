@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5487,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/roberto-jefferson-resiste-a-ordem-de-prisao-do-stf-e-fere-a-tiros-policiais-federais.ghtml",
+    "title": "Jefferson desrespeita ordem do STF e ataca policiais federais com fuzil e granadas",
+    "summary": "2 agentes ficaram feridos, segundo a PM. Prisão foi ordenada por Alexandre de Moraes após ex-deputado xingar a ministra Cármen Lúcia."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5487,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/23/parentes-e-amigos-fazem-ato-em-memoria-das-vitimas-da-covid-na-avenida-paulista-neste-domingo.ghtml",
+    "hat": "São Paulo",
+    "title": "Parentes fazem ato em memória às vítimas da Covid na Paulista"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5150.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/23/por-dentro-da-prisao-de-evin-no-ira-nao-posso-imaginar-o-que-os-presos-estao-passando.ghtml",
+    "hat": "Violação de direitos",
+    "title": "Frio, tortura e teste de virgindade: por dentro da prisão de Evin, no Irã"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4467.65625,
+      "left": 348.65625,
+      "height": 121.78125,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/autoridades-e-entidades-se-manifestam-sobre-reacao-de-jefferson-contra-a-pf-para-evitar-a-prisao.ghtml",
+    "title": "Autoridades e entidades se manifestam contra reação de Jefferson para evitar prisão",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4313.875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/23/ipec-veja-a-intencao-de-votos-para-os-candidatos-ao-governo-dos-12-estados-em-que-ha-2o-turno.ghtml",
+    "hat": "Pesquisa Ipec",
+    "title": "Veja quem está na frente e onde tem empate nos 12 estados com 2º turno",
+    "category": "Pesquisa Eleitoral"
+  }
+]

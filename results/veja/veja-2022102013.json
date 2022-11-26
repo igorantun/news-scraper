@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5776.890625,
+      "left": 324,
+      "height": 164,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/mundo/liz-truss-renuncia-ao-cargo-de-primeira-ministra-do-reino-unido/",
+    "hat": "Mundo",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido",
+    "summary": "A líder britânica abandonou o posto depois de apenas 45 dias, diante da crise provocada por suas políticas econômicas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1180.140625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/silencio-de-lula-sobre-economia-inquieta-mercado-na-reta-final-da-campanha",
+    "hat": "Reportagem de capa",
+    "title": "Incertezas sobre plano econômico de Lula inquietam mercado na reta final da eleição",
+    "summary": "Falta de clareza sobre diretrizes de um futuro governo do petista pode prejudicar desempenho do candidato em um momento decisivo da campanha"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -609.015625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/romeu-zema-o-brasil-se-transformou-no-pais-das-pautas-irrelevantes/",
+    "hat": "Política",
+    "title": "Romeu Zema: 'O Brasil se transformou no país das pautas irrelevantes'",
+    "summary": "O governador reeleito de Minas defende Bolsonaro, critica a possibilidade de o PT voltar ao poder e afirma que a classe política perde tempo com temas pequenos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5588.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/a-vantagem-folgada-de-lula-no-maior-colegio-eleitoral-fora-do-sudeste/",
+    "hat": "Política",
+    "title": "A vantagem folgada de Lula no maior colégio eleitoral fora do Sudeste"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5588.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/bolsonaro-inicia-nesta-quinta-maratona-de-quatro-dias-em-sao-paulo/",
+    "hat": "Radar",
+    "title": "Bolsonaro inicia nesta quinta-feira maratona de quatro dias em São Paulo"
+  }
+]

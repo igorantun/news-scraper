@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6301,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/cidades-onde-lula-e-bolsonaro-empataram-no-1o-turno-vivem-tranquilidade-nas-ruas-e-tensao-nas-redes-sociais.ghtml",
+    "hat": "Polarização ao extremo",
+    "title": "Cidades onde deu empate no 1º turno têm tranquilidade nas ruas e tensão nas redes",
+    "summary": "Só em 3 dos mais de 5 mil municípios do país Lula e Bolsonaro tiveram a mesma votação. Conheça Coronel Sapucaia, Ribeirão do Sul e Alecrim."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6301,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/circuito-sertanejo/ao-vivo/ana-castela-boiadeira-de-18-anos-que-chegou-ao-topo-das-paradas-e-entrevistada-pelo-g1.ghtml",
+    "hat": "ao vivo",
+    "title": "ASSISTA: g1 entrevista Ana Castela, cantora sensação do sertanejo",
+    "summary": "Dona do hit 'Pipoco' participa de edição ao vivo do podcast g1 Ouviu."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5559.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ms/mato-grosso-do-sul/eleicoes/2022/noticia/2022/10/25/coronel-sapucaia-ms-na-fronteira-com-o-paraguai-repete-contradicoes-territoriais-no-1o-turno-ao-ter-mesma-votacao-para-lula-e-bolsonaro.ghtml",
+    "title": "Na fronteira com o Paraguai, a divisão de votos, moedas e nacionalidades",
+    "category": "Eleições 2022 no Mato Grosso do Sul"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5281.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/stj-julga-pedido-da-pgr-para-suspender-resolucao-do-tse-sobre-fake-news.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "Maioria no STF vota por manter resolução do TSE sobre fake news",
+    "summary": "Procurador-geral, Augusto Aras, havia contestado medidas adotadas pelo tribunal.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -5003.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/25/a-4-dias-da-eleicao-lula-reitera-que-nao-disputara-reeleicao-se-vencer.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "A 4 dias da eleição, Lula reitera que não disputará reeleição se vencer",
+    "category": "Blog da Andréia Sadi"
+  }
+]

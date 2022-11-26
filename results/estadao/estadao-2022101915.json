@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9209.734375,
+      "left": 329,
+      "height": 661.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/doria-se-desfilia-do-psdb-apos-22-anos/",
+    "hat": "Política",
+    "title": "Doria anuncia desfiliação do PSDB após 22 anos",
+    "summary": "Em carta, ex-governador de SP afirma que encerra sua 'trajetória partidária de cabeça erguida’"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9209.734375,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/cultura/nem-um-nem-outro/",
+    "hat": "Roberto DaMatta",
+    "title": "Lula e Bolsonaro foram 'piores' no 'debate', nem um nem outro vale o meu voto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8793.625,
+      "left": 1190.328125,
+      "height": 338.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-fogo-amigo-que-atinge-haddad/",
+    "hat": "Vera Rosa",
+    "title": "Bronca dada em dirigentes do PT pelo WhatsApp provocou mal-estar no comitê"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8393.515625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/caixa-acelera-lancamentos-de-programas-apos-primeiro-turno-das-eleicoes/",
+    "hat": "Economia",
+    "title": "Caixa acelera lançamentos de programas após primeiro turno das eleições",
+    "summary": "Desde o dia 4 de outubro, foram feitos cinco eventos para anunciar medidas; banco diz que não há ilegalidade"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8393.515625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/colesterol-alto-veja-como-identificar-sintomas-prevenir-nprm/",
+    "hat": "Saúde",
+    "title": "Colesterol alto: veja como identificar e prevenir",
+    "summary": "A dislipidemia não tem sintomas, pode ser genética e aumenta as chances de infarto"
+  }
+]

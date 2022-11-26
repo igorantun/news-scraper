@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8328.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lira-e-centrao-ficam-fortalecidos-com-pec-da-transicao-articulada-por-equipe-de-lula.shtml",
+    "hat": "transição de governo",
+    "title": "Lira e centrão ficam fortalecidos com PEC da transição articulada por equipe de Lula",
+    "summary": "Proposta autorizaria gastos extras; petistas elencam projetos do presidente da Câmara cuja tramitação poderiam apoiar"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.09375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8064.34375,
+      "left": 975,
+      "height": 239.75,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/planalto-nomeia-alckmin-e-oficializa-inicio-da-transicao-para-o-governo-lula.shtml",
+    "hat": "+transição",
+    "title": "Planalto nomeia Alckmin e oficializa início da transição de governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7789.609375,
+      "left": 975,
+      "height": 324.25,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/entenda-o-que-pode-caracterizar-crime-em-atos-antidemocraticos-diante-de-quarteis.shtml",
+    "hat": "Folhajus",
+    "title": "Entenda o que pode caracterizar crime em atos antidemocráticos diante de quartéis"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8017.359375,
+      "left": 1305,
+      "height": 113.921875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/lucro-e-dividendos-da-petrobras-quiz-de-noticias-da-semana-e-o-que-importa-no-mercado.shtml",
+    "hat": "FolhaMercado",
+    "title": "Dividendos da Petrobras, quiz de notícias da semana e mais",
+    "summary": "Leia a edição da newsletter"
+  }
+]

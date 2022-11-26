@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4826,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/roberto-jefferson-resiste-a-ordem-de-prisao-do-stf-e-fere-a-tiros-policiais-federais.ghtml",
+    "title": "Jefferson desrespeita ordem do STF e ataca policiais federais com fuzil e granadas",
+    "summary": "2 agentes ficaram feridos, segundo a PM. Alexandre de Moraes ordenou prisão após ex-deputado violar prisão domiciliar."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3806.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/em-decisao-moraes-diz-que-roberto-jefferson-cometeu-repetidas-violacoes.ghtml?utm_source=push&utm_medium=web&utm_campaign=pushwebg1",
+    "title": "Em decisão, Moraes cita 'repetidas violações' do ex-deputado",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3528.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/bolsonaro-diz-que-repudia-acao-armada-de-jefferson-contra-agentes-da-policia-federal.ghtml",
+    "title": "Bolsonaro diz repudiar 'ação armada' de Jefferson, mas critica investigação do STF",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3250.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/23/maquina-de-destruicao-de-valores-democraticos-diz-lula-sobre-ataques-de-roberto-jefferson-a-policiais-federais.ghtml",
+    "title": "'Máquina de destruição de valores democráticos', diz Lula sobre ataques",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -2470.140625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/autoridades-e-entidades-se-manifestam-sobre-reacao-de-jefferson-contra-a-pf-para-evitar-a-prisao.ghtml",
+    "title": "'Pico do absurdo', 'fatos gravíssimos': veja mais repercussão",
+    "category": "Política"
+  }
+]

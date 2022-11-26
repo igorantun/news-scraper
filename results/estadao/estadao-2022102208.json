@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9326.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/estadao-verifica/checamos-a-sabatina-de-jair-bolsonaro-no-pool-de-imprensa-do-estadao/",
+    "hat": "CORRIDA PRESIDENCIAL",
+    "title": "Estadão Verifica: Bolsonaro mente ao dizer que não é responsável pelo orçamento secreto; confira checagem",
+    "summary": "Presidente também dá declaração enganosa ao dizer que não tentou 'derrubar página de ninguém';  ele foi sabatinado por Estadão/Eldorado e  pool de veículos após Lula recusar debate"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9326.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-entra-no-personagem-do-presidente-confiante-em-busca-da-reeleicao-leia-analise/",
+    "hat": "SEGUNDO TURNO",
+    "title": "Análise: Bolsonaro 'entra no personagem' do presidente confiante em busca da reeleição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8788.203125,
+      "left": 1190.328125,
+      "height": 386,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caso-jovem-pan-em-julgamento-de-acoes-do-pt-tse-impoe-censura-corte-mandou-investigar-radio/",
+    "hat": "Política",
+    "title": "Caso Jovem Pan: em julgamento de ações do PT, TSE impõe censura; Corte mandou investigar rádio",
+    "summary": "Despachos são considerados ofensivos à Constituição; Tribunal atendeu campanha de Lula e mandou apurar suposto favorecimento a Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8340.203125,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/senado-tem-que-dar-um-freio-em-alexandre-de-moraes-diz-mourao/",
+    "hat": "VICE-PRESIDENTE",
+    "title": "Mourão: 'Alexandre de Moraes ultrapassou os limites da sua autoridade'; leia entrevista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8340.203125,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/brasil-sentira-impacto-da-nova-estrategia-de-seguranca-nacional-dos-eua-leia-artigo/",
+    "hat": "ESTRATÉGIA MILITAR",
+    "title": "Brasil sentirá impacto da nova Estratégia de Segurança Nacional dos EUA; leia análise"
+  }
+]

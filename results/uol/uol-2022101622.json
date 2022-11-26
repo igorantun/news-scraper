@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12743.609375,
+      "left": 365,
+      "height": 387.125,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/16/palmeiras-x-sao-paulo-campeonato-brasileiro-rodada-32.htm",
+    "title": "Felipe Alves brilha sobre Scarpa, e São Paulo segura Palmeiras no Allianz",
+    "summary": "Goleiro defendeu pênalti; time do Morumbi teve dois jogadores expulsos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12158.34375,
+      "left": 365,
+      "height": 624.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/video-projeto-de-cabelereiros-atendia-venezuelanas-quando-bolsonaro-chegou.htm",
+    "title": "Projeto social atendia venezuelanas quando Bolsonaro chegou; veja"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11510.234375,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/16/neymar-comanda-ataque-marca-e-ajuda-psg-a-vencer-o-olympique-no-frances.htm",
+    "title": "Neymar comanda ataque, marca e ajuda PSG a vencer o Olympique no Francês"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12158.34375,
+      "left": 619.15625,
+      "height": 304.296875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-terao-primeiro-embate-na-tv-sem-coadjuvantes.shtml",
+    "title": "Lula e Bolsonaro fazem hoje 1º debate na TV sem coadjuvantes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12158.34375,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/china-nao-descarta-uso-da-forca-para-reunificar-taiwan-diz-xi-no-congresso-do-pc.shtml",
+    "title": "China diz ter controle de Hong Kong e não descarta usar força em Taiwan"
+  }
+]

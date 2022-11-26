@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5579,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/alckmin-assina-portarias-para-dar-inicio-formal-a-transicao-de-governo.ghtml",
+    "hat": "Formação de equipe",
+    "title": "Transição terá 'pais' do Plano Real na economia e Tebet, anuncia Alckmin",
+    "summary": "Persio Arida e André Lara Resende, figuras centrais da era FHC, vão trabalhar com Nelson Barbosa, ex-ministro de Dilma, e Guilherme Mello."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5579,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/zona-da-mata/noticia/2022/11/08/idoso-morre-ao-ser-atingido-por-muro-durante-temporal-de-granizo-em-mg.ghtml",
+    "hat": "Temporal em Minas",
+    "title": "Idoso morre após chuva de granizo derrubar muro em MG"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5242.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/08/criminosos-trocam-tiros-com-pms-na-cidade-universitaria-da-usp-vitima-sequestrada-estava-no-carro.ghtml",
+    "hat": "São Paulo",
+    "title": "PMs trocam tiros com suspeitos na USP e encerram sequestro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4837.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/equipe-de-transicao-saiba-quem-sao-os-confirmados-para-a-passagem-de-bastao-no-governo.ghtml",
+    "title": "Quem é quem na equipe de Lula para a transição de governo",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4559.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/tebet-marcia-lopes-tereza-campello-e-andre-quintao-vao-coordenar-a-assistencia-social-durante-a-transicao.ghtml",
+    "title": "Tebet e Tereza Campello vão coordenar auxílio e benefícios",
+    "category": "Política"
+  }
+]

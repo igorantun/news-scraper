@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9262.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/disputa-entre-lula-e-bolsonaro-arrasta-igreja-catolica-para-debate-eleitoral/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Disputa entre Lula e Bolsonaro arrasta Igreja Católica para centro do debate eleitoral",
+    "summary": "Enquanto os candidatos caçam votos dos católicos, alguns sacerdotes entram na rinha eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9262.3125,
+      "left": 1190.328125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-colecionou-erros-na-semana-passada-mas-lula-nao-soube-capitalizar-o-debate-a-seu-favor/",
+    "hat": "2º turno",
+    "title": "Cantanhêde: 'Bolsonaro colecionou erros, mas Lula não soube capitalizar o debate'",
+    "summary": "Petistas comeu muitos ‘s’ e desperdiçou várias chances de reagir e atacar; leia coluna"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8898.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/neymar-julgamento-pai-processo-corrupcao-santos-barcelona/",
+    "hat": "FUTEBOL",
+    "title": "Neymar diz em julgamento que assinava todos os documentos que o seu pai mandava",
+    "summary": "Brasileiro é réu em processo sobre corrupção na sua transferência do Santos para o Barcelona"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8382.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/emais/seu-jorge-fala-sobre-ataques-racistas-em-porto-alegre-nao-reconheci-a-cidade-que-aprendi-a-amar/",
+    "hat": "RIO GRANDE DO SUL",
+    "title": "'Não reconheci a cidade que aprendi a amar', diz Seu Jorge após racismo em Porto Alegre",
+    "summary": "Em vídeo nas redes sociais, o artista conclamou luta antirracista e cobrou que criminosos sejam punidos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8382.65625,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.facebook.com/estadao/videos/1103870920236146",
+    "hat": "Assista agora",
+    "title": "Summit Saúde Estadão discute importância das  soft skills e como lidar com pandemias",
+    "summary": "Especialistas também vão debater o envelhecimento da população e como conciliar tecnologia e humanização"
+  }
+]

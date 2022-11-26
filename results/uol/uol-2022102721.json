@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12527.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-49-e-bolsonaro-44-brancos-e-nulos-sao-5-e-indecisos-2.shtml",
+    "title": "Datafolha: Lula tem 49%, e Bolsonaro, 44%; brancos e nulos são 5%",
+    "summary": "Na pesquisa da semana passada, petista somava 49%, contra 45% do presidente"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12111.078125,
+      "left": 365,
+      "height": 552.171875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/27/qg-de-bolsonaro-chega-a-reta-final-rachado-e-bolsonaro-estuda-saida-aecio.htm",
+    "title": "QG de Bolsonaro chega à reta final rachado; presidente estuda 'saída Aécio'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11534.90625,
+      "left": 365,
+      "height": 72,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/a-3-dias-da-eleicao-lula-lanca-carta-prometendo-politica-fiscal-responsavel.shtml",
+    "title": "Lula lança carta prometendo 'política fiscal responsável'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12111.078125,
+      "left": 619.15625,
+      "height": 413.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/cinegrafista-que-filmou-tarcisio-em-paraisopolis-pede-demissao-da-jovem-pan.htm",
+    "title": "Cinegrafista que filmou Tarcísio em Paraisópolis pede demissão da Jovem Pan"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11674.03125,
+      "left": 619.15625,
+      "height": 211.9375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/justica-recebe-150-denuncias-contra-beto-carrero-apos-promocao-antipetista.htm",
+    "title": "Justiça recebe 150 denúncias contra parque Beto Carrero após promoção antipetista"
+  }
+]

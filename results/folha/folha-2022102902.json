@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10230.109375,
+      "left": 315,
+      "height": 314.640625,
+      "width": 960
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/28/6223-lula-e-bolsonaro-participam-do-ultimo-debate-antes-do-2-turno.shtml#post421248",
+    "hat": "Bruno Boghossian",
+    "title": "Bolsonaro ataca Lula pelo viés ideológico, e petista cola no presidente falta de propostas; acompanhe o debate",
+    "summary": "Encontro entre os presidenciáveis na Globo marca o fim da campanha antes do segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -554.390625,
+      "left": 315,
+      "height": 123.65625,
+      "width": 739.984375
+    },
+    "link": "https://www.folha.uol.com.br/",
+    "hat": "Eleições 2022",
+    "title": "Como Lula e Bolsonaro estampam as fachadas",
+    "summary": "Nabil Bonduki, urbanista e colunista da Folha, fala sobre expressões populares como a colocação de bandeiras nas janelas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10230.109375,
+      "left": 1305,
+      "height": 295,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/distribua-votos-de-ciro-e-tebet-e-veja-quem-seria-eleito-presidente.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simulador: Distribua votos de Ciro e Tebet e veja quem seria eleito presidente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9900.125,
+      "left": 1305,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/confira-nova-pesquisa-datafolha-para-presidente-e-governador-de-sp-neste-sabado.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Confira nova pesquisa Datafolha para presidente e governador de SP neste sábado"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9617.625,
+      "left": 974.984375,
+      "height": 371.796875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/generais-endossam-criticas-de-bolsonaro-a-moraes-e-ao-tse-mas-rejeitam-ingerencia.shtml",
+    "hat": "Eleições 2022",
+    "title": "Generais endossam críticas de Bolsonaro a Moraes e ao TSE, mas rejeitam ingerência"
+  }
+]

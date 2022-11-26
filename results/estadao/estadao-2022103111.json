@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7369.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/lula-vai-recriar-ministerios-mas-diz-que-nao-quer-governo-requentado/",
+    "hat": "Transição",
+    "title": "Lula vai recriar ministérios e planeja nomes em ascensão na política",
+    "summary": "Nova configuração da Esplanada prevê o aumento dos atuais 23 ministérios para 34; entrada de Simone Tebet no 1º escalão é dada como certa"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6975.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/eleito-lula-tende-a-ter-lua-de-mel-curta-e-aprovacao-baixa-afirma-cientista-politico/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Eleito, Lula tende a 'ter lua de mel' curta e aprovação baixa, diz cientista político",
+    "summary": "Atender às demandas sociais não será possível sem equilíbrio nas contas, diz diretor executivo da Eurasia para as Américas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6975.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/minha-cidade-e-bolsonarista-ou-petista-veja-resultado-de-bolsonaro-e-lula-em-cada-municipio-do-pais/",
+    "hat": "MAPA DA APURAÇÃO",
+    "title": "Minha cidade é bolsonarista ou petista? Veja resultado em cada município do País"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6557.203125,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-se-isola-no-alvorada-e-deixa-de-reconhecer-derrota-para-lula/",
+    "hat": "Sucessão presidencial",
+    "title": "Bolsonaro se isola no Alvorada e deixa de reconhecer derrota para Lula",
+    "summary": "Presidente conversou por telefone com interlocutores, mas só deve falar publicamente nesta segunda-feira"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6019.65625,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/governo-lula-regras-fiscais-orcamento-foco-mercado/",
+    "hat": "ECONOMIA",
+    "title": "Governo Lula: regras fiscais e discussão do Orçamento estão entre os focos de atenção do mercado",
+    "summary": "Para economistas, definição do nome de quem vai comandar a economia em 2023 vai atenuar as incertezas"
+  }
+]

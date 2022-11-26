@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5913,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/24/bastidores-investigadores-da-pf-temem-contaminacao-de-provas-e-veem-circo-de-bolsonaro-apenas-para-conter-danos-eleitorais.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Prisão de Jefferson: para PF, interferência de Bolsonaro prejudica a investigação",
+    "summary": "Presidente enviou ministro da Justiça para acompanhar caso, e parte dos objetos que estavam na casa foi manuseada por seu aliado Padre Kelmon."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5913,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-descumpre-decisao-da-justica-e-atira-contra-pf-leia-perguntas-e-respostas.ghtml",
+    "title": "Entenda quais medidas Jefferson descumpriu na prisão domiciliar"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5576.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2022/10/24/camara-de-tres-rios-exonera-assessor-que-atacou-cinegrafista-durante-cobertura-da-prisao-de-roberto-jefferson.ghtml",
+    "hat": "Ataque durante ação da PF",
+    "title": "Câmara de Três Rios exonera assessor que agrediu jornalista"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5171.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/conexao-globonews/video/o-que-o-senhor-precisar-a-gente-vai-fazer-diz-policial-ao-negociar-prisao-de-jefferson-11053734.ghtml",
+    "title": "'O que o senhor precisar, a gente vai fazer', diz policial ao negociar prisão",
+    "category": "Conexão Globonews"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4893.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/21/saiba-quais-sao-as-regras-do-debate-da-globo-com-candidatos-a-presidencia-no-2o-turno.ghtml",
+    "hat": "Reta final da eleição",
+    "title": "Debate da Globo será na 6ª: Lula e Bolsonaro poderão usar tempo livremente",
+    "category": "Eleições 2022"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12655.609375,
+      "left": 365,
+      "height": 441.5,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/prf-diz-ter-identificado-casos-de-policiais-supostamente-ajudando-golpistas.htm",
+    "title": "PRF diz ter identificado policiais suspeitos de ajudar golpistas; há 267 vias bloqueadas",
+    "summary": "Agentes não foram afastados, mas responderão a procedimentos internos, diz diretor"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12014.71875,
+      "left": 365,
+      "height": 582.546875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/11/01/ministros-do-stf-decidem-nao-encontrar-bolsonaro-ate-ele-reconhecer-derrota.htm",
+    "title": "Ministros do STF decidem não encontrar Bolsonaro até ele reconhecer derrota"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11408.171875,
+      "left": 365,
+      "height": 258.3125,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/11/bloqueios-nas-estradas-ameacam-transporte-de-oxigenio-para-hospitais.shtml",
+    "title": "Atos pró-golpe impedem chegada de oxigênio aos hospitais, alerta associação"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12014.71875,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/01/quem-e-o-diretor-da-prf-intimado-a-liberar-vias-sob-pena-de-r-100-milhora.htm?888",
+    "title": "Quem é o diretor da PRF intimado a liberar vias sob pena de prisão e multa"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11624.046875,
+      "left": 619.15625,
+      "height": 453.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/tropa-de-choque-rodovias-sp.htm",
+    "title": "Tropa de Choque da PM usa bombas de gás para dispersar bloqueio pró-golpe em São Paulo"
+  }
+]

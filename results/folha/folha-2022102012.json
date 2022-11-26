@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9506.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/plano-de-guedes-preve-salario-minimo-e-aposentadoria-sem-correcao-pela-inflacao-passada.shtml",
+    "hat": "Eleições 2022",
+    "title": "Plano de Guedes prevê salário mínimo e aposentadoria sem correção pela inflação passada",
+    "summary": "Proposta seria apresentada após o 2º turno em caso de vitória de Bolsonaro; antes, presidente já rechaçou mudança semelhante"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.640625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9459.125,
+      "left": 1305,
+      "height": 104.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/podcast-a-tentativa-de-lira-de-emparedar-institutos-com-projeto-para-criminalizar-pesquisas.shtml",
+    "hat": "criminalização",
+    "title": "A tentativa de Lira de emparedar institutos de pesquisa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9296.25,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-vota-nesta-5a-poder-amplo-para-agir-contra-fake-news-eleitoral-sem-ministerio-publico.shtml",
+    "hat": "+eleições",
+    "title": "TSE vota hoje poder amplo para agir contra fake news eleitoral sem Ministério Público",
+    "summary": "Moraes diz em reunião com plataformas que desinformação 'está um desastre'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9037.9375,
+      "left": 974.984375,
+      "height": 350.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-campanha-de-lula-ve-resiliencia-a-fake-news-e-bolsonaro-celebra-sudeste.shtml",
+    "hat": "sucessão presidencial",
+    "title": "Datafolha: Campanha de Lula vê resiliência a fake news, e Bolsonaro celebra Sudeste"
+  }
+]

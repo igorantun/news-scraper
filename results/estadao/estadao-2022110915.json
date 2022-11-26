@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10035.3125,
+      "left": 329,
+      "height": 715.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/cultura/musica/morre-gal-costa-uma-das-maiores-vozes-da-mpb-aos-77-anos/",
+    "hat": "LUTO",
+    "title": "Morre Gal Costa, uma das maiores vozes da MPB, aos 77 anos",
+    "summary": "Causa da morte não foi divulgada; cantora tinha shows marcados para dezembro e janeiro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10035.3125,
+      "left": 1190.328125,
+      "height": 298,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-ve-relatorio-da-defesa-como-ultima-cartada-militares-prometem-entregar-documento-hoje/",
+    "hat": "PROCESSO ELEITORAL",
+    "title": "Defesa promete divulgar hoje relatório sobre sistema de votação: veja o que se sabe sobre o documento"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9707.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/facebook-vai-deixar-principal-escritorio-no-brasil-para-reduzir-custos/",
+    "hat": "REDE SOCIAL",
+    "title": "Facebook vai deixar principal escritório no Brasil para reduzir custos após demissões"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9257.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/avanco-do-trumpismo-transformaria-os-eua-num-pais-nefasto-leia-o-artigo-de-paul-krugman/",
+    "hat": "Eleições nos EUA",
+    "title": "Paul Krugman: 'Avanço do trumpismo transformaria os EUA num país nefasto'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9257.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/montadora-de-caminhoes-brasileira-vai-pedir-indenizacao-milionaria-a-chinesa-foton/",
+    "hat": "Veículos pesados",
+    "title": "Montadora de caminhões de Mendonça de Barros vai à Justiça contra a chinesa Foton",
+    "summary": "Grupo brasileiro, que tinha planos de uma fábrica própria, alega que grupo chinês não cumpriu o contrato"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9685.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/apos-ordem-de-moraes-policias-dos-estados-comecam-a-desobstruir-estradas.shtml",
+    "hat": "protestos antidemocráticos",
+    "title": "Após ordem de Moraes, polícias dos estados começam a desobstruir estradas",
+    "summary": "No RS, Brigada Militar usa bombas de gás para dispersas bolsonaristas que fazem bloqueios de cunho golpista"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.15625,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições na internet",
+    "title": "'Debate legislativo é necessário', diz especialista sobre regulamentação na internet",
+    "summary": "Especialistas apontam para a insuficiência da autorregulação dos serviços nos espaços digitais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9685.109375,
+      "left": 1305,
+      "height": 272.6875,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml",
+    "hat": "tempo real",
+    "title": "Acompanhe os protestos de bolsonaristas em estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9367.4375,
+      "left": 315,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/11/deputado-eleito-insufla-caminhoneiros-a-manter-manifestacao-golpista-veja.shtml",
+    "hat": "Painel",
+    "title": "Deputado eleito insufla caminhoneiros a manter manifestação golpista"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9367.4375,
+      "left": 645,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/supremo-manobra-para-esvaziar-armadilha-de-bolsonaro-nas-estradas.shtml",
+    "hat": "Exército",
+    "title": "Supremo manobra para esvaziar armadilha de Bolsonaro nas estradas"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5763.890625,
+      "left": 324,
+      "height": 194,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/inflacao-volta-a-subir-depois-de-3-meses-e-fica-em-05-em-outubro/",
+    "hat": "Economia",
+    "title": "Inflação volta a subir depois de três meses e fica em 0,59% em outubro",
+    "summary": "Alta nos preços dos alimentos e nos custos dos transportes reverteu tendência de queda no índice vista desde julho"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1194.140625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -679.140625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5545.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/lula-vai-ao-ccbb-nesta-quinta-se-reunir-com-parlamentares-aliados/",
+    "hat": "Presidente eleito",
+    "title": "Lula se reúne nesta quinta com parlamentares aliados em Brasília"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5545.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/randolfe-anuncia-qual-sera-seu-lugar-na-transicao-de-lula/",
+    "hat": "Radar",
+    "title": "Randolfe vai atuar na área de Desenvolvimento Regional na transição"
+  }
+]

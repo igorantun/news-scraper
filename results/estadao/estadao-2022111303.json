@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10459.3125,
+      "left": 329,
+      "height": 747.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/internacional/triunfo-democrata-em-nevada-garante-a-biden-controle-do-senado-e-amplia-derrota-de-trump/",
+    "hat": "Eleições nos EUA",
+    "title": "Vitória democrata em Nevada garante a Biden controle do Senado e amplia derrota de Trump",
+    "summary": "Democratas vencem disputa apertada com a chegada de votos por correio da região de Las Vegas e garantem 50 vagas no Senado; republicanos levam vantagem na Câmara"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10459.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/flordelis-julgamento-de-ex-deputada-por-assassinato-de-pastor-entra-na-reta-final/",
+    "hat": "ex-deputada",
+    "title": "Julgamento de Flordelis, acusada de mandar matar o marido, entra na reta final; entenda"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9981.203125,
+      "left": 1190.328125,
+      "height": 278,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-realiza-exames-no-hospital-sirio-libanes-antes-de-viagem-para-a-cop-27-no-egito/",
+    "hat": "POLÍTICA",
+    "title": "Exames mostram que Lula está com inflamação na garganta por esforço vocal e lesão na laringe",
+    "summary": "Presidente eleito passou por check-up em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9641.203125,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/confusao-na-inauguracao-shein-sp/",
+    "hat": "VAREJISTA CHINESA",
+    "title": "Fila, tumulto e pancadaria marcam inauguração da Shein em SP; veja vídeos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9641.203125,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tse-pede-que-bolsonaro-justifique-testemunhas-em-acoes-que-questionam-uso-politico-do-7-de-setembro/",
+    "hat": "Justiça eleitoral",
+    "title": "Bolsonaro terá de justificar testemunhas em ações sobre uso político do 7 de Setembro"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12409.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/ipec-pesquisa-eleitoral-lula-bolsonaro-24-outubro-2022.htm",
+    "title": "Ipec: estáveis, Lula tem 54% dos votos válidos e Bolsonaro soma 46%",
+    "summary": "Números são os mesmos do levantamento anterior, divulgado semana passada"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11984.3125,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/24/sete-erros-no-caso-jefferson-revelam-bolsonaro-vacilante.htm",
+    "title": "Análise: Caso Jefferson mostra Bolsonaro despreparado e vacilante"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11396.953125,
+      "left": 365,
+      "height": 368.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/10/24/policial-federal-rendicao-video-jefferson-vestir-personagem.htm",
+    "title": "Policial que negociou rendição de Jefferson diz que 'vestiu um personagem'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11984.3125,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/tarcisio-chama-jefferson-de-descompensado-e-apoia-bolsonaro-contra-aliado.htm",
+    "title": "Tarcísio recebe 'L' em São Paulo e tenta afastar 'descompensado' Jefferson"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11663.203125,
+      "left": 619.15625,
+      "height": 516.984375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/bolsonaro-entrevista-24-de-outubro.htm",
+    "title": "O que tenho a ver com Jefferson dar tiro?, questiona Bolsonaro sobre aliado"
+  }
+]

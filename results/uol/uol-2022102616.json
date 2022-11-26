@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12544.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/acusacao-fraude-radios-nordeste-bolsonaro-lula.htm",
+    "title": "Acusação feita por Bolsonaro usa dados de software, não auditoria",
+    "summary": "Metodologia para apurar inseções de rádios pode gerar dados imprecisos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12209.640625,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/haddad-diz-que-tarcisio-propoe-barbaridades-e-quer-trazer-centrao-para-sp.htm",
+    "title": "'Tarcísio não tem como não cair nas garras de Edir Macedo', diz Fernando Haddad"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11753.40625,
+      "left": 365,
+      "height": 121,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ordem-de-equipe-de-tarcisio-pode-configurar-crime-e-especialistas-defendem-apuracao.shtml",
+    "title": "Ordem de equipe de Tarcísio pode configurar crime, e especialistas defendem apuração"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11608.40625,
+      "left": 365,
+      "height": 383.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pericia-da-pf-ve-indicios-de-que-roberto-jefferson-premeditou-ataque-a-policiais.shtml",
+    "title": "Perícia da PF vê indícios de que Jefferson premeditou ataque"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12209.640625,
+      "left": 619.15625,
+      "height": 385.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/lula-diz-que-eleicao-e-anormal-e-culpa-bolsonaro-ele-criou-um-odio.htm",
+    "title": "Lula diz a rádio no AM que eleição é 'anormal' e culpa Bolsonaro: 'Ele criou um ódio'"
+  }
+]

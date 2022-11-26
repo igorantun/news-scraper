@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9382.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/debate-band-propostas-lula-bolsonaro-graphogame-auxilio-brasil-ministerio-povos-originarios/",
+    "hat": "Eleições 2022",
+    "title": "Lula e Bolsonaro usam só 5% do debate da Band para apresentar propostas para o País",
+    "summary": "Auxílio Brasil 'vitalício', orçamento participativo e indígena como ministro foram alguns dos compromissos assumidos em encontro marcado por troca de acusações"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9382.3125,
+      "left": 1190.328125,
+      "height": 512.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-freitas-paraisopolis-tiroteiro-eleicoes-2022/",
+    "hat": "ELEIÇÕES EM SP",
+    "title": "Tiroteio interrompe agenda de campanha de Tarcísio em Paraisópolis",
+    "summary": "Segundo o candidato, todos estão bem, mas ‘bandido foi baleado’; Garcia diz que determinará investigação"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8840.203125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/zarzur-heranca-policia-herdeiros/",
+    "hat": "Espólio",
+    "title": "Disputa entre os herdeiros de Waldomiro Zarzur vira caso de polícia"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8426.65625,
+      "left": 329,
+      "height": 402.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes-de-outubro-aumentaram-incerteza-sobre-presidencia-do-senado-em-2023/",
+    "hat": "Silvio Cascione",
+    "title": "Resultado das eleições aumenta incerteza sobre a presidência do Senado em 2023",
+    "summary": "'De novembro em diante, assistiremos a disputas políticas de grande repercussão para os próximos quatro anos'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8426.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/titulos-investimento-livres-imposto-de-renda-cri-cra-juros-investidores/",
+    "hat": "Finanças",
+    "title": "Títulos de investimento livres de IR viram febre entre empresas e investidores"
+  }
+]

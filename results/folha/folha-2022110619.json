@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8283.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-calibra-escolha-de-ministros-para-evitar-desfalque-no-senado.shtml",
+    "hat": "transição de governo",
+    "title": "Lula calibra escolha de ministros para evitar desfalque no Senado",
+    "summary": "Ex-presidente leva em conta necessidade de fazer frente a bolsonaristas eleitos para o Legislativo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.53125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=5J2ar2UK8OM",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8019.34375,
+      "left": 975,
+      "height": 185.671875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-foi-campeao-de-doacoes-privadas-com-quase-r-90-milhoes-arrecadados.shtml",
+    "hat": "eleições 2022",
+    "title": "Bolsonaro foi campeão de doações privadas com quase R$ 90 milhões"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7798.6875,
+      "left": 975,
+      "height": 194,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop-27-ultimos-oito-anos-foram-os-mais-quentes-da-historia-diz-onu.shtml",
+    "hat": "Ambiente",
+    "title": "Últimos oito anos foram os mais quentes da história, diz ONU",
+    "summary": "Cúpula começou neste domingo no Egito"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7569.703125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pt-quer-deixar-para-2023-discussao-sobre-tabela-do-imposto-de-renda.shtml",
+    "hat": "Economia",
+    "title": "PT quer deixar para 2023 discussão sobre tabela do Imposto de Renda"
+  }
+]

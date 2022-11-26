@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -11009.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/generais-endossam-criticas-de-bolsonaro-a-moraes-e-ao-tse-mas-rejeitam-ingerencia.shtml",
+    "hat": "Eleições 2022",
+    "title": "Generais endossam críticas de Bolsonaro a Moraes e ao TSE, mas rejeitam ingerência",
+    "summary": "Após reunião de Bolsonaro com comandantes das Forças, oficiais-generais repetem mantra de que focam operações na votação"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.015625,
+      "left": 315,
+      "height": 123.65625,
+      "width": 739.984375
+    },
+    "link": "https://www.folha.uol.com.br/",
+    "hat": "Eleições 2022",
+    "title": "Como Lula e Bolsonaro estampam as fachadas",
+    "summary": "Nabil Bonduki, urbanista e colunista da Folha, fala sobre expressões populares como a colocação de bandeiras nas janelas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11009.109375,
+      "left": 1305,
+      "height": 295,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/distribua-votos-de-ciro-e-tebet-e-veja-quem-seria-eleito-presidente.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simulador: Distribua votos de Ciro e Tebet e veja quem seria eleito presidente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10679.125,
+      "left": 974.984375,
+      "height": 247.265625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/na-economia-lula-bate-bolsonaro-mas-presidente-estabilizou-divida-publica.shtml",
+    "hat": "+eleições",
+    "title": "Na economia, Lula bate Bolsonaro, mas presidente estabilizou dívida pública",
+    "summary": "Assim como petista, mandatário teve boom de commodities, mas o desperdiçou"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -10396.875,
+      "left": 974.984375,
+      "height": 290.296875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/datafolha-otimismo-com-a-economia-e-o-maior-desde-2015.shtml",
+    "hat": "pesquisa",
+    "title": "Datafolha: Otimismo com a economia é o maior desde 2015"
+  }
+]

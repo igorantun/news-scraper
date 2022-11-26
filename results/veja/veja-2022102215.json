@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5824.890625,
+      "left": 324,
+      "height": 276,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/lula-e-bolsonaro-mobilizam-campanhas-para-intensificar-guerra-da-rejeicao/",
+    "hat": "Eleições",
+    "title": "Lula e Bolsonaro mobilizam campanhas para intensificar guerra da rejeição",
+    "summary": "Na reta final da corrida ao Planalto, candidatos apelam a golpes baixos e atacam os pontos mais frágeis do rival, em uma espécie de tática da desconstrução"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4793.921875,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/quem-sao-os-17-milhoes-de-eleitores-que-podem-definir-o-2o-turno",
+    "hat": "Reportagem de capa",
+    "title": "Quem são os 17 milhões de eleitores indecisos que podem definir o 2º turno",
+    "summary": "Como a imensa maioria já sabe em quem vai votar, o resultado do pleito passa por quem não escolheu ou pode mudar de lado, um grupo de votantes homogêneo e bem definido"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3670.109375,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/sergio-moro-a-volta-do-lula-seria-um-suicidio-moral-e-economico/",
+    "hat": "Política",
+    "title": "Sergio Moro: 'A volta do Lula seria um suicídio moral e econômico'",
+    "summary": "Senador eleito explica reaproximação com Bolsonaro, dispara contra o petista e diz que a Justiça passa a impressão de que o crime compensa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5524.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/em-sabatina-de-veja-bolsonaro-confirma-paulo-guedes-em-eventual-governo/",
+    "hat": "Sabatina VEJA",
+    "title": "Bolsonaro exalta Guedes e critica indefinições de Lula na economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5524.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/as-imagens-do-esquema-de-corrupcao-do-candidato-de-lula-em-alagoas/",
+    "hat": "Política",
+    "title": "As imagens do esquema de corrupção do candidato de Lula em Alagoas"
+  }
+]

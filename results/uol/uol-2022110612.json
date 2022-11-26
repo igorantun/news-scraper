@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12491.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://educacao.uol.com.br/noticias/2022/11/06/governo-lula-mec-desafios.htm",
+    "title": "Lula terá orçamento da educação básica 34% menor que Bolsonaro",
+    "summary": "Petista assumirá MEC com verba enxuta em relação ao 1º ano do governo antecessor"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12305.015625,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop27-convoca-lideres-mundiais-a-dar-respostas-imediatas-para-crise-climatica.shtml",
+    "title": "COP27 convoca líderes mundiais a dar respostas imediatas para crise climática"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11848.78125,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/05/lula-retorna-a-sao-paulo-apos-dias-na-bahia-e-vai-integrar-processo-de-transicao.htm",
+    "title": "Lula retorna a São Paulo após dias na Bahia e vai integrar processo de transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12305.015625,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/decisoes-do-tse-sob-moraes-devem-servir-de-parametro-para-as-proximas-eleicoes.shtml",
+    "title": "Decisões do TSE sob Moraes devem servir de parâmetro para as próximas eleições"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11848.78125,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/11/06/cla-bolsonaro-brigas-campanha-carlos-michelle-jair-eduardo-flavio.htm",
+    "title": "Dal Piva: as brigas do clã Bolsonaro que abalaram Jair na campanha"
+  }
+]

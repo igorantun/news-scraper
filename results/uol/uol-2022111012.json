@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12724.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pec-para-tirar-bolsa-familia-do-teto-ganha-forca-como-solucao-para-orcamento.shtml",
+    "title": "PEC para tirar Bolsa Família do teto de gastos ganha força em negociação",
+    "summary": "Saída para o Orçamento é vista como a mais viável do ponto de vista técnico e político"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12362.453125,
+      "left": 365,
+      "height": 536.171875,
+      "width": 224.15625
+    },
+    "link": "http://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/defesa-nao-apresenta-fraude-ou-falha-e-cita-risco-hipotetico-sobre-urnas.htm",
+    "title": "Defesa confirma dados do TSE sobre urnas, mas levanta 'risco' hipotético"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11802.28125,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/duas-aposentadorias-e-mais-bolsonaro-tem-direito-a-verba-vitalicia-ao-sair.htm",
+    "title": "Duas aposentadorias, verba vitalícia e mais: a que Bolsonaro tem direito ao deixar o cargo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12362.453125,
+      "left": 619.15625,
+      "height": 390.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/bolsonaro-nomeacao-tse.htm",
+    "title": "Antes de deixar governo federal, Bolsonaro nomeia novo ministro do TSE; conheça o indicado"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11947.78125,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/quem-e-bolsonarista-que-agrediu-agente-da-prf-com-barra-de-ferro-em-sc.htm",
+    "title": "SC: saiba quem é o empresário preso por atacar agente da PRF com barra de ferro"
+  }
+]

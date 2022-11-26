@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5858.890625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5364.765625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/coluna/radar-economico/o-necessario-aceno-de-lula-a-responsabilidade-com-as-contas-publicas/",
+    "hat": "Radar Econômico",
+    "title": "PEC da Transição eleva expectativas por escolha de Lula para a Economia",
+    "summary": "Integrantes da equipe do petista avaliam que, após medida que amplia gastos, opção por ministro próximo ao mercado financeiro sinalizaria responsabilidade com as contas públicas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3716.796875,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5664.890625,
+      "left": 648,
+      "height": 94,
+      "width": 299.984375
+    },
+    "link": "https://veja.abril.com.br/politica/como-lula-reescreveu-a-biografia-e-construiu-o-caminho-para-a-vitoria",
+    "hat": "Política",
+    "title": "Como o petista reescreveu a biografia e construiu o caminho para o seu terceiro triunfo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5664.890625,
+      "left": 971.984375,
+      "height": 94,
+      "width": 299.984375
+    },
+    "link": "https://veja.abril.com.br/politica/carta-ao-leitor-um-voto-de-confianca",
+    "hat": "Carta ao Leitor",
+    "title": "VEJA reafirma a missão de fiscalizar todos os poderes, com jornalismo de alto nível"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12617.0625,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/lula-indicara-2-novos-ministros-e-podera-ampliar-influencia-no-stf.htm",
+    "title": "Com duas novas indicações no STF, Lula estuda ministros mais alinhados",
+    "summary": "Em 2023, se aposentam Lewandowski, em maio, e Rosa Weber, em outubro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12164.578125,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/31/o-que-esperar-para-a-economia-com-a-vitoria-de-lula.htm",
+    "title": "Com Lula, o que esperar para Auxílio Brasil, salário mínimo e gasolina?"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11642.78125,
+      "left": 365,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/31/com-lula-noruega-retomara-recursos-para-amazonia.htm",
+    "title": "Com Lula, Noruega vai retomar contribuição para Fundo Amazônia"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12164.578125,
+      "left": 619.15625,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/jair-bolsonaro-repercussao-eleicoes.htm",
+    "title": "Bolsonaro mantém silêncio após derrota para Lula; aliados chegam ao Alvorada"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11642.78125,
+      "left": 619.15625,
+      "height": 319.0625,
+      "width": 224.15625
+    },
+    "link": "https://tab.uol.com.br/colunas/matheus-pichonelli/2022/10/30/brasil-tem-nova-chance-de-deixar-piada-bolsonaro-no-canto-da-irrelevancia.htm",
+    "title": "Pichonelli: Derrotado, Bolsonaro pode voltar em paz à irrelevância"
+  }
+]

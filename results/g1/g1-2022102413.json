@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5947,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/24/bastidores-investigadores-da-pf-temem-contaminacao-de-provas-e-veem-circo-de-bolsonaro-apenas-para-conter-danos-eleitorais.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Prisão de Jefferson: para PF, interferência de Bolsonaro prejudica a investigação",
+    "summary": "Presidente enviou ministro da Justiça ao RJ, e parte dos objetos que estavam na casa foi manuseada por seu aliado Padre Kelmon."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5947,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-ja-esta-preso-no-rio.ghtml",
+    "title": "Jefferson chega a presídio 14 horas após atacar a PF com fuzil e granadas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5205.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/24/veja-fotos-da-viatura-da-policia-federal-apos-ataque-de-roberto-jefferson-com-fuzil-e-granadas.ghtml",
+    "title": "FOTOS mostram como ficou a viatura da PF após o ataque",
+    "category": "Sul do Rio e Costa Verde"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4927.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/24/prisao-de-roberto-jefferson-comentaristas-da-globonews-analisam-ataque-de-ex-deputado-a-policiais.ghtml",
+    "title": "ANÁLISES: Jefferson quis virar mártir, mas se tornou criminoso comum"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4649.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/apos-jefferson-atacar-policiais-bolsonaro-diz-que-nao-tem-nem-foto-com-ex-deputado-apesar-de-registros-no-palacio-do-planalto.ghtml",
+    "title": "Bolsonaro diz não ter foto com Roberto Jefferson; veja imagens",
+    "category": "Política"
+  }
+]

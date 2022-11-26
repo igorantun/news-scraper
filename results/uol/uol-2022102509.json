@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12295.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/disputa-presidencial-mg.htm",
+    "title": "Com Lula vitorioso em MG, Bolsonaro busca 854 mil votos de Romeu Zema",
+    "summary": "No 1º turno, petista levou a melhor em 7 regiões do estado, contra 6 do presidente"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12046.640625,
+      "left": 365,
+      "height": 451.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/24/moraes-da-24-h-para-campanha-de-bolsonaro-mostrar-prova-de-fraude-em-radios.htm",
+    "title": "Moraes dá 24 horas para campanha de Bolsonaro mostrar prova de fraude em rádios"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11571.21875,
+      "left": 365,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/pesquisas-eleitorais-presidente-governador-terca-feira.htm",
+    "title": "Quais pesquisas eleitorais para presidente e governador saem nesta terça?"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12046.640625,
+      "left": 619.15625,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/25/roberto-jefferson-apresentador-programa-de-tv.htm",
+    "title": "Programa que lançou Roberto Jefferson exibia de charlatanismo a bebê morto"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11524.84375,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/colunas/carlos-juliano-barros/2022/10/25/quebrar-o-elo-entre-salario-minimo-e-aposentadoria-e-sonho-antigo-de-guedes.htm",
+    "title": "Carlos Juliano: Separar salário mínimo, aposentadoria e inflação é sonho de Guedes"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5645,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2022/11/12/recursos-para-pequenos-produtores-imagem-no-exterior-producao-sustentavel-especialistas-apontam-desafios-de-lula-no-agro.ghtml",
+    "hat": "Novo governo",
+    "title": "Objetivo de Lula de erradicar a fome passa por desafios no agro; veja quais são"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5645,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/dois-avioes-colidem-no-ar-durante-apresentacao-nos-eua.ghtml",
+    "hat": "Dallas",
+    "title": "VÍDEO: aviões militares batem no ar durante apresentação nos EUA"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5308.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/como-caes-dados-por-kim-jong-un-criaram-disputa-entre-atual-e-ex-presidente-na-coreia-do-sul.ghtml",
+    "hat": "Songkang e Gomi",
+    "title": "Cães dados por Kim Jong-un causam briga política na Coreia do Sul"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4903.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/loterias/noticia/2022/11/12/mega-sena-concurso-2538-resultado.ghtml",
+    "hat": "Loterias",
+    "title": "Mega-Sena paga R$ 4,8 milhões; veja dezenas sorteadas",
+    "category": "Loterias"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4347.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/filho-de-brasileiros-george-santos-sera-deputado-no-congresso-dos-eua.ghtml",
+    "title": "Trumpista e gay: quem é o filho de brasileiros eleito deputado nos EUA",
+    "category": "Mundo"
+  }
+]

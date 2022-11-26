@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12485.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/tcu-diz-que-governo-bolsonaro-quer-fornecer-as-informacoes-e-acredita-em-transicao-tranquila.shtml",
+    "title": "TCU fala em transição tranquila após reunião com Ciro Nogueira e Guedes",
+    "summary": "Conversa teve como foco garantir a transparência no fluxo das informações"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12123.453125,
+      "left": 365,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/santos-cruz-bolsonaro-criou-universo-de-militares-salvadores-e-nao-sao.htm",
+    "title": "Bolsonaro criou universo de militares salvadores, e não são, diz Santos Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12123.453125,
+      "left": 619.15625,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/pm-diz-que-esta-prevaricando-em-conversa-com-manifestantes.htm",
+    "title": "Coronel da PM permite bloqueio parcial de rodovia no PR e admite estar prevaricando"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12123.453125,
+      "left": 873.328125,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/02/flamengo-x-corinthians---brasileirao-2022.htm",
+    "title": "Corinthians carimba faixa do Flamengo e garante vaga direta na Libertadores"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11640.03125,
+      "left": 365,
+      "height": 473.796875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/03/vanderlei-scolari-abel-unifica-titulos-de-idolos-historicos-do-palmeiras.htm",
+    "title": "'Quarta opção', Abel unifica títulos de ídolos históricos do Palmeiras"
+  }
+]

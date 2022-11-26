@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5646,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/justica-decreta-prisao-de-gabriel-monteiro.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Ex-vereador Gabriel Monteiro é preso acusado de estuprar mulher após festa"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5646,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/veja-quem-e-quem-no-julgamento-da-ex-deputada-federal-flordelis-pela-morte-do-pastor-anderson-do-carmo.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Quem é quem no julgamento de Flordelis, que começou hoje"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5309.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/07/ladroes-invadem-casa-de-ex-treinador-emerson-leao-em-sp-e-levam-medalha-da-copa-do-mundo-de-1970.ghtml",
+    "hat": "São Paulo",
+    "title": "Ladrões roubam medalhas, joias e réplica de troféu na casa de Leão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4904.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/07/preco-da-gasolina-sobe-pela-quarta-semana-seguida-diz-anp.ghtml",
+    "hat": "Combustível mais caro",
+    "title": "Preço da gasolina sobe pela 4ª semana e encosta nos R$ 5",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4626.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/07/convocados-da-selecao-para-a-copa-do-mundo-2022-veja-a-lista-de-tite.ghtml",
+    "hat": "Em busca do hexa",
+    "title": "Daniel Alves, Pedro e Martinelli são convocados para a Copa; veja lista",
+    "category": "seleção brasileira"
+  }
+]

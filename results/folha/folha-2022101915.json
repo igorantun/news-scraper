@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9444.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/putin-declara-lei-marcial-em-areas-anexadas-e-alerta-maximo-na-russia.shtml",
+    "hat": "Guerra da Ucrânia",
+    "title": "Putin declara lei marcial em áreas anexadas da Ucrânia e alerta máximo na Rússia",
+    "summary": "Medidas afetam até Moscou e trazem a guerra para o território russo; trânsito de pessoas e veículos será sujeito a fiscalização"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.5,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9180.34375,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/lula-diz-que-liberdade-de-culto-sera-preservada-se-deus-e-o-povo-permitirem-sua-eleicao-leia-carta-aos-evangelicos.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Lula diz que liberdade de culto será preservada se Deus e o povo permitirem sua eleição",
+    "summary": "Carta aos evangélicos é divulgada em encontro com lideranças; leia íntegra"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8922.03125,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/doria-anuncia-desfiliacao-do-psdb.shtml",
+    "hat": "Política",
+    "title": "Doria anuncia desfiliação do PSDB após 22 anos; leia declaração na íntegra"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8721,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/prefeito-de-sp-nao-vai-fornecer-transporte-gratuito-para-eleitores.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Prefeito de SP diz que não vai fornecer transporte gratuito para eleitores"
+  }
+]

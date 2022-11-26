@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6276,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/12/flordelis-e-interrogada-em-julgamento-sobre-a-morte-do-pastor-anderson.ghtml",
+    "hat": "Crime no Rio",
+    "title": "Flordelis diz que abusos motivaram morte do marido, mas nega crime",
+    "summary": "Julgamento de ex-deputada entra na reta final. Ele é acusada de arquitetar o assassinato do pastor Anderson do Carmo."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6276,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/12/inauguracao-da-shein-em-sp-tem-longas-filas-confusao-e-brigas.ghtml",
+    "hat": "Cenas lamentáveis",
+    "title": "Inauguração de loja em SP tem longas filas, confusão e brigas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5939.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2022/11/12/cruzeiro-na-australia-tem-surto-de-covid-19-e-registra-cerca-de-800-casos-positivos.ghtml",
+    "hat": "Viagem interrompida",
+    "title": "Cruzeiro de luxo atraca na Austrália após surto com 800 casos de Covid"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5534.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/11/12/em-dia-historico-ucranianos-celebram-reconquista-de-kherson-em-clima-de-vitoria-na-guerra.ghtml",
+    "hat": "'Dia histórico'",
+    "title": "Ucrânia celebra retomada de Kherson, maior derrota da Rússia até agora",
+    "category": "Ucrânia e Rússia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4978.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/12/transicao-de-governo-bela-gil-e-nomeada-para-o-grupo-de-desenvolvimento-social-e-combate-a-fome.ghtml",
+    "hat": "Transição de Lula",
+    "title": "Bela Gil é nomeada para grupo de combate à fome e promoção social",
+    "summary": "Ela diz que meta é buscar 'caminhos mais prósperos e saudáveis\" para o país",
+    "category": "Política"
+  }
+]

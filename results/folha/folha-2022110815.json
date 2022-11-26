@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9998.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/moraes-mantem-ofensiva-contra-bolsonaristas-mesmo-apos-eleicao.shtml",
+    "hat": "STF",
+    "title": "Moraes mantém ofensiva contra bolsonaristas mesmo após eleição",
+    "summary": "Cúpula do Judiciário respalda presidente do TSE por persistência da desinformação; especialistas veem excessos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.59375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9680.4375,
+      "left": 975,
+      "height": 223.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/gastos-com-sistema-espiao-disparam-em-estados-e-no-governo-bolsonaro.shtml",
+    "hat": "equipamentos",
+    "title": "Gastos com sistema espião disparam em estados e no governo Bolsonaro",
+    "summary": "Até órgãos que já contam com a polícia na investigação compraram ferramenta"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9422.125,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/gleisi-hoffmann-e-hostilizada-e-ameacada-por-bolsonarista-em-restaurante-de-brasilia.shtml",
+    "hat": "violência política",
+    "title": "Gleisi é hostilizada e ameaçada por bolsonarista em restaurante de Brasília",
+    "summary": "Presidente nacional do PT registrou boletim de ocorrência por injúria e ameaça"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9225.25,
+      "left": 975,
+      "height": 133.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painelsa/2022/11/juros-futuros-sobem-com-politica-social-de-lula.shtml",
+    "hat": "Painel S.A.",
+    "title": "Juros futuros sobem com política social de Lula",
+    "summary": "Investidores apostam em alta inflacionária com programa econômico do eleito"
+  }
+]

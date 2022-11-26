@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9303.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/jefferson-diz-a-pf-que-deu-50-tiros-de-fuzil-e-jogou-tres-granadas-em-policiais/",
+    "hat": "ataque a policiais federais",
+    "title": "Jefferson diz à PF que deu 50 tiros de fuzil e lançou três granadas, mas 'não para machucar'; leia depoimento",
+    "summary": "Apesar das alegações do ex-deputado, avaliação na Polícia Federal é a de que ele 'minimamente aceitou o risco' de matar os agentes"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9303.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pesquisa-ipec-no-segundo-turno-lula-tem-50-das-intencoes-de-voto-bolsonaro-43-2/",
+    "hat": "DISPUTA PRESIDENCIAL",
+    "title": "Pesquisa Ipec: Lula tem 50% das intenções de voto, e Bolsonaro aparece com 43%",
+    "summary": "Margem de erro do levantamento é de dois pontos porcentuais para mais ou para menos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8869.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://paladar.estadao.com.br/noticias/geral,ceci-e-a-campea-de-concurso-de-padarias-em-sao-paulo,70004155886",
+    "hat": "Paladar",
+    "title": "Padaria Ceci é eleita a melhor de São Paulo em concurso; veja ganhadoras por região",
+    "summary": "Localizada no Planalto Paulista, padaria também ganhou cinco de sete prêmios na 2ª edição do concurso"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8347.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-de-freitas-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "São Paulo",
+    "title": "Tarcísio é entrevistado por Estadão e Rádio Eldorado nesta terça; veja como acompanhar"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8347.65625,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/psdb-de-sp-contraria-rodrigo-garcia-e-declara-apoio-a-lula-no-segundo-turno/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "PSDB de São Paulo contraria decisão de Rodrigo Garcia e declara apoio a Lula no segundo turno",
+    "summary": "Diretório estadual está em sintonia com ala do partido que defende voto no petista contra Jair Bolsonaro"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5343,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/no-1o-ano-de-mandato-lula-tera-de-governar-com-orcamento-proposto-por-bolsonaro-entenda-pec-da-transicao-e-proximos-passos.ghtml",
+    "hat": "Novo governo",
+    "title": "Lula precisará negociar ajustes para governar com Orçamento aprovado por Bolsonaro; entenda"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5343,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/05/coreia-do-norte-volta-a-disparar-misseis-dizem-sul-coreanos.ghtml",
+    "hat": "Tensão na Ásia",
+    "title": "Coreia do Sul faz sobrevoos após acusar Coreia do Norte de disparos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5006.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/05/brasileiro-e-eleito-juiz-da-corte-internacional-de-justica-em-haia.ghtml",
+    "hat": "Posição de destaque",
+    "title": "Professor da UFMG é eleito juiz de Corte Internacional em Haia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4601.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/a-metamorfose-do-voto-na-maior-cidade-do-pais.ghtml",
+    "hat": "Mudança em SP",
+    "title": "VÍDEO: a metamorfose do voto na maior cidade do país",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4323.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/05/desmatamento-garimpo-e-mais-veja-os-principais-desafios-do-governo-lula-no-meio-ambiente.ghtml",
+    "hat": "Herança bolsonarista",
+    "title": "Desmatamento, garimpo e mais: veja os desafios de Lula no meio ambiente",
+    "category": "Cop 27"
+  }
+]

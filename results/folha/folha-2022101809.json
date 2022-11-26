@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10315.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-lula-liga-alertas-para-reta-final-aciona-juridico-e-cobra-plataformas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Campanha de Lula liga alertas para reta final, aciona jurídico e cobra plataformas",
+    "summary": "Aliados do petista temem efeito eleitoral de ataques e vão ao TSE pedir esforço no combate contra fake news"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.03125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10051.34375,
+      "left": 974.984375,
+      "height": 185.671875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moro-abraca-bolsonarismo-para-fugir-de-isolamento-politico.shtml",
+    "hat": "Ex-ministro",
+    "title": "Sergio Moro abraça bolsonarismo para fugir de isolamento político"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9830.6875,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/votacao-de-bolsonaro-melhora-em-cidades-que-mais-recebem-auxilio-brasil.shtml",
+    "hat": "Comparação com 2018",
+    "title": "Votação de Bolsonaro melhora em cidades que mais recebem Auxílio Brasil"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9673.75,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/michelle-encontra-venezuelanas-apos-video-de-bolsonaro.shtml",
+    "hat": "encontro secreto",
+    "title": "Michelle e Damares encontram venezuelanas após vídeo de Bolsonaro"
+  }
+]

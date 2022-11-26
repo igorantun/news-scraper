@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9778.3125,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/forcas-armadas-condenam-excesso-em-manifestacoes-e-restricoes-de-direitos/",
+    "hat": "ATOS BOLSONARISTAS",
+    "title": "Forças Armadas defendem liberdade de manifestação, mas condenam excessos e restrições de direitos",
+    "summary": "Em nota conjunta, comandantes da Marinha, do Exército e da Aeronáutica declaram 'compromisso irrestrito e inabalável' com 'a democracia e com a harmonia política e social'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9778.3125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-ia-bem-mas-derrapou-ao-repetir-bolsonaro-e-atacar-a-responsabilidade-com-o-dinheiro-publico/",
+    "hat": "Eliane Cantanhêde",
+    "title": "Lula ia bem, mas derrapou ao repetir Bolsonaro e atacar responsabilidade fiscal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9330.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/formacao-dos-grupos-na-transicao-e-resultado-da-pressao-do-pt-sobre-alckmin/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "Formação dos grupos na transição é resultado da pressão do PT sobre Alckmin",
+    "summary": "Pedidos são para abrigar petistas e contemplar indicados oriundos de diferentes vertentes"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9330.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sao-paulo/camara-de-sp-quer-liberar-barulho-maior-em-shows-mp-ve-retrocesso/",
+    "hat": "São Paulo",
+    "title": "Câmara de SP quer liberar barulho maior em shows; MP vê 'retrocesso'",
+    "summary": "Item incluído em projeto sobre cozinhas industriais prevê subir de 55 para 85 decibéis o limite de ruído"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8831.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/educacao/como-dislexia-fez-lewis-hamilton-entender-o-valor-da-escola-leia-entrevista-exclusiva-com-o-piloto/",
+    "hat": "ÍDOLO DA F-1",
+    "title": "Como a dislexia fez Lewis Hamilton entender o valor da escola; leia entrevista exclusiva"
+  }
+]

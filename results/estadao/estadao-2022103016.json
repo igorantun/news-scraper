@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7788.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/?liveId=5AYF6SAKAZGL3OPIYQ4OPF7QEI",
+    "hat": "DOMINGO DE ELEIÇÃO",
+    "title": "Ao vivo: Lula vota e fala em pacificação e 'harmonia'; Bolsonaro diz que vitória é 'pelo bem do Brasil'",
+    "summary": "Petista compareceu ao seu berço político em São Bernardo do Campo nesta manhã; mais cedo, presidente votou no Rio"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6953.203125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/minha-sacada-para-o-mundo/",
+    "hat": "eleições 2022",
+    "title": "Leandro Karnal: 'Da minha sacada para o mundo, o debate político virou uma demarcação de território'",
+    "summary": "Bandeiras do Brasil e faixas do PT viram símbolo de áreas demarcadas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6953.203125,
+      "left": 1190.328125,
+      "height": 424.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-freitas-vota-sao-jose-dos-campos/",
+    "hat": "DISPUTA EM SÃO PAULO",
+    "title": "Tarcísio vota em São José dos Campos e diz estar confiante na vitória nas urnas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6499.09375,
+      "left": 1190.328125,
+      "height": 400.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/seguranca-carla-zambelli-liberado/",
+    "hat": "DEPUTADA BOLSONARISTA",
+    "title": "Segurança de Carla Zambelli é liberado após pagar fiança; armas são apreendidas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6036.984375,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/sergio-moro-vota-em-curitiba-e-pede-tolerancia-a-populacao/",
+    "hat": "apoiadores do presidente",
+    "title": "Sérgio Moro vota em Curitiba e pede tolerância à população"
+  }
+]

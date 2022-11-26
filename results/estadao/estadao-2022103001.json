@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9762.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/quem-esta-na-frente-lula-ou-bolsonaro-pesquisa-eleitoral-para-presidente-segundo-turno-datafolha-ipec-poderdata-quaest-ideia-ipespe-mda-parana/",
+    "hat": "ÚLTIMOS LEVANTAMENTOS",
+    "title": "Lula ou Bolsonaro? Veja quem está na frente nas pesquisas eleitorais divulgadas neste sábado",
+    "summary": "Confira o resultado atualizado com as recentes sondagens de Ipec, Datafolha e Quaest"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9388.359375,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/no-mapa-eleitoral-de-2022-lula-repete-dilma-e-bolsonaro-replica-aecio-em-2014/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Cantanhêde: 'No mapa eleitoral de 2022, Lula repete Dilma e Bolsonaro replica Aécio em 2014'",
+    "summary": "'Os tempos são outros, mas há uma forte relação entre as duas eleições'; leia coluna"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9388.359375,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caso-zambelli-policia-vai-investigar-crimes-de-porte-ilegal-de-arma-lesao-corporal-e-disparo-de-ar/",
+    "hat": "Deputada bolsonarista",
+    "title": "Caso Zambelli: polícia vai apurar crimes de porte ilegal de arma, disparo e lesão corporal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8910.25,
+      "left": 1190.328125,
+      "height": 302,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/quem-esta-na-frente-pesquisa-governo-al-am-ba-es-ms-pb-pe-rs-ro-sc-sp-se-ipec/",
+    "hat": "Reta final",
+    "title": "Quem está na frente nas pesquisas para os governos dos 12 Estados com segundo turno; confira resultados",
+    "summary": "Veja como está o cenário eleitoral em São Paulo, Bahia, Rio Grande do Sul, Pernambuco e demais regiões"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8508.703125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/o-momento-de-digitar-seu-voto-na-urna-e-sagrado-diz-alexandre-as-vesperas-do-segundo-turno/",
+    "hat": "PRESIDENTE DO TSE",
+    "title": "Moraes pede que eleitores compareçam às urnas neste domingo ‘por um País melhor’",
+    "summary": "Ministro do TSE recomenda a todos os cidadãos que 'não permitam coação ou oferecimento de benefícios'"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10291.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/orcamento-secreto-apoio-centrao-lula-pec-transicao/",
+    "hat": "Troca de comando",
+    "title": "Centrão condiciona apoio ao orçamento secreto para aprovar PEC da Transição",
+    "summary": "Negociação entre a equipe de Lula e o Congresso antes de ser anunciado o ministro da Fazenda preocupa o mercado financeiro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10291.3125,
+      "left": 1190.328125,
+      "height": 446.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/grupos-bolsonaristas-mostram-que-a-tecnologia-deu-origem-a-um-movimento-pre-modernidade/",
+    "hat": "Pedro Doria",
+    "title": "'Grupos bolsonaristas mostram que o digital se encontrou mesmo com a Idade Média'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9815.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/gripe-covid-sintomas-semelhantes-testagem-melhor-caminho-diagnostico-/",
+    "hat": "Saúde",
+    "title": "Gripe ou covid? Veja como diferenciar os sintomas em meio ao aumento no nº de casos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9335.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sao-paulo/interior-de-sao-paulo-vira-foco-de-novos-loteamentos-e-tem-maior-oferta-de-terrenos/",
+    "hat": "LOTEAMENTOS IMOBILIÁRIOS",
+    "title": "Interior de SP vira foco de empreendimentos com alta de home office pós-pandemia"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9335.65625,
+      "left": 1190.3125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/laura-karpuska-democracia-moderna-acolher-perdedores-politicos/",
+    "hat": "Laura Karpuska",
+    "title": "A direita carece de um líder que represente a parcela que não flerta com extremismos"
+  }
+]

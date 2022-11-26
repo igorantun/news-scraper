@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9211.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/roberto-jefferson-troca-de-tiros-policia-federal/",
+    "hat": "Violência",
+    "title": "Roberto Jefferson resiste a mandado de prisão de Moraes, atira granada contra a PF e fere agentes",
+    "summary": "Polícia Federal informa que feridos passam bem;  caso acontece um dia após ex-deputado atacar com xingamentos a ministra Cármen Lúcia, do Supremo Tribunal Federal"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9211.3125,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/de-denunciante-do-mensalao-e-apoiador-de-bolsonaro-roberto-jefferson-recebe-pf-a-balas/",
+    "hat": "EX-PRESIDENTE DO PTB",
+    "title": "Denunciante do Mensalão e atual apoiador de Bolsonaro: quem é Roberto Jefferson",
+    "summary": "Ex-deputado cumpria prisão domiciliar após ataques contra ministros do STF quando atirou em agentes da PF"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8729.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/como-memes-abalaram-um-dos-bancos-mais-antigos-e-tradicionais-da-suica/",
+    "hat": "RUMORES NAS REDES",
+    "title": "Como memes abalaram um dos bancos mais antigos e tradicionais da Suíça",
+    "summary": "Problemas de longa data do Credit Suisse chamaram atenção de investidores amadores"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8255.65625,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://economia.estadao.com.br/blogs/coluna-do-broad/cyrela-lavvi-e-hines-farao-projeto-de-r-2-bi-em-antiga-fabrica-da-kibon/",
+    "hat": "COLUNA DO BROADCAST",
+    "title": "Cyrela, Lavvi e Hines farão projeto de R$ 2 bi em antiga fábrica da Kibon"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8255.65625,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://brasil.estadao.com.br/noticias/geral,celular-roubado-saiba-o-que-voce-deve-fazer-para-bloquear-o-pix-e-outros-servicos,70004033227",
+    "hat": "PROTEJA-SE",
+    "title": "Celular roubado: saiba o que você deve fazer para bloquear o Pix e outros serviços"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9937.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/moraes-mantem-ofensiva-contra-bolsonaristas-mesmo-apos-eleicao.shtml",
+    "hat": "STF",
+    "title": "Moraes mantém ofensiva contra bolsonaristas mesmo após eleição",
+    "summary": "Cúpula do Judiciário respalda presidente do TSE por persistência da desinformação; especialistas veem excessos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.359375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://youtu.be/wie0STFrqQE",
+    "hat": "Afeganistão",
+    "title": "Sem escolas desde a volta do Talibã, afegãs trabalham em campos de açafrão",
+    "summary": "Desde que o grupo extremista retomou o poder, a educação não é um direito garantido para mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9619.4375,
+      "left": 975,
+      "height": 223.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/gastos-com-sistema-espiao-disparam-em-estados-e-no-governo-bolsonaro.shtml",
+    "hat": "equipamentos",
+    "title": "Gastos com sistema espião disparam em estados e no governo Bolsonaro",
+    "summary": "Até órgãos que já contam com a polícia na investigação compraram ferramenta"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9361.125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/equipe-de-lula-avalia-mix-de-instrumentos-para-viabilizar-r-175-bi-fora-do-teto.shtml",
+    "hat": "orçamento de 2023",
+    "title": "Equipe de Lula avalia três formas de viabilizar R$ 175 bilhões fora do teto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9160.09375,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/extrema-pobreza-caiu-a-minima-historica-no-brasil-em-2020-diz-banco-mundial.shtml",
+    "hat": "desigualdade",
+    "title": "Extrema pobreza caiu a mínima histórica no Brasil em 2020, diz Banco Mundial"
+  }
+]

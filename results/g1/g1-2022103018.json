@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3487,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/prf-descumpre-ordem-do-tse-e-faz-pelo-menos-514-operacoes-de-fiscalizacao-contra-onibus-de-eleitores.ghtml",
+    "hat": "Segundo turno",
+    "title": "PRF descumpre ordem do TSE e faz mais de 500 operações; Moraes intima diretor-geral",
+    "summary": "Há relatos de ações policiais para atrapalhar a votação. Presidente do TSE havia proibido ontem qualquer operação no transporte público."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -3487,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/lula-vota-em-sao-bernardo-e-bolsonaro-no-rio-de-janeiro.ghtml",
+    "title": "Lula diz que eleição definirá 'modelo de Brasil'; Bolsonaro fala em 'expectativa de vitória'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2467.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/diretor-geral-da-prf-posta-em-rede-social-pedido-de-voto-em-bolsonaro-e-depois-apaga.ghtml",
+    "title": "Diretor-geral da PRF posta pedido de voto em Bolsonaro e depois apaga",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2189.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pa/para/eleicoes/2022/noticia/2022/10/30/onibus-da-linha-belemmosqueiro-cheio-de-eleitores-e-parado-pela-prf-em-benevides-no-para.ghtml",
+    "title": "Ônibus com eleitores é parado em ação da PRF no Pará",
+    "category": "Eleições 2022 no Pará"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -1911.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/se/sergipe/eleicoes/2022/noticia/2022/10/30/apesar-de-proibicao-do-tse-eleitor-de-sergipe-denuncia-abordagem-da-prf-a-micro-onibus-no-municipio-de-laranjeiras.ghtml",
+    "title": "PRF para micro-ônibus em Sergipe: 'Pediu para ver extintor', diz eleitor",
+    "category": "Eleições 2022 no Sergipe"
+  }
+]

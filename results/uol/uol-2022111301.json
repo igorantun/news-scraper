@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12407.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/12/parias-bolsonaro-e-putin-ficam-de-fora-da-cupula-do-g20.htm",
+    "title": "Em gesto inédito, Bolsonaro decide não ir à reunião de cúpula do G20",
+    "summary": "É a primeira vez que um presidente brasileiro recusa ida ao encontro entre líderes"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12045.453125,
+      "left": 365,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2022/11/12/covid-19-internacoes-casos-hospitais-privados-sus-einstein-sirio-libanes.htm",
+    "title": "Do Einstein ao SUS: internações por covid-19 disparam em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11748.34375,
+      "left": 365,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/2022/11/12/corrida-sprint-gp-de-interlagos.htm",
+    "title": "George Russell vence sprint e garante a pole position no GP de São Paulo de Fórmula 1"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12045.453125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/12/sete-mil-pessoas-passam-pela-shein-na-abertura-da-loja-em-sp-diz-shopping.htm",
+    "title": "Briga e caos: shopping de SP diz que 7.000 pessoas tentaram visitar Shein em inauguração"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11654.78125,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/apos-tombo-em-2020-extrema-pobreza-voltou-a-subir-no-brasil-em-2021.shtml",
+    "title": "Após tombo em 2020, extrema pobreza voltou a subir no Brasil em 2021, mostra estudo"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8463.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/centrao-e-aliados-de-lula-aceitam-negociar-mudancas-em-emendas-de-relator.shtml",
+    "hat": "transição de governo",
+    "title": "Centrão e aliados de Lula aceitam negociar mudanças em emendas de relator",
+    "summary": "Durante a campanha, presidente eleito defendeu o fim do mecanismo, que será julgado pelo Supremo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.609375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8145.4375,
+      "left": 975,
+      "height": 381.78125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bolsonaro-pede-desobstrucao-de-rodovias-mas-diz-que-outras-manifestacoes-sao-do-jogo-democratico.shtml",
+    "hat": "atos golpistas",
+    "title": "Bolsonaro pede desobstrução de rodovias e diz que não são manifestações legítimas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7727.671875,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/cpi-e-projeto-para-criminalizar-pesquisas-perdem-forca-na-camara-apos-vitoria-de-lula.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "CPI e projeto para criminalizar pesquisas perdem força na Câmara após vitória de Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8098.453125,
+      "left": 1305,
+      "height": 113.921875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bloqueios-golpistas-perdem-forca-alta-de-juros-nos-eua-e-o-que-importa-no-mercado.shtml",
+    "hat": "informe-se",
+    "title": "Bloqueios golpistas perdem força, e juros nos EUA sobem",
+    "summary": "Leia na newsletter FolhaMercado"
+  }
+]

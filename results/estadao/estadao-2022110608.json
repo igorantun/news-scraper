@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9813.3125,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/equipe-de-lula-sonda-lara-resende-e-persio-arida-para-transicao-na-area-economica/",
+    "hat": "sucessão de governo",
+    "title": "Lara Resende vai integrar equipe de transição de Lula na economia; Persio Arida também foi convidado",
+    "summary": "'Pais' do Plano Real se aproximaram da campanha depois de declarar apoio ao petista; indicações acontecem no momento de negociações sobre a PEC da Transição no Congresso"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9813.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/rei-charles-iii-diz-que-brasil-e-fundamental-para-preservacao-do-planeta/",
+    "hat": "SUSTENTABILIDADE",
+    "title": "Rei Charles III afirma que Brasil é 'fundamental para preservação do Planeta'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9363.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/gilmar-mendes-determina-que-carla-zambelli-seja-ouvida-imediatamente-pela-pgr/",
+    "hat": "DEPUTADA federal",
+    "title": "Gilmar Mendes determina que Carla Zambelli seja ouvida imediatamente pela PGR",
+    "summary": "Ministro entendeu que possíveis crimes em perseguição armada a homem em SP precisam ser investigados"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9363.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-retorna-a-sao-paulo-apos-dias-na-bahia-e-vai-integrar-processo-de-transicao/",
+    "hat": "Novo governo",
+    "title": "Lula volta a SP após dias na Bahia; petista retoma reuniões da transição na segunda"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9363.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/cultura/musica/morre-aos-34-anos-aaron-carter-cantor-e-irmao-de-nick-carter/",
+    "hat": "MEMÓRIA",
+    "title": "Aaron Carter, cantor e irmão de Nick Carter, é encontrado morto aos 34 anos de idade",
+    "summary": "Polícia investiga causas da morte; artista fez sucesso nos anos 2000 e chegou a abrir shows dos Backstreet Boys"
+  }
+]

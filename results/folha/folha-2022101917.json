@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9461.109375,
+      "left": 315,
+      "height": 260.734375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-lanca-carta-aos-evangelicos-e-rechaca-aborto-banheiro-unissex-e-pastor-que-mente.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula lança carta aos evangélicos e rechaça aborto, banheiro unissex e pastor que mente",
+    "summary": "Campanha divulga compromisso em encontro com representantes de igrejas simpáticos à candidatura petista"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.4375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9165.390625,
+      "left": 974.984375,
+      "height": 185.671875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/putin-declara-lei-marcial-em-areas-anexadas-e-alerta-maximo-na-russia.shtml",
+    "hat": "Guerra da Ucrânia",
+    "title": "Putin declara lei marcial em áreas anexadas e alerta máximo na Rússia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8944.734375,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/quatro-empresas-do-rs-ja-fecharam-acordo-por-assedio-eleitoral.shtml",
+    "hat": "eleição e trabalho",
+    "title": "Empresa gaúcha que ameaçou cortes se Lula vencer eleição pode ter que pagar R$ 10 mi",
+    "summary": "Quatro empresas do Rio Grande do Sul já fecharam acordo por assédio eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8747.859375,
+      "left": 974.984375,
+      "height": 160.09375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/confira-nova-pesquisa-datafolha-para-presidente-na-quarta-feira.shtml",
+    "hat": "pesquisa eleitoral",
+    "title": "Confira hoje Datafolha para presidente e governador de SP"
+  }
+]

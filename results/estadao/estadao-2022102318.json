@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9337.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/roberto-jefferson-troca-de-tiros-policia-federal/",
+    "hat": "Violência",
+    "title": "Roberto Jefferson resiste a mandado de prisão, troca tiros com a Polícia Federal e fere dois agentes",
+    "summary": "Cristiane Brasil publicou vídeos nas redes sociais afirmando que o pai e ex-deputado teria recebido agentes da polícia à bala no RJ no começo da tarde deste domingo (23)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9337.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/e-preciso-reconstruir-a-direita-democratica-diz-marcos-nobre/",
+    "hat": "ENTREVISTA",
+    "title": "'É preciso reconstruir a direita democrática', diz Marcos Nobre"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8919.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/como-memes-abalaram-um-dos-bancos-mais-antigos-e-tradicionais-da-suica/",
+    "hat": "RUMORES NAS REDES",
+    "title": "Como memes abalaram um dos bancos mais antigos e tradicionais da Suíça",
+    "summary": "Problemas de longa data do Credit Suisse chamaram atenção de investidores amadores"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8381.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://economia.estadao.com.br/blogs/coluna-do-broad/cyrela-lavvi-e-hines-farao-projeto-de-r-2-bi-em-antiga-fabrica-da-kibon/",
+    "hat": "COLUNA DO BROADCAST",
+    "title": "Cyrela, Lavvi e Hines farão projeto de R$ 2 bi em antiga fábrica da Kibon",
+    "summary": "Terreno que estava desocupado havia quase 20 anos vai receber megaempreendimento imobiliário"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8381.65625,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://brasil.estadao.com.br/noticias/geral,celular-roubado-saiba-o-que-voce-deve-fazer-para-bloquear-o-pix-e-outros-servicos,70004033227",
+    "hat": "PROTEJA-SE",
+    "title": "Celular roubado: saiba o que você deve fazer para bloquear o Pix e outros serviços",
+    "summary": "Furtos se tornaram 'corrida contra o tempo' para que vítimas bloqueiem os aplicativos de banco"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9065.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-travam-duelo-sobre-covid-corrupcao-e-fake-news-em-debate.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula e Bolsonaro travam duelo sobre Covid, corrupção e fake news em debate",
+    "summary": "Apesar das falas duras, clima foi moderado; rivais reforçaram argumentos da campanha de 2º turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.921875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8693.53125,
+      "left": 974.984375,
+      "height": 213.390625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/40-dos-estreantes-na-camara-foram-alvos-de-acao-ou-investigacao.shtml",
+    "hat": "Congresso Nacional",
+    "title": "40% dos estreantes na Câmara foram alvos de ação ou investigação",
+    "summary": "Suspeitas envolveram calúnia, mau uso de recursos públicos, estelionato e até homicídio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8445.15625,
+      "left": 974.984375,
+      "height": 144,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420895",
+    "hat": "em debate",
+    "title": "Bolsonaro não se compromete sobre STF; Lula joga para Constituinte"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8266.171875,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/com-formato-moderno-debate-nao-da-sono-e-estabelece-novo-padrao-no-genero.shtml",
+    "hat": "Mauricio Stycer",
+    "title": "Com formato moderno, debate não dá sono e estabelece novo padrão no gênero"
+  }
+]

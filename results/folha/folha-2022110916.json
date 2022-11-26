@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9736.109375,
+      "left": 315,
+      "height": 395.71875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/morre-gal-costa-uma-das-maiores-vozes-da-musica-brasileira-aos-77-anos.shtml"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9305.40625,
+      "left": 315,
+      "height": 252.328125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/morre-gal-costa-uma-das-maiores-vozes-da-musica-brasileira-aos-77-anos.shtml",
+    "hat": "memória",
+    "title": "Morre Gal Costa, uma das maiores vozes da música brasileira, aos 77 anos",
+    "summary": "Informação foi confirmada pela assessoria de imprensa da artista; causa da morte não foi informada"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -871.765625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9365.578125,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://f5.folha.uol.com.br/celebridades/2022/11/gilberto-gil-lamenta-morte-de-irma-gal-costa-confira-homenagens-de-famosos.shtml",
+    "hat": "repercussão",
+    "title": "Artistas, políticos e jornalistas homenageiam cantora nas redes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9208.640625,
+      "left": 1305,
+      "height": 144.265625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/como-gal-costa-desafiou-a-ditadura-em-1971-com-o-mitico-show-fa-tal.shtml",
+    "hat": "Show mítico",
+    "title": "Como Gal Costa desafiou a ditadura em 1971",
+    "summary": "Quando 'Fa-Tal' completou 50 anos, cantora disse que ainda não compreendia culto a ele"
+  }
+]

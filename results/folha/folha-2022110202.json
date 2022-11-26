@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10260.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-quebra-silencio-condena-bloqueios-e-fala-em-indignacao-com-injusticas-na-eleicao.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro quebra silêncio, critica bloqueios e fala em indignação e injustiça com eleição",
+    "summary": "Presidente diz ainda que 'a direita surgiu de verdade no país'; ele ficou quase dois dias sem se pronunciar após derrota para Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.515625,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições na internet",
+    "title": "'Debate legislativo é necessário', diz especialista sobre regulamentação na internet",
+    "summary": "Especialistas apontam para a insuficiência da autorregulação dos serviços nos espaços digitais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10260.109375,
+      "left": 1305,
+      "height": 303.9375,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml",
+    "hat": "tempo real",
+    "title": "Acompanhe os protestos golpistas em estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9888.53125,
+      "left": 315,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/lider-do-governo-bolsonaro-pede-liberacao-de-estradas-e-fala-em-eleicoes-de-2026.shtml",
+    "hat": "'seguir a vida'",
+    "title": "Líder do governo Bolsonaro pede liberação de estradas e fala em eleição de 2026"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9888.53125,
+      "left": 645,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/11/movimentos-pro-lula-decidem-vigiar-e-nao-agir-em-relacao-a-golpistas-bolsonaristas-em-estradas.shtml",
+    "hat": "Painel",
+    "title": "Movimentos pró-Lula decidem vigiar e não agir em relação a golpistas nas estradas"
+  }
+]

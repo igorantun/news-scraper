@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12601.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bolsonaro-reiterou-compromissos-da-transicao-diz-alckmin-apos-encontro.htm",
+    "title": "Alckmin diz que Bolsonaro 'reiterou compromissos da transição'",
+    "summary": "Vice eleito considerou positiva a reunião com o presidente em Brasília"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12185.078125,
+      "left": 365,
+      "height": 472.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/santos-cruz-bolsonaro-criou-universo-de-militares-salvadores-e-nao-sao.htm",
+    "title": "Bolsonaro criou universo de militares salvadores, e não são, diz Santos Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12185.078125,
+      "left": 619.15625,
+      "height": 355.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/pm-diz-que-esta-prevaricando-em-conversa-com-manifestantes.htm",
+    "title": "Coronel da PM permite bloqueio parcial de rodovia no PR e admite estar prevaricando"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11805.59375,
+      "left": 619.15625,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/generais-evitam-condenar-atos-golpistas-de-apoiadores-de-bolsonaro.shtml",
+    "title": "Generais evitam condenar atos de apoiadores de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12185.078125,
+      "left": 873.328125,
+      "height": 369.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bandeira-do-brasil-e-retirada-da-fachada-do-palacio-do-planalto.htm",
+    "title": "Bandeira do Brasil é retirada da fachada do Palácio do Planalto"
+  }
+]

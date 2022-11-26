@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9709.3125,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/defesa-entrega-relatorio-ao-tse-e-pede-investigacao-de-suposto-risco-de-violacao-das-urnas/",
+    "hat": "Política",
+    "title": "Relatório de militares não aponta fraude em urnas e chega à mesma contagem de votos do TSE",
+    "summary": "Documento fala em risco de 'código malicioso' no sistema de votação e sugere investigação; Tribunal agradece e ressalta que não foi encontrada qualquer inconsistência na eleição deste ano"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9709.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lista-de-alckmin-revela-novos-nomes-da-transicao-saiba-quem-sao/",
+    "hat": "EXCLUSIVO",
+    "title": "Lista de Alckmin revela novos nomes da equipe de transição; veja quem são"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9259.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/cultura/musica/em-seu-ultimo-show-gal-costa-riu-flertou-e-militou-a-favor-de-lula/",
+    "hat": "LUTO",
+    "title": "Em seu último show, Gal Costa riu, flertou e militou a favor de Lula; assista"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9259.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/em-11-meses-17-mil-pessoas-ja-foram-demitidas-de-grandes-empresas-de-tecnologia-entenda/",
+    "hat": "Big techs",
+    "title": "Gigantes da tecnologia já demitiram 17 mil pessoas em 11 meses; entenda por quê"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9259.203125,
+      "left": 1190.3125,
+      "height": 358,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/eleicoes-nos-eua-quem-ganhou-quem-perdeu-e-as-tendencias-ate-agora/",
+    "hat": "'midterms'",
+    "title": "Eleições nos Estados Unidos: quem ganhou, quem perdeu e as tendências até agora",
+    "summary": "Partido Republicano confirma favoritismo na Câmara, mas não garante ‘onda vermelha’; democratas mantém a dianteira na disputa pelo Senado"
+  }
+]

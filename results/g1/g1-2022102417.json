@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5460,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-e-indiciado-pela-pf-por-tentativas-de-homicidio.ghtml",
+    "hat": "Aliado de Bolsonaro",
+    "title": "Roberto Jefferson é indiciado por 4 tentativas de homicídio contra policiais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5460,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/cariri/noticia/2022/10/24/assassinada-durante-tentativa-de-estupro-aos-13-anos-quem-foi-benigna-cardoso-da-silva-cearense-que-sera-beatificada-hoje.ghtml",
+    "hat": "Morta em tentativa de estupro",
+    "title": "Quem foi a menina Benigna Cardoso, que será beatificada hoje"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5123.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/turismo-e-viagem/noticia/2022/10/24/royal-caribbean-lancara-o-maior-navio-de-cruzeiros-do-mundo-em-2024.ghtml",
+    "hat": "🚢🔝",
+    "title": "Maior navio de cruzeiros do mundo será lançado em 2024; conheça"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4718.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/24/roberto-jefferson-estava-com-licenca-de-cac-suspensa-e-nao-poderia-ter-armas-fora-de-brasilia.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Jefferson está com licença de CAC suspensa e não poderia ter armas no RJ",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4440.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/conexao-globonews/video/o-que-o-senhor-precisar-a-gente-vai-fazer-diz-policial-ao-negociar-prisao-de-jefferson-11053734.ghtml",
+    "title": "'O que o senhor precisar, a gente vai fazer', diz policial ao negociar prisão",
+    "category": "Conexão Globonews"
+  }
+]

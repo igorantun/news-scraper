@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4471,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/noticia/2022/10/28/amazonia-2022-ja-tem-pior-marca-da-serie-historica-de-alertas-de-desmate-do-inpe.ghtml",
+    "hat": "Dados do Inpe",
+    "title": "Amazônia: 2022 já tem pior marca da série histórica de alertas de desmate",
+    "summary": "Faltando mais de 2 meses para o fim do ano, devastação já superou todo o ano de 2019 - o pior até então."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4471,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/temperatura-aumenta-nos-grupos-de-familia-no-whatsapp-na-reta-final-da-eleicao-leia-historias.ghtml",
+    "hat": "Cutucadas, provocações e brigas",
+    "title": "Temperatura esquenta nos grupos de família no WhatsApp; leia relatos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4134.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/28/diretor-de-agencia-de-viagens-precisa-ser-escoltado-no-galeao-apos-confusao-com-torcedores-do-flamengo.ghtml",
+    "hat": "Confusão no Galeão",
+    "title": "Falta de voos para flamenguistas causa briga em aeroporto do Rio"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3451.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2022/noticia/2022/10/28/nikolas-ferreira-posta-direito-de-resposta-ao-pt-determinado-pelo-tse-seguido-de-100-tuites-com-foto-de-moraes.ghtml",
+    "hat": "Batalha nas redes",
+    "title": "Nikolas posta direito de resposta ao PT seguido de 100 fotos de Moraes",
+    "category": "Eleições 2022 em Minas Gerais"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3173.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/28/marido-da-presidente-da-camara-dos-eua-pelosi-e-violentamente-agredido.ghtml",
+    "hat": "Ataque na Califórnia",
+    "title": "Marido da presidente da Câmara dos EUA é agredido após ter casa invadida",
+    "summary": "Nancy Pelosi não estava na residência; agressor foi detido.",
+    "category": "Mundo"
+  }
+]

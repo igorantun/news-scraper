@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5147,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/justica-decreta-prisao-de-gabriel-monteiro.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Ex-vereador Gabriel Monteiro é preso após nova acusação de estupro em festa"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5147,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/07/copa-do-mundo-valor-de-mercado-da-selecao-e-estimado-em-r-589-bilhoes-confira-lista-de-jogadores.ghtml",
+    "hat": "⚽💵",
+    "title": "Quanto vale a seleção? Soma de valores passa de R$ 5 bilhões"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4810.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/07/ladroes-invadem-casa-de-ex-treinador-emerson-leao-em-sp-e-levam-medalha-da-copa-do-mundo-de-1970.ghtml",
+    "hat": "São Paulo",
+    "title": "Ladrões roubam medalhas, joias e réplica de troféu na casa de Leão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4405.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/07/preco-da-gasolina-sobe-pela-quarta-semana-seguida-diz-anp.ghtml",
+    "hat": "Combustível mais caro",
+    "title": "Preço da gasolina sobe pela 4ª semana e encosta nos R$ 5",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4127.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/07/lula-chega-a-brasilia-nesta-terca-e-deve-se-encontrar-com-pacheco-lira-e-rosa-weber-diz-randolfe.ghtml",
+    "hat": "Troca de governo",
+    "title": "Lula vai a Brasília e deve se reunir com Lira, Pacheco e Rosa Weber",
+    "summary": "Presidente eleito chegará amanhã para iniciar o governo transição.",
+    "category": "Política"
+  }
+]

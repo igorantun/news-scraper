@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4729,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/doze-horas-apos-resultado-bolsonaro-mantem-silencio-sobre-vitoria-de-lula-na-eleicao.ghtml",
+    "hat": "Candidato derrotado",
+    "title": "Mais de 12 h após resultado, Bolsonaro mantém silêncio sobre vitória de Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4729,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/mapas/mapa-da-apuracao-no-brasil-presidente/2-turno/",
+    "title": "MAPA DA APURAÇÃO: veja a votação para presidente na sua cidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3987.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/31/lula-recupera-terreno-perdido-por-haddad-em-2018-e-tem-77-milhoes-de-votos-a-mais-no-sudeste-bolsonaro-perde-13-milhao-de-votos-na-regiao.ghtml",
+    "hat": "Eleição em números",
+    "title": "Recuperação de votos do PT no Sul e no Sudeste foi crucial para Lula",
+    "category": "Eleição em Números"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3709.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/31/eleito-presidente-lula-so-venceu-bolsonaro-no-nordeste-veja-analise-por-regiao.ghtml",
+    "title": "Lula só venceu Bolsonaro no Nordeste; veja análise por região",
+    "category": "Eleição em Números"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3431.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/31/o-assunto-825-a-vitoria-de-lula-para-3-mandato-inedito.ghtml",
+    "hat": "🎧 Podcast",
+    "title": "O ASSUNTO: o que vai acontecer agora no 3º mandato de Lula? OUÇA",
+    "category": "O Assunto"
+  }
+]

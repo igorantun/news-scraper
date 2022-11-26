@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7325.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/?liveId=5AYF6SAKAZGL3OPIYQ4OPF7QEI",
+    "hat": "DOMINGO DE ELEIÇÃO",
+    "title": "Ao vivo: Lula vota e fala em pacificação e 'harmonia'; Bolsonaro diz que vitória é 'pelo bem do Brasil'",
+    "summary": "Petista compareceu ao seu berço político em São Bernardo do Campo nesta manhã; mais cedo, presidente votou no Rio"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6487.984375,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/minha-sacada-para-o-mundo/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Leandro Karnal: 'Da minha sacada para o mundo, o debate político virou uma demarcação de território'",
+    "summary": "'Os símbolos podem dizer a que grupo eu pertenço. Também proclamam que eu excluo o outro. Houve uma enorme adesão simbólica nas eleições: bandeiras do Brasil ou com a estrela do PT'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6487.984375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleitores-brasileiros-enfrentam-filas-para-votar-em-grandes-cidades-da-europa/",
+    "hat": "ELEIÇÃO NO EXTERIOR",
+    "title": "Eleitores brasileiros enfrentam filas para votar em grandes cidades da Europa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6037.875,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/fernando-haddad-vota-em-colegio-de-sao-paulo-apos-acompanhar-lula-em-sao-bernardo/",
+    "hat": "DISPUTA EM SÃO PAULO",
+    "title": "Fernando Haddad vota em colégio de São Paulo após acompanhar Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6037.875,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/flavio-e-carlos-bolsonaro-votam-e-confiam-em-virada-historica-michelle-cita-lema-integralista/",
+    "hat": "apoiadores do presidente",
+    "title": "Flávio e Carlos votam e confiam em 'virada histórica'; Michelle cita lema integralista"
+  }
+]

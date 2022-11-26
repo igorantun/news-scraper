@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10536.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/apos-chamar-lira-de-imperador-lula-se-reune-com-presidente-da-camara-para-negociar-novo-governo/",
+    "hat": "LEGISLATIVO",
+    "title": "Após chamar Lira de 'imperador', Lula se reúne com presidente da Câmara para negociar novo governo",
+    "summary": "Enquanto petista negocia PEC da Transição, parlamentar tenta apoio para reeleição na presidência da Casa; encontro está marcado para 3ª feira"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10186.3125,
+      "left": 329,
+      "height": 747.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/convocacao-tite-selecao-brasileira-copa-catar/",
+    "hat": "Futebol",
+    "title": "Ao vivo: Tite convoca seleção brasileira para a Copa do Mundo do Catar",
+    "summary": "Treinador divulga lista dos 26 jogadores que vão representar o Brasil e buscar o hexacampeonato mundial; equipe se apresenta na Itália no dia 14 de novembro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10186.3125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-deve-manter-programas-da-defesa-e-enfrentar-esqueletos-no-armario-da-pasta/",
+    "hat": "Transição",
+    "title": "Marcelo Godoy: Lula deve manter programas da Defesa e enfrentar 'esqueletos no armário' da Pasta",
+    "summary": "Disposição de ficar longe de temas polêmicas não deve alcançar a discussão sobre gastos das Forças Armadas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9794.3125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/e-um-absurdo-nao-defender-a-tributacao-de-dividendos-diz-fundador-da-petz/",
+    "hat": "Negócios",
+    "title": "'Pago menos imposto que um caixa da minha empresa. É uma vergonha', diz CEO da Petz"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9376.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/morre-guilherme-de-padua-assassino-da-atriz-daniella-perez-aos-53-anos/",
+    "hat": "CONDENADO POR ASSASSINATO",
+    "title": "Guilherme de Pádua, assassino da atriz Daniella Perez, morre aos 53 anos"
+  }
+]

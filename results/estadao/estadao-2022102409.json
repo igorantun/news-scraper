@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8943.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/o-martir-do-bolsonarismo/",
+    "hat": "VIOLÊNCIA",
+    "title": "O estímulo ao terrorismo 'do bem', agora sabemos, vai até a tentativas de homicídio de policiais; leia análise",
+    "summary": "Felipe Moura Brasil: ''Em 13/8/2021, escrevi que 'Bolsonaro encobre a inépcia da família com o reacionarismo aloprado que resultou na prisão de Jefferson, o condenado promovido a mártir da liberdade bolsonarista''"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8943.3125,
+      "left": 1190.328125,
+      "height": 102,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/o-que-o-senhor-precisar-a-gente-faz-diz-policial-a-roberto-jefferson-apos-ataque/",
+    "hat": "Ex-deputado",
+    "title": "'O que o senhor precisar, a gente faz', diz policial a Jefferson após ataque; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8811.3125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-diz-que-roberto-jefferson-nao-e-seu-amigo-por-ter-entrado-com-queixa-crime-contra-ele/",
+    "hat": "Presidente",
+    "title": "Bolsonaro diz que Jefferson não é seu amigo por ter entrado com queixa-crime contra ele"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8409.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/deficit-na-industria-de-ponta-sobe-28/",
+    "hat": "Comércio global",
+    "title": "Déficit externo da indústria de ponta sobe 28%, segundo estudo do setor",
+    "summary": "Para analistas, resultado no 1º semestre reflete a falta de acordos comerciais e pode deixar País para trás"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8409.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/boris-johnson-diz-que-nao-disputara-cargo-de-premie-e-abre-caminho-para-sunak/",
+    "hat": "CRISE APÓS RENÚNCIA DE LIZ TRUSS",
+    "title": "Boris Johnson diz que não disputará cargo de premiê e abre caminho para Rishi Sunak",
+    "summary": "Ex-premiê do Reino Unido voltou mais cedo de férias no Caribe para lidar com crise após renúncia de Liz Truss"
+  }
+]

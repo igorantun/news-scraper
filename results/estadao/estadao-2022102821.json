@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9743.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/centrao-descarta-tese-de-bolsonaro-de-adiar-as-eleicoes-e-faria-abandona-estrategia-contra-radios/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Centrão descarta tese bolsonarista de adiar as eleições e Fábio Faria abandona estratégia contra rádios",
+    "summary": "Ministro das Comunicações afirma que parou de tratar de denúncia que apresentou há três dias, após suposta irregularidade"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9369.359375,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/especialistas-apontam-caminhos-e-prioridades-do-proximo-governo-leia-analises/",
+    "hat": "CORRIDA PRESIDENCIAL",
+    "title": "Especialistas apontam caminhos para o progresso e prioridades do próximo governo; leia análises",
+    "summary": "Temas são considerados fundamentais para que o Brasil atinja o seu potencial máximo de crescimento econômico e social"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9369.359375,
+      "left": 1190.328125,
+      "height": 298,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-bolsonaro-ultimo-debate-globo-relembre-confrontos-diretos-entre-candidatos/",
+    "hat": "RETA FINAL",
+    "title": "Lula e Bolsonaro fazem último debate hoje; relembre as participações dos presidenciáveis em confrontos diretos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9041.359375,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tiroteio-paraisopolis-o-que-se-sabe-caso-impacto-campanha-tarcisio-freitas/",
+    "hat": "Eleição em SP",
+    "title": "Tiroteio em Paraisópolis: O que se sabe sobre o caso e os impactos na campanha de Tarcísio"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8461.703125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/cbf-atende-pedido-da-globo-muda-horario-de-palmeiras-x-fortaleza-e-gera-revolta-de-torcedores/",
+    "hat": "CAMPEONATO BRASILEIRO",
+    "title": "CBF muda horário de partida que pode dar título ao Palmeiras e revolta torcedores",
+    "summary": "Partida, no feriado do Dia de Finados, foi transferida das 16h para as 21h30, após pedido da TV Globo"
+  }
+]

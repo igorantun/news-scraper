@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5930,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/tse-diz-que-servidor-foi-exonerado-por-suspeita-de-assedio-moral-e-que-deu-depoimento-a-pf-com-afirmacoes-falsas-e-mentirosas.ghtml",
+    "hat": "Justiça Eleitoral",
+    "title": "TSE diz que exonerou servidor por assédio moral e indícios de atuação política",
+    "summary": "Tribunal afirma que Alexandre Machado fez alegações falsas à PF e nunca reportou internamente supostos problemas na veiculação da propaganda de Bolsonaro em uma rádio."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5930,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/10/26/2023-o-ano-dos-feriadoes-veja-quais-serao-e-se-programe.ghtml",
+    "hat": "😎😎😎",
+    "title": "2023 será o ano dos feriadões: veja datas e se programe"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5593.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/26/elon-musk-video-sede-do-twitter.ghtml",
+    "hat": "Tecnologia",
+    "title": "Elon Musk entra na sede do Twitter carregando uma pia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5188.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/globonewsmais/video/valdo-sobre-acusacoes-feitas-por-servidor-exonerado-do-tse-a-pf-nao-existe-coincidencia-nesse-mundo-da-politica-11063050.ghtml",
+    "hat": "Análises",
+    "title": "VALDO CRUZ: Campanha de Bolsonaro parece criar enredo para tumultuar",
+    "category": "GloboNews Mais"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4910.65625,
+      "left": 348.65625,
+      "height": 150.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/26/copom-mantem-selic-em-1375percent-juro-basico-da-economia-esta-nesse-patamar-desde-agosto.ghtml",
+    "hat": "Economia",
+    "title": "BC confirma expectativas e mantém taxa de juros em 13,75% ao ano"
+  }
+]

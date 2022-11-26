@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9121.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ipec-lula-tem-50-e-bolsonaro-43-brancos-e-nulos-sao-5-e-indecisos-2.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Ipec: Lula tem 50%, e Bolsonaro, 43%; brancos e nulos são 5%, e indecisos, 2%",
+    "summary": "No levantamento anterior, realizado há uma semana, petista tinha 51% e o atual mandatário, 42%"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.265625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8857.34375,
+      "left": 974.984375,
+      "height": 209.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/rosangela-moro-filha-de-jefferson-e-adrilles-repassam-r-1-mi-a-empresa-de-dirigente-do-ptb.shtml",
+    "hat": "campanha eleitoral",
+    "title": "Rosângela Moro, Adrilles e filha de Jefferson repassam R$ 1 milhão a empresa de dirigente do PTB"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8613.03125,
+      "left": 974.984375,
+      "height": 93.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/michelle-encontra-venezuelanas-apos-video-de-bolsonaro.shtml",
+    "hat": "Primeira-dama",
+    "title": "Michelle encontra venezuelanas depois de vídeo de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8484.09375,
+      "left": 974.984375,
+      "height": 220.125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/falar-em-atentado-contra-tarcisio-e-prematuro-e-cameras-irao-esclarecer-diz-secretario-de-sp.shtml",
+    "hat": "pleito em sp",
+    "title": "Falar em atentado contra Tarcísio é prematuro, e câmeras irão esclarecer, diz secretário"
+  }
+]

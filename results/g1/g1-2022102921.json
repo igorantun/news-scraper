@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4522,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/29/ipec-em-sp-votos-validos-tarcisio-tem-52percent-e-haddad-48percent.ghtml",
+    "hat": "Pesquisas",
+    "title": "Ipec em SP, votos válidos: Tarcísio tem 52%, e Haddad, 48%, em empate técnico"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4522,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/29/deputada-bolsonarista-carla-zambelli-saca-e-aponta-arma-para-homem-na-rua-em-sp-ela-diz-que-foi-cercada-e-agredida.ghtml",
+    "hat": "Deputada bolsonarista",
+    "title": "VÍDEO: Carla Zambelli saca e aponta arma para homem em SP"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4185.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/libertadores/jogo/29-10-2022/flamengo-athletico-pr.ghtml",
+    "hat": "Final da Libertadores",
+    "title": "Flamengo x Athletico-PR"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3780.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2022/noticia/2022/10/29/ipec-em-pernambuco-votos-validos-raquel-lyra-tem-54percent-no-2o-turno-e-marilia-arraes-46percent.ghtml",
+    "title": "Ipec em PE, votos válidos: Raquel tem 54% no 2º turno, e Marília, 46%",
+    "category": "Eleições 2022 em Pernambuco"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3502.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/29/g1-tv-globo-e-globonews-divulgam-pesquisas-presidenciais-de-ipec-e-datafolha-a-partir-das-18h.ghtml",
+    "title": "Pesquisas Ipec e Datafolha presidencial saem a partir das 18h",
+    "category": "Pesquisa Eleitoral"
+  }
+]

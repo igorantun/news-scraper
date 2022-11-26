@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8524.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-ve-papel-humilhante-das-forcas-armadas-cobra-bolsonaro-e-elogia-moraes-nas-eleicoes.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula vê papel humilhante das Forças Armadas, cobra Bolsonaro e elogia Moraes nas eleições",
+    "summary": "Petista diz que atual mandatário deveria pedir desculpas aos militares por envolvê-los na fiscalização das eleições"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.828125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8206.4375,
+      "left": 975,
+      "height": 189.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/inflacao-volta-a-subir-apos-tres-meses-de-queda-no-brasil.shtml",
+    "hat": "custo de vida",
+    "title": "Inflação sobe 0,59%, surpreende analistas após três meses de queda",
+    "summary": "Alta do IPCA em outubro encerra período de deflação"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7982,
+      "left": 975,
+      "height": 144,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/dolar-dispara-nesta-manha-acompanhe-a-cotacao.shtml",
+    "hat": "Folhainvest",
+    "title": "Dólar dispara e Bolsa cai 2,5% com temor sobre política fiscal de Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7803.015625,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/equipe-de-lula-exclui-agentes-de-heleno-de-seguranca-da-transicao.shtml",
+    "hat": "transição de governo",
+    "title": "Equipe de Lula exclui agentes de Heleno de segurança da transição"
+  }
+]

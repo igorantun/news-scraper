@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8355.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/sob-lula-centro-politico-tem-desafio-de-sobreviver-ao-bolsonarismo.shtml",
+    "hat": "transição de governo",
+    "title": "Sob Lula, centro político tem desafio de sobreviver ao bolsonarismo",
+    "summary": "Bloco que prega moderação naufragou com terceira via e busca se recompor com vistas a 2026"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8037.4375,
+      "left": 975,
+      "height": 207.71875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/aliados-defendem-bolsonaro-fora-das-eleicoes-de-2026-e-ja-apostam-em-tarcisio-presidente.shtml",
+    "hat": "governador eleito em SP",
+    "title": "Aliados defendem Bolsonaro fora em 2026 e apostam em Tarcísio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7794.734375,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/atos-antidemocraticos-sao-heranca-de-bolsonaro-e-criam-novo-desafio-para-o-brasil.shtml",
+    "hat": "Manifestações",
+    "title": "Atos antidemocráticos são herança de Bolsonaro e criam novo desafio para o Brasil"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7593.703125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/ajudante-de-ordens-de-bolsonaro-deixara-planalto-para-comandar-batalhao-do-exercito.shtml",
+    "hat": "Exército",
+    "title": "Ajudante de ordens de Bolsonaro deixará Planalto para comandar batalhão"
+  }
+]

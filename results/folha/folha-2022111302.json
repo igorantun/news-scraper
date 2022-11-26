@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9192.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/lula-tera-desafio-de-aumentar-inclusao-dos-mais-pobres-no-mercado-de-trabalho.shtml",
+    "hat": "desafios do novo mandato",
+    "title": "Lula terá desafio de aumentar inclusão dos mais pobres no mercado de trabalho",
+    "summary": "Trabalhadores com menor qualificação têm sido excluídos de oportunidades, o que afeta a renda"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.03125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=zk3EIHOWtIc",
+    "hat": "folha explica",
+    "title": "O que racismo tem a ver com mudanças climáticas?",
+    "summary": "Entenda como os efeitos do clima afetam de forma diferente populações mais vulneráveis e marginalizadas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8982.25,
+      "left": 975,
+      "height": 189.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/apos-tombo-em-2020-extrema-pobreza-voltou-a-subir-no-brasil-em-2021.shtml",
+    "hat": "Desigualdade social",
+    "title": "Após tombo em 2020, extrema pobreza voltou a subir no Brasil em 2021",
+    "summary": "São 18 milhões vivendo com menos de US$ 2,15 por dia, segundo estudo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8757.8125,
+      "left": 975,
+      "height": 133.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/encolhendo-e-em-crise-classe-c-vira-motor-do-bolsonarismo.shtml",
+    "hat": "divisão de classes",
+    "title": "Encolhendo e em crise, classe C vira motor do bolsonarismo",
+    "summary": "Fenômeno nos anos Lula, segmento sofre com predominância no trabalho informal"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8588.9375,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/exame-de-lula-aponta-manchas-na-laringe-que-requerem-acompanhamento-medico.shtml",
+    "hat": "Presidente eleito",
+    "title": "Exame de Lula aponta manchas na laringe que requerem acompanhamento médico",
+    "summary": "Petista foi ao Sírio-Libanês para check-up de rotina antes de viagem à COP27"
+  }
+]

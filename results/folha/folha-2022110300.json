@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8779.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bolsonaro-pede-desobstrucao-de-rodovias-mas-diz-que-outras-manifestacoes-sao-do-jogo-democratico.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Bolsonaro pede fim de bloqueios em estradas e diz que manifestações não são legítimas",
+    "summary": "Presidente afirma ainda que outros protestos, em locais públicos, são 'do jogo democrático', sem comentar teor golpista deles"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -556.078125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8461.4375,
+      "left": 315,
+      "height": 557.90625,
+      "width": 630
+    },
+    "link": "https://www1.folha.uol.com.br/esporte/2022/11/campeao-antes-de-jogar-palmeiras-chega-a-seu-titulo-brasileiro-com-maior-folga.shtml",
+    "hat": "Campeonato Brasileiro",
+    "title": "Palmeiras é campeão brasileiro pela 11ª vez"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8461.4375,
+      "left": 975,
+      "height": 194,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/atos-golpistas-pelo-pais-sao-inflamados-por-fake-news-e-bolsonaro.shtml",
+    "hat": "+protestos antidemocráticos",
+    "title": "Atos golpistas pelo país são inflamados por fake news e Bolsonaro",
+    "summary": "Manifestantes vão para a frente de quartéis"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8232.453125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/criancas-sao-feridas-apos-carro-atropelar-bloqueio-golpista-no-interior-de-sp.shtml",
+    "hat": "bloqueio",
+    "title": "Crianças são feridas após carro atropelar bloqueio golpista no interior de SP"
+  }
+]

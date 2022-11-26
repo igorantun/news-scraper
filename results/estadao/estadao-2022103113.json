@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7382.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/economia/pacote-fiscal-foco-equipe-transicao-compromissos-lula/",
+    "hat": "Economia",
+    "title": "Equipe de Lula foca em pacote para manter Auxílio Brasil em R$ 600 e dar reajuste real ao mínimo",
+    "summary": "PT trata o projeto de orçamento de 2023 como 'herança maldita' deixada pelo presidente Jair Bolsonaro, que precisará ser 'consertada'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6988.3125,
+      "left": 329,
+      "height": 835.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/lula-vai-recriar-ministerios-mas-diz-que-nao-quer-governo-requentado/",
+    "hat": "TRANSIÇÃO",
+    "title": "Lula vai recriar ministérios e planeja nomes em ascensão na política",
+    "summary": "Nova configuração da Esplanada prevê o aumento dos atuais 23 ministérios para 34; entrada de Simone Tebet no 1º escalão é dada como certa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6988.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caminhoneiros-bloqueiam-rodovias-em-protesto-a-vitoria-de-lula/",
+    "hat": "MANIFESTAÇÕES PELO PAÍS",
+    "title": "Caminhoneiros bloqueiam rodovias em ao menos 5 estados em protesto à vitória de Lula",
+    "summary": "Categoria é ligada ao presidente Jair Bolsonaro e já protagonizou ações do tipo nos últimos anos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6554.203125,
+      "left": 1190.328125,
+      "height": 472.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-silencio-derrota-lula-eleicoes/",
+    "hat": "SUCESSÃO PRESIDENCIAL",
+    "title": "Bolsonaro se mantém em silêncio 12 horas após derrota para Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6020.09375,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/minha-cidade-e-bolsonarista-ou-petista-veja-resultado-de-bolsonaro-e-lula-em-cada-municipio-do-pais/",
+    "hat": "MAPA DA APURAÇÃO",
+    "title": "Minha cidade é bolsonarista ou petista? Veja resultado em cada município do País"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9173.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lira-avanca-sobre-base-de-lula-para-impedir-plano-b-na-eleicao-ao-comando-da-camara.shtml",
+    "hat": "Congresso Nacional",
+    "title": "Lira avança sobre base de Lula para impedir plano B na eleição ao comando da Câmara",
+    "summary": "Presidente da Casa antecipa busca de acordos por reeleição em investida sobre PSD, União Brasil e MDB"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.828125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=xZqlDalnac0",
+    "hat": "Gal Costa (1945-2022)",
+    "title": "Como Gal Costa se tornou símbolo forte de rebeldia das mulheres",
+    "summary": "Cantora é um marco incontornável da música e desafiou o conservadorismo no auge da ditadura"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8963.25,
+      "left": 975,
+      "height": 299.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/moraes-manda-forcas-policiais-desbloquearem-vias-publicas-e-determina-multa-de-r-100-mil.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Moraes manda forças policiais desbloquearem vias e determina multa de R$ 100 mil",
+    "summary": "Decisão soou como resposta à nota emitida pelas Forças Armadas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8628.8125,
+      "left": 975,
+      "height": 93.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/citi-diz-que-mercado-pode-ter-se-enganado-em-relacao-a-lula.shtml",
+    "hat": "transição de governo",
+    "title": "Mercado pode ter se enganado em relação a Lula, afirma Citi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8499.875,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/e-preciso-olho-para-o-social-e-para-o-equilibrio-fiscal-para-evitar-incerteza-diz-campos-neto.shtml",
+    "hat": "Banco Central",
+    "title": "É preciso olhar para o social e o equilíbrio fiscal para evitar incerteza, diz Campos Neto"
+  }
+]

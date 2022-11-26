@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12355.609375,
+      "left": 365,
+      "height": 137.59375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/china-nao-descarta-uso-da-forca-para-reunificar-taiwan-diz-xi-no-congresso-do-pc.shtml",
+    "title": "China diz ter controle de Hong Kong e não descarta usar força em Taiwan",
+    "summary": "Rumo ao 3º mandato, Xi Jinping falou na abertura do 20º Congresso do PC Chinês"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12169.015625,
+      "left": 365,
+      "height": 590.546875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/bolsonaro-e-alvo-de-acoes-no-stf-e-na-pgr-por-declaracao-sobre-venezuelanas.htm",
+    "title": "Alvo de ação no STF por fala sobre venezuelanas, Bolsonaro monta ofensiva contra Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11554.46875,
+      "left": 365,
+      "height": 296.109375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/bbc/2022/10/16/ratos-ossos-e-lama-os-alimentos-do-desespero-a-que-famintos-recorrem-para-sobreviver.htm",
+    "title": "Ratos, ossos e lama: os 'alimentos do desespero' a que famintos recorrem para sobreviver"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12169.015625,
+      "left": 619.15625,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-terao-primeiro-embate-na-tv-sem-coadjuvantes.shtml",
+    "title": "Lula e Bolsonaro fazem hoje 1º debate na TV sem coadjuvantes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11755.96875,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/colunas/mariana-londres/2022/10/16/o-buraco-e-mais-embaixo-como-o-proximo-presidente-ira-receber-o-brasil.htm",
+    "title": "Economia de 2023 será pior do que Lula e Bolsonaro já experimentaram antes"
+  }
+]

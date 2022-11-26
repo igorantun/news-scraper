@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9409.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-debate-bolsonaro-lula-band-tv-segundo-turno/?liveId=SJM7YA25SBBO3CG4BEJTZSJUHY",
+    "hat": "ENCONTRO ENTRE PRESIDENCIÁVEIS",
+    "title": "Bolsonaro pauta debate sobre corrupção na Petrobras, e Lula tenta mostrar feitos na economia",
+    "summary": "Petista criticou operações que prenderam executivos, que segundo ele causaram desemprego; chefe do Executivo voltou a ligar rival a criminosos do Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9409.3125,
+      "left": 1190.328125,
+      "height": 512.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-debate-bolsonaro-lula-band-tv-segundo-turno/?liveId=6TDTVUWUVVFUNHYXPQDNBW7DCU",
+    "hat": "Bastidores",
+    "title": "Moro integra tropa de choque de Bolsonaro em estúdio do debate",
+    "summary": "Ex-juiz estava acompanhado por Fábio Wajngarten, assessor do candidato à reeleição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8867.203125,
+      "left": 1190.328125,
+      "height": 302,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/alexandre-apagar-publicacoes-lula-bolsonaro-venezuelanas/",
+    "hat": "Eleições 2022",
+    "title": "Moraes proíbe uso e manda Lula apagar publicações que exploram fala de Bolsonaro sobre venezuelanas",
+    "summary": "Para presidente do TSE, declaração de Bolsonaro de que 'pintou um clima' foi tirada de contexto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8453.65625,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/china-tem-controle-total-de-hong-kong-e-pretende-fazer-o-mesmo-com-taiwan-diz-xi-jinping/",
+    "hat": "INTERNACIONAL",
+    "title": "Xi Jinping diz que China pretende controlar Taiwan totalmente e não descarta usar força"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8453.65625,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/comportamento/recebi-heranca-tenho-direitos/",
+    "hat": "E-INVESTIDOR",
+    "title": "Recebeu herança? Veja quais são os seus direitos e o que fazer para evitar problemas"
+  }
+]

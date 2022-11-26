@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8822.3125,
+      "left": 329,
+      "height": 316,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/pix-dispara-boletos-fim/",
+    "hat": "ECONOMIA",
+    "title": "Pix dispara em lojas on-line, resolve problema do 'carrinho abandonado' e deve pôr fim às compras com boletos",
+    "summary": "Meio de pagamento já é aceito em 3 a cada 4 sites de comércio do Brasil e traz duas vantagens ao vendedor: elimina a 'quebra' de vendas comum nos boletos e garante dinheiro na hora"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8822.3125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/dois-homens-atiram-contra-base-de-treinamento-da-russia-perto-da-ucrania-e-matam-11-militares/",
+    "hat": "CENTRO DE TREINAMENTO",
+    "title": "Dois homens atiram contra base da Rússia perto da Ucrânia e matam 11 militares"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8420.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/basquete/oscar-schmidt-diz-que-nao-desistiu-de-quimioterapia-e-afirma-que-esta-curado-de-cancer-no-cerebro/",
+    "hat": "ASTRO DO BASQUETE",
+    "title": "Oscar Schmidt esclarece declaração sobre câncer e diz que está curado: 'Venci a batalha'",
+    "summary": "Maior jogador da história do basquete nacional afirma que não tem sinais da doença já há bastante tempo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8420.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/integrantes-do-novo-pedem-expulsao-de-amoedo-apos-ele-declarar-voto-em-lula/",
+    "hat": "Eleições 2022",
+    "title": "Integrantes do Novo pedem expulsão de João Amoêdo após ele declarar voto em Lula"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8420.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/volei/paola-egonu-relata-novo-ataque-racista-e-diz-que-nao-ira-mais-defender-a-selecao-italiana-de-volei/",
+    "hat": "VOLÊI",
+    "title": "Egonu relata novo ataque racista e diz que não irá mais defender a seleção italiana"
+  }
+]

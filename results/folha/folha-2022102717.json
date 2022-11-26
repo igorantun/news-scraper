@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9345.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-acelera-retirada-de-fake-news-na-reta-final-da-disputa-entre-lula-e-bolsonaro.shtml",
+    "hat": "Eleições 2022",
+    "title": "TSE acelera retirada de fake news na reta final da disputa entre Lula e Bolsonaro",
+    "summary": "Maior parte dos conteúdos é contra petista; presidente obtém decisões para barrar falas sobre 'canibalismo' e venezuelanas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.96875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9027.4375,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/grupos-no-whatsapp-criam-regras-para-barrar-briga-por-politica-mas-falham.shtml",
+    "hat": "+Eleições",
+    "title": "Grupos de família no WhatsApp criam regras para barrar briga por política, mas falham",
+    "summary": "Às vésperas do segundo turno, discussões resultam em clima estranho"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8769.125,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-bolsonaro-armado-a-tv-e-liga-presidente-a-ataque-de-roberto-jefferson.shtml",
+    "hat": "propaganda eleitoral",
+    "title": "Lula leva Bolsonaro armado à TV e liga presidente a ataque de Roberto Jefferson",
+    "summary": "Aliado do presidente reagiu a ordem de prisão e atirou em dois policiais"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8572.25,
+      "left": 974.984375,
+      "height": 138.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/confira-nova-pesquisa-datafolha-para-presidente-nesta-quinta-feira.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Confira novo levantamento Datafolha para presidente hoje"
+  }
+]

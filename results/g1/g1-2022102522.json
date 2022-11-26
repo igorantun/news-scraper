@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5782,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/dia-do-servidor-publico-maioria-dos-estados-muda-calendario-e-evita-feriadao-no-2o-turno.ghtml",
+    "hat": "Eleições",
+    "title": "Maioria dos estados muda calendário e evita 'feriadão' no 2º turno",
+    "summary": "Folga do Dia do Servidor Público na sexta-feira poderia aumentar abstenções na votação. Veja onde data foi adiada ou antecipada."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5782,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ciencia/noticia/2022/10/25/james-webb-mostra-fusao-de-duas-galaxias-veja-foto.ghtml",
+    "hat": "Supertelescópio",
+    "title": "Novo registro do James Webb mostra fusão de galáxias; veja foto"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5445.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/25/homem-conhecido-como-o-mais-sujo-do-mundo-morre-no-ira-meses-depois-de-tomar-banho.ghtml",
+    "hat": "Vilarejo no Irã",
+    "title": "Homem 'mais sujo do mundo' morre meses após tomar banho"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5040.828125,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/stj-julga-pedido-da-pgr-para-suspender-resolucao-do-tse-sobre-fake-news.ghtml",
+    "hat": "Combate à desinformação",
+    "title": "Maioria no STF vota por manter resolução do TSE sobre fake news",
+    "summary": "Tribunal julga pedido de Aras para suspender medida adotada pela Justiça Eleitoral.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4853.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/25/auxilio-brasil-caixa-pede-prazo-maior-para-concessao-de-credito-consignado.ghtml",
+    "hat": "Economia",
+    "title": "Caixa pede prazo maior para liberar consignado do Auxílio Brasil",
+    "category": "Economia"
+  }
+]

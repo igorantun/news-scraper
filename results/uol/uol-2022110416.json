@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12434.609375,
+      "left": 365,
+      "height": 284.734375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/kassab-vai-negociar-apoio-do-pt-a-pacheco-nao-ha-porque-lula-criar-disputa.htm",
+    "title": "Lula pode acabar com orçamento secreto, mas aos poucos, diz Kassab",
+    "summary": "Em entrevista, presidente do PSD afirmou que deve negociar apoio ao petista; assista"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12014.875,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/golpistas-reinterpretam-bolsonaro-pedem-pix-e-enxotam-divergentes-em-grupo.htm",
+    "title": "Golpistas reinterpretam Bolsonaro, pedem Pix e enxotam divergentes em grupo de WhatsApp"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11558.640625,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/cade-michelle-quem-era-a-mulher-ao-lado-de-bolsonaro-em-seu-pronunciamento.htm",
+    "title": "Cadê Michelle? Quem era a mulher ao lado de Bolsonaro em seu pronunciamento"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12014.875,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://tab.uol.com.br/noticias/redacao/2022/11/04/vamo-compra-arma-alunos-de-colegios-de-elite-nao-aceitam-vitoria-de-lula.htm",
+    "title": "'Vamos comprar arma': os alunos de colégios de elite que não aceitam a vitória de Lula"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11558.640625,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/nossa/colunas/historias-do-mar/2022/11/04/um-mes-depois-navio-fantasma-ainda-vaga-sem-destino-no-mar-de-pernambuco.htm",
+    "title": "Um mês depois, 'navio fantasma' ainda vaga sem destino no mar de Pernambuco"
+  }
+]

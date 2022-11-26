@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6298,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/congresso-tera-boa-vontade-com-pec-da-transicao-e-flexibilizar-teto-e-natural-diz-pacheco.ghtml",
+    "hat": "Contas públicas",
+    "title": "Presidente do Senado diz que é 'natural' flexibilizar teto de gastos por auxílio de R$ 600",
+    "summary": "Sem espaço no orçamento, equipe de Lula negocia com o Congresso proposta para criar exceção e pagar benefício em 2023."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6298,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/servidores-denunciam-secretaria-de-atencao-a-infancia-por-assedio-apos-vitoria-de-lula.ghtml",
+    "hat": "Pressão sobre funcionários",
+    "title": "Secretária de ministério é acusada de assédio moral após vitória de Lula"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5961.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/campinas-regiao/noticia/2022/11/04/mae-que-denunciou-racismo-em-grupo-de-alunos-diz-que-relata-a-escola-casos-de-preconceito-contra-filhos-ha-3-anos.ghtml",
+    "hat": "Valinhos, SP",
+    "title": "Advogada diz que denuncia racismo contra filhos na escola há 3 anos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5556.828125,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/04/programas-como-o-auxilio-brasil-devem-ser-reajustados-por-medida-provisoria-avalia-equipe-de-transicao.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Equipe de Lula avalia que MP é o melhor caminho para reajustar auxílio",
+    "summary": "Para aliados, medida provisória exigiria menos negociação do que alterar a Constituição.",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5369.96875,
+      "left": 348.65625,
+      "height": 292.25,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/04/com-alckmin-governo-lula-3-troca-superministerio-por-vice-empoderado.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Alckmin deve influenciar escolha de ministros de Lula; veja cotados",
+    "category": "Blog da Andréia Sadi"
+  }
+]

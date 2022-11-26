@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8281.109375,
+      "left": 315,
+      "height": 238.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/fantasma-do-tuite-assombra-escolha-de-lula-para-o-exercito.shtml",
+    "hat": "transição de governo",
+    "title": "Fantasma do tuíte assombra escolha de Lula para o Exército",
+    "summary": "Aliados do presidente eleito temem opção por general de perfil político, como Eduardo Villas Bôas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.984375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://youtu.be/wie0STFrqQE",
+    "hat": "Afeganistão",
+    "title": "Sem escolas desde a volta do Talibã, afegãs trabalham em campos de açafrão",
+    "summary": "Desde que o grupo extremista retomou o poder, a educação não é um direito garantido para mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8007.4375,
+      "left": 975,
+      "height": 219.59375,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/esporte/2022/11/07/6227-veja-convocacao-da-selecao-brasileira-para-a-copa-do-mundo-siga-ao-vivo.shtml",
+    "hat": "copa do mundo",
+    "title": "Tite convoca hoje os 26 jogadores da Copa do Mundo, a partir das 13h",
+    "summary": "Acompanhe ao vivo o anúncio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7752.859375,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-sem-mandato-estara-na-mira-de-stf-tse-e-1a-instancia-entenda.shtml",
+    "hat": "Folhajus",
+    "title": "Bolsonaro sem mandato estará na mira de STF, TSE e 1ª instância; entenda"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7595.921875,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/uniao-brasil-encerra-contrato-de-r-45-mil-com-marcos-cintra-depois-de-ataque-as-urnas.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "União Brasil encerra contrato de R$ 45 mil com Marcos Cintra depois de ataque às urnas",
+    "summary": "Economista teve conta suspensa no Twitter e terá que se explicar para a PF"
+  }
+]

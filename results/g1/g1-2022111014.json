@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6706,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/10/ipca-fica-em-059percent-em-outubro.ghtml",
+    "hat": "Peso no bolso",
+    "title": "Preços voltam a subir em outubro após 3 meses de deflação",
+    "summary": "Puxado pelos alimentos, IPCA subiu 0,59% no mês passado. Taxa acumula alta de 4,7% no ano."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6706,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/10/video-mostra-marido-de-professora-saindo-de-apartamento-em-sp-com-carrinho-de-mercado-policia-acusa-ex-lutador-de-mata-la-e-levar-corpo.ghtml",
+    "hat": "Feminicídio em SP",
+    "title": "Ex-lutador mata a esposa e retira corpo em carrinho de compras"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6369.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/10/policia-faz-nova-operacao-contra-influenciadores-suspeitos-de-sorteios-ilegais-no-df.ghtml",
+    "hat": "Investigação em Minas e no DF",
+    "title": "Influenciador suspeito de sorteios ilegais de carros é preso em MG"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5791.046875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/lula-primeira-visita-sede-transicao-de-governo.ghtml",
+    "hat": "Presidente eleito",
+    "title": "Lula visita sede de transição e deve se reunir com aliados",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5512.875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/10/transicao-lula-lava-jatista-cotado-para-direcao-geral-da-pf-polemica.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Nome de lava-jatista para chefiar a PF gera polêmica na equipe de Lula",
+    "category": "Blog da Andréia Sadi"
+  }
+]

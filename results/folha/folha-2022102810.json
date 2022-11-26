@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9943.109375,
+      "left": 315,
+      "height": 292.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-e-haddad-nacionalizam-debate-com-salario-minimo-e-vacina-e-batem-boca-sobre-paraisopolis.shtml",
+    "hat": "disputa em sp",
+    "title": "Tarcísio e Haddad nacionalizam debate com salário mínimo e vacina; vídeo de Paraisópolis eleva tensão",
+    "summary": "Candidatos travam embate duro na Globo tendo Bolsonaro e Lula como pano de fundo a três dias do segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.21875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9943.109375,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/colunistas-analisam-novo-datafolha-em-live-para-assinantes-nesta-5a.shtml",
+    "hat": "TV Folha",
+    "title": "Bolsonaro se frustra em SP, dizem colunistas em live sobre pesquisa Datafolha"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9615.4375,
+      "left": 974.984375,
+      "height": 273.625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/cupula-do-judiciario-ve-bolsonaro-em-modo-trump-e-preparando-tapetao-na-reta-final.shtml",
+    "hat": "Eleições 2022",
+    "title": "Cúpula do Judiciário vê Bolsonaro em modo Trump e preparando tapetão na reta final"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9305.828125,
+      "left": 974.984375,
+      "height": 306.234375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-perde-vantagem-entre-catolicos-e-bolsonaro-entre-evangelicos.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Datafolha: Lula perde vantagem entre católicos, e Bolsonaro, entre evangélicos"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9171.203125,
+      "left": 315,
+      "height": 360.140625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-de-freitas-e-eleito-governador-de-sao-paulo-projeta-datafolha.shtml",
+    "hat": "Eleições 2022",
+    "title": "Tarcísio de Freitas é eleito governador de São Paulo, projeta Datafolha",
+    "summary": "Candidato patrocinado pelo presidente Bolsonaro confirma favoritismo e derrota Fernando Haddad, do PT"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -535,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8776.078125,
+      "left": 315,
+      "height": 91.984375,
+      "width": 217.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/eduardo-riedel-e-eleito-governador-de-mato-grosso-do-sul-projeta-datafolha.shtml",
+    "title": "Eduardo Riedel (PSDB) é eleito em Mato Grosso do Sul"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8776.078125,
+      "left": 562.5,
+      "height": 91.984375,
+      "width": 217.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/renato-casagrande-e-reeleito-governador-do-espirito-santo-projeta-datafolha.shtml",
+    "title": "Renato Casagrande (PSB) é reeleito no ES, aponta Datafolha"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8776.078125,
+      "left": 810,
+      "height": 91.984375,
+      "width": 217.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/wilson-lima-e-reeleito-governador-do-amazonas-projeta-datafolha.shtml",
+    "title": "Wilson Lima (União Brasil) é reeleito no AM, prevê Datafolha"
+  }
+]

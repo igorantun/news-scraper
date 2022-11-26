@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12402.609375,
+      "left": 365,
+      "height": 222.34375,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/treinos-de-animal-psicologia-e-evolucao-como-dani-alves-chegou-a-copa.htm",
+    "title": "Treinos de 'animal' e psicologia: como Daniel Alves chegou à Copa do Qatar"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12131.265625,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/datas-jogos-brasil-copa-do-mundo-2022.htm",
+    "title": "Copa começa no dia 20; veja datas e horários dos jogos do Brasil até a eventual final"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11740.59375,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/colunas/chico-barney/2022/11/07/sem-olodum-e-medalhoes-globo-abre-cobertura-da-copa-na-contramao-do-hexa.htm",
+    "title": "Barney: Sem Olodum e medalhões, Globo abre cobertura da Copa na contramão do hexa"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12131.265625,
+      "left": 619.15625,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/fantasma-do-tuite-assombra-escolha-de-lula-para-o-exercito.shtml",
+    "title": "Gielow: Fantasma do tuíte assombra escolha de Lula para o Exército"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11718.21875,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/thais-oyama/2022/11/07/greve-geral-fracassa-e-bolsonarismo-tera-de-achar-onde-se-acomodar.htm",
+    "title": "Thaís Oyama: 'Greve geral' fracassa, e bolsonarismo terá de achar onde se acomodar"
+  }
+]

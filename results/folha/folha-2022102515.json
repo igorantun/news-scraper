@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10604.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-acumula-desculpas-para-tentar-se-afastar-do-ataque-de-roberto-jefferson-a-policiais.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro acumula desculpas para tentar se afastar do ataque de Roberto Jefferson a policiais",
+    "summary": "Episódio com o ex-deputado se tornou ponto de desgaste contra a campanha do presidente"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.390625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10286.4375,
+      "left": 974.984375,
+      "height": 275.5625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/ipca-15-sobe-016-em-outubro-apos-dois-meses-em-queda.shtml",
+    "hat": "inflação",
+    "title": "Após dois meses de deflação, IPCA-15 sobe 0,16% em outubro",
+    "summary": "Indicador prévio de inflação acumula alta de 6,85% em 12 meses, diz IBGE"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9975.890625,
+      "left": 974.984375,
+      "height": 181.859375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ipespe-lula-tem-50-contra-44-de-bolsonaro-brancos-e-nulos-sao-4-e-indecisos-2.shtml",
+    "hat": "sucessão presidencial",
+    "title": "Ipespe: Lula tem 50% contra 44% de Bolsonaro; brancos e nulos são 4%, e indecisos, 2%",
+    "summary": "Pesquisa foi realizada com 1.100 eleitores por telefone entre os dias 22 e 24 de outubro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9759.046875,
+      "left": 974.984375,
+      "height": 93.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-recebeu-em-dez-dias-r-264-milhoes-em-doacoes.shtml",
+    "hat": "recursos",
+    "title": "Bolsonaro recebeu em dez dias R$ 26,4 milhões em doações"
+  }
+]

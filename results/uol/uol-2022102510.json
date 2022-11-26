@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12543.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-acumula-desculpas-para-tentar-se-afastar-do-ataque-de-roberto-jefferson-a-policiais.shtml",
+    "title": "Bolsonaro acumula desculpas para tentar se afastar de Roberto Jefferson",
+    "summary": "Ataque de aliado à PF se tornou ponto de desgaste contra a campanha do presidente"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12240.265625,
+      "left": 365,
+      "height": 516.984375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/nao-sera-um-governo-do-pt-mas-do-povo-brasileiro-diz-lula-ao-lado-de-meirelles-persio-arida-e-tebet.shtml",
+    "title": "Não será um governo do PT, mas do povo, diz Lula ao lado de Tebet, Meirelles e Persio Arida"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11699.28125,
+      "left": 365,
+      "height": 360.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/pesquisas-eleitorais-presidente-governador-terca-feira.htm",
+    "title": "Veja quais pesquisas eleitorais para presidente e governador saem nesta terça"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12240.265625,
+      "left": 619.15625,
+      "height": 451.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/24/moraes-da-24-h-para-campanha-de-bolsonaro-mostrar-prova-de-fraude-em-radios.htm",
+    "title": "Moraes dá 24 horas para campanha de Bolsonaro mostrar prova de fraude em rádios"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11764.84375,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/colunas/carlos-juliano-barros/2022/10/25/quebrar-o-elo-entre-salario-minimo-e-aposentadoria-e-sonho-antigo-de-guedes.htm",
+    "title": "Carlos Juliano: Separar salário mínimo, aposentadoria e inflação é sonho de Guedes"
+  }
+]

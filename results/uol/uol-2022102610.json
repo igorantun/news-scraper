@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12306.609375,
+      "left": 365,
+      "height": 230.359375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/26/sob-bolsonaro-cadastro-federal-ganha-mais-10-milhoes-de-pessoas-na-miseria.htm",
+    "title": "Sob Bolsonaro, CadÚnico ganha mais 10 milhões de pessoas na miséria",
+    "summary": "Cadastro que governo usa para definir quem recebe auxílio chegou a 49 milhões"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12027.25,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ordem-de-equipe-de-tarcisio-pode-configurar-crime-e-especialistas-defendem-apuracao.shtml",
+    "title": "Ordem de equipe de Tarcísio pode configurar crime, e especialistas defendem apuração"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11505.453125,
+      "left": 365,
+      "height": 472.796875,
+      "width": 224.15625
+    },
+    "link": "https://tab.uol.com.br/noticias/redacao/2022/10/26/roberto-jefferson-tem-apoio-em-canais-neonazistas-e-misoginos-no-telegram.htm",
+    "title": "Após ataque, Jefferson vira 'herói' em canais neonazistas no Telegram"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12027.25,
+      "left": 619.15625,
+      "height": 505.796875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/26/palmeiras-vence-e-seca-rivais-por-titulos-ja-nesta-quarta-veja-cenarios.htm",
+    "title": "Palmeiras perto do título: veja o que precisa acontecer para time ser campeão brasileiro hoje"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11497.453125,
+      "left": 619.15625,
+      "height": 415.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/26/cbf-santos-flamengo-arbitros-suspensos.htm",
+    "title": "CBF afasta árbitros de Flamengo x Santos após polêmica em pênalti que resultou em gol"
+  }
+]

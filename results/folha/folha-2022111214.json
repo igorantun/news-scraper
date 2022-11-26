@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8981.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-se-fecha-no-alvorada-apos-derrota-e-articula-futuro-como-lider-da-direita.shtml",
+    "hat": "Política",
+    "title": "Bolsonaro se fecha no Alvorada após derrota e articula futuro como líder da direita",
+    "summary": "Silêncio do presidente evita desmobilização de manifestações antidemocráticas contra resultado das urnas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=xZqlDalnac0",
+    "hat": "Gal Costa (1945-2022)",
+    "title": "Como Gal Costa se tornou símbolo forte de rebeldia das mulheres",
+    "summary": "Cantora é um marco incontornável da música e desafiou o conservadorismo no auge da ditadura"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8771.25,
+      "left": 975,
+      "height": 223.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-e-alckmin-buscam-ocupar-vacuo-de-poder-e-ampliar-base-mas-esbarram-no-centrao.shtml",
+    "hat": "transição de governo",
+    "title": "Lula e Alckmin buscam ocupar vácuo de poder e ampliar base, mas esbarram no centrão",
+    "summary": "Presidente e vice eleitos preparam plano para governar antes mesmo da posse"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8512.9375,
+      "left": 975,
+      "height": 194.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/equipe-de-lula-quer-pec-com-r-175-bilhoes-fora-do-teto-para-bolsa-familia-por-4-anos.shtml",
+    "hat": "orçamento",
+    "title": "Equipe de Lula quer PEC com R$ 175 bi fora do teto para Bolsa Família por ao menos 4 anos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8283.90625,
+      "left": 975,
+      "height": 105.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/11/mau-comeco.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Mau começo",
+    "summary": "Lula ignora que responsabilidade fiscal é social e mina confiança em seu governo"
+  }
+]

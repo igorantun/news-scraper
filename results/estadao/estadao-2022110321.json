@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8695.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/alckmin-diz-ser-essencial-comecar-janeiro-com-auxilio-brasil-de-r-600/",
+    "hat": "sucessão de governo",
+    "title": "Equipe de Lula negocia PEC com Congresso para autorizar gastos extras fora do teto em 2023",
+    "summary": "Acordo discutido em reunião entre Alckmin e o relator do Orçamento, Marcelo Castro, tem como objetivo estabelecer 'licença para gastar' por meio de proposta de mudança à Constituição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8695.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bispo-edir-macedo-defende-perdao-a-lula-e-diz-que-vitoria-foi-vontade-de-deus/",
+    "hat": "aliado de bolsonaro",
+    "title": "Bispo Edir Macedo defende perdão a Lula e diz que vitória foi 'vontade de Deus'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8277.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/alzheimer-estudo-mapeia-relacao-entre-sono-ruim-e-risco-de-demencia/",
+    "hat": "saúde",
+    "title": "Alzheimer: estudo espanhol liga sono ruim ao risco de demência"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7739.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/neymar-processo-receita-imposto/",
+    "hat": "SENTENÇA",
+    "title": "Neymar tem vitória parcial na Justiça e reduz multa com a Receita Federal",
+    "summary": "Decisão permite que jogador abata valores declarados na Espanha, calculados em 8 milhões de euros"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -7739.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/entidades-criticam-gesto-de-bolsonaristas-semelhante-a-saudacao-nazista-em-santa-catarina/",
+    "hat": "Atos pelo País",
+    "title": "Entidades criticam gesto de bolsonaristas semelhante à saudação nazista em SC"
+  }
+]

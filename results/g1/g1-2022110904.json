@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5674,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ao-vivo/eua-eleicao-meio-mandato.ghtml",
+    "hat": "ao vivo",
+    "title": "Republicanos lideram disputa pela Câmara dos EUA, aponta projeção; SIGA",
+    "summary": "Americanos foram às urnas para definir controle do Congresso."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5674,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/08-11-2022/sao-paulo-internacional.ghtml",
+    "hat": "Brasileirão",
+    "title": "São Paulo perde, é vaiado e fica distante da Libertadores",
+    "summary": "Internacional pode ser vice-campeão nesta quarta."
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5337.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/08/criminosos-trocam-tiros-com-pms-na-cidade-universitaria-da-usp-vitima-sequestrada-estava-no-carro.ghtml",
+    "hat": "São Paulo",
+    "title": "PMs trocam tiros com suspeitos na USP e encerram sequestro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4654.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/09/massachusetts-elege-a-primeira-governadora-abertamente-lesbica-dos-eua.ghtml",
+    "title": "Massachusetts elege a primeira governadora lésbica",
+    "summary": "Maura Healey é do Partido Democrata.",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4376.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/equipe-de-transicao-saiba-quem-sao-os-confirmados-para-a-passagem-de-bastao-no-governo.ghtml",
+    "hat": "Formação de equipe",
+    "title": "De Tebet aos 'pais' do Plano Real: quem é quem na transição de governo de Lula",
+    "category": "Política"
+  }
+]

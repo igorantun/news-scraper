@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9248.203125,
+      "left": 315,
+      "height": 130.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/10/ao-centro-lula.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Lula precisa mostrar disposição de rumar para o centro",
+    "summary": "Alternância de poder atesta solidez da democracia; país precisa buscar o desenvolvimento"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -865.765625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9201.21875,
+      "left": 1305,
+      "height": 104.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/podcast-a-vitoria-de-lula-o-futuro-de-bolsonaro-e-a-transicao-de-poder.shtml",
+    "hat": "eleições",
+    "title": "A vitória de Lula, o futuro de Bolsonaro e a transição"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9061.90625,
+      "left": 975,
+      "height": 223.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/eleicao-mais-apertada-da-historia-tem-virada-pro-bolsonaro-em-248-cidades-e-nenhuma-para-lula.shtml",
+    "hat": "DeltaFolha",
+    "title": "Eleição mais apertada tem virada pró-Bolsonaro em 248 cidades e nenhuma para Lula",
+    "summary": "Maior avanço foi em municípios de MG, apesar de petista ter prevalecido"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8803.59375,
+      "left": 975,
+      "height": 198.078125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/primeiro-desafio-de-lula-e-negociar-com-congresso-novo-orcamento.shtml",
+    "hat": "economia",
+    "title": "Primeiro desafio de Lula é negociar com Congresso novo Orçamento"
+  }
+]

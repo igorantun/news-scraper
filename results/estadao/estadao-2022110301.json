@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7894.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-faz-apelo-para-que-apoiadores-desobstruam-rodovias/",
+    "hat": "MANIFESTAÇÕES CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Bolsonaro pede a manifestantes para desobstruir estradas após três dias de bloqueios",
+    "summary": "Presidente classificou o fechamento de rodovias como ilegal e afirmou que apoiadores devem buscar 'outras formas de se manifestar'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7500.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/palmeiras-e-hendecacampeao-brasileiro-com-campanha-irretocavel-recordes-e-serie-invicta/",
+    "hat": "Futebol",
+    "title": "Palmeiras conquista o 11º título do Brasileirão com campanha irretocável, recordes e série invicta",
+    "summary": "Após tropeço do Inter, time alviverde vence o campeonato com o melhor ataque, a defesa menos vazada e o menor número de derrotas da história"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7500.3125,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/governo-diretor-geral-prf-agressao-silvinei-vasques/",
+    "hat": "Justiça",
+    "title": "Governo cobra R$ 99 mil de diretor-geral da PRF por agressão a frentista",
+    "summary": "Corporação afirma que Silvinei Vasques moveu ação para 'demonstrar utilização de documentos falsos na denúncia'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7018.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/mp-poe-grupo-especializado-em-crime-organizado-para-investigar-saudacao-nazista-em-ato-em-sc/",
+    "hat": "ATO EM SANTA CATARINA",
+    "title": "MP coloca grupo especializado em crime organizado para investigar saudação nazista",
+    "summary": "Promotores trabalham para identificar autores do gesto em manifestação contra o resultado das eleições"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6544.65625,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/alunos-de-colegio-de-sp-compartilham-conteudo-racista-nazista-e-misogino-escola-diz-repudiar-atos/",
+    "hat": "Caso em Valinhos",
+    "title": "Alunos de colégio em SP trocam conteúdo racista e nazista em grupo de WhatsApp"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8025.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/lula-faz-discurso-por-uniao-nao-existem-dois-brasis/",
+    "hat": "eleições 2022",
+    "title": "LULA: 'NÃO EXISTEM DOIS BRASIS; É HORA DE BAIXAR AS ARMAS'",
+    "summary": "No 1º discurso como presidente eleito, Lula promete governar para todos e diz que sua vitória representa imenso movimento democrático"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6665.09375,
+      "left": 329,
+      "height": 661.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/?liveId=GLV3JJGHGZFUJI624AB2F37CG4",
+    "hat": "ELEIÇÃO ESTADUAL",
+    "title": "Resultado é soberano, diz Tarcísio, que defende entendimento com Lula",
+    "summary": "'Vamos olhar para frente', diz o ex-ministro de Bolsonaro, agora eleito governador de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7377.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/",
+    "hat": "tempo real",
+    "title": "Ao Vivo: Acompanhe a repercussão da vitória do petista pelo Brasil"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7377.203125,
+      "left": 759.65625,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-foi-maior-cabo-eleitoral-de-lula/",
+    "hat": "William Waack",
+    "title": "A questão agora é quais circunstâncias e alianças permitirão que Lula governe"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7377.203125,
+      "left": 1190.3125,
+      "height": 410.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/e-hora-de-conciliacao-e-de-petistas-e-bolsonaristas-voltarem-a-ser-apenas-brasileiros/",
+    "hat": "Eliane Cantanhêde",
+    "title": "'A eleição foi muito tensa e acabou bem apertada, mas é hora de conciliação'"
+  }
+]

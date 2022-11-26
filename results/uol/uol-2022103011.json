@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12277.609375,
+      "left": 365,
+      "height": 414.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/30/lula-vence-na-australia-coreia-e-nova-zelandia-bolsonaro-vence-no-japao.htm",
+    "title": "Lula vence na Austrália, Coreia e Nova Zelândia; Bolsonaro, no Japão",
+    "summary": "Consulados do Brasil no exterior têm longas filas para votação no segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11814.296875,
+      "left": 365,
+      "height": 648.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/30/seguranca-de-zambelli-e-preso-apos-atirar-durante-perseguicao-a-homem-negro.htm",
+    "title": "Segurança de Zambelli é preso após atirar durante perseguição a homem negro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11142.1875,
+      "left": 365,
+      "height": 122.375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/29/campanha-de-bolsonaro-ve-erros-de-zambelli-e-faz-calculo-do-estrago.htm",
+    "title": "Campanha de Bolsonaro vê erros de Zambelli e faz cálculo do 'estrago'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11814.296875,
+      "left": 619.15625,
+      "height": 385.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/moraes-veta-qualquer-acao-da-prf-sobre-transporte-gratuito-no-2-turno.htm",
+    "title": "Moraes proíbe PRF de fazer qualquer ação contra transporte gratuito no 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11404.4375,
+      "left": 619.15625,
+      "height": 343.0625,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/horario-votacao-2-turno-2022.htm",
+    "title": "Horário de votação varia de acordo com o fuso horário; veja como fica em cada estado"
+  }
+]

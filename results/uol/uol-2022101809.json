@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12458.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/motivacao-tiroteio-e-nova-operacao-em-paraisopolis.htm",
+    "title": "Tarcísio e PMs discordam sobre tiros, e Paraisópolis tem nova ação policial",
+    "summary": "Candidato ao governo de SP afirma ser alvo de ataque; PM não vê ato premeditado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12128.078125,
+      "left": 365,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/17/bolsonaro-noite-clamor-catolicos-brasilia.htm",
+    "title": "Ato católico tem Bolsonaro calado, Kelmon aplaudido e folheto contra Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11756.59375,
+      "left": 365,
+      "height": 322.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-cita-bolsonarismo-consolidado-e-diz-que-vamos-ter-problema-apos-ganhar-eleicao.shtml",
+    "title": "Lula cita bolsonarismo consolidado e diz que 'vamos ter problema' após ganhar eleição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12128.078125,
+      "left": 619.15625,
+      "height": 350.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/17/red-bull-bragantino-x-santos.htm",
+    "title": "Santos vence Red Bull Bragantino por 2 a 0 e se aproxima do G8"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11753.40625,
+      "left": 619.15625,
+      "height": 322.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/ipec-lula-bolsonaro-pesquisa-eleitoral-pesquisa-presidencial-eleicoes.htm",
+    "title": "Ipec: Lula tem 54% dos votos válidos no segundo turno; Bolsonaro soma 46%"
+  }
+]

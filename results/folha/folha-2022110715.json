@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8016.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-inicia-transicao-com-sequencia-de-nos-para-desatar-antes-da-posse.shtml",
+    "hat": "transição de governo",
+    "title": "Lula inicia transição com sequência de nós para desatar antes da posse",
+    "summary": "Construir base ampla no Congresso, garantir espaço no Orçamento e ​definir os nomes do novo ministério são desafios"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -560.171875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://youtu.be/wie0STFrqQE",
+    "hat": "Afeganistão",
+    "title": "Sem escolas desde a volta do Talibã, afegãs trabalham em campos de açafrão",
+    "summary": "Desde que o grupo extremista retomou o poder, a educação não é um direito garantido para mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7698.4375,
+      "left": 975,
+      "height": 175.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-sem-mandato-estara-na-mira-de-stf-tse-e-1a-instancia-entenda.shtml",
+    "hat": "Folhajus",
+    "title": "Bolsonaro sem mandato estará na mira de STF, TSE e 1ª instância; entenda"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7488,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/uniao-brasil-encerra-contrato-de-r-45-mil-com-marcos-cintra-depois-de-ataque-as-urnas.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "União Brasil encerra contrato de R$ 45 mil com Marcos Cintra depois de ataque às urnas",
+    "summary": "Economista teve conta suspensa no Twitter e terá que se explicar para a PF"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7291.125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/maioria-dos-estados-tem-rodovias-livres-nesta-segunda-acompanhe.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Maioria dos estados tem rodovias livres nesta segunda; acompanhe"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5329,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/10/17/veja-o-que-e-fato-ou-fake-nas-falas-dos-presidenciaveis-no-primeiro-debate-do-2-turno.ghtml",
+    "hat": "Disputa no 2º turno",
+    "title": "Veja o que é #FATO e o que é #FAKE nas falas de Lula e Bolsonaro no debate"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5329,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/17/mulher-e-filmada-ao-usar-banheiro-de-posto-no-rio-percebe-e-flagra-frentista.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Mulher é filmada ao usar banheiro de posto, percebe e flagra frentista"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4992.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/10/17/video-discussao-entre-bandas-termina-com-briga-generalizada-de-musicos-em-cima-de-palco-na-bahia.ghtml",
+    "hat": "Confusão em Salvador",
+    "title": "VÍDEO: bandas trocam socos no palco durante briga generalizada"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4587.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/17/visita-de-tarcisio-de-freitas-em-paraisopolis-na-zona-sul-de-sp-e-interrompida-por-tiros-na-comunidade.ghtml",
+    "hat": "Comunidade em SP",
+    "title": "Tiroteio em Paraisópolis interrompe visita de Tarcísio de Freitas",
+    "summary": "Candidato ao governo de SP deixou o local escoltado por seguranças. Ninguém ficou ferido.",
+    "category": "Eleições 2022 em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4309.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/video/veja-o-momento-em-que-tiros-interrompem-agenda-de-tarcisio-em-sp-11033226.ghtml",
+    "title": "VÍDEO mostra barulho dos tiros e pessoas abaixadas para se proteger",
+    "category": "G1 SP"
+  }
+]

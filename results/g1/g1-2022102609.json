@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5411,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/10/25/desnutricao-provoca-a-maior-hospitalizacao-de-bebes-dos-ultimos-14-anos-no-brasil-diz-fiocruz.ghtml",
+    "hat": "Saúde",
+    "title": "Nº de bebês internados por desnutrição é o maior em 14 anos, diz Fiocruz",
+    "summary": "Em 2021, 8 crianças de até 1 ano foram levadas ao hospital todos os dias por falta de comida."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5411,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2022/10/26/milton-nascimento-chega-aos-80-anos-com-aura-sagrada-pelo-canto-e-pela-obra-construida-com-fe-no-povo-da-raca-brasil.ghtml",
+    "hat": "Em despedida dos palcos",
+    "title": "Milton Nascimento chega aos 80 anos com aura sagrada pelo canto"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5074.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/jogo/25-10-2022/athletico-pr-palmeiras.ghtml",
+    "hat": "Brasileirão",
+    "title": "Palmeiras vence Athletico e pode ser campeão hoje",
+    "summary": "Time depende dos resultados dos jogos do Corinthians e do Inter."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4669.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/26/copom-deve-manter-juro-basico-estavel-em-1375percent-ao-ano-nesta-quarta-preve-mercado-financeiro.ghtml",
+    "hat": "Previsão do mercado",
+    "title": "Copom deve manter hoje juro básico em 13,75% ao ano",
+    "summary": "Taxa Selic deve começar a recuar somente no ano que vem.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4391.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/26/salario-minimo-vai-perder-valor-entenda-por-que-reajuste-virou-batalha-na-reta-final-da-campanha-entre-lula-e-bolsonaro.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Valor menor? Como o salário mínimo virou guerra na reta final da campanha",
+    "category": "O Assunto"
+  }
+]

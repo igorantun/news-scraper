@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5613,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/relator-do-orcamento-propoe-pec-para-tirar-despesas-inadiaveis-do-teto-de-gastos.ghtml",
+    "hat": "Previsão para 2023",
+    "title": "Relator do Orçamento e Alckmin propõem PEC para manter auxílio de R$ 600",
+    "summary": "Texto prevê tirar gastos considerados 'inadiáveis' do teto. Avaliação é que não há espaço no orçamento enviado ao Congresso pelo atual governo."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5613,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/03/brasileiro-que-morreu-no-ushuaia-na-argentina-era-de-sp-e-viajava-de-kombi-pela-america-do-sul-com-sua-gata.ghtml",
+    "hat": "Acidente na Argentina",
+    "title": "Brasileiro morto esmagado por gelo viajava de Kombi com gata"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5276.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/noticia/2022/11/03/close-de-boca-de-crocodilo-em-cuba-ganha-premio-de-fotos-de-mangue.ghtml",
+    "hat": "📸🐊",
+    "title": "Close em crocodilo ganha prêmio de fotos de mangue"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4871.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/alckmin-chega-ao-planalto-para-primeira-reuniao-sobre-transicao-com-ministro-de-bolsonaro.ghtml",
+    "hat": "Passagem de bastão",
+    "title": "Alckmin se reúne com Ciro Nogueira no Planalto e inicia transição",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4593.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/03/petrobras-decide-antecipar-r-437-bilhoes-em-dividendos-a-acionistas-futuro-governo-lula-critica.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Petrobras decide antecipar R$ 43,7 bi em dividendos; equipe de Lula critica",
+    "summary": "Alguns membros do conselho da empresa foram contra e veem busca para cobrir gastos eleitorais.",
+    "category": "Blog do Valdo Cruz"
+  }
+]

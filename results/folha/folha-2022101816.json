@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10481.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/conselho-curador-aprova-uso-do-fgts-futuro-como-garantia-no-financiamento-de-imoveis.shtml",
+    "hat": "Mercado imobiliário",
+    "title": "Aprovado o uso do FGTS futuro como garantia no financiamento de imóveis",
+    "summary": "Medida vale para famílias com renda mensal bruta de até R$ 2.400; em caso de adesão, trabalhador não poderá sacar valores"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10217.34375,
+      "left": 974.984375,
+      "height": 247.265625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moraes-manda-defesa-entregar-relatorio-de-fiscalizacao-das-urnas-em-48-horas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Moraes dá 48 horas para Defesa entregar relatório de fiscalização paralela das urnas",
+    "summary": "Presidente do TSE diz que atuação alinhada a Bolsonaro pode configurar desvio de finalidade e abuso de poder"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9935.09375,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/janja-posta-nova-entrevista-em-que-bolsonaro-fala-de-meninas-bonitinhas-da-venezuela.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Janja posta nova entrevista em que Bolsonaro fala de 'meninas bonitinhas' da Venezuela"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9778.15625,
+      "left": 974.984375,
+      "height": 153.859375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/arminio-fraga/2022/10/entrevista-com-lula-por-telepatia.shtml",
+    "hat": "Arminio Fraga",
+    "title": "Entrevista com Lula por telepatia",
+    "summary": "'Vou cuidar da inflação e do fiscal porque é bom para os mais pobres', afirma candidato petista em conversa imaginária"
+  }
+]

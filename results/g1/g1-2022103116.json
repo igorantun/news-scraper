@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4729,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/lula-eleito-saiba-como-funciona-a-transicao-de-governo.ghtml",
+    "hat": "Lula eleito",
+    "title": "2 meses para a posse: saiba como funciona a transição de governo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4729,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://especiaisg1.globo/politica/eleicoes/2022/mapas/mapa-da-apuracao-no-brasil-presidente/2-turno/",
+    "hat": "Raio X da eleição",
+    "title": "MAPA DA APURAÇÃO: veja a votação para presidente na sua cidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3987.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/g1-publica-reportagens-e-videos-com-a-votacao-em-todos-os-5568-municipios-no-segundo-turno-das-eleicoes-2022.ghtml",
+    "hat": "2º turno da eleição",
+    "title": "g1 publica reportagens e vídeos com a votação em todos os municípios",
+    "summary": "Sistema desenvolvido pela Globo exibe, de maneira automática, dados do TSE em forma de textos e vídeos.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3709.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/31/bolsonaro-trancado-em-copas-assessores-escalam-chanceler.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Assessores pressionam por discurso de Bolsonaro reconhecendo derrota",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3431.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/31/comite-de-campanha-de-bolsonaro-ve-digital-do-presidente-na-derrota-para-lula.ghtml",
+    "title": "Campanha de Bolsonaro vê 'digital' do presidente na derrota",
+    "category": "Eleições 2022"
+  }
+]

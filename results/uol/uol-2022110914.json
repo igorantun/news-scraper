@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12578.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2022/11/09/nova-onda-covid-19-aumento-de-casos-internacoes.htm",
+    "title": "Com subvariante da ômicron, covid volta a assustar o Brasil após eleições",
+    "summary": "Casos positivos subiram 17% nos laboratórios; em farmácias o aumento foi de 15%"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12189.265625,
+      "left": 365,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/renan-orcamento-secreto-acaba-com-lula-se-nao-terminar-no-governo-dele.htm",
+    "title": "Se Lula não acabar com o orçamento secreto, isso acaba com ele, diz Renan: 'É impraticável'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12189.265625,
+      "left": 619.15625,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/defesa-fez-auditoria-eleitoral-apesar-de-negar-ao-tse-mostram-emails.shtml",
+    "title": "Defesa fez auditoria eleitoral apesar de negar ao TSE, mostram emails"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11892.15625,
+      "left": 619.15625,
+      "height": 146.375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/empresarios-enviam-funcionarios-e-bancam-despesas-para-inflar-atos-antidemocraticos.shtml",
+    "title": "Empresários enviam funcionários e bancam despesas para inflar atos antidemocráticos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12189.265625,
+      "left": 873.328125,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2022/11/09/copa-do-mundo-selecao-brasileira-fifa-qatar-cinco-substituicoes.htm",
+    "title": "Copa do Qatar: nova regra deve fazer com que técnicos usem 90% dos elencos"
+  }
+]

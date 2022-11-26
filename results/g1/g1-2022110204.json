@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4479,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/apos-pronunciamento-bolsonaro-vai-ao-stf.ghtml",
+    "hat": "Vitória de Lula",
+    "title": "Bolsonaro disse em reunião no STF que eleição 'acabou', afirma Fachin"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4479,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/01-11-2022/sao-paulo-atletico-mg.ghtml",
+    "hat": "Brasileirão",
+    "title": "Na briga por vaga na Libertadores, São Paulo e Atlético-MG empatam",
+    "summary": "Calleri marcou os dois gols do Tricolor; Vargas fez o mesmo pelo Galo."
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4142.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/01/monique-e-jairinho-vao-a-juri-popular-pela-morte-de-henry-borel.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Monique e Jairinho vão a júri popular pela morte de Henry Borel"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3737.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/bolsonaro-faz-primeiro-discurso-apos-perder-a-eleicao.ghtml",
+    "title": "Bolsonaro diz que vai cumprir Constituição; Ciro Nogueira inicia transição",
+    "summary": "Presidente falou pela 1ª vez dois dias após derrota, não citou Lula e criticou atos ilegais de seus apoiadores.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3459.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/veja-e-leia-a-integra-do-discurso-de-bolsonaro-dois-dias-apos-derrota-em-segundo-turno.ghtml",
+    "title": "VÍDEO: veja e leia a íntegra da declaração de Bolsonaro",
+    "summary": "Presidente agradeceu votos que recebeu no domingo, quando foi derrotado por Lula.",
+    "category": "G1 Eleições"
+  }
+]

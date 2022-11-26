@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9617.734375,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/tse-amplia-poder-da-corte-para-barrar-fake-news-de-rede-social-durante-a-eleicao/",
+    "hat": "COMBATE À DESINFORMAÇÃO",
+    "title": "TSE amplia poder da Corte para barrar conteúdo que considerar fake news",
+    "summary": "Plataformas digitais terão uma hora para remover conteúdo considerado falso pelo tribunal no dia do segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9349.734375,
+      "left": 329,
+      "height": 787.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/internacional/liz-truss-renuncia-ao-cargo-de-primeira-ministra-do-reino-unido/",
+    "hat": "EUROPA",
+    "title": "Liz Truss renuncia ao cargo de premiê do Reino Unido após 44 dias",
+    "summary": "Líder conservadora substituiu Boris Johnson, mas viu sua popularidade despencar após fiasco de plano econômico que desencadeou uma crise social e política"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9349.734375,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/privatizacao-da-sabesp-opoe-tarcisio-e-haddad-na-reta-final-do-segundo-turno-em-sp/",
+    "hat": "Governo de SP",
+    "title": "Privatização da Sabesp opõe Tarcísio e Haddad na reta final do segundo turno em SP",
+    "summary": "Ex-ministro afirma estudar vender a participação do Estado; petista defende o controle acionário da empresa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8867.625,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/homens-desaparecem-de-moscou-apos-ordem-de-putin-para-mobilizar-recrutas/",
+    "hat": "tensão no leste europeu",
+    "title": "Onde estão os homens de Moscou? Após ordem de Putin, eles sumiram"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8465.515625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/emais/gente/ingressos-do-show-do-coldplay-em-curitiba-e-rio-de-janeiro-esgotam-vendas-para-sp-seguem-abertas/",
+    "hat": "música",
+    "title": "Coldplay esgota ingressos para shows em Curitiba e Rio; vendas continuam para SP",
+    "summary": "Banda irá se apresentar na capital paulista do dia 10 ao dia 18 de março de 2023, no Estádio do Morumbi"
+  }
+]

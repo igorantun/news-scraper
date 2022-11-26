@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12684.609375,
+      "left": 365,
+      "height": 308.71875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/bolsonaro-pede-apoiadores-liberacao-rodovias.htm",
+    "title": "Bolsonaro pede a apoiadores liberação de rodovias no Brasil",
+    "summary": "Presidente diz que apoia manifestantes e outros atos são parte do 'jogo democrático'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12154.890625,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/02/atletico-go-x-santos---serie-a.htm",
+    "title": "Santos vence Atlético-GO com gol no fim e mantém luta pela Libertadores"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11698.65625,
+      "left": 365,
+      "height": 576.734375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/equipe-de-lula-cede-vaga-para-mdb-na-transicao-e-tera-primeira-reuniao-com-ciro-nogueira.shtml",
+    "title": "Equipe de Lula terá 1ª reunião com Ciro Nogueira e cede vaga ao MDB na transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12154.890625,
+      "left": 619.15625,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/compilat-atos-bolsonaristas-quarteis-e-rodovias.htm",
+    "title": "Bolsonaristas somam quartéis a atos em estradas e reforçam pedido por golpe"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11350.3125,
+      "left": 619.15625,
+      "height": 322.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/mourao-pede-altivez-na-derrota-cita-2026-e-diz-que-golpe-colocaria-pais-em-situacao-dificil.shtml",
+    "title": "Mourão pede altivez na derrota, cita 2026 e diz que golpe colocaria país em situação difícil"
+  }
+]

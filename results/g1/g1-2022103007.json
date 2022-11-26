@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4023,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/noticia/2022/10/30/moraes-proibe-prf-e-pf-de-fazer-operacoes-que-afetem-transporte-de-eleitores-e-divulgar-balancos-de-acoes.ghtml",
+    "hat": "Eleições",
+    "title": "Moraes proíbe PRF e PF de fazer operações que afetem transporte de eleitores e divulgar balanços de ações",
+    "summary": "Decisão do presidente do TSE atende a pedido de deputado do PT, que acusa o governo de usar as polícias federais para beneficiar Bolsonaro."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4023,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/29/caso-carla-zambelli-o-que-mostram-os-videos-o-que-dizem-as-testemunhas-e-qual-a-versao-da-deputada.ghtml",
+    "title": "Caso Zambelli: o que mostram os vídeos e qual a versão da deputada"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3686.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/libertadores/jogo/29-10-2022/flamengo-athletico-pr.ghtml",
+    "hat": "É CAMPEÃO!",
+    "title": "Flamengo vence Athletico-PR e é tri da Libertadores"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3281.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/brasileiros-voltam-as-urnas-neste-domingo-para-o-segundo-turno-saiba-tudo-sobre-a-votacao.ghtml",
+    "title": "Brasileiros voltam às urnas para o 2º turno; saiba tudo sobre a votação",
+    "summary": "Em doze estados, eleitores também votam para governador.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3003.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/resultados-exterior-segundo-turno-boletins-de-urna.ghtml",
+    "title": "Nova Zelândia encerra votação antes mesmo de começar no Brasil",
+    "category": "Eleições 2022"
+  }
+]

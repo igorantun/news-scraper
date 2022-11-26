@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5903,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/20/datafolha-1-em-cada-4-brasileiros-recebe-auxilio-brasil-veja-a-intencao-de-voto-dos-beneficiarios-em-lula-e-bolsonaro.ghtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "26% recebem ou vivem com quem tem Auxílio Brasil, aponta Datafolha",
+    "summary": "Lula mantém vantagem entre os beneficiários do programa, e apoio a Bolsonaro cresce."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5903,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/20/instagram-vai-bloquear-ofensas-que-trocam-letras-por-numeros-veja-como-usar-recurso.ghtml",
+    "hat": "Tecnologia",
+    "title": "Instagram vai bloquear ofensas que trocam letras por números"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5566.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2022/10/20/ex-funcionaria-esquece-whatsapp-aberto-em-computador-de-empresa-e-tem-conversas-expostas-por-socio-durante-reuniao-em-mg.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Mulher esquece WhatsApp aberto e tem conversas expostas por patrão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5161.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/20/guedes-confirma-plano-de-desvincular-salario-minimo-da-inflacao-mas-nega-que-objetivo-seja-reajuste-menor.ghtml",
+    "hat": "Encontro com empresários",
+    "title": "Guedes confirma plano de desvincular salário mínimo da inflação",
+    "summary": "Ministro da Economia negou que objetivo da proposta seja dar reajuste menor.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4883.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/20/datafolha-democracia-tem-apoio-recorde-de-79percent-dos-eleitores.ghtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Datafolha: democracia tem apoio recorde de 79% dos eleitores",
+    "category": "Pesquisa Eleitoral"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5706,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/alckmin-assina-portarias-para-dar-inicio-formal-a-transicao-de-governo.ghtml",
+    "hat": "Formação de equipe",
+    "title": "Transição terá 'pais' do Plano Real na economia e Tebet, anuncia Alckmin",
+    "summary": "Persio Arida e André Lara Resende, figuras centrais da era FHC, vão trabalhar com Nelson Barbosa, ex-ministro de Dilma, e Guilherme Mello."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5706,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/cinema/noticia/2022/11/08/pantera-negra-wakanda-para-sempre-explora-luto-para-superar-limites-do-genero-de-heroi-g1-ja-viu.ghtml",
+    "hat": "g1 já viu",
+    "title": "Novo 'Pantera Negra' explora luto para superar limites do gênero"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5369.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/08/veja-foto-de-gabriel-monteiro-ao-dar-entrada-no-sistema-penitenciario.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Foto mostra Gabriel Monteiro após ser preso por acusação de estupro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4964.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/equipe-de-transicao-saiba-quem-sao-os-confirmados-para-a-passagem-de-bastao-no-governo.ghtml",
+    "title": "Quem é quem na equipe de Lula para a transição de governo",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4686.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/tebet-marcia-lopes-tereza-campello-e-andre-quintao-vao-coordenar-a-assistencia-social-durante-a-transicao.ghtml",
+    "title": "Tebet e Tereza Campello vão coordenar auxílio e benefícios",
+    "category": "Política"
+  }
+]

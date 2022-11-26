@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5950,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/26/democracia-vale-o-que-cada-um-que-nos-faz-diz-carmen-lucia-em-sessao-do-stf.ghtml",
+    "hat": "Supremo",
+    "title": "Alvo de ataques, Cármen Lúcia defende democracia e STF: 'Brasil vale a pena'",
+    "summary": "Ministra recebeu apoio de colegas após sofrer ofensas misóginas do bolsonarista Roberto Jefferson, que jogou granadas na PF e foi preso."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5950,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/10/26/2023-o-ano-dos-feriadoes-veja-quais-serao-e-se-programe.ghtml",
+    "hat": "😎😎😎",
+    "title": "2023 será o ano dos feriadões: veja datas e se programe"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5613.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/saude/noticia/2022/10/26/china-lanca-vacina-via-oral-contra-a-covid-19.ghtml",
+    "hat": "Combate ao coronavírus",
+    "title": "Como funciona a vacina chinesa contra a Covid que não usa agulha"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5208.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/tv-globo-e-afiliadas-promovem-debates-de-2o-turno-entre-candidatos-aos-governos-de-12-estados-nesta-quinta-feira.ghtml",
+    "hat": "Disputas estaduais",
+    "title": "Globo e afiliadas fazem amanhã debate para governador em 12 estados",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4930.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/10/26/empresario-suspeito-de-orientar-funcionarias-a-colocar-celular-no-sutia-para-filmar-voto-na-ba-vai-pagar-indenizacao-por-danos-morais.ghtml",
+    "hat": "Assédio eleitoral na Bahia",
+    "title": "Bolsonarista que mandou funcionárias filmarem voto terá que pagar R$ 150 mil",
+    "category": "Bahia"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5609,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/ao-vivo/ao-vivo-convocacao-da-selecao-brasileira-para-a-copa-do-mundo.ghtml",
+    "hat": "ao vivo",
+    "title": "ASSISTA: Tite anuncia logo mais a lista de convocados para a Copa"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5609,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/07/equipe-de-lula-tenta-frear-indicacoes-de-bolsonaro-para-judiciario-e-postos-no-exterior.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Lula quer frear indicações de Bolsonaro em tribunais e cargos no exterior"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5272.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/go/goias/noticia/2022/11/07/padre-tira-a-batina-e-abandona-missa-apos-discussao-politica-em-igreja-de-neropolis.ghtml",
+    "hat": "Goiás",
+    "title": "VÍDEO: padre tira a batina e abandona missa após discussão política"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4867.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/07/lula-e-alckmin-ja-tem-gabinetes-de-transicao-em-brasilia-agenda-deve-ser-definida-nesta-segunda.ghtml",
+    "title": "Gabinetes de transição de Lula e Alckmin já estão prontos",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4589.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/07/equipe-de-lula-preve-varredura-em-computadores-da-pf-apos-transicao.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Governo eleito prevê varredura em computadores da PF",
+    "summary": "Equipe de Lula teme que agentes bolsonaristas instalem programas espiões.",
+    "category": "Blog da Andréia Sadi"
+  }
+]

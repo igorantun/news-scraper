@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12587.609375,
+      "left": 365,
+      "height": 332.75,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/22/palmeiras-x-avai---brasileirao.htm",
+    "title": "Palmeiras vence Avaí com gol de Dudu e passe de Endrick e fica mais perto do título",
+    "summary": "Com vitória por 3 a 0 no Allianz Parque, líder do Brasileiro chega aos 71 pontos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12205.859375,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fachin-defende-resolucao-tse-de-combate-as-fake-news-e-nega-pedido-de-aras.shtml",
+    "title": "Fachin defende resolução do TSE de combate às fake news e nega pedido de Aras"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11749.625,
+      "left": 365,
+      "height": 388.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/em-igreja-bolsonaro-diz-que-colocou-guerreiro-no-stf-para-nos-defender.htm",
+    "title": "Em igreja, Bolsonaro diz que colocou 'guerreiro' no STF: 'Para nos defender'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12205.859375,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/10/22/pgr-deve-pedir-ao-stf-volta-de-roberto-jefferson-para-prisao.htm",
+    "title": "PGR deve pedir ao STF volta de Jefferson à prisão após ataque a Cármen Lúcia"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11749.625,
+      "left": 619.15625,
+      "height": 388.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/marina-e-xingada-por-bolsonaristas-em-mg-lula-e-tebet-repudiam-covarde.htm",
+    "title": "Marina é xingada por bolsonaristas em MG; Lula e Tebet repudiam: 'Covarde'"
+  }
+]

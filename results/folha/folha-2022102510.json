@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9107.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-acumula-desculpas-para-tentar-se-afastar-do-ataque-de-roberto-jefferson-a-policiais.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro acumula desculpas para tentar se afastar do ataque de Roberto Jefferson a policiais",
+    "summary": "Campanha do presidente tenta converter o episódio em um gesto de apoio a policiais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.359375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8789.4375,
+      "left": 974.984375,
+      "height": 199.390625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/economistas-veem-copom-anticlimatico-com-proximidade-da-eleicao.shtml",
+    "hat": "Folhainvest",
+    "title": "Economistas veem Copom 'anticlimático' com proximidade da eleição",
+    "summary": "Expectativa é que Selic seja mantida"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8555.0625,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-fala-em-suposta-fraude-de-radios-moraes-nao-ve-base-documental-e-pede-provas-em-24h.shtml",
+    "hat": "propaganda eleitoral",
+    "title": "Bolsonaro fala em suposta fraude de rádios, Moraes não vê base e pede provas em 24 h",
+    "summary": "Presidente do TSE pede documentos, sob pena de determinar apuração de crime"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8358.1875,
+      "left": 974.984375,
+      "height": 133.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-recebeu-em-dez-dias-r-264-milhoes-em-doacoes.shtml",
+    "hat": "recursos",
+    "title": "Bolsonaro recebeu em dez dias R$ 26,4 milhões em doações",
+    "summary": "Montante representa 34% de tudo que o presidente angariou durante a campanha"
+  }
+]

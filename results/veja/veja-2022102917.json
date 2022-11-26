@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5824.890625,
+      "left": 324,
+      "height": 284,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/bolsonaro-e-lula-vao-para-o-tudo-ou-nada-no-sudeste-antes-da-eleicao/",
+    "hat": "Política",
+    "title": "Bolsonaro e Lula vão para o ‘tudo ou nada’ no Sudeste antes da eleição",
+    "summary": "Candidatos protagonizam últimos atos de campanha em São Paulo e Minas Gerais neste sábado"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4785.921875,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3647.796875,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5516.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/politica/veja-tera-live-especial-no-domingo-de-eleicao-a-partir-das-17h/",
+    "hat": "Política",
+    "title": "VEJA terá live especial no domingo de eleição, a partir das 17h"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5516.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/economia/chances-de-lula-e-bolsonaro-na-boca-de-urna-dos-sites-de-apostas/",
+    "hat": "Economia",
+    "title": "As chances de Lula e Bolsonaro na “boca de urna” dos sites de apostas"
+  }
+]

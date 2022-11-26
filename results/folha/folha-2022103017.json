@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9164.65625,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/prf-prioriza-transporte-de-passageiros-multiplica-abordagens-e-descumpre-decisao-de-moraes.shtml",
+    "hat": "Justiça eleitoral",
+    "title": "PRF prioriza transporte de passageiros, multiplica abordagens e descumpre decisão de Moraes",
+    "summary": "Presidente do TSE proibiu realização de qualquer operação contra veículos utilizados no transporte público de eleitores"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -550.1875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-a-melhor-sobre-bolsonaro-em-debate-de-monologos.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula leva a melhor sobre Bolsonaro em debate de monólogos",
+    "summary": "Evento na Globo coroa eleição de rejeições que marca a disputa que chega a seu fim"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9117.671875,
+      "left": 1305,
+      "height": 314.921875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/tv-folha-tem-programacao-especial-ao-vivo-no-segundo-turno.shtml",
+    "hat": "lives",
+    "title": "TV Folha tem programação especial ao vivo no 2º turno",
+    "summary": "Jornalistas e colunistas da Folha analisam resultados das eleições a partir das 17h"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8732.78125,
+      "left": 974.984375,
+      "height": 403.828125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-votam-petista-enaltece-democracia-e-presidente-fala-em-deus.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula e Bolsonaro votam; petista enaltece democracia, e presidente fala em Deus"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8293.96875,
+      "left": 974.984375,
+      "height": 105.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/10/uma-eleicao-crucial.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Uma eleição crucial",
+    "summary": "São candidatos muito diferentes; Folha reafirma jornalismo crítico e apartidário"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7598.109375,
+      "left": 315,
+      "height": 336.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/roberto-jefferson-se-entrega-a-policia-federal.shtml",
+    "hat": "após ação armada",
+    "title": "Roberto Jefferson é preso pela PF após jogar granada e atirar contra policiais",
+    "summary": "Ex-deputado reagiu a uma ordem de prisão de Moraes"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.1875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7226.53125,
+      "left": 974.984375,
+      "height": 353.734375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-nega-fotos-com-jefferson-publicadas-pelo-ex-deputado-veja-imagens.shtml",
+    "hat": "aliados",
+    "title": "Bolsonaro mente e agora nega até ter foto com Jefferson, mas tem; veja imagens",
+    "summary": "Registros estão nas redes sociais do político que atacou agentes da PF"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6836.8125,
+      "left": 974.984375,
+      "height": 153.859375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/blogs/sylvia-colombo/2022/10/bolsonaristas-disparam-breaking-news-sobre-a-argentina.shtml",
+    "hat": "Sylvia Colombo",
+    "title": "Bolsonaristas disparam 'fake news' sobre a Argentina",
+    "summary": "Discurso bolsonarista tem usado narrativa alucinada de que, se Lula ganhar, Brasil e Argentina \"virarão\" a Venezuela"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6575.375,
+      "left": 315,
+      "height": 371.875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/site-de-bolsonaro-pede-cadastro-de-apoiadores-como-fiscais-no-2o-turno.shtml",
+    "hat": "Eleições 2022",
+    "title": "Site de Bolsonaro pede cadastro de apoiadores como 'fiscais' no 2º turno",
+    "summary": "Eleitor precisa concordar em compartilhar uma série de dados com partido"
+  }
+]

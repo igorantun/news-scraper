@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6689,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/11/moraes-amplia-para-todo-territorio-nacional-punicao-a-manifestante-que-bloqueia-estradas.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Moraes amplia para todo o território nacional punição a bloqueios golpistas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6689,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/filho-unico-de-gal-costa-chega-a-velorio-em-sao-paulo.ghtml",
+    "hat": "Mãe de todas as vozes",
+    "title": "Filho e a companheira de Gal Costa se despedem da cantora"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6352.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/famosos-se-despedem-de-gal-costa-em-sp.ghtml",
+    "title": "Personalidades e famosos dão adeus a Gal; FOTOS"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5947.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/11/aliados-de-lula-turbinam-defesa-por-composicao-casada-para-fazenda-e-planejamento-entre-petista-e-nao-petista.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Equipe de Lula quer 'dobradinha' do PT com economista do Plano Real",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5669.65625,
+      "left": 348.65625,
+      "height": 178.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/11/forcas-armadas-divulgam-nota-condenando-eventuais-excessos-cometidos-em-manifestacoes.ghtml",
+    "hat": "Política",
+    "title": "Forças Armadas condenam 'eventuais excessos em manifestações'",
+    "summary": "Em nota, chefes de Exército, Marinha e Aeronáutica também criticaram 'eventuais restrições a direitos por agentes públicos'.",
+    "category": "Política"
+  }
+]

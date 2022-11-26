@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4218,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/16/xi-jinping-diz-que-a-china-ja-conquistou-controle-total-de-hong-kong-e-que-esta-determinada-a-fazer-isso-em-taiwan.ghtml",
+    "hat": "Ásia",
+    "title": "Xi Jinping diz que a China tem 'controle total' de Hong Kong e fará isso em Taiwan"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4218,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2022/10/15/passarela-no-lado-argentino-das-cataratas-do-iguacu-e-parcialmente-destruida-apos-alta-vazao.ghtml",
+    "hat": "Vazão recorde",
+    "title": "Passarela fica destruída do lado argentino das Cataratas; vídeo"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3881.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/podcast/de-onde-vem-o-que-eu-como/noticia/2022/10/10/de-onde-vem-o-que-eu-como-10-pao.ghtml",
+    "hat": "De onde vem o que eu como",
+    "title": "Hoje é dia do pão! Alimento surgiu por acidente: ouça no podcast"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3476.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/15/pintou-um-clima-fala-de-bolsonaro-sobre-meninas-venezuelanas-repercute-e-gera-criticas-nas-redes.ghtml",
+    "hat": "Entrevista a youtubers",
+    "title": "'Pintou um clima': fala de Bolsonaro sobre meninas venezuelanas repercute",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3198.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/15/pt-leva-a-tv-crimes-da-familia-de-michelle-contra-discurso-moral-de-bolsonaro.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Propaganda do PT cita acusações contra familiares de Michelle",
+    "summary": "Partido também levou à TV caso da rachadinha e depósito de R$ 89 mil para primeira-dama.",
+    "category": "Blog da Andréia Sadi"
+  }
+]

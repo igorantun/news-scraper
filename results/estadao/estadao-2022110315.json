@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7000.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/alckmin-diz-ser-essencial-comecar-janeiro-com-auxilio-brasil-de-r-600/",
+    "hat": "sucessão de governo",
+    "title": "Alckmin defende como essencial Auxílio Brasil de R$ 600 no Orçamento já em janeiro",
+    "summary": "Vice-presidente eleito se reúne com equipe de transição e relator da proposta orçamentária, que diz que esse valor é 'inegociável'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7000.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/studios-oferta-bolha-sp-imoveis-juros-investimento/",
+    "hat": "mercado imobiliário",
+    "title": "Há uma 'bolha' por trás da explosão de ofertas de studios em SP? Setor diz que não"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6490.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/ate-que-idade-da-para-transar-como-e-o-sexo-na-terceira-idade/",
+    "hat": "SEXUALIDADE",
+    "title": "Até que idade dá para transar? Como é o sexo na terceira idade",
+    "summary": "Superar preconceitos, saber ouvir o corpo e mais: especialistas e idosos dão dicas para prolongar o prazer"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6490.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/biden-diz-que-democracia-nao-esta-garantida-e-critica-narrativa-de-fraude-caminho-para-o-caos-npri/",
+    "hat": "ESTADOS UNIDOS",
+    "title": "Biden diz que democracia não está garantida nos EUA e critica narrativa de fraude",
+    "summary": "Presidente discursa antes da eleição de meio de mandato; republicanos ameaçam não reconhecer os resultados"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6490.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/rodovias-sao-liberadas-em-sp-total-de-bloqueios-cai-mas-ainda-atingem-11-estados/",
+    "hat": "ATOS BOLSONARISTAS",
+    "title": "Rodovias são liberadas em SP; nº de bloqueios cai, mas 7 Estados ainda são afetados"
+  }
+]

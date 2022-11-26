@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8015.109375,
+      "left": 315,
+      "height": 184.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/10/ameaca-autocratica.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Ameaça autocrática",
+    "summary": "Concentrar poder é o verdadeiro programa de governo de Jair Bolsonaro; leia o editoral da Folha"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos, clube de tiro e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7968.125,
+      "left": 1305,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7795.34375,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-e-haddad-planejam-campanha-a-reboque-de-bolsonaro-e-lula-na-reta-final.shtml",
+    "hat": "Eleições 2022",
+    "title": "Tarcísio e Haddad planejam campanha a reboque de Bolsonaro e Lula na reta final",
+    "summary": "Última semana antes do segundo turno tem eventos com padrinhos e debate"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7537.03125,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fachin-defende-resolucao-tse-de-combate-as-fake-news-e-nega-pedido-de-aras.shtml",
+    "hat": "fake news",
+    "title": "Fachin defende resolução do TSE de combate às fake news e nega pedido de Aras"
+  }
+]

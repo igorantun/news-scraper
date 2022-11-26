@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9166.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-acumula-desculpas-para-tentar-se-afastar-do-ataque-de-roberto-jefferson-a-policiais.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro acumula desculpas para tentar se afastar do ataque de Roberto Jefferson a policiais",
+    "summary": "Episódio com o ex-deputado se tornou ponto de desgaste contra a campanha do presidente"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.90625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8848.4375,
+      "left": 974.984375,
+      "height": 199.390625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/economistas-veem-copom-anticlimatico-com-proximidade-da-eleicao.shtml",
+    "hat": "+eleições",
+    "title": "Economistas veem Copom 'anticlimático' com proximidade da eleição",
+    "summary": "Expectativa é que Selic seja mantida"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8614.0625,
+      "left": 974.984375,
+      "height": 188.09375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/10/reeleicao-de-bolsonaro-pode-levar-a-desmatamento-de-mais-de-27-mil-km2-em-2026.shtml",
+    "hat": "Planeta em Transe",
+    "title": "Reeleição de Bolsonaro pode levar a desmatamento de mais de 27 mil km2 em 2026"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8390.984375,
+      "left": 974.984375,
+      "height": 133.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-recebeu-em-dez-dias-r-264-milhoes-em-doacoes.shtml",
+    "hat": "recursos",
+    "title": "Bolsonaro recebeu em dez dias R$ 26,4 milhões em doações",
+    "summary": "Montante representa 34% de tudo que o presidente angariou durante a campanha"
+  }
+]

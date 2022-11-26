@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5697,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/justica-decreta-prisao-de-gabriel-monteiro.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Ex-vereador Gabriel Monteiro é preso acusado de estupro",
+    "summary": "Parlamentar do Rio foi cassado em agosto, após outras acusações de estupro e assédio sexual."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5697,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/lewis-hamilton-posa-com-o-bone-cpx-apos-cerimonia-na-camara.ghtml",
+    "hat": "Piloto homenageado",
+    "title": "Lewis Hamilton ganha boné CPX após homenagem na Câmara"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5360.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/11/07/primeira-entrevista-maju-coutinho-e-poliana-abritta-conversam-com-janja-a-proxima-primeira-dama-do-brasil.ghtml",
+    "hat": "Exclusivo",
+    "title": "'Responsabilidade grande com as mulheres', diz Janja ao Fantástico"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4955.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/07/preco-da-gasolina-sobe-pela-quarta-semana-seguida-diz-anp.ghtml",
+    "hat": "Combustível mais caro",
+    "title": "Preço da gasolina sobe pela 4ª semana e encosta nos R$ 5",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4677.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/11/07/convocados-da-selecao-para-a-copa-do-mundo-2022-veja-a-lista-de-tite.ghtml",
+    "hat": "Em busca do hexa",
+    "title": "Daniel Alves, Pedro e Martinelli são convocados para a Copa; veja lista",
+    "category": "seleção brasileira"
+  }
+]

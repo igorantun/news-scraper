@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7322.3125,
+      "left": 329,
+      "height": 626.109375,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/?liveId=5AYF6SAKAZGL3OPIYQ4OPF7QEI",
+    "hat": "DOMINGO DE ELEIÇÃO",
+    "title": "Ao vivo: Lula vota e fala em pacificação e 'harmonia'; Bolsonaro diz que vitória é 'pelo bem do Brasil'",
+    "summary": "Petista compareceu ao seu berço político em São Bernardo do Campo nesta manhã; mais cedo, presidente votou no Rio"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6487.203125,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/alexandre-de-moraes-manda-prf-explicar-razoes-de-blitz-na-paraiba-denunciada-em-video/",
+    "hat": "segundo turno",
+    "title": "Moraes determina que PRF explique operações que afetam transporte público de eleitores",
+    "summary": "Em despacho, presidente do TSE citou publicação em rede social que acusa polícia de fazer uma blitz que estaria impedindo pessoas de votar na Paraíba; ministro havia proibido ações contra ônibus neste domingo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6487.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-eleicoes-2022-segundo-turno-presidente-governador/?liveId=3EG36RA3HFCFHPUMI5CBFKXGQU",
+    "hat": "DISPUTA ESTADUAL",
+    "title": "Segundo turno em SP: Tarcísio exalta 'otimismo' e Haddad pede 'fim da violência'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6037.09375,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/seguranca-carla-zambelli-liberado/",
+    "hat": "DEPUTADA BOLSONARISTA",
+    "title": "Segurança de Carla Zambelli é liberado após pagar fiança; armas são apreendidas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6037.09375,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/sergio-moro-vota-em-curitiba-e-pede-tolerancia-a-populacao/",
+    "hat": "apoiadores do presidente",
+    "title": "Sérgio Moro vota em Curitiba e pede tolerância à população"
+  }
+]

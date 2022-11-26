@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12454.609375,
+      "left": 365,
+      "height": 327.9375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/compilat-atos-bolsonaristas-quarteis-e-rodovias.htm",
+    "title": "Bolsonaristas somam quartéis a atos em estradas e reforçam pedido por golpe"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12077.671875,
+      "left": 365,
+      "height": 473.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/bolsonaro-pede-apoiadores-liberacao-rodovias.htm",
+    "title": "Jair Bolsonaro pede a apoiadores a liberação de rodovias"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11579.875,
+      "left": 365,
+      "height": 322.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/criancas-sao-feridas-apos-carro-atropelar-bloqueio-golpista-no-interior-de-sp.shtml",
+    "title": "Crianças são feridas após carro atropelar bloqueio golpista no interior de SP"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12077.671875,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bloqueio-faz-idosa-perder-biopsia-de-cancer-corrida-contra-o-tempo.htm",
+    "title": "Bloqueio de rodovia no Rio faz idosa perder exame de câncer: 'Corrida contra o tempo'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11621.4375,
+      "left": 619.15625,
+      "height": 360.859375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/centrao-e-aliados-de-lula-aceitam-negociar-mudancas-em-emendas-de-relator.shtml",
+    "title": "Centrão e aliados de Lula aceitam negociar mudanças em emendas de relator"
+  }
+]

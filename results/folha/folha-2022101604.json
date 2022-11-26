@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9048.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-aposta-em-michelle-campeoes-de-voto-e-pastores-no-nordeste.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro aposta em Michelle, campeões de voto e pastores para crescer no Nordeste",
+    "summary": "Campanha escala primeira-dama e Damares para fazerem um tour na região em que PT predomina"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -556.0625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8730.4375,
+      "left": 974.984375,
+      "height": 311.28125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-diz-que-pintou-um-clima-com-menininhas-de-14-e-15-anos-e-video-vira-municao-de-adversarios.shtml",
+    "hat": "durante entrevista",
+    "title": "Bolsonaro diz que 'pintou um clima' com 'menininhas de 14 e 15 anos', e vídeo vira munição de adversários",
+    "summary": "'Mentira da esquerda', diz o senador Flávio Bolsonaro ao defender o pai"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8384.171875,
+      "left": 974.984375,
+      "height": 198.078125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/apos-pedir-investigacao-ministro-de-bolsonaro-usa-pesquisa-do-datafolha-para-defender-governo.shtml",
+    "hat": "pesquisas eleitorais",
+    "title": "Após pedir investigação, ministro usa Datafolha para defender Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8681.453125,
+      "left": 1305,
+      "height": 106.203125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/bolsonaro-prometeu-nao-demarcar-terras-indigenas-e-cumpriu-o-que-aconteceu-na-amazonia-4-anos-depois-ouca-podcast.shtml",
+    "hat": "floresta",
+    "title": "A Amazônia e os indígenas na corrida eleitoral"
+  }
+]

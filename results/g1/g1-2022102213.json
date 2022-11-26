@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5359,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/22/consignado-do-auxilio-brasil-tem-juros-mais-altos-que-media-de-outras-modalidades-de-emprestimo-pessoal.ghtml",
+    "hat": "Seu bolso",
+    "title": "Consignado do Auxílio Brasil tem juros mais altos que média do mercado"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5359,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/22/a-lider-indigena-que-desafiou-cristovao-colombo-e-foi-condenada-a-uma-morte-tragica.ghtml",
+    "hat": "Lenda de 500 anos",
+    "title": "Conheça a líder indígena que desafiou Colombo e foi enforcada"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5022.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/22/desesperada-diz-noiva-do-rio-de-janeiro-que-tem-casamento-marcado-em-fernando-de-noronha-e-teve-voo-da-gol-cancelado.ghtml",
+    "hat": "E agora?",
+    "title": "Noiva com casamento em Noronha tem voo cancelado: 'Desesperada'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4617.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/22/apos-alta-de-dois-digitos-reajuste-da-conta-de-luz-deve-ser-menor-em-2023-veja-os-motivos.ghtml",
+    "hat": "Alívio para o consumidor",
+    "title": "Reajuste da conta de luz deve ser menor em 2023; entenda os motivos",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4339.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/21/salario-minimo-apos-fala-de-guedes-lula-defende-reajustar-pela-alta-do-pib-e-bolsonaro-passa-a-prometer-ganho-real.ghtml",
+    "title": "Salário mínimo vira tema na campanha após Guedes sugerir mudança de regra",
+    "summary": "Lula defendeu corrigir valor considerando alta do PIB, e Bolsonaro passou a prometer ganho acima da inflação.",
+    "category": "Eleições 2022"
+  }
+]

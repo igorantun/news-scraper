@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4607,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/apos-pronunciamento-bolsonaro-vai-ao-stf.ghtml",
+    "hat": "Vitória de Lula",
+    "title": "Bolsonaro disse em reunião no STF que eleição 'acabou', afirma Fachin"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4607,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/01/apos-chegada-de-integrantes-da-gavioes-da-fiel-bolsonaristas-entram-em-carros-e-liberam-trecho-da-marginal-tiete.ghtml",
+    "hat": "Torcida na estrada",
+    "title": "Corintianos liberam trecho da Marginal Tietê; bolsonaristas fogem"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4270.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-da-globo/playlist/jornal-da-globo-ultimos-videos.ghtml#video-11088719-id",
+    "hat": "Brasileirão",
+    "title": "Na briga por vaga na Libertadores, São Paulo e Atlético-MG empatam"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3865.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/bolsonaro-faz-primeiro-discurso-apos-perder-a-eleicao.ghtml",
+    "title": "Bolsonaro diz que vai cumprir Constituição; Ciro Nogueira inicia transição",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3587.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/pronunciamento-de-bolsonaro-comentaristas-do-g1-e-da-globonews-analisam-1a-fala-do-presidente-apos-derrota-para-lula-nas-urnas.ghtml",
+    "title": "CAMAROTTI: Bolsonaro começava a sangrar capital político com silêncio",
+    "category": "Eleições 2022"
+  }
+]

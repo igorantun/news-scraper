@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5505,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/04/com-alckmin-governo-lula-3-troca-superministerio-por-vice-empoderado.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Alckmin deve influenciar escolha de ministros de Lula; veja cotados"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5505,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2022/noticia/2022/11/04/primeiro-cavalheiro-entenda-o-termo-atribuido-ao-namorado-de-eduardo-leite-reeleito-governador-do-rs.ghtml",
+    "hat": "Governador reeleito do RS",
+    "title": "Primeiro-cavalheiro?  Entenda termo atribuído ao namorado de Leite"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5168.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ro/rondonia/noticia/2022/11/04/rasga-mortalha-conheca-a-coruja-que-e-temida-popularmente-por-anunciar-a-morte.ghtml",
+    "hat": "Rasga-mortalha 🦉",
+    "title": "Conheça a coruja que é temida popularmente por anunciar mortes"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4763.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/04/lula-precisara-encarar-contas-publicas-apertadas-para-financiar-promessas-e-politicas-de-auxilio.ghtml",
+    "hat": "Novo governo",
+    "title": "Lula herdará coleção de rombos no Orçamento deixada por Bolsonaro",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4485.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/11/04/ate-centrao-admite-que-nao-tem-como-ficar-contra-auxilio-brasil-de-r-600-em-2023.ghtml",
+    "hat": "Blog do Camarotti",
+    "title": "Centrão sabe que não há como ficar contra auxílio de R$ 600 em 2023",
+    "summary": "Governo Lula negocia gasto fora do teto para garantir manutenção do valor a partir de janeiro.",
+    "category": "Blog do Gerson Camarotti"
+  }
+]

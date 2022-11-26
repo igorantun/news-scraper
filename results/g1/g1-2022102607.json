@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5870,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-nacional/noticia/2022/10/25/desnutricao-provoca-a-maior-hospitalizacao-de-bebes-dos-ultimos-14-anos-no-brasil-diz-fiocruz.ghtml",
+    "hat": "Saúde",
+    "title": "Nº de bebês internados por desnutrição é o maior em 14 anos, diz Fiocruz",
+    "summary": "Em 2021, 8 crianças de até 1 ano foram levadas ao hospital todos os dias por falta de comida."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5870,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/25/susana-naspolini-reporter-da-tv-globo-morre-aos-50-anos.ghtml",
+    "hat": "Luto na TV",
+    "title": "Susana Naspolini morre aos 49 anos após longa batalha contra o câncer"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5533.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/25/veja-momentos-marcantes-em-reportagens-de-susana-naspolini.ghtml",
+    "title": "VÍDEO: Repórter se popularizou por denúncias com leveza e bom humor"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5128.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/26/copom-deve-manter-juro-basico-estavel-em-1375percent-ao-ano-nesta-quarta-preve-mercado-financeiro.ghtml",
+    "hat": "Previsão do mercado",
+    "title": "Copom deve manter hoje juro básico em 13,75% ao ano",
+    "summary": "Taxa Selic deve começar a recuar somente em meados de 2023.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4850.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/26/o-assunto-821-eleicao-a-batalha-do-salario-minimo.ghtml",
+    "hat": "🎧 Podcast",
+    "title": "O ASSUNTO: como o salário mínimo virou batalha na reta final da corrida presidencial; OUÇA",
+    "category": "O Assunto"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5524,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/ministra-do-tse-suspende-direito-de-resposta-que-concedeu-164-insercoes-para-lula-em-programa-de-bolsonaro.ghtml",
+    "hat": "Campanha eleitoral",
+    "title": "Ministra do TSE suspende 164 inserções de direito de resposta de Lula em programa de Bolsonaro",
+    "summary": "Maria Cláudia Bucchianeri voltou atrás na própria decisão e resolveu levar o caso ao plenário."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5524,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-da-globo/playlist/jornal-da-globo-ultimos-videos.ghtml#video-11046589-id",
+    "title": "São Paulo vence Coritiba e cola no G8; ASSISTA aos gols"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5187.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/20/instagram-vai-bloquear-ofensas-que-trocam-letras-por-numeros-veja-como-usar-recurso.ghtml",
+    "hat": "Tecnologia",
+    "title": "Instagram vai bloquear ofensas que trocam letras por números"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4782.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/21/o-assunto-819-o-tse-e-a-avalanche-de-desinformacao.ghtml",
+    "hat": "🎧 Podcast",
+    "title": "O ASSUNTO: como o TSE reage diante de tanta mentira nas eleições; OUÇA",
+    "category": "O Assunto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4504.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/20/guedes-confirma-plano-de-desvincular-salario-minimo-da-inflacao-mas-nega-que-objetivo-seja-reajuste-menor.ghtml",
+    "hat": "Encontro com empresários",
+    "title": "Guedes confirma plano de desvincular salário mínimo da inflação",
+    "summary": "Após repercussão negativa, ministério afirmou que valores 'serão corrigidos, no mínimo, pela inflação'.",
+    "category": "Economia"
+  }
+]

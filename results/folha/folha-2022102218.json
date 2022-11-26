@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8870.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-tem-maioria-para-manter-decisao-que-deu-a-lula-164-direitos-de-resposta-contra-bolsonaro.shtml",
+    "hat": "desinformação",
+    "title": "TSE mantém 116 direitos de resposta a Lula e enfraquece Bolsonaro na TV na reta final",
+    "summary": "Plenário da corte eleitoral julgou o caso em sessão virtual, e decisão foi unânime"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.328125,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/09/documentario-retrata-corrida-presidencial-nas-cidades-de-lula-e-bolsonaro-assista.shtml",
+    "hat": "Eleições 2022",
+    "title": "Amigos de infância, clube de tiro, devoção e fake news: a eleição nas cidades de Lula e Bolsonaro",
+    "summary": "Reportagem especial acompanha a campanha eleitoral em Eldorado (SP) e Garanhuns (PE)"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8237.4375,
+      "left": 974.984375,
+      "height": 267.46875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/redesocial/2022/10/evangelicos-pregam-brasil-governado-por-igreja-com-bolsonaro-reeleito.shtml",
+    "hat": "Eliane Trindade",
+    "title": "Evangélicos pregam Brasil governado por igreja com Bolsonaro",
+    "summary": "Conferência Global 22 reúne bispos e pastores pops em Brasília; leia relato de Eliane Trindade"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7934.984375,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/meninas-venezuelanas-citadas-por-bolsonaro-passaram-a-semana-sem-ir-a-escola.shtml",
+    "hat": "Painel",
+    "title": "Meninas venezuelanas citadas por Bolsonaro passaram a semana sem ir à escola"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7778.046875,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/promessas-de-lula-e-bolsonaro-geram-custo-extra-de-ao-menos-r-84-bi-em-2023.shtml",
+    "hat": "economia",
+    "title": "Promessas de Lula e Bolsonaro geram custo extra de ao menos R$ 84 bi em 2023"
+  }
+]

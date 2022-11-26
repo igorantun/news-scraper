@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9872.203125,
+      "left": 315,
+      "height": 284.28125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/10/ao-centro-lula.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Lula precisa mostrar disposição de rumar para o centro",
+    "summary": "Alternância de poder atesta solidez da democracia; país precisa buscar o desenvolvimento"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -549.65625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9825.21875,
+      "left": 1305,
+      "height": 144.265625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/podcast-a-vitoria-de-lula-o-futuro-de-bolsonaro-e-a-transicao-de-poder.shtml",
+    "hat": "eleições",
+    "title": "A vitória de Lula, o futuro de Bolsonaro e a transição",
+    "summary": "Petista conquista inédito 3º mandato em eleição mais apertada da redemocratização"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9552.9375,
+      "left": 975,
+      "height": 273.625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/caminhoneiros-bolsonaristas-bloqueiam-estradas-em-ao-menos-11-estados.shtml",
+    "hat": "manifestações",
+    "title": "Caminhoneiros bolsonaristas bloqueiam estradas em ao menos 11 estados e no DF"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9244.328125,
+      "left": 975,
+      "height": 149.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/nao-e-hora-de-parar-o-brasil-diz-um-dos-lideres-de-greve-dos-caminhoneiros-de-2018-veja-video.shtml",
+    "hat": "+protestos",
+    "title": "'Não é hora de parar o Brasil', diz um dos líderes de greve dos caminhoneiros de 2018"
+  }
+]

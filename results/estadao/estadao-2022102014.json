@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9223.734375,
+      "left": 329,
+      "height": 689.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/internacional/liz-truss-renuncia-ao-cargo-de-primeira-ministra-do-reino-unido/",
+    "hat": "EUROPA",
+    "title": "Liz Truss renuncia ao cargo de premiê do Reino Unido após 44 dias",
+    "summary": "Líder conservadora substituiu Boris Johnson, mas viu sua popularidade despencar após fiasco de plano econômico que desencadeou uma crise social e política"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9223.734375,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/privatizacao-da-sabesp-opoe-tarcisio-e-haddad-na-reta-final-do-segundo-turno-em-sp/",
+    "hat": "Governo de SP",
+    "title": "Privatização da Sabesp opõe Tarcísio e Haddad na reta final do segundo turno em SP",
+    "summary": "Ex-ministro afirma estudar vender a participação do Estado; petista defende o controle acionário da empresa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8741.625,
+      "left": 1190.328125,
+      "height": 214,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-peso-das-memorias/",
+    "hat": "William Waack",
+    "title": "Nenhuma das duas campanhas conseguiu escapar da frase 'teu passado te condena'",
+    "summary": "'Não funcionou a tática dos presidenciáveis de apelar ao esquecimento do eleitor'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8465.625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/emais/gente/coldplay-comeca-a-venda-de-ingresso-extra-para-shows-no-brasil-veja-precos-e-saiba-como-comprar/",
+    "hat": "música",
+    "title": "Coldplay vende novo lote de ingressos para shows no Brasil; saiba preços e como comprar",
+    "summary": "Banda irá se apresentar na capital paulista do dia 10 ao dia 18 de março de 2023, no Estádio do Morumbi"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8465.625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/delcir-sonda-neymar/",
+    "hat": "MAGNATA BRASILEIRO",
+    "title": "Delcir Sonda, o homem que apostou em Neymar quer seu dinheiro e uma explicação",
+    "summary": "Acreditando que foi enganado, Sonda vai à justiça pelo dia de pagamento que nunca chegou"
+  }
+]

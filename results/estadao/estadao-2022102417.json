@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8841.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/prisao-de-roberto-jefferson-teve-erros-na-gestao-da-crise-e-expos-decepcao-na-pf-com-bolsonaro/",
+    "hat": "Violência",
+    "title": "Análise: 'Prisão de Roberto Jefferson teve erros na gestão da crise e expôs decepção na PF com Bolsonaro'",
+    "summary": "'Envolvimento de ministro Anderson Torres na negociação da rendição foi criticado por policiais, que apontaram ainda erros na falta de isolamento do perímetro da casa do ex-deputado', escreve Marcelo Godoy"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8841.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-prisao-roberto-jefferson-bolsonaro-acuado-pf-carmen-lucia-campanha-pt/",
+    "hat": "candidato petista",
+    "title": "Campanha de Lula vê Bolsonaro acuado com prisão de Roberto Jefferson na reta final"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8331.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/rishi-sunak-sera-o-novo-premie-do-reino-unido-apos-escolha-do-partido-conservador/",
+    "hat": "Londres",
+    "title": "Rishi Sunak será o novo premiê do Reino Unido após escolha do Partido Conservador"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8331.203125,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/herdeiros-brigas-justica/",
+    "hat": "negócios",
+    "title": "Herdeiros recorrem a fundos para receber 'bolada' e evitar briga na Justiça com a família; entenda o negócio",
+    "summary": "Gestoras correm risco de perder ação, mas  podem ficar com todo dinheiro caso seus advogados ganhem a causa"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8331.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://opiniao.estadao.com.br/noticias/espaco-aberto,credenciais-democraticas,70004155179",
+    "hat": "ESPAÇO ABERTO",
+    "title": "'Lula e Bolsonaro defendem democracia só como modo de conquistar poder'; leia artigo"
+  }
+]

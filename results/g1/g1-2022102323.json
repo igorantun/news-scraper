@@ -1,0 +1,66 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4994,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/roberto-jefferson-se-entrega.ghtml",
+    "title": "Jefferson se entrega após atacar policiais com fuzil e granadas e passar 8 horas desrespeitando ordens do STF"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3974.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/em-decisao-moraes-diz-que-roberto-jefferson-cometeu-repetidas-violacoes.ghtml",
+    "title": "Jefferson não podia usar redes sociais; veja por que a prisão domiciliar foi revogada",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3696.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/reporter-cinematografico-da-intertv-afiliada-da-tv-globo-e-agredido-por-apoiadores-de-roberto-jefferson-e-jair-bolsonaro.ghtml",
+    "title": "VÍDEO: bolsonaristas agridem cinegrafista na frente da casa de Jefferson",
+    "category": "Sul do Rio e Costa Verde"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3418.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/bolsonaro-diz-que-repudia-acao-armada-de-jefferson-contra-agentes-da-policia-federal.ghtml",
+    "title": "Bolsonaro chama aliado de bandido e diz repudiar 'ação armada' de Jefferson",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -2638.140625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/23/maquina-de-destruicao-de-valores-democraticos-diz-lula-sobre-ataques-de-roberto-jefferson-a-policiais-federais.ghtml",
+    "title": "Lula diz que Bolsonaro criou 'parcela da sociedade raivosa' no país",
+    "category": "Eleições 2022"
+  }
+]

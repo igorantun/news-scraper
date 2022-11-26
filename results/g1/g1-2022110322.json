@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5585,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/03/petrobras-decide-antecipar-r-437-bilhoes-em-dividendos-a-acionistas-futuro-governo-lula-critica.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Petrobras antecipa R$ 43,7 bi em dividendos e desagrada à equipe de Lula",
+    "summary": "Alguns membros do conselho da empresa foram contra e veem manobra do governo Bolsonaro para cobrir alta de gastos no período eleitoral."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5585,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/ginastica-artistica/noticia/2022/11/03/rebeca-andrade-e-ouro-no-individual-geral-no-mundial-de-ginastica.ghtml",
+    "hat": "Ginástica artística",
+    "title": "Com 'Baile de Favela', Rebeca Andrade é campeã mundial"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5248.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/03/anatel-aprova-uso-do-codigo-0304-para-identificacao-de-chamadas-de-empresas-de-cobranca.ghtml",
+    "hat": "Proteção ao consumidor",
+    "title": "Chamadas de cobrança serão identificadas com o código 0304"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4843.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/alckmin-chega-ao-planalto-para-primeira-reuniao-sobre-transicao-com-ministro-de-bolsonaro.ghtml",
+    "hat": "Passagem de bastão",
+    "title": "Alckmin se reúne com Ciro Nogueira no Planalto e inicia transição",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4565.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/03/transicao-para-governo-lula-conheca-local-onde-equipe-do-presidente-eleito-vai-trabalhar-em-brasilia.ghtml",
+    "title": "Gabinete de transição é preparado em Brasília; conheça local",
+    "summary": "Lei prevê nomeação de 50 pessoas para trabalhar em conjunto com o atual governo.",
+    "category": "Distrito Federal"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12401.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-quer-rever-norma-de-bolsonaro-e-limitar-tempo-de-militar-em-cargo-politico.shtml",
+    "title": "Lula quer rever norma atual e limitar tempo de militar em cargo político",
+    "summary": "Ex-presidente decidiu, se eleito, nomear civil para comandar Ministério da Defesa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12152.640625,
+      "left": 365,
+      "height": 389.046875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-terao-primeiro-embate-na-tv-sem-coadjuvantes.shtml",
+    "title": "Lula e Bolsonaro fazem hoje 1º debate na TV sem coadjuvantes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11739.59375,
+      "left": 365,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/mudanca-na-camara-reconfigura-centrao-e-pp-de-lira-age-para-manter-poder.shtml",
+    "title": "Mudança na Câmara reconfigura centrão, e PP de Lira age para manter poder"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12152.640625,
+      "left": 619.15625,
+      "height": 413.046875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-diz-que-pt-ultrapassou-todos-os-limites-ao-mencionar-video-sobre-venezuelanas-em-que-fala-pintou-um-clima.shtml",
+    "title": "Bolsonaro diz que 'PT ultrapassou limites' ao mencionar vídeo em que sexualiza adolescentes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11715.59375,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/16/video-reuniao-e-ameaca-bolsonarismo-ataca-indigenas-por-votos-na-amazonia.htm",
+    "title": "Vídeo, reunião e ameaça: bolsonarismo ataca indígenas por votos na Amazônia"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5973,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/24/bastidores-investigadores-da-pf-temem-contaminacao-de-provas-e-veem-circo-de-bolsonaro-apenas-para-conter-danos-eleitorais.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Prisão de Jefferson: para PF, interferência de Bolsonaro prejudica a investigação",
+    "summary": "Presidente enviou ministro da Justiça para acompanhar caso, e parte dos objetos que estavam na casa foi manuseada por seu aliado Padre Kelmon."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5973,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-descumpre-decisao-da-justica-e-atira-contra-pf-leia-perguntas-e-respostas.ghtml",
+    "title": "Entenda quais medidas Jefferson descumpriu na prisão domiciliar"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5636.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2022/10/24/homem-que-agrediu-jornalista-que-cobria-prisao-de-roberto-jefferson-vai-responder-por-lesao-corporal.ghtml",
+    "title": "Bolsonarista que agrediu jornalista é assessor de vereador"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5231.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/24/veja-fotos-da-viatura-da-policia-federal-apos-ataque-de-roberto-jefferson-com-fuzil-e-granadas.ghtml",
+    "title": "Ataque com fuzil e granadas: FOTOS mostram como ficou a viatura da PF",
+    "category": "Sul do Rio e Costa Verde"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4953.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/24/rishi-sunak-o-novo-primeiro-ministro-do-reino-unido.ghtml",
+    "hat": "Sucessor de Liz Truss",
+    "title": "Rishi Sunak é o novo primeiro-ministro do Reino Unido",
+    "category": "Mundo"
+  }
+]

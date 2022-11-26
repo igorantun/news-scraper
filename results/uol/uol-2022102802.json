@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12562.609375,
+      "left": 365,
+      "height": 359.9375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/debate-governo-de-sao-paulo.htm",
+    "title": "Tarcísio sai em defesa de Bolsonaro e nacionaliza debate com Haddad na Globo",
+    "summary": "Candidatos ao governo de São Paulo se enfrentam pela última vez antes do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12153.671875,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/eleicoes-2022-debate-rio-grande-do-sul-segundo-turno.htm",
+    "title": "Em debate no RS, Onyx dá as costas para adversário; Leite aposta em propostas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11832.5625,
+      "left": 365,
+      "height": 453.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/27/qg-de-bolsonaro-chega-a-reta-final-rachado-e-bolsonaro-estuda-saida-aecio.htm",
+    "title": "QG de Bolsonaro chega à reta final rachado; presidente estuda 'saída Aécio'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12153.671875,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/27/pf-suspeita-roberto-jefferson-granadas-fuzis-pregos-tentativa-homicidio.htm",
+    "title": "Polícia suspeita que Jefferson prendeu prego em granadas atiradas contra agentes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11697.4375,
+      "left": 619.15625,
+      "height": 298.484375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/a-3-dias-da-eleicao-lula-lanca-carta-prometendo-politica-fiscal-responsavel.shtml",
+    "title": "Lula lança carta prometendo 'política fiscal responsável'"
+  }
+]

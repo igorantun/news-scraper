@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9711.109375,
+      "left": 315,
+      "height": 196.828125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lira-aprova-urgencia-de-projeto-que-criminaliza-institutos-de-pesquisas-mas-base-diverge.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lira aprova urgência de projeto que criminaliza institutos de pesquisas, mas base diverge",
+    "summary": "Votação é forma de o presidente da Câmara aumentar pressão sobre empresas, em linha com a ofensiva de Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.25,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9664.125,
+      "left": 1305,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/acompanhou-o-noticiario-juridico-da-ultima-semana-responda-quiz.shtml",
+    "hat": "Folhajus+",
+    "title": "Por que Moraes barrou inquérito sobre institutos de pesquisa? Responda a quiz",
+    "summary": "Confira a edição desta semana da newsletter"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9467.25,
+      "left": 974.984375,
+      "height": 261.796875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-se-comporta-como-se-fosse-pedofilo-diz-lula-ao-podcast-flow.shtml",
+    "hat": "Corrida presidencial",
+    "title": "Bolsonaro se comporta como se fosse pedófilo, diz Lula no podcast Flow"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9170.46875,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-censura-filme-sobre-facada-pune-canais-bolsonaristas-e-intima-carlos-em-acao-contra-fake-news.shtml",
+    "hat": "Justiça Eleitoral",
+    "title": "TSE censura filme sobre facada, pune canais bolsonaristas e intima Carlos Bolsonaro"
+  }
+]

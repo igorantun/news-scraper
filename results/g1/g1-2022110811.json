@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5674,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/08/eua-vao-as-urnas-para-definir-composicao-do-congresso-e-avaliar-desempenho-de-biden.ghtml",
+    "hat": "Democratas x Republicanos",
+    "title": "EUA vão às urnas hoje para definir Congresso e 'avaliar' governo Biden"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5674,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/08/horario-de-verao-volta-a-ser-discutido-nas-redes-sociais-apos-eleicao-de-lula-entenda-pros-e-contras-da-medida-que-caiu-em-2019.ghtml",
+    "hat": "🕗☀️",
+    "title": "Horário de verão é debatido nas redes; veja prós e contras"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5337.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/08/concurso-miss-plus-size-nacional-tem-de-musa-de-futebol-e-neta-de-miss-entre-as-concorrentes.ghtml",
+    "hat": "Na passarela 👩🏻👩🏾👱🏽‍♀️👑",
+    "title": "Miss Plus Size Nacional tem musa de futebol e neta de miss"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4932.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/presidente-eleito-lula-chega-a-brasilia-nesta-terca-para-iniciar-transicao-de-governo-e-se-reunir-com-autoridades.ghtml",
+    "hat": "Presidente eleito",
+    "title": "Lula chega a Brasília hoje para iniciar transição e se reunir com autoridades",
+    "summary": "Petista deve ter encontros com Pacheco, Lira e Rosa Weber.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4654.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/post/2022/11/08/lula-manda-adiar-pec-da-transicao-para-alckmin-dialogar-antes-com-congresso.ghtml",
+    "hat": "Blog da Julia Duailibi",
+    "title": "Lula manda adiar PEC da Transição para Alckmin dialogar antes com Congresso",
+    "category": "Blog da Julia Duailibi"
+  }
+]

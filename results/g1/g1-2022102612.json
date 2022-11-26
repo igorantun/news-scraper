@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5890,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/10/26/papa-francisco-peco-a-nossa-senhora-aparecida-que-proteja-e-cuide-do-povo-brasileiro-que-o-livre-do-odio.ghtml",
+    "hat": "Blog do Camarotti",
+    "title": "Papa Francisco pede que Nossa Senhora livre o Brasil do ódio e da intolerância",
+    "summary": "Pontífice enviou mensagem ao Brasil ao recordar beatificação de menina do Ceará."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5890,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2022/10/26/milton-nascimento-chega-aos-80-anos-com-aura-sagrada-pelo-canto-e-pela-obra-construida-com-fe-no-povo-da-raca-brasil.ghtml",
+    "hat": "Lenda da música brasileira",
+    "title": "Milton Nascimento chega aos 80 anos com aura sagrada pelo canto"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5148.828125,
+      "left": 348.65625,
+      "height": 251.640625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/26/o-cenario-e-os-desafios-na-economia-para-o-presidente-a-partir-de-2023.ghtml",
+    "hat": "Cenário econômico",
+    "title": "Rombo nas contas e 'freio' no crescimento são desafios para 2023, dizem economistas",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4865.1875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/26/salario-minimo-vai-perder-valor-entenda-por-que-reajuste-virou-batalha-na-reta-final-da-campanha-entre-lula-e-bolsonaro.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Valor menor? Como o salário mínimo virou guerra na reta final da campanha",
+    "category": "O Assunto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4587.015625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/10/26/como-discutir-politica-no-trabalho-sem-se-queimar-profissionalmente-veja-dicas.ghtml",
+    "hat": "Disputa polarizada",
+    "title": "Como discutir política no trabalho sem se 'queimar'? Veja dicas",
+    "summary": "Transformar ambiente de trabalho em um verdadeiro ringue pode levar à demissão.",
+    "category": "Trabalho e Carreira"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9335.203125,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aliados-sugerem-a-bolsonaro-discurso-em-que-reconheca-derrota-e-aponte-injusticas.shtml",
+    "hat": "eleições 2022",
+    "title": "Aliados sugerem a Bolsonaro discurso em que reconheça derrota e aponte 'injustiças'",
+    "summary": "Integrantes do entorno do chefe do Executivo esperam que ele fale ainda hoje; mandatário segue em silêncio desde o resultado"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -550.40625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9017.53125,
+      "left": 315,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/caminhoneiros-bolsonaristas-bloqueiam-estradas-em-ao-menos-11-estados.shtml",
+    "hat": "em 18 estados",
+    "title": "Caminhoneiros bolsonaristas bloqueiam ao menos 140 estradas; PRF não intervém"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9017.53125,
+      "left": 644.984375,
+      "height": 194.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/agente-da-prf-diz-a-caminhoneiros-que-unica-ordem-e-estar-aqui-com-voces-veja-video.shtml",
+    "hat": "rodovias interditadas",
+    "title": "Agente da PRF afirma a caminhoneiros que única ordem é 'estar aqui com vocês'; veja"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9017.53125,
+      "left": 974.96875,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/bloqueios-nas-estradas-travam-entregas-e-atrasam-producao-de-carros-e-laticinios.shtml",
+    "hat": "prejuízos",
+    "title": "Bloqueios nas estradas travam entregas e atrasam produção de carros e laticínios"
+  }
+]

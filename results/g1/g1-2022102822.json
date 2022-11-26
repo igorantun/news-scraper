@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4471,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/10/28/justica-determina-que-governo-de-minas-ofereca-transporte-gratuito-na-regiao-metropolitana-de-bh-no-2o-turno-das-eleicoes.ghtml",
+    "hat": "Votação no domingo",
+    "title": "Justiça manda governo de MG liberar ônibus de graça na região de BH no 2º turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4471,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/10/28/nemtodoheroiusacapa-atores-de-vingadores-pedem-que-fas-votem-no-2o-turno-das-eleicoes-no-brasil.ghtml",
+    "hat": "#NemTodoHeróiUsaCapa",
+    "title": "Atores de 'Vingadores' pedem que fãs votem no 2º turno no Brasil"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4134.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2022/10/28/pensei-que-era-halloween-diz-taxista-que-tirou-da-rua-caixao-com-corpo-que-caiu-de-carro-em-ribeirao-preto.ghtml",
+    "hat": "Ribeirão Preto",
+    "title": "Achei que era Halloween, diz taxista que tirou caixão com corpo da rua"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3451.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/central-das-eleicoes/noticia/2022/10/28/debate-na-globo-veja-fotos-e-videos-dos-bastidores-com-os-comentaristas-da-globonews.ghtml",
+    "title": "Último embate: veja bastidores do debate de logo mais",
+    "category": "Central das Eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3173.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/28/datafolha-24percent-dos-brasileiros-dizem-nao-ter-comida-suficiente-em-casa.ghtml",
+    "hat": "Economia",
+    "title": "Datafolha: 24% dos brasileiros dizem não ter comida suficiente em casa",
+    "category": "Economia"
+  }
+]

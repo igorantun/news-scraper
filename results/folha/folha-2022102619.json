@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10217.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/gabinete-de-moraes-no-tse-ve-atuacao-politica-e-exonera-assessor-que-vai-a-pf-e-faz-denuncia.shtml",
+    "hat": "Eleições 2022",
+    "title": "Gabinete de Moraes no TSE vê atuação política e exonera assessor, que vai à PF",
+    "summary": "Servidor teria dificultado análise de alegações de Bolsonaro sobre boicote de rádios às inserções no horário eleitoral"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -560.78125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10216.109375,
+      "left": 1305,
+      "height": 250.90625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/simule-a-eleicao-nos-estados-e-veja-quem-seria-o-presidente-eleito.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simule o pleito nos estados e veja quem poderia ser o presidente eleito"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9930.21875,
+      "left": 974.984375,
+      "height": 409.5,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/gilmar-defende-carmen-aponta-omissao-de-autoridades-e-fala-em-rapinagem-institucional.shtml",
+    "hat": "Caso Jefferson",
+    "title": "Gilmar defende Cármen, aponta omissão de autoridades e fala em rapinagem institucional",
+    "summary": "Ministro rebate falas de Jefferson e diz que agentes públicos cobiçam 'papéis que não lhes foram dados'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9485.734375,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/haddad-enaltece-sua-alianca-e-ve-tarcisio-nas-garras-do-centrao-e-no-vacuo-do-bolsonarismo.shtml",
+    "hat": "Sabatina Folha/UOL",
+    "title": "Haddad enaltece alianças e vê Tarcísio nas garras do centrão e no vácuo do bolsonarismo"
+  }
+]

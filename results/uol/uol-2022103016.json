@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12685.609375,
+      "left": 365,
+      "height": 332.75,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/30/lula-vence-na-australia-coreia-e-nova-zelandia-bolsonaro-vence-no-japao.htm",
+    "title": "Lula vence na Austrália, Coreia e Nova Zelândia; Bolsonaro, no Japão",
+    "summary": "Consulados do Brasil no exterior têm longas filas para votação no segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12239.46875,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/lula-vota-em-sao-bernardo-pela-manha.htm",
+    "title": "Lula vota em São Bernardo (SP) e diz que ação de Zambelli foi 'cena grotesca'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11783.234375,
+      "left": 365,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/bolsonaro-vota-as-8h-no-rio-assim-que-escola-abriu-para-as-portas.htm",
+    "title": "Bolsonaro chega a seção antes das 8h, fala em vitória e não comenta sobre Zambelli"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12239.46875,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/tse-explicacoes-prf.htm",
+    "title": "TSE cobra explicações da PRF sobre operações durante eleições após veto de Moraes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11783.234375,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/gilmar-mendes-segundo-turno.htm",
+    "title": "'Algum estresse, mas dentro da normalidade', diz Gilmar sobre 2º turno"
+  }
+]

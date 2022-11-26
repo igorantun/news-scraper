@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6236,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/lula-primeira-agenda-presidente-eleito-brasilia.ghtml",
+    "hat": "Maratona de encontros",
+    "title": "Lula se reúne com Arthur Lira na residência da Câmara",
+    "summary": "Presidente eleito articula como manter auxílio de R$ 600. Petista também se encontra hoje com Pacheco, Moraes e Rosa Weber."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6236,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2022/11/09/ator-joao-guilherme-e-criticado-por-moradores-apos-comentarios-sobre-bananal-durante-gravacao-de-serie-da-netflix-na-cidade.ghtml",
+    "hat": "'Essa b... desse Bananal'",
+    "title": "VÍDEO: João Guilherme ofende cidade paulista onde gravava série"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5899.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/09/jessica-paes-de-mg-vence-o-concurso-miss-plus-size-nacional-2022.ghtml",
+    "hat": "👸🏻👑",
+    "title": "'Você é maior do que o nº do jeans', diz vencedora do Miss Plus Size"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5494.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/11/09/mark-zuckerberg-anuncia-demissoes-na-meta-dona-do-facebook.ghtml",
+    "hat": "Gigante da tecnologia",
+    "title": "Zuckerberg anuncia 11 mil demissões no Facebook, WhatsApp e Instagram",
+    "summary": "'Eu errei e assumo a responsabilidade', disse o executivo ao comentar as previsões de receita frustradas da Meta.",
+    "category": "Tecnologia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4938.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/blog/sandra-cohen/post/2022/11/09/massacre-republicano-sobre-os-democratas-nao-se-concretizou.ghtml",
+    "hat": "Análise: Sandra Cohen",
+    "title": "Massacre republicano sobre os democratas não se concretizou",
+    "summary": "Resultado ainda preliminar reflete alívio para Biden, derrota para Trump e eleitorado extremamente dividido"
+  }
+]

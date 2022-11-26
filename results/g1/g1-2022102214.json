@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5507,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/22/ipec-corrida-presidencial-no-2o-turno-lula-e-bolsonaro-lideram-em-5-estados-cada-um.ghtml",
+    "hat": "Pesquisa Ipec",
+    "title": "Lula e Bolsonaro lideram em 5 estados cada onde haverá 2º turno para governador",
+    "summary": "Segundo levantamento do g1, petista e atual presidente também estão tecnicamente empatados em São Paulo e no Amazonas."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5507,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/22/pequeno-aviao-cai-em-predio-de-new-hampshire-todos-a-bordo-morrem.ghtml",
+    "hat": "Estados Unidos",
+    "title": "Avião cai em prédio perto de Boston; todos a bordo morrem"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5170.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/22/desesperada-diz-noiva-do-rio-de-janeiro-que-tem-casamento-marcado-em-fernando-de-noronha-e-teve-voo-da-gol-cancelado.ghtml",
+    "hat": "E agora?",
+    "title": "Noiva com casamento em Noronha tem voo cancelado: 'Desesperada'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4765.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/22/entenda-a-taxacao-de-lucros-e-dividendos-proposta-ja-defendida-por-lula-e-bolsonaro-na-campanha.ghtml",
+    "title": "Entenda a taxação de lucros já defendida por Lula e Bolsonaro",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4487.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/22/apagao-na-25-de-marco-furto-de-cabos-e-fios-deixa-200-lojas-sem-luz-por-dois-dias-dizem-comerciantes.ghtml",
+    "hat": "Apagão em SP",
+    "title": "Furto de fios deixa 200 lojas da região da 25 de Março sem luz por 2 dias",
+    "category": "São Paulo"
+  }
+]

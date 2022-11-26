@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5380,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/moraes-manda-ministerio-da-defesa-entregar-documentos-de-eventual-auditoria-nas-urnas.ghtml",
+    "hat": "Eleições",
+    "title": "Moraes manda Defesa apresentar eventual auditoria nas urnas",
+    "summary": "Presidente do TSE deu prazo de 48 horas e pediu que ministério informe também como pagou a vistoria."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5380,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/18/audio-da-cabine-emociona-no-julgamento-do-voo-rio-paris-nos-ouvimos-as-vozes-do-alem-tumulo.ghtml",
+    "hat": "Queda de avião",
+    "title": "Áudio de pilotos choca tribunal do voo Rio-Paris: 'Apavorante'"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5043.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/go/goias/noticia/2022/10/18/loja-faz-sucesso-apos-mulher-viralizar-ao-contar-que-marido-achou-que-o-cartao-de-credito-havia-sido-clonado-apos-ela-usa-lo.ghtml",
+    "hat": "Goiás",
+    "title": "Esposa compra biquíni, e marido acha que teve o cartão clonado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4638.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/noticia/2022/10/18/video-mostra-momento-em-que-seu-jorge-sofre-ataques-racistas-durante-show-em-porto-alegre-diz-policia.ghtml",
+    "hat": "Show em Porto Alegre",
+    "title": "Vídeo mostra momento em que Seu Jorge sofre ataques racistas",
+    "summary": "Polícia diz que vai intimar dirigente do clube Grêmio Náutico União e organizadores.",
+    "category": "Rio Grande do Sul"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4022.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/equipes-de-lula-e-bolsonaro-estao-preocupadas-com-nivel-de-abstencao.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "Equipes de Lula e Bolsonaro estão em alerta com nível de abstenção",
+    "category": "Eleições 2022"
+  }
+]

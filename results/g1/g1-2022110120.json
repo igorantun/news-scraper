@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5656,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/bolsonaro-faz-primeiro-discurso-apos-perder-a-eleicao.ghtml",
+    "title": "Bolsonaro diz que vai cumprir Constituição; Ciro Nogueira inicia transição",
+    "summary": "Presidente falou pela 1ª vez dois dias após perder eleição e criticou atos ilegais de seus apoiadores que prejudicam população e impedem direito de ir e vir."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4914.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/video/bolsonaro-quebra-silencio-e-diz-que-continuara-cumprindo-a-constituicao-11087440.ghtml",
+    "title": "VÍDEO: veja declaração de Bolsonaro",
+    "category": "G1 Eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4636.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/01/lula-escolhe-geraldo-alckmin-para-coordenar-a-equipe-de-transicao.ghtml",
+    "hat": "Blog da Julia Duailibi",
+    "title": "Lula escolhe Alckmin para coordenar a equipe de transição",
+    "category": "Blog da Julia Duailibi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4358.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/noticia/2022/11/01/presidente-do-egito-convida-lula-para-a-cop27.ghtml",
+    "hat": "Meio ambiente",
+    "title": "Presidente do Egito convida Lula para conferência do clima da ONU",
+    "summary": "Evento na semana que vem reunirá mais de 90 chefes de Estado.",
+    "category": "Meio Ambiente"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -4080.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/urna-eletronica-comprovou-eficacia-mais-uma-vez-diz-relatorio-da-oea-sobre-2o-turno-das-eleicoes.ghtml",
+    "hat": "Observadores internacionais",
+    "title": "Urna eletrônica comprovou eficácia mais uma vez, diz relatório da OEA",
+    "summary": "Missão internacional elogiou trabalho do TSE.",
+    "category": "Eleições 2022"
+  }
+]

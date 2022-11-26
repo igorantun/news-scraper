@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9714.3125,
+      "left": 329,
+      "height": 218,
+      "width": 1262
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/ex-tesoureiro-do-pt-prepara-dossie-para-bombardear-moro-e-dallagnol-no-congresso/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Ex-tesoureiro do PT prepara dossiê para bombardear Moro e Dallagnol no Congresso",
+    "summary": "João Vaccari, condenado e preso na Lava Jato, mostrou versão de arquivo, produzido desde novembro de 2021, a Rui Falcão, coordenador da comunicação da campanha de Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9418.3125,
+      "left": 329,
+      "height": 743.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/fernando-haddad-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "Disputa eleitoral em SP",
+    "title": "Ao vivo: Haddad é entrevistado por Rádio Eldorado e Estadão",
+    "summary": "No 1º turno, candidato do PT recebeu 8,3 milhões de votos, 35,7% do total contabilizado pela Justiça Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9418.3125,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/eleitor-vai-definir-no-domingo-qual-sentimento-e-maior-o-antipetismo-ou-o-antibolsonarismo/",
+    "hat": "marcelo godoy",
+    "title": "Eleitor vai definir qual sentimento é maior: o antipetismo ou o antibolsonarismo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9002.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/se-tirar-o-nosso-a-gente-tira-o-deles-diz-lider-do-uniao-sobre-stf-derrubar-orcamento-secreto/",
+    "hat": "política",
+    "title": "'Se tirar, a gente tira o deles', diz líder do União sobre STF derrubar orçamento secreto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8552.09375,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/ciencia/por-que-misterios-envolvem-aquela-que-talvez-seja-a-arvore-mais-antiga-da-terra/",
+    "hat": "CIÊNCIA",
+    "title": "Por que a árvore, que talvez seja a mais antiga da Terra, é rodeada por mistérios?",
+    "summary": "Manter o máximo de mistério possível se tornou essencial para afastar turistas excessivamente entusiasmados"
+  }
+]

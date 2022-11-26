@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9426.109375,
+      "left": 315,
+      "height": 292.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-49-e-bolsonaro-44-brancos-e-nulos-sao-5-e-indecisos-2.shtml",
+    "hat": "Eleições 2022",
+    "title": "Datafolha: Lula tem 49%, e Bolsonaro, 44%; brancos e nulos são 5%, e indecisos, 2%",
+    "summary": "Nos votos válidos, petista aumenta diferença sobre o presidente, indo de 52% a 48% para 53% a 47%"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9098.4375,
+      "left": 315,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-amplia-vantagem-entre-os-pobres-apos-derrapada-de-bolsonaro-sobre-salario-minimo.shtml",
+    "hat": "correção do salário",
+    "title": "Lula amplia vantagem entre os pobres após derrapada de Bolsonaro sobre mínimo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9098.4375,
+      "left": 644.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-cai-vantagem-de-bolsonaro-entre-evangelicos-lula-perde-folego-entre-os-de-maior-renda.shtml",
+    "hat": "religião e renda",
+    "title": "Cai vantagem de Bolsonaro entre evangélicos; Lula perde fôlego entre os de maior renda"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9098.4375,
+      "left": 974.96875,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-50-dizem-nao-votar-em-bolsonaro-de-jeito-nenhum-ante-45-em-lula.shtml",
+    "hat": "rejeição",
+    "title": "50% dizem não votar em Bolsonaro de jeito nenhum, ante 45% em Lula"
+  }
+]

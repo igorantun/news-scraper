@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5626,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/saiba-quem-sao-os-cotados-para-a-equipe-de-transicao-de-governo.ghtml",
+    "hat": "Articulações políticas",
+    "title": "Governo Lula: veja quem já foi confirmado e os cotados para equipe de transição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5626,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/santos-regiao/noticia/2022/11/08/destaque-do-carnaval-paulista-e-musa-do-caldeirao-e-achada-morta-em-casa-marido-bombeiro-tentou-salva-la.ghtml",
+    "hat": "Litoral de SP",
+    "title": "Destaque do carnaval e musa do 'Caldeirão' é achada morta em casa"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5289.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/11/08/influenciador-digital-arnon-do-grau-e-suspeito-de-integrar-faccoes-criminosas-em-bh-diz-policia.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Influencer Arnon do Grau é preso suspeito de participar de homicídio"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4884.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/alckmin-anuncia-que-simone-tebet-colaborara-na-transicao-com-area-de-desenvolvimento-social.ghtml",
+    "title": "Tebet atuará na área de políticas sociais na transição",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4606.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/08/apos-vitoria-pt-prioriza-acao-no-tse-para-afastar-bolsonaro-e-sombra-de-trump-em-2026.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "A estratégia do PT contra Bolsonaro e 'sombra de Trump'",
+    "category": "Blog da Andréia Sadi"
+  }
+]

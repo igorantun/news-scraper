@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5845.890625,
+      "left": 324,
+      "height": 276,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/coluna/clarissa-oliveira/lula-confirma-destino-que-seus-aliados-ja-projetavam-para-alckmin/",
+    "hat": "Política",
+    "title": "Lula diz que Alckmin não é 'candidato a ministro' e acena a partidos derrotados",
+    "summary": "Em discurso, presidente eleito indicou que seu vice não vai assumir uma pasta no governo e declarou que legendas que estavam do lado que perdeu na eleição 'vão ter o direito de participar'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1194.140625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -679.140625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5545.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/economia/inflacao-volta-a-subir-depois-de-3-meses-e-fica-em-05-em-outubro/",
+    "hat": "Economia",
+    "title": "Inflação volta a subir depois de três meses e fica em 0,59% em outubro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5545.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/os-motivos-para-lula-postergar-o-anuncio-de-ministros-do-futuro-governo/",
+    "hat": "Radar",
+    "title": "Os motivos para Lula postergar o anúncio de ministros do governo"
+  }
+]

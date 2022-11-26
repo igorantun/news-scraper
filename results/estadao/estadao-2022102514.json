@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9496.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/economia/ministerio-da-economia-paulo-guedes-retirar-isencao-imposto-de-renda-saude-educacao/",
+    "hat": "IMPOSTO DE RENDA",
+    "title": "Equipe do Ministério da Economia estuda retirar do IR dedução de gasto com saúde e educação",
+    "summary": "Medida compensaria, em parte, gastos extras com promessas eleitorais de Bolsonaro; Guedes, porém, disse em nota ao Estadão ser contra a ideia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9228.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-de-freitas-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "eleições em SÃO PAULO",
+    "title": "Tarcísio de Freitas defende 'liberdade' para obter posse e porte de armas em São Paulo",
+    "summary": "Candidato ao governo participou de sabatina no Jornal Eldorado e considerou lamentável o ataque a tiros de Roberto Jefferson contra policiais federais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9228.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/jefferson-tinha-apoiadores-que-poderiam-estar-armados-e-acao-foi-correta-diz-instrutor-da-pf/",
+    "hat": "VIOLÊNCIA",
+    "title": "Ação de agente que negociou rendição de Jefferson foi correta, diz instrutor da PF"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8810.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/rishi-sunak-vive-numa-bolha-e-nao-vai-salvar-o-reino-unido-leia-a-analise/",
+    "hat": "Londres",
+    "title": "Rishi Sunak vive numa bolha, e não vai salvar o Reino Unido; leia a análise"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8320.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/estou-dando-tecnicas-de-uma-guerrilha-digital-diz-janones/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "'Estou dando técnicas de uma guerrilha digital nessa reta final', diz Janones"
+  }
+]

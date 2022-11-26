@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10721.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-ve-relatorio-da-defesa-como-ultima-cartada-militares-prometem-entregar-documento-hoje/",
+    "hat": "PROCESSO ELEITORAL",
+    "title": "Defesa promete divulgar hoje relatório sobre sistema de votação: veja o que se sabe sobre o documento",
+    "summary": "Forças Armadas devem fazer ressalvas, como a de que nenhum sistema está 100% blindado; Bolsonaro pode usar dossiê para judicializar eleição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10347.359375,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/internacional/avanco-do-trumpismo-transformaria-os-eua-num-pais-nefasto-leia-o-artigo-de-paul-krugman/",
+    "hat": "THE NEW YORK TIMES",
+    "title": "Avanço do trumpismo transformaria os EUA num país nefasto; leia o artigo de Paul Krugman",
+    "summary": "'Mesmo se os democratas confirmarem a contenção da onda republicana nas eleições legislativas, a democracia nos Estados Unidos continuará profundamente ameaçada pela direita autoritária'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10347.359375,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/facebook-vai-deixar-principal-escritorio-no-brasil-para-reduzir-custos/",
+    "hat": "REDE SOCIAL",
+    "title": "Facebook vai deixar principal escritório no Brasil para reduzir custos após demissões"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9929.25,
+      "left": 1190.328125,
+      "height": 512.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lula-anuncia-chioro-temporao-uip-alexandre-padilha-e-humberto-costa-para-transicao-na-saude/",
+    "hat": "Novo governo",
+    "title": "Humberto Costa e David Uip vão integrar equipe de transição de Lula na saúde",
+    "summary": "Alexandre Padilha, Temporão e Chioro também farão parte de grupo, até que ministro seja escolhido"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9355.140625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-pais-precisa-de-um-avancaco-para-recuperar-area-ambiental-diz-capobianco/",
+    "hat": "ENTREVISTA",
+    "title": "Capobianco: 'Não adianta nada fazer o revogaço e voltar à realidade pré-Bolsonaro'",
+    "summary": "'Agenda ambiental  avançou muito no mundo todo, mas nós não evoluímos junto. Temos que corrigir os danos'"
+  }
+]

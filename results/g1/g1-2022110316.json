@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6136,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/relator-do-orcamento-propoe-pec-para-tirar-despesas-inadiaveis-do-teto-de-gastos.ghtml",
+    "hat": "Previsão para 2023",
+    "title": "Relator do Orçamento e Alckmin propõem PEC para viabilizar auxílio de R$ 600",
+    "summary": "Texto prevê tirar gastos considerados 'inadiáveis' do teto. Avaliação é que não há espaço no orçamento enviado ao Congresso pelo atual governo."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6136,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/11/03/lagoa-surge-em-faixa-de-areia-alargada-ha-11-meses-em-balneario-camboriu-entenda.ghtml",
+    "hat": "Santa Catarina",
+    "title": "Lagoa surge em praia alargada há 11 meses em Balneário Camboriú"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5799.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/11/03/emprego-dos-sonhos-em-local-remoto-da-nova-zelandia-atrai-candidatos-de-todo-o-mundo.ghtml",
+    "hat": "Cargo dos sonhos?",
+    "title": "Emprego em local remoto atrai mais de mil candidatos na Nova Zelândia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5394.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/presidente-do-tse-diz-que-resultado-das-urnas-sao-incontestaveis-e-criminosos-serao-responsabilizados.ghtml",
+    "hat": "Acabou a eleição",
+    "title": "Moraes diz que resultado das urnas é incontestável e condena atos golpistas",
+    "summary": "Presidente do TSE afirmou que quem ataca a democracia comete crime e será punido.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5116.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/ciro-nogueira-e-guedes-se-reunem-com-ministros-do-tcu-para-discutir-transicao-de-governo.ghtml",
+    "hat": "Encontro em Brasília",
+    "title": "Ministros de Bolsonaro discutem no TCU transição para governo Lula",
+    "category": "Política"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12616.609375,
+      "left": 365,
+      "height": 359.9375,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/corinthians-x-ceara.htm",
+    "title": "Corinthians acorda no 2º tempo, bate Ceará por 1 a 0 e continua brigando por vice",
+    "summary": "Timão demora para entrar no jogo e vence com gol de Yuri Alberto nos acréscimos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12207.671875,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/internacional-x-athletico---brasileirao.htm",
+    "title": "Ataque volta a funcionar, Inter vence Athletico e retoma vice-liderança do Campeonato Brasileiro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11886.5625,
+      "left": 365,
+      "height": 410.421875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/fluminense-x-sao-paulo-36-rodada-brasileirao.htm",
+    "title": "Cano faz três, e Flu vence o São Paulo no Maracanã por 3 a 1"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12207.671875,
+      "left": 619.15625,
+      "height": 342.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/05/lula-retorna-a-sao-paulo-apos-dias-na-bahia-e-vai-integrar-processo-de-transicao.htm",
+    "title": "Lula retorna a SP após dias na BA e vai integrar processo de transição"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11841,
+      "left": 619.15625,
+      "height": 97,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/05/moraes-cobra-prf-sobre-efetivo-1-turno-eleicoes.htm",
+    "title": "Moraes cobra PRF também sobre efetivo no 1º turno das eleições"
+  }
+]

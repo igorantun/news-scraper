@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12699.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "http://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/defesa-nao-apresenta-fraude-ou-falha-e-cita-risco-hipotetico-sobre-urnas.htm",
+    "title": "Defesa confirma dados de urnas do TSE, mas levanta 'risco' hipotético",
+    "summary": "Militares não citaram indício de fraude no processo eleitoral em nenhum momento"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12310.265625,
+      "left": 365,
+      "height": 499.984375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/canto-de-gal-costa-partiu-de-joao-gilberto-para-inventar-um-brasil.shtml",
+    "title": "Lucas Brêda: Canto de Gal Costa partiu de João Gilberto para inventar um Brasil"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12310.265625,
+      "left": 619.15625,
+      "height": 495.171875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/09/gal-costa-deixa-um-filho-gabriel-de-17-anos-ele-mudou-a-minha-vida.htm",
+    "title": "Gal Costa deixa filho de 17 anos após polêmica com Ministério Público"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12310.265625,
+      "left": 873.328125,
+      "height": 495.171875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/tales-faria/2022/11/09/lula-acerta-com-lira-aprovacao-da-pec-da-transicao-ate-15-de-de-dezembro.htm",
+    "title": "Tales: Lula acerta com Arthur Lira aprovação da PEC da Transição"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11761.28125,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/09/morre-cantor-rolando-boldrin.htm",
+    "title": "Morre cantor e apresentador Rolando Boldrin aos 86 anos, em São Paulo"
+  }
+]

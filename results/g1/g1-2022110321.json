@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5457,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/03/petrobras-decide-antecipar-r-437-bilhoes-em-dividendos-a-acionistas-futuro-governo-lula-critica.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Petrobras antecipa R$ 43,7 bi em dividendos e desagrada à equipe de Lula",
+    "summary": "Alguns membros do conselho da empresa foram contra e veem manobra do governo Bolsonaro para cobrir alta de gastos no período eleitoral."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5457,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/03/anatel-aprova-uso-do-codigo-0304-para-identificacao-de-chamadas-de-empresas-de-cobranca.ghtml",
+    "hat": "Proteção ao consumidor",
+    "title": "Chamadas de empresas de cobrança serão identificadas com o código 0304"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5120.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/11/03/whatsapp-lanca-recurso-comunidades-que-permite-grupos-com-mais-de-mil-usuarios.ghtml",
+    "hat": "Comunidades",
+    "title": "WhatsApp lança 'supergrupos', mas Brasil só terá recurso em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4715.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/alckmin-chega-ao-planalto-para-primeira-reuniao-sobre-transicao-com-ministro-de-bolsonaro.ghtml",
+    "hat": "Passagem de bastão",
+    "title": "Alckmin se reúne com Ciro Nogueira no Planalto e inicia transição",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4437.65625,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/relator-do-orcamento-propoe-pec-para-tirar-despesas-inadiaveis-do-teto-de-gastos.ghtml",
+    "hat": "Previsão para 2023",
+    "title": "Equipe de Lula negocia PEC para manter auxílio de R$ 600",
+    "summary": "Objetivo da proposta é tirar do teto de gastos despesas consideradas inadiáveis.",
+    "category": "Política"
+  }
+]

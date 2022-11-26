@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10460.109375,
+      "left": 315,
+      "height": 314.640625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-quebra-silencio-condena-bloqueios-e-fala-em-indignacao-com-injusticas-na-eleicao.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro quebra silêncio, condena bloqueios e fala em indignação e injustiça com eleição",
+    "summary": "Presidente diz ainda que 'a direita surgiu de verdade no país'; ele ficou quase dois dias sem se pronunciar após derrota para Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.640625,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições na internet",
+    "title": "'Debate legislativo é necessário', diz especialista sobre regulamentação na internet",
+    "summary": "Especialistas apontam para a insuficiência da autorregulação dos serviços nos espaços digitais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10460.109375,
+      "left": 1305,
+      "height": 300.703125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/tv-folha-discute-resultados-da-eleicao-ao-vivo-durante-a-semana.shtml",
+    "hat": "tv folha",
+    "title": "Jornalistas explicam os bastidores e impactos dos bloqueios; veja como foi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10110.484375,
+      "left": 315,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/stf-diz-que-bolsonaro-reconheceu-resultado-das-eleicoes-ao-determinar-inicio-da-transicao.shtml",
+    "hat": "supremo",
+    "title": "STF diz que Bolsonaro reconheceu resultado ao determinar início da transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -10110.484375,
+      "left": 645,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/bruno-boghossian/2022/11/bolsonaro-mede-palavras-para-manter-golpismo-vivo-enquanto-busca-protecao.shtml",
+    "hat": "Bruno Boghossian",
+    "title": "Bolsonaro mede palavras para manter golpismo vivo enquanto busca proteção",
+    "summary": "Presidente não desautoriza contestação e tenta manter protagonismo na direita"
+  }
+]

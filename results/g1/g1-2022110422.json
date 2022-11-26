@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6284,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/04/programas-como-o-auxilio-brasil-devem-ser-reajustados-por-medida-provisoria-avalia-equipe-de-transicao.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Equipe de Lula estuda caminho mais fácil para pagar auxílio de R$ 600",
+    "summary": "Avaliação é que medida provisória exigiria menos negociação com o Congresso do que uma PEC, que altera a Constituição e requer mais votos."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6284,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pe/caruaru-regiao/noticia/2022/11/04/caminhoneiro-que-carregou-bolsonarista-pendurado-no-para-brisa-pode-ser-preso-afirmam-especialistas.ghtml",
+    "hat": "Infrações de trânsito",
+    "title": "Bolsonarista pendurado no caminhão: quem pode ser punido?"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5947.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/04/video-kombi-com-5-adultos-e-6-criancas-pega-fogo-em-posto-de-combustiveis-no-df.ghtml",
+    "hat": "Distrito Federal",
+    "title": "VÍDEO: perua com 5 adultos e 6 crianças pega fogo em posto"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5542.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/congresso-tera-boa-vontade-com-pec-da-transicao-e-flexibilizar-teto-e-natural-diz-pacheco.ghtml",
+    "hat": "Contas públicas",
+    "title": "Presidente do Senado diz que é 'natural' flexibilizar teto de gastos",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5264.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/servidores-denunciam-secretaria-de-atencao-a-infancia-por-assedio-apos-vitoria-de-lula.ghtml",
+    "hat": "Pressão sobre funcionários",
+    "title": "Secretária de ministério é acusada de assédio moral após vitória de Lula",
+    "summary": "Servidores afirmam que Luciana Siqueira enviou mensagens e fez ameaças durante reunião.",
+    "category": "Política"
+  }
+]

@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12134.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/putin-declara-lei-marcial-em-areas-anexadas-e-alerta-maximo-na-russia.shtml",
+    "title": "Putin declara lei marcial em áreas anexadas e alerta máximo na Rússia",
+    "summary": "Medida em regiões agregadas da Ucrânia implica total controle sobre vida civil"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11799.640625,
+      "left": 365,
+      "height": 473.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/lula-carta-evangelicos-encontro-sp.htm",
+    "title": "Em carta a evangélicos, Lula defende liberdade religiosa e estado laico"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11301.84375,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/colunas/jose-paulo-kupfer/2022/10/19/emprestimo-do-auxilio-brasil-e-as-brechas-da-legislacao-eleitoral.htm",
+    "title": "Kupfer: Consignado é compra de voto hoje e de dívidas impagáveis amanhã"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11799.640625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/19/doria-anuncia-desfiliacao-do-psdb-cumpri-minha-missao-politica-partidaria.htm",
+    "title": "Doria anuncia desfiliação do PSDB: 'Cumpri minha missão política e partidária'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11478.53125,
+      "left": 619.15625,
+      "height": 296.6875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/josias-bolsonaro-sobe-em-pesquisas-por-uso-da-maquina-mentiras-e-medo.htm",
+    "title": "Josias: Bolsonaro sobe em pesquisas por uso da máquina pública, mentiras e medo"
+  }
+]

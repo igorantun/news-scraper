@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5164,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/02/mp-pede-que-policia-federal-investigue-diretor-da-prf-por-blitz-nas-eleicoes-e-omissao-em-protestos-nas-rodovias.ghtml",
+    "hat": "Polícia Rodoviária Federal",
+    "title": "MP pede que diretor da PRF seja investigado por blitz na eleição e atos bolsonaristas",
+    "summary": "Procuradoria solicitou que PF apure suposta prevaricação e omissão de Silvinei Vasques nos bloqueios ilegais e golpistas em rodovias."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5164,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2022/11/02/e-campeao-palmeiras-conquista-o-titulo-do-brasileirao-apos-derrota-do-inter-para-o-america-mg.ghtml",
+    "hat": "É campeão! 🏆",
+    "title": "Palmeiras conquista o Brasileirão pela 11ª vez após derrota do Inter"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4422.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/02/ministerio-da-justica-diz-que-912-motoristas-foram-multados-por-bloquear-rodovias-federais.ghtml",
+    "hat": "Atos contra a democracia",
+    "title": "Multas por bloqueios ilegais em rodovias somam R$ 18 milhões, diz PRF",
+    "category": "Distrito Federal"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4144.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/02/estamos-diante-de-uma-verdadeira-organizacao-criminosa-afirma-o-procurador-geral-de-justica-de-sp-sobre-bloqueios-de-bolsonaristas.ghtml",
+    "title": "'Estamos diante de organização criminosa', diz procurador-geral de SP",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3866.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2022/11/02/carro-atropela-grupo-de-manifestantes-durante-bloqueio-em-rodovia-no-interior-de-sp.ghtml",
+    "title": "Motorista atropela bolsonaristas em bloqueio ilegal e deixa 7 feridos",
+    "category": "São José do Rio Preto e Araçatuba"
+  }
+]

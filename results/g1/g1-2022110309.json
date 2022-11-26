@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4059,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/03/equipe-de-lula-tenta-montar-quebra-cabeca-orcamentario-e-manter-auxilio-em-r-600-1a-reuniao-com-relator-e-nesta-quinta.ghtml",
+    "hat": "Desafios do próximo governo",
+    "title": "Equipe de Lula começa a discutir hoje como manter auxílio em R$ 600",
+    "summary": "Geraldo Alckmin, vice-presidente eleito e coordenador da equipe de transição, e o senador Wellington Dias (PT-PI) se reúnem com o relator do Orçamento, senador Marcelo Castro (PMDB-PI)."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4059,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/02-11-2022/palmeiras-fortaleza.ghtml",
+    "hat": "É campeão! 🏆",
+    "title": "Palmeiras goleia e festeja em casa 11º título do Brasileirão",
+    "summary": "Endrick, Rony (2) e Dudu marcaram os gols alviverdes."
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3722.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/02-11-2022/flamengo-corinthians.ghtml",
+    "title": "Corinthians vence Flamengo e assegura vaga na Libertadores",
+    "summary": "Embora derrotado, time carioca saiu de campo aplaudido por sua torcida."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3317.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/compromisso-numero-1-de-lula-combate-a-fome-tera-o-desafio-de-superar-encolhimento-nas-acoes-de-seguranca-alimentar.ghtml",
+    "title": "Promessa de Lula, combate à fome depende da retomada de programas sociais",
+    "summary": "Conselho de Segurança Alimentar, Plano Nacional de Segurança Alimentar, programa Alimenta Brasil e a merenda escolar encolheram nos últimos anos.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3039.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/11/03/o-assunto-828-pt-a-historia-e-os-desafios-a-frente.ghtml",
+    "hat": "🎧 Podcast",
+    "title": "O ASSUNTO: como o PT vai enfrentar os desafios de um Brasil em crise; OUÇA",
+    "category": "O Assunto"
+  }
+]

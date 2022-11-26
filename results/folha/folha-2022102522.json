@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10335.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/policia-de-sp-pedira-integra-de-videos-da-jovem-pan-que-equipe-de-tarcisio-mandou-apagar.shtml",
+    "hat": "Tiroteio em Paraisópolis",
+    "title": "Polícia de SP pedirá íntegra de vídeos da Jovem Pan que equipe de Tarcísio mandou apagar",
+    "summary": "Entidade ligada a jornalistas classificou episódio que envolve o candidato ao Governo de SP como tentativa de censura"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -556.328125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10071.34375,
+      "left": 974.984375,
+      "height": 295.671875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/roberto-jefferson-volta-a-ofender-carmen-lucia-e-acusa-moraes-de-milicia-judicial-mesmo-apos-tiros.shtml",
+    "hat": "Caso Jefferson",
+    "title": "Jefferson volta a ofender Cármen Lúcia e acusa Moraes de milícia judicial mesmo após tiros"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9740.6875,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/mendonca-rejeita-pedidos-para-investigar-bolsonaro-por-fala-sobre-adolescentes-venezuelanas.shtml",
+    "hat": "Governo Bolsonaro",
+    "title": "Mendonça rejeita pedidos para investigar Bolsonaro por fala sobre venezuelanas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9583.75,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ipespe-lula-tem-50-contra-44-de-bolsonaro-brancos-e-nulos-sao-4-e-indecisos-2.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Ipespe: Lula tem 50% contra 44% de Bolsonaro; brancos e nulos são 4%, e indecisos, 2%"
+  }
+]

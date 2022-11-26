@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5336,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/11/06/um-ano-sem-marilia-mendonca-fantastico-tem-acesso-aos-detalhes-da-investigacao-que-apura-queda-do-aviao.ghtml",
+    "hat": "1 ano do acidente",
+    "title": "Fantástico mostra detalhes da investigação da queda do avião de Marília Mendonça",
+    "summary": "Aeronave estava em baixa altitude quando bateu em linha de transmissão de energia."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5336,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/#v/11101601",
+    "hat": "Zolpidem",
+    "title": "Médicos alertam para uso indiscriminado de remédio para insônia"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4999.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/noticia/2022/11/06/peixe-leao-e-visto-por-mergulhadores-pela-primeira-vez-no-litoral-de-fortaleza-video.ghtml",
+    "hat": "Ameaça à biodiversidade",
+    "title": "Peixe invasor é visto pela 1ª vez em parque marinho perto de Fortaleza"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4594.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/06/lula-participa-de-reunioes-com-a-equipe-de-transicao-de-governo-em-sp-nesta-segunda-feira.ghtml",
+    "hat": "Novo governo",
+    "title": "Lula se reúne com equipe de transição em SP nesta segunda",
+    "summary": "Presidente eleito estava na Bahia descansando depois do fim da eleição.",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4316.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/saude/noticia/2022/11/06/orcamento-insuficiente-e-demandas-reprimidas-saiba-quais-desafios-o-governo-lula-enfrentara-na-saude.ghtml",
+    "hat": "Novo governo",
+    "title": "Orçamento insuficiente: saiba os desafios de Lula na saúde",
+    "category": "Saúde"
+  }
+]

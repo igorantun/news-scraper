@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9171.109375,
+      "left": 315,
+      "height": 218.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ipec-lula-tem-50-e-bolsonaro-43-indecisos-sao-2-e-brancos-e-nulos-5.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Ipec: Lula tem 50%, e Bolsonaro, 43%; indecisos são 2%, e brancos e nulos, 5%",
+    "summary": "No levantamento anterior, realizado há uma semana, os resultados eram os mesmos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -876.328125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8917.34375,
+      "left": 974.984375,
+      "height": 349.75,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/se-um-amigo-faz-besteira-o-que-eu-tenho-a-ver-com-isso-diz-bolsonaro-sobre-caso-jefferson.shtml",
+    "hat": "caso jefferson",
+    "title": "Se um amigo faz besteira, o que eu tenho a ver com isso?, diz Bolsonaro sobre Roberto Jefferson"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8532.609375,
+      "left": 974.984375,
+      "height": 192.125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/prefeito-de-sp-cede-e-decide-oferecer-passe-livre-no-2o-turno.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Prefeitura de SP libera passe livre nos ônibus no 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8269.515625,
+      "left": 315,
+      "height": 371.875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/dolar-salta-ante-real-com-tensao-politica-domestica-e-exterior.shtml",
+    "hat": "Mercado financeiro",
+    "title": "Bolsa tomba sob temor do efeito Jefferson em Bolsonaro; Petrobras cai 10%",
+    "summary": "Dólar fecha em forte alta e real tem pior desempenho entre as principais moedas"
+  }
+]

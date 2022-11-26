@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9149.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/liz-truss-renuncia-ao-cargo-de-primeira-ministra-do-reino-unido.shtml",
+    "hat": "crise política",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido após 45 dias",
+    "summary": "Anúncio sucede semanas de fritura após críticas aos seus planos para a economia; Truss havia substituído Boris Johnson"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -541.96875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9102.125,
+      "left": 1305,
+      "height": 104.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/podcast-a-tentativa-de-lira-de-emparedar-institutos-com-projeto-para-criminalizar-pesquisas.shtml",
+    "hat": "criminalização",
+    "title": "A tentativa de Lira de emparedar institutos de pesquisa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8939.25,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/plano-de-guedes-preve-salario-minimo-e-aposentadoria-sem-correcao-pela-inflacao-passada.shtml",
+    "hat": "Eleições 2022",
+    "title": "Guedes prevê salário mínimo e aposentadoria sem correção pela inflação passada",
+    "summary": "Proposta seria apresentada após o 2º turno em caso de vitória de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8680.9375,
+      "left": 974.984375,
+      "height": 350.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-campanha-de-lula-ve-resiliencia-a-fake-news-e-bolsonaro-celebra-sudeste.shtml",
+    "hat": "sucessão presidencial",
+    "title": "Datafolha: Campanha de Lula vê resiliência a fake news, e Bolsonaro celebra Sudeste"
+  }
+]

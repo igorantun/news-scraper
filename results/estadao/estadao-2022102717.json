@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9786.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/moraes-diz-que-candidatos-de-boa-fe-sabem-que-distribuicao-de-propaganda-nao-e-funcao-do-tse/",
+    "hat": "JUSTIÇA ELEITORAL",
+    "title": "Moraes: 'Quem fiscaliza propaganda são os partidos; candidatos de boa-fé sabem que função não é do TSE'",
+    "summary": "Campanha de Bolsonaro alega que houve desequilíbrio na veiculação de inserções no rádio; argumento foi rejeitado pelo presidente da Corte"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9412.359375,
+      "left": 329,
+      "height": 747.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/pode-colocar-bandeira-na-sacada-disputa-lula-x-bolsonaro-toma-fachadas-de-predios/",
+    "hat": "convivência eleitoral",
+    "title": "Pode colocar bandeira na sacada? Disputa Lula x Bolsonaro provoca queixas entre vizinhos",
+    "summary": "Pendurar símbolo de apoio a candidato pode render multa; associação de condomínios registra alta nas reclamações"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9412.359375,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/campanha-de-lula-usa-taticas-da-direita-para-avancar-na-eleicao-diz-pesquisador-da-fgv/",
+    "hat": "engajamento nas redes",
+    "title": "'Campanha de Lula usa táticas da direita para avançar na eleição', diz pesquisador da FGV"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9042.25,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-que-esperar-do-debate-entre-tarcisio-e-haddad-na-globo-veja-o-que-dizem-analistas/",
+    "hat": "Palácio dos Bandeirantes",
+    "title": "O que esperar do debate entre Tarcísio e Haddad na Globo? Veja o que dizem analistas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8592.140625,
+      "left": 329,
+      "height": 358,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/desemprego-ibge-setembro-2022/",
+    "hat": "Economia",
+    "title": "Desemprego tem sétima queda seguida e fica em 8,7% em setembro, aponta IBGE",
+    "summary": "País registrou uma abertura de 1 milhão de vagas no mercado de trabalho; número de desocupados chegou a 9,5 milhões, menor nível desde dezembro de 2015"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5826.890625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/quem-sao-os-17-milhoes-de-eleitores-que-podem-definir-o-2o-turno",
+    "hat": "Reportagem de capa",
+    "title": "Quem são os 17 milhões de eleitores indecisos que podem definir o 2º turno",
+    "summary": "Como a imensa maioria já sabe em quem vai votar, o resultado do pleito passa por quem não escolheu ou pode mudar de lado, um grupo de votantes homogêneo e bem definido"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5332.765625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/bolsonaro-fala-a-prefeitos-em-sao-paulo-lula-mira-evangelicos-no-rio/",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro fala a prefeitos em São Paulo; Lula mira evangélicos no Rio",
+    "summary": "Candidato à reeleição pediu a prefeitos paulistas que 'convençam indecisos'; na capital fluminense, petista disse a religiosos que 'não permitam que pastores mintam'"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -608.328125,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/romeu-zema-o-brasil-se-transformou-no-pais-das-pautas-irrelevantes/",
+    "hat": "Política",
+    "title": "Romeu Zema: 'O Brasil se transformou no país das pautas irrelevantes'",
+    "summary": "O governador reeleito de Minas defende Bolsonaro, critica a possibilidade de o PT voltar ao poder e afirma que a classe política perde tempo com temas pequenos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5632.890625,
+      "left": 648,
+      "height": 94,
+      "width": 299.984375
+    },
+    "link": "https://veja.abril.com.br/politica/carta-ao-leitor-a-forca-dos-indecisos",
+    "hat": "Carta ao Leitor",
+    "title": "Convencimento do eleitorado deveria partir de propostas claras, em vez da gritaria vã"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5632.890625,
+      "left": 971.984375,
+      "height": 94,
+      "width": 299.984375
+    },
+    "link": "https://veja.abril.com.br/politica/os-detalhes-do-escandalo-de-r-48-mi-que-envolveu-nomes-do-pt-na-pandemia",
+    "hat": "Política",
+    "title": "A anatomia do escândalo de R$ 48 milhões que envolveu nomes do PT na pandemia"
+  }
+]

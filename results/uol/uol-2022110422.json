@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12557.609375,
+      "left": 365,
+      "height": 311.921875,
+      "width": 732.5
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/04/meirelles-defende-furar-teto-como-excepcionalidade-nao-ha-alternativa.htm",
+    "title": "Meirelles defende que Lula fure teto de gastos para ter auxílio de R$ 600",
+    "summary": "Ex-ministro disse que não recebeu nenhum convite para integrar governo petista"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12110.6875,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/intolerancia-apos-2o-turno-amplia-conflitos-familiares-com-insultos-e-expulsao-de-casa.shtml",
+    "title": "Intolerância após 2º turno amplia conflitos familiares com insultos e expulsão de casa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11720.015625,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/bolsonaristas-xingam-ministro-do-stf-de-lixo-pm-diz-que-ato-foi-pacifico.htm",
+    "title": "Barroso é xingado e perseguido por bolsonaristas em SC, e PM é acionada"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12110.6875,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/confira-a-repercussao-da-resposta-de-gleisi-a-edir-macedo.htm",
+    "title": "Gleisi: 'Dispensamos perdão de Edir Macedo. Ele é quem precisa pedir perdão a Deus'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11720.015625,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/nossa/colunas/historias-do-mar/2022/11/04/um-mes-depois-navio-fantasma-ainda-vaga-sem-destino-no-mar-de-pernambuco.htm",
+    "title": "Um mês depois, 'navio fantasma' ainda vaga sem destino no mar de Pernambuco"
+  }
+]

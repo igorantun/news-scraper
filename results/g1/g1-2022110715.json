@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5106,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/07/equipe-de-lula-tenta-frear-indicacoes-de-bolsonaro-para-judiciario-e-postos-no-exterior.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Lula quer frear indicações de Bolsonaro ao Judiciário e a postos no exterior"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5106,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/11/07/roberto-justus-afirma-que-passara-por-quimioterapia-preventiva-apos-descoberta-de-cancer-de-bexiga.ghtml",
+    "hat": "Tratamento de saúde",
+    "title": "Roberto Justus descobre câncer de bexiga durante check-up"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4769.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/noticia/2022/11/07/policial-pula-de-helicoptero-no-mar-persegue-a-nado-e-captura-jovem-suspeito-de-furto-em-fortaleza.ghtml",
+    "hat": "Ceará",
+    "title": "VÍDEO: policial pula de helicóptero no mar, nada e captura suspeito"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4364.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/07/lula-e-alckmin-ja-tem-gabinetes-de-transicao-em-brasilia-agenda-deve-ser-definida-nesta-segunda.ghtml",
+    "title": "Gabinetes de transição de Lula e Alckmin já estão prontos",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4086.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/07/equipe-de-lula-preve-varredura-em-computadores-da-pf-apos-transicao.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Governo eleito prevê varredura em computadores da PF",
+    "summary": "Equipe de Lula teme que agentes bolsonaristas instalem programas espiões.",
+    "category": "Blog da Andréia Sadi"
+  }
+]

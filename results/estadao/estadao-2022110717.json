@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10564.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/apos-chamar-lira-de-imperador-lula-se-reune-com-presidente-da-camara-para-negociar-novo-governo/",
+    "hat": "LEGISLATIVO",
+    "title": "Após chamar Lira de 'imperador', Lula se reúne com presidente da Câmara para negociar novo governo",
+    "summary": "Enquanto petista negocia PEC da Transição, parlamentar tenta apoio para reeleição na presidência da Casa; encontro está marcado para 3ª feira"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10170.3125,
+      "left": 329,
+      "height": 747.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/convocacao-tite-selecao-brasileira-copa-catar/",
+    "hat": "Futebol",
+    "title": "Ao vivo: Com Daniel Alves e Pedro, Tite convoca a seleção brasileira para a Copa do Catar; veja lista",
+    "summary": "Treinador divulga lista dos 26 jogadores que vão representar o Brasil e buscar o hexacampeonato mundial; equipe se apresenta na Itália no dia 14 de novembro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10170.3125,
+      "left": 1190.328125,
+      "height": 356.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.facebook.com/estadaoesporte/videos/444532907755120",
+    "hat": "Confira com a gente",
+    "title": "'Estadão Esporte Clube': Jornalistas avaliam escalação de Tite",
+    "summary": ""
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9784.203125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/e-um-absurdo-nao-defender-a-tributacao-de-dividendos-diz-fundador-da-petz/",
+    "hat": "Negócios",
+    "title": "'Pago menos imposto que um caixa da minha empresa. É uma vergonha', diz CEO da Petz"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9360.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/nova-onda-de-covid-19-volto-a-usar-mascara-tomo-a-5-dose-tire-essas-e-outras-duvidas/",
+    "hat": "coronavírus",
+    "title": "Nova onda de covid-19: volto a usar máscara? Precisa de 5ª dose? Tire dúvidas"
+  }
+]

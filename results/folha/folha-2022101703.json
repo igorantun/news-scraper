@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8930.109375,
+      "left": 315,
+      "height": 310,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-travam-duelo-sobre-covid-corrupcao-e-fake-news-em-debate.shtml",
+    "hat": "eleições 2022",
+    "title": "Lula e Bolsonaro duelam sobre pobreza, Covid e corrupção em debate"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.6875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8585.125,
+      "left": 315,
+      "height": 207.71875,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420899",
+    "hat": "recursos públicos",
+    "title": "Bolsonaro diz que não tem nada a ver com emendas de relator"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8342.421875,
+      "left": 315,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/16/6213-lula-e-bolsonaro-participam-do-primeiro-debate-do-2-turno-acompanhe.shtml#post420895",
+    "hat": "supremo",
+    "title": "Candidatos afirmam ser contra aumento do número de ministros no STF"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8141.390625,
+      "left": 315,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://f5.folha.uol.com.br/colunistas/tonygoes/2022/10/debate-mais-solto-deixou-candidatos-exporem-nao-suas-ideias-mas-a-si-mesmos.shtml",
+    "hat": "Tony Goes",
+    "title": "Debate mais solto deixou candidatos exporem não suas ideias, mas a si mesmos"
+  }
+]

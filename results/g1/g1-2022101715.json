@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5329,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/10/17/veja-o-que-e-fato-ou-fake-nas-falas-dos-presidenciaveis-no-primeiro-debate-do-2-turno.ghtml",
+    "hat": "Disputa no 2º turno",
+    "title": "Veja o que é #FATO e o que é #FAKE nas falas de Lula e Bolsonaro no debate"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5329,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/17/mulher-e-filmada-ao-usar-banheiro-de-posto-no-rio-percebe-e-flagra-frentista.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Mulher é filmada ao usar banheiro de posto, percebe e flagra frentista"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4992.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/10/17/video-discussao-entre-bandas-termina-com-briga-generalizada-de-musicos-em-cima-de-palco-na-bahia.ghtml",
+    "hat": "Confusão em Salvador",
+    "title": "VÍDEO: bandas trocam socos no palco durante briga generalizada"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4587.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/17/rifado-por-bolsonaro-moro-escolhe-ladrao-da-rachadinha-e-aposta-em-vaga-no-stf.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Moro escolhe 'ladrão' da rachadinha e mira 2026",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4309.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/17/relembre-as-acusacoes-de-sergio-moro-a-jair-bolsonaro.ghtml",
+    "title": "Relembre as acusações de Moro contra Bolsonaro",
+    "category": "Eleições 2022"
+  }
+]

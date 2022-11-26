@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9410.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/desinformacao-esta-um-desastre-neste-2o-turno-diz-moraes-em-reuniao-com-plataformas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Desinformação está um desastre neste 2º turno, diz Moraes em reunião com plataformas",
+    "summary": "Presidente do TSE afirma que redes sociais demoram para remover conteúdo falso e pede que não levem 'mais que 4 a 5 horas'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.4375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9146.34375,
+      "left": 974.984375,
+      "height": 251.578125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-lanca-carta-aos-evangelicos-e-rechaca-aborto-banheiro-unissex-e-pastor-que-mente.shtml",
+    "hat": "+eleições",
+    "title": "Lula lança carta aos evangélicos e rechaça aborto, banheiro unissex e pastor que mente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8859.78125,
+      "left": 974.984375,
+      "height": 144,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/quatro-empresas-do-rs-ja-fecharam-acordo-por-assedio-eleitoral.shtml",
+    "hat": "eleição e trabalho",
+    "title": "Empresa gaúcha que ameaçou cortes se Lula vencer eleição pode ter que pagar R$ 10 mi"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8680.796875,
+      "left": 974.984375,
+      "height": 138.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/confira-nova-pesquisa-datafolha-para-presidente-na-quarta-feira.shtml",
+    "hat": "pesquisa eleitoral",
+    "title": "Confira hoje Datafolha para presidente e governador de SP"
+  }
+]

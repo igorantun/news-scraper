@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12537.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/desempenho-tarcisio-haddad-debate-globo.htm",
+    "title": "Campanhas veem erros com Haddad sem timing e Tarcísio desestabilizado",
+    "summary": "Equipes dos candidatos ao governo de SP avaliam desempenhos no último debate"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12261.453125,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/tarcisio-haddad-colunistas-debate.htm",
+    "title": "Quem ganhou o debate entre Tarcísio e Haddad na Globo? Colunistas do UOL opinam"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11940.34375,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/28/carta-de-lula-mercado-financeiro.htm",
+    "title": "Carta de Lula para economia busca acalmar mercado, mas é vaga, dizem analistas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12261.453125,
+      "left": 619.15625,
+      "height": 388.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/28/militares-reclamam-do-tse-e-relatorio-final-deve-apontar-lacuna-tecnica.htm",
+    "title": "Militares reclamam do TSE e falam em lacuna técnica para fiscalizar urnas"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12261.453125,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/sabatina-uol-e-folha-decio-lima-pt-santa-catarina.htm",
+    "title": "'Sou o improvável que se tornou provável', diz Décio Lima, candidato do PT em SC"
+  }
+]

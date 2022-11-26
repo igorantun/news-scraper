@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9908.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-bolsonaro-atua-para-conter-danos-apos-video-sobre-venezuelanas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Campanha de Bolsonaro atua para conter danos após vídeo sobre venezuelanas",
+    "summary": "Presidente diz que decisão de Alexandre de Moraes põe fim à história; aliados defendem visita à fronteira"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.609375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9644.34375,
+      "left": 974.984375,
+      "height": 223.328125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tiroteio-em-paraisopolis-interrompe-agenda-de-tarcisio-nao-ha-feridos.shtml",
+    "hat": "pleito em sp",
+    "title": "Tiroteio em Paraisópolis interrompe agenda de Tarcísio; não há feridos na comitiva",
+    "summary": "Candidato e equipe saíram ilesos do local; polícia não confirma disparos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9386.03125,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-volta-a-questionar-urnas-e-diz-que-equipamentos-sao-ultrapassados-e-antigos.shtml",
+    "hat": "+eleições",
+    "title": "Bolsonaro volta a questionar urnas e diz que equipamentos são ultrapassados e antigos",
+    "summary": "Presidente repete que assunto está nas mãos das Forças Armadas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9189.15625,
+      "left": 974.984375,
+      "height": 121.953125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lira-retoma-pressao-e-quer-urgencia-para-votar-projeto-que-criminaliza-institutos-de-pesquisa.shtml",
+    "hat": "pesquisas eleitorais",
+    "title": "Lira pressiona e quer urgência para votar projeto que criminaliza pesquisas"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7945.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/alckmin-diz-ser-essencial-comecar-janeiro-com-auxilio-brasil-de-r-600/",
+    "hat": "sucessão de governo",
+    "title": "Equipe de Lula negocia PEC com Congresso para tirar 'despesas inadiáveis' do teto de gastos",
+    "summary": "Acordo discutido em reunião entre Alckmin e o relator do Orçamento, Marcelo Castro, tem como objetivo estabelecer 'licença para gastar' por meio de proposta de mudança à Constituição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7945.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lider-da-bancada-evangelica-quer-dialogo-com-lula-e-diz-que-zambelli-prejudicou-bolsonaro/",
+    "hat": "ALIADO DO PRESIDENTE",
+    "title": "Líder da bancada evangélica quer diálogo com Lula e diz que Zambelli prejudicou Bolsonaro",
+    "summary": "Cezinha de Madureira (PSD) diz  ter interesse em discutir pautas que não sejam ideológicas com novo governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7511.203125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/imoveis-estudios-juros-selic/",
+    "hat": "mercado imobiliário",
+    "title": "Comprou um studio e está em dúvida se foi um bom negócio? Veja se é hora de vender"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6989.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/ate-que-idade-da-para-transar-como-e-o-sexo-na-terceira-idade/",
+    "hat": "SEXUALIDADE",
+    "title": "Até que idade dá para transar? Como é o sexo na terceira idade",
+    "summary": "Superar preconceitos, saber ouvir o corpo e mais: especialistas e idosos dão dicas para prolongar o prazer"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6989.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/apuracao-preliminar-nao-ve-intencao-de-apologia-ao-nazismo-em-ato-em-santa-catarina-diz-promotoria/",
+    "hat": "INVESTIGAÇÃO",
+    "title": "Apuração preliminar do MP não vê intenção de apologia ao nazismo em ato em SC"
+  }
+]

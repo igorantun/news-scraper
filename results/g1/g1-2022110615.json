@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4716,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/saude/noticia/2022/11/06/orcamento-insuficiente-e-demandas-reprimidas-saiba-quais-desafios-o-governo-lula-enfrentara-na-saude.ghtml",
+    "hat": "Novo governo",
+    "title": "Orçamento insuficiente: saiba quais serão os desafios de Lula na saúde",
+    "summary": "Próxima gestão terá que arcar com demandas represadas pela pandemia e questões como a baixa adesão a campanhas de vacinação."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4716,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/06/aviao-cai-em-lago-na-tanzania.ghtml",
+    "hat": "Acidente aéreo",
+    "title": "Queda de avião com 43 pessoas na Tanzânia deixa 3 mortos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4379.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/06/copa-dos-milionarios-quanto-custa-acompanhar-os-jogos-no-catar.ghtml",
+    "hat": "Mundial para poucos",
+    "title": "Passagem de R$ 11 mil e hotel por R$ 32 mil: o custo para ver a Copa"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3974.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/06/cop-27-comeca-neste-domingo-com-expectativa-por-participacao-do-futuro-governo-lula-veja-o-que-esperar.ghtml",
+    "hat": "Conferência do Clima da ONU",
+    "title": "COP 27 começa hoje no Egito; veja o que esperar",
+    "category": "Cop 27"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3696.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/06/ultimos-8-anos-podem-ser-os-8-mais-quentes-ja-registrados-alerta-agencia-da-onu.ghtml",
+    "title": "Últimos 8 anos podem ser os 8 mais quentes já registrados, alerta ONU",
+    "category": "Cop 27"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9243.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/pf-indicia-roberto-jefferson-por-quatro-tentativas-de-homicidio-de-policiais-atacados-com-tiros-e-granadas/",
+    "hat": "ATAQUE NO RIO DE JANEIRO",
+    "title": "PF indicia Roberto Jefferson por 4 tentativas de homicídio de policiais atingidos por tiros e granadas",
+    "summary": "PF decidiu incluir também os agentes que estavam na viatura e não foram feridos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9243.3125,
+      "left": 1190.328125,
+      "height": 572.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/planalto-gsi-e-ate-agricultura-roberto-jefferson-teve-10-reunioes-com-governo-bolsonaro/",
+    "hat": "EX-DEPUTADO PRESO",
+    "title": "Roberto Jefferson teve 10 reuniões com cúpula do governo Bolsonaro, do GSI à Agricultura",
+    "summary": "Agendas oficiais indicam que ex-parlamentar foi recebido pelo próprio presidente, ministros e o vice Mourão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8641.203125,
+      "left": 1190.328125,
+      "height": 178,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/prisao-de-roberto-jefferson-teve-erros-na-gestao-da-crise-e-expos-decepcao-na-pf-com-bolsonaro/",
+    "hat": "Violência",
+    "title": "'Prisão de Roberto Jefferson teve erros na gestão da crise e expôs decepção na PF com Bolsonaro'; leia análise"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8363.65625,
+      "left": 329,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/campanha-na-tv-e-nas-redes-fara-mais-diferenca-que-mobilizacao-de-rua-em-eleicao-apertada/",
+    "hat": "Silvio Cascione",
+    "title": "TV e redes sociais farão mais diferença que mobilização de rua em eleição apertada"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8363.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/rishi-sunak-sera-o-novo-premie-do-reino-unido-apos-escolha-do-partido-conservador/",
+    "hat": "Londres",
+    "title": "Rishi Sunak será o novo premiê do Reino Unido após escolha do Partido Conservador"
+  }
+]

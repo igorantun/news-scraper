@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8330.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/armamentistas-engrossam-atos-antidemocraticos-que-pedem-golpe-contra-lula.shtml",
+    "hat": "Eleições 2022",
+    "title": "Armamentistas engrossam atos antidemocráticos que pedem golpe contra Lula",
+    "summary": "Apoiadores de Bolsonaro participam de bloqueios em rodovias e manifestações em frente a quartéis"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.15625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://youtu.be/wie0STFrqQE",
+    "hat": "Afeganistão",
+    "title": "Sem escolas desde a volta do Talibã, afegãs trabalham em campos de açafrão",
+    "summary": "Desde que o grupo extremista retomou o poder, a educação não é um direito garantido para mulheres"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8012.4375,
+      "left": 975,
+      "height": 223.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bolsonaristas-convocam-greve-para-segunda-e-caminhoneiros-dizem-que-nao-organizam-atos.shtml",
+    "hat": "manifestações antidemocráticas",
+    "title": "Bolsonaristas convocam greve para segunda e caminhoneiros dizem que não organizam atos",
+    "summary": "Entidades do comércio e da indústria veem movimentos localizados"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7754.125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-calibra-escolha-de-ministros-para-evitar-desfalque-no-senado.shtml",
+    "hat": "transição de governo",
+    "title": "Lula calibra escolha de ministros para evitar desfalque no Senado"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7596.1875,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/tres-brasis-aguardam-chegada-de-lula-a-cop27-para-revisar-futuro-climatico.shtml",
+    "hat": "mudança climática",
+    "title": "Três Brasis aguardam chegada de Lula à COP27 para revisar futuro climático"
+  }
+]

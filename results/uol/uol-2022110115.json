@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12422.609375,
+      "left": 365,
+      "height": 382.3125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/apos-ordem-de-moraes-policias-dos-estados-comecam-a-desobstruir-estradas.shtml",
+    "title": "Após ordem de Moraes, polícias de SC e RS começam a desobstruir estradas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11777.765625,
+      "left": 365,
+      "height": 521.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/thais-oyama/2022/11/01/pronunciamento-tera-vitimizacao-e-promessas-de-eu-voltarei.htm",
+    "title": "Oyama: Pronunciamento de Bolsonaro terá vitimização e promessas de 'eu voltarei'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11231.96875,
+      "left": 365,
+      "height": 272.6875,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/01/risco-desabastecimento-bloqueio-das-estradas.htm",
+    "title": "Entidades veem risco de desabastecimento em mercados e postos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11777.765625,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/rodrigo-garcia-sao-paulo-manifestacoes-caminhoneiros.htm",
+    "title": "Rodrigo Garcia diz que, se necessário, PM usará força para desobstruir vias em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11321.53125,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/especialista-em-extrema-direita-bolsonaro-faz-acao-orquestrada-de-golpe.htm",
+    "title": "Para especialista em extrema direita, Bolsonaro faz ação orquestrada de golpe"
+  }
+]

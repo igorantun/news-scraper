@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6139,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/08/saiba-quem-sao-os-cotados-para-a-equipe-de-transicao-de-governo.ghtml",
+    "hat": "Articulações políticas",
+    "title": "Governo Lula: saiba quem já foi confirmado e os cotados para gabinete de transição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6139,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/11/08/dia-de-jogo-do-brasil-na-copa.ghtml",
+    "hat": "Na torcida pelo hexa ⚽",
+    "title": "Dia de jogo do Brasil na Copa é folga? Entenda"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5802.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/07/tecnica-de-enfermagem-denuncia-colega-de-trabalho-por-usar-caneca-em-referencia-a-ku-klux-klan-me-sinto-ferida-na-minha-existencia.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Técnica denuncia colega por uso de caneca que cita a Ku Klux Klan"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5397.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/08/auxilio-brasil-de-r-600-lula-prefere-mp-a-pec-mas-decide-ouvir-lideres-politicos-para-bater-martelo.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Por auxílio de R$ 600, Lula prefere MP a PEC para tentar evitar barganhas",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4841.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/08/gabriel-monteiro-deve-ser-transferido-para-o-presidio-de-benfica-nesta-terca.ghtml",
+    "hat": "Acusado de estupro",
+    "title": "Gabriel Monteiro é transferido para o presídio de Benfica, no Rio",
+    "category": "Rio de Janeiro"
+  }
+]

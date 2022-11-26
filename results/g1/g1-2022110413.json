@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5627,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/04/lula-precisara-encarar-contas-publicas-apertadas-para-financiar-promessas-e-politicas-de-auxilio.ghtml",
+    "hat": "Desafios na Economia",
+    "title": "Lula herdará coleção de rombos no Orçamento deixada por Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5627,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2022/11/04/escola-tecnica-suspende-aulas-apos-estudante-ficar-ferido-em-discussao-com-bolsonaristas.ghtml",
+    "hat": "Interior de SP",
+    "title": "Estudante fica ferido após bolsonaristas atacarem ônibus"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5290.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/04/ta-na-hora-do-jair-ja-ir-embora-rendeu-ligacao-de-lula-elogio-de-janones-e-turne-do-madeirada-os-bastidores-do-hit.ghtml",
+    "hat": "'Tá na hora do Jair já ir embora'",
+    "title": "Hit rendeu ligação de Lula, elogio de Janones e turnê do Maderada"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4885.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2022/11/04/ate-centrao-admite-que-nao-tem-como-ficar-contra-auxilio-brasil-de-r-600-em-2023.ghtml",
+    "hat": "Blog do Camarotti",
+    "title": "Até Centrão admite que não tem como ficar contra auxílio de R$ 600 em 2023",
+    "category": "Blog do Gerson Camarotti"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4607.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/ministro-da-casa-civil-oficializa-inicio-da-transicao-do-governo-bolsonaro-para-o-governo-lula.ghtml",
+    "hat": "Passagem de bastão",
+    "title": "Ministro da Casa Civil nomeia Alckmin e oficializa início da transição",
+    "category": "Política"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5354,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/moraes-diz-que-o-tse-nao-vai-tolerar-assedio-eleitoral.ghtml",
+    "hat": "Funcionários coagidos",
+    "title": "Casos disparam no 2º turno, e Moraes diz que TSE não vai tolerar assédio eleitoral"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5354,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/18/humorista-e-vitima-de-xingamentos-racistas-por-vizinha-ao-tentar-usar-elevador-em-predio-na-zona-oeste-de-sp.ghtml",
+    "hat": "São Paulo",
+    "title": "Humorista Eddy Junior sofre ataque racista de vizinha em prédio"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5017.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/noticia/2022/10/18/agonia-de-um-filhote-raios-e-arvores-monumentais-veja-fotos-vencedoras-do-premio-the-nature-conservancy.ghtml",
+    "hat": "Meio Ambiente",
+    "title": "Agonia de filhote vence prêmio de fotos da natureza; veja imagens"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4612.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/lula-diz-que-bolsonaro-teve-comportamento-de-um-pedofilo-no-caso-das-meninas-venezuelanas.ghtml",
+    "hat": "'Pintou um clima'",
+    "title": "No Flow, Lula diz que Bolsonaro teve 'comportamento de um pedófilo' ao falar de venezuelanas",
+    "summary": "Ex-presidente fez apelo no podcast para que eleitores que faltaram no 1º turno votem no 2º.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4334.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/apos-dizer-que-meninas-venezuelanas-se-arrumavam-para-fazer-programa-bolsonaro-diz-que-mulheres-de-casa-que-visitou-eram-trabalhadoras.ghtml",
+    "title": "Bolsonaro pede desculpas e nega prostituição de meninas venezuelanas",
+    "category": "Eleições 2022"
+  }
+]

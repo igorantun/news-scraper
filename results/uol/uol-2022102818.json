@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12614.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/28/servidor-do-tse-muda-versao-e-diz-que-so-alertou-falha-na-suspensao-de-programas.htm",
+    "title": "Servidor do TSE diz que só alertou falha na 'suspensão' de inserções",
+    "summary": "Alexandre Machado muda versão sobre avisos que alega ter dado ao tribunal"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12284.078125,
+      "left": 365,
+      "height": 453.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/tarcisio-haddad-colunistas-debate.htm",
+    "title": "Quem ganhou o debate entre Tarcísio e Haddad na Globo? Colunistas do UOL opinam"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12284.078125,
+      "left": 619.15625,
+      "height": 472.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/simone-tebet-apoio-lula-abismo.htm",
+    "title": "'Mergulhei num abismo, mas por convicção', diz Tebet sobre risco político de apoio a Lula"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12284.078125,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/10/morre-jerry-lee-lewis-um-dos-nomes-mais-importantes-do-rock-and-roll-aos-87-anos.shtml",
+    "title": "Morre Jerry Lee Lewis, um dos nomes mais importantes do rock and roll, aos 87 anos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11962.96875,
+      "left": 873.328125,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/tse-atende-lula-e-suspende-direito-de-resposta-concedido-a-bolsonaro.htm",
+    "title": "TSE atende Lula e suspende direito de resposta concedido a Bolsonaro"
+  }
+]

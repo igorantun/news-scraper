@@ -1,0 +1,8581 @@
+[
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/11/01/bolsonaro-discurso-eleicoes-derrota-lula.htm",
+    "appearances": 14,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 70
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/04/meirelles-defende-furar-teto-como-excepcionalidade-nao-ha-alternativa.htm",
+    "appearances": 14,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 70
+  },
+  {
+    "link": "http://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/defesa-nao-apresenta-fraude-ou-falha-e-cita-risco-hipotetico-sobre-urnas.htm",
+    "appearances": 14,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "score": 69
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/o-que-fez-gabigol-firmino-e-outros-ficarem-pelo-caminho-na-briga-pela-copa.htm",
+    "appearances": 14,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "score": 66
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/tse-desmonetiza-brasil-paralelo-e-intima-carlos-bolsonaro-por-fake-news.htm",
+    "appearances": 12,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 60
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/debate-globo-segundo-turno-lula-bolsonaro.htm",
+    "appearances": 12,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 60
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/12/escalada-da-fome-gera-1-milhao-de-menores-com-desnutricao-no-pais-em-2022.htm",
+    "appearances": 12,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "score": 57
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/bolsonaro-pede-apoiadores-liberacao-rodovias.htm",
+    "appearances": 16,
+    "positions": [
+      0,
+      0,
+      0,
+      3,
+      0,
+      3,
+      3,
+      3,
+      1,
+      1,
+      3,
+      1,
+      3,
+      1,
+      1,
+      1
+    ],
+    "score": 56
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/tarcisio-haddad-colunistas-debate.htm",
+    "appearances": 14,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      4
+    ],
+    "score": 53
+  },
+  {
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/17/bolsonaro-noite-clamor-catolicos-brasilia.htm",
+    "appearances": 13,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 52
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-49-e-bolsonaro-45-brancos-e-nulos-somam-4-e-indecisos-1.shtml",
+    "appearances": 11,
+    "positions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "score": 52
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/bolsonaro-sai-do-serio-apos-debate-e-e-retirado-de-coletiva-por-assessores.htm",
+    "appearances": 13,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 52
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/valdemar-evita-reconhecer-derrota-de-bolsonaro-e-diz-esperar-relatorio-da-defesa.shtml",
+    "appearances": 13,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 52
+  },
+  {
+    "link": "https://economia.uol.com.br/cotacoes/noticias/redacao/2022/11/10/dolar-10-de-novembro-de-2022.htm",
+    "appearances": 12,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 51
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-poder-de-policia-remover-fake-news.htm",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 50
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aras-vai-ao-stf-contra-resolucao-que-ampliou-poderes-do-tse-para-combater-fake-news.shtml",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 50
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-se-entrega-a-pf-depois-de-atirar-contra-policiais.htm",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 50
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/stf-determina-retorno-de-governador-de-alagoas-ao-cargo.shtml",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 50
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/29/zambelli-arma-rua-sp.htm",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 50
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministra-do-tse-suspende-direitos-de-resposta-dados-a-lula-na-reta-final-da-campanha.shtml",
+    "appearances": 12,
+    "positions": [
+      1,
+      1,
+      2,
+      1,
+      0,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 49
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/alckmin-confirma-nucleos-economico-desenvolvimento-social-transicao.htm",
+    "appearances": 14,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      3,
+      0,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 49
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/04/quem-vai-comandar-o-exercito-lula-ja-tem-nomes-na-manga-veja-quais-sao.htm",
+    "appearances": 16,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 48
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/06/morre-guilherme-de-padua-assassino-da-filha-de-gloria-perez.htm",
+    "appearances": 10,
+    "positions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      3
+    ],
+    "score": 46
+  },
+  {
+    "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2022/11/12/covid-19-internacoes-casos-hospitais-privados-sus-einstein-sirio-libanes.htm",
+    "appearances": 12,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      2
+    ],
+    "score": 46
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/motivacao-tiroteio-e-nova-operacao-em-paraisopolis.htm",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/policia-de-sp-pedira-integra-de-videos-da-jovem-pan-que-equipe-de-tarcisio-mandou-apagar.shtml",
+    "appearances": 11,
+    "positions": [
+      1,
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/debate-globo-governo-sp-27-de-outubro.htm",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/30/lideres-mundiais-reconhecem-vitoria-de-lula-para-sufocar-acao-de-bolsonaro.htm",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/31/moraes-ordena-que-prf-desobstrua-todos-os-bloqueios-em-vias-imediatamente.htm",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/centrao-de-lira-acena-com-base-de-sustentacao-para-lula-na-camara.shtml",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bolsonaro-reiterou-compromissos-da-transicao-diz-alckmin-apos-encontro.htm",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://educacao.uol.com.br/noticias/2022/11/06/governo-lula-mec-desafios.htm",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/equipe-de-lula-quer-pec-com-r-175-bilhoes-fora-do-teto-para-bolsa-familia-por-4-anos.shtml",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 45
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/lula-crescimento-segundo-turno-votos.htm",
+    "appearances": 14,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 44
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/24/moraes-da-24-h-para-campanha-de-bolsonaro-mostrar-prova-de-fraude-em-radios.htm",
+    "appearances": 13,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 44
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/moraes-arquiva-acao-de-bolsonaro-no-tse-sobre-insercoes-de-radio.htm",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 44
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/prf-manda-agentes-ficharem-nome-de-donos-de-caminhoes-para-inquerito-de-moraes.shtml",
+    "appearances": 11,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 44
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/o-gigante-voltou-vasco-sofre-mas-vence-ituano-e-esta-na-serie-a.htm",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 44
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/22/governo-corta-87-de-doacao-de-leite-a-familias-na-miseria-em-nordeste-e-mg.htm",
+    "appearances": 13,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      0
+    ],
+    "score": 41
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/02/flamengo-x-corinthians---brasileirao-2022.htm",
+    "appearances": 12,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      3,
+      0,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 41
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/fluminense-x-sao-paulo-36-rodada-brasileirao.htm",
+    "appearances": 11,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 41
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/bolsonaro-e-lula-se-comprometem-a-nao-mexer-no-numero-de-ministros-do-stf.htm",
+    "appearances": 8,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 40
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/20/sao-paulo-x-coritiba.htm",
+    "appearances": 8,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 40
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/tse-mantem-direito-de-resposta-de-lula-em-programa-de-bolsonaro.htm",
+    "appearances": 8,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 40
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/29/campanha-de-bolsonaro-ve-erros-de-zambelli-e-faz-calculo-do-estrago.htm",
+    "appearances": 11,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 40
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/caminhoneiros-bolsonaristas-fecham-estrada-em-mt-nao-vamos-aceitar.htm",
+    "appearances": 8,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 40
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/05/pt-governadores-oposicao-apoiadores.htm",
+    "appearances": 8,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 40
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/10/botafogo-x-santos----campeonato-brasileiro.htm",
+    "appearances": 8,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 40
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/live-janones-lula.htm",
+    "appearances": 13,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 39
+  },
+  {
+    "link": "https://noticias.uol.com.br/opiniao/coluna/2022/10/23/roberto-jefferson-e-jair-bolsonaro.htm",
+    "appearances": 10,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "score": 39
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/30/lula-vence-na-australia-coreia-e-nova-zelandia-bolsonaro-vence-no-japao.htm",
+    "appearances": 8,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "score": 39
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/china-nao-descarta-uso-da-forca-para-reunificar-taiwan-diz-xi-no-congresso-do-pc.shtml",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      4,
+      4
+    ],
+    "score": 38
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/ipec-governo-sp-25-de-outubro.htm",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 38
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/edir-macedo-lula-novo-video.htm",
+    "appearances": 10,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3
+    ],
+    "score": 38
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/putin-declara-lei-marcial-em-areas-anexadas-e-alerta-maximo-na-russia.shtml",
+    "appearances": 8,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0
+    ],
+    "score": 37
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/marina-e-xingada-por-bolsonaristas-em-mg-lula-e-tebet-repudiam-covarde.htm",
+    "appearances": 16,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      4,
+      4,
+      4,
+      4,
+      4,
+      1,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 37
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/ipec-pesquisa-eleitoral-lula-bolsonaro-24-outubro-2022.htm",
+    "appearances": 11,
+    "positions": [
+      0,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "score": 37
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/procuradores-gerais-moraes-financiadores-atos-antidemocraticos.htm",
+    "appearances": 15,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      3,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 37
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/vergonha-alheia-diz-ministro-do-stf-sobre-nota-da-defesa-que-nao-descarta-fraude.shtml",
+    "appearances": 11,
+    "positions": [
+      1,
+      1,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 37
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/no-flow-lula-faz-apelo-para-que-eleitores-votem-e-cita-transporte-gratuito.htm",
+    "appearances": 9,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 36
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fachin-defende-resolucao-tse-de-combate-as-fake-news-e-nega-pedido-de-aras.shtml",
+    "appearances": 9,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 36
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/26/bolsonaro-manipula-e-tira-jefferson-das-redes-e-das-manchetes.htm",
+    "appearances": 11,
+    "positions": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 36
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/efetivo-prf-eleicoes-e-bloqueios.htm",
+    "appearances": 9,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 36
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/datas-jogos-brasil-copa-do-mundo-2022.htm",
+    "appearances": 9,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 36
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/07/justica-do-rj-decreta-prisao-de-gabriel-monteiro-em-caso-de-estupro.htm",
+    "appearances": 12,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 36
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/11/moraes-manda-desbloquear-vias-em-todo-pais-e-determina-multa-de-r-100-mil.htm",
+    "appearances": 9,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 36
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/22/palmeiras-x-avai---brasileirao.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 35
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/23/correcao-da-tabela-do-imposto-de-renda.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 35
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-reforca-ataques-ao-tse-na-reta-final-e-pavimenta-3o-turno-em-caso-de-derrota.shtml",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 35
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/santos-cruz-bolsonaro-criou-universo-de-militares-salvadores-e-nao-sao.htm",
+    "appearances": 9,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "score": 35
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/04/numero-de-cidades-com-favela-quadruplica-desde-1985-no-pais-aponta-estudo.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 35
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/corinthians-x-ceara.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 35
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/08/sao-paulo-x-internacional-campeonato-brasileiro.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 35
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/debate-lula-bolsonaro-repercussao.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    "score": 34
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/24/sete-erros-no-caso-jefferson-revelam-bolsonaro-vacilante.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "score": 34
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/canto-de-gal-costa-partiu-de-joao-gilberto-para-inventar-um-brasil.shtml",
+    "appearances": 10,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 34
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-quer-rever-norma-de-bolsonaro-e-limitar-tempo-de-militar-em-cargo-politico.shtml",
+    "appearances": 9,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      4,
+      4
+    ],
+    "score": 33
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/27/qg-de-bolsonaro-chega-a-reta-final-rachado-e-bolsonaro-estuda-saida-aecio.htm",
+    "appearances": 9,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "score": 33
+  },
+  {
+    "link": "https://noticias.uol.com.br/videos/2022/10/23/roberto-jefferson-atira-contra-pf-apos-ordem-de-prisao-por-moraes.htm",
+    "appearances": 11,
+    "positions": [
+      3,
+      1,
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      3
+    ],
+    "score": 32
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/fabio-faria-diz-que-tentou-conciliacao-com-tse-e-se-arrepende-profundamente-de-entrevista-das-radios.shtml",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      0,
+      0
+    ],
+    "score": 32
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/resumo-pesquisas-presidencial.htm",
+    "appearances": 10,
+    "positions": [
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 32
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ciro-nogueira-e-mourao-quebram-silencio-do-governo-e-conversam-com-equipe-de-lula-e-alckmin.shtml",
+    "appearances": 8,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 32
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/02/atletico-go-x-santos---serie-a.htm",
+    "appearances": 8,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 32
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/atletico-mg-x-botafogo---serie-a.htm",
+    "appearances": 8,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 32
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/10/22/rosangela-sergio-moro-nao-acompanha-ex-juiz-campanha-bolsonaro.htm",
+    "appearances": 15,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      4
+    ],
+    "score": 31
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/coritiba-x-flamengo-36-rodada-brasileirao.htm",
+    "appearances": 12,
+    "positions": [
+      0,
+      0,
+      3,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 31
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/cuiaba-x-palmeiras-campeonato-brasileiro.htm",
+    "appearances": 10,
+    "positions": [
+      2,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 31
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/15/flamengo-x-atletico-mg.htm",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/datafolha-e-alerta-mas-e-impossivel-bolsonaro-tirar-a-vantagem-diz-lula.htm",
+    "appearances": 8,
+    "positions": [
+      2,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/governo-bolsonaro-concedeu-r-21-bilhoes-extras-a-eleitores-na-campanha.htm",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pf-vai-a-casa-de-roberto-jefferson-por-ordem-do-stf-e-policial-fica-ferida.shtml",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/equipe-de-tarcisio-mandou-cinegrafista-apagar-video-de-tiroteio-em-paraisopolis-ouca-audio.shtml",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/25/athletico-pr-x-palmeiras.htm",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/26/inter-x-ceara.htm",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-49-e-bolsonaro-44-brancos-e-nulos-sao-5-e-indecisos-2.shtml",
+    "appearances": 10,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      4,
+      4,
+      4,
+      4,
+      4,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/eleicoes-2022-debate-rio-grande-do-sul-segundo-turno.htm",
+    "appearances": 9,
+    "positions": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/03/alckmin-e-cupula-do-pt-participam-de-reuniao-com-relator-do-orcamento.htm",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2022/11/09/nova-onda-covid-19-aumento-de-casos-internacoes.htm",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/thiago-herdy/2022/11/11/caetano-veloso-e-gilberto-gil-participam-do-enterro-de-gal-costa.htm",
+    "appearances": 10,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 30
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-tarcisio-tem-49-e-haddad-40-indecisos-sao-3-e-brancos-e-nulos-8.shtml",
+    "appearances": 10,
+    "positions": [
+      2,
+      1,
+      1,
+      3,
+      2,
+      3,
+      3,
+      3,
+      3,
+      0
+    ],
+    "score": 29
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/haddad-diz-que-tarcisio-propoe-barbaridades-e-quer-trazer-centrao-para-sp.htm",
+    "appearances": 8,
+    "positions": [
+      0,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2,
+      1
+    ],
+    "score": 29
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/kassab-vai-negociar-apoio-do-pt-a-pacheco-nao-ha-porque-lula-criar-disputa.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 29
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/thais-oyama/2022/11/09/stf-teme-que-bolsonaro-use-relatorio-das-forcas-para-reanimar-golpismo.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      3,
+      0,
+      3,
+      0,
+      0
+    ],
+    "score": 29
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-terao-primeiro-embate-na-tv-sem-coadjuvantes.shtml",
+    "appearances": 12,
+    "positions": [
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 28
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ordem-de-equipe-de-tarcisio-pode-configurar-crime-e-especialistas-defendem-apuracao.shtml",
+    "appearances": 8,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 28
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-bolsonaro-divulgou-acao-sobre-radios-25-horas-apos-prisao-de-roberto-jefferson.shtml",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 28
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/intolerancia-apos-2o-turno-amplia-conflitos-familiares-com-insultos-e-expulsao-de-casa.shtml",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 28
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/aliados-de-lula-querem-esvaziar-ministerio-da-justica-para-turbinar-seguranca-publica.shtml",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ],
+    "score": 28
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/internacional-x-athletico---brasileirao.htm",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 28
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop27-convoca-lideres-mundiais-a-dar-respostas-imediatas-para-crise-climatica.shtml",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 28
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lira-retoma-pressao-e-quer-urgencia-para-votar-projeto-que-criminaliza-institutos-de-pesquisa.shtml",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      1,
+      1,
+      1,
+      1,
+      4
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/18/ministro-da-defesa-se-encontra-com-moraes-mas-nao-entrega-documentos.htm",
+    "appearances": 9,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/lula-carta-evangelicos-encontro-sp.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/treinado-apos-ultimo-debate-lula-controla-tempo-e-foge-de-pegadinhas.htm",
+    "appearances": 9,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/derrotado-bolsonaro-perde-foro-privilegiado-e-pode-ter-decretos-expostos.htm",
+    "appearances": 9,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/11/01/mentiras-sobre-artigo-142-da-constituicao-federal.htm",
+    "appearances": 9,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/compilat-atos-bolsonaristas-quarteis-e-rodovias.htm",
+    "appearances": 9,
+    "positions": [
+      3,
+      2,
+      3,
+      2,
+      2,
+      2,
+      0,
+      2,
+      2
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/05/lula-retorna-a-sao-paulo-apos-dias-na-bahia-e-vai-integrar-processo-de-transicao.htm",
+    "appearances": 11,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/aliados-de-lula-resistem-a-separacao-de-ministerios-da-justica-e-seguranca-publica.shtml",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      3,
+      2
+    ],
+    "score": 27
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/entrevista-bolsonaro-sbt-dia-21.htm",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      3,
+      1,
+      1
+    ],
+    "score": 26
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/pautas-de-costume-segundo-turno-lula-bolsonaro.htm",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "score": 26
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/23/bolsonaro-sobre-roberto-jefferson-nao-tem-uma-foto-dele-comigo.htm",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      3
+    ],
+    "score": 26
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/centrao-e-aliados-de-lula-aceitam-negociar-mudancas-em-emendas-de-relator.shtml",
+    "appearances": 6,
+    "positions": [
+      4,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 26
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/aliados-defendem-bolsonaro-fora-das-eleicoes-de-2026-e-ja-apostam-em-tarcisio-presidente.shtml",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      2,
+      1,
+      1,
+      2,
+      1
+    ],
+    "score": 26
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/tiros-em-paraisopolis-nao-tinham-tarcisio-como-alvo-dizem-pms-da-regiao.htm",
+    "appearances": 5,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 25
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-disse-em-2020-que-bolsonaro-era-seu-amigo-pessoal-veja.htm",
+    "appearances": 11,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2,
+      2,
+      3
+    ],
+    "score": 25
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ironia-e-narrativa-de-censura-mantem-no-ar-conteudos-que-o-tse-tenta-remover.shtml",
+    "appearances": 5,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 25
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/11/11/comandantes-forcas-armadas-manifestacoes-legitimas.htm",
+    "appearances": 5,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 25
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/2022/11/12/corrida-sprint-gp-de-interlagos.htm",
+    "appearances": 7,
+    "positions": [
+      2,
+      0,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "score": 25
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/perrone/2022/10/15/veto-a-torcida-visitante-faz-stjd-suspender-jogo-entre-goias-e-corinthians.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-diz-que-pt-ultrapassou-todos-os-limites-ao-mencionar-video-sobre-venezuelanas-em-que-fala-pintou-um-clima.shtml",
+    "appearances": 7,
+    "positions": [
+      3,
+      3,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/tales-faria/2022/10/16/lula-e-bolsonaro-empatam-no-melhor-debate-presidencial-dos-ultimos-anos.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/ipec-lula-bolsonaro-pesquisa-eleitoral-pesquisa-presidencial-eleicoes.htm",
+    "appearances": 12,
+    "positions": [
+      1,
+      1,
+      4,
+      1,
+      4,
+      4,
+      1,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-cita-bolsonarismo-consolidado-e-diz-que-vamos-ter-problema-apos-ganhar-eleicao.shtml",
+    "appearances": 8,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/jair-bolsonaro-sabatina-justica.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/em-igreja-bolsonaro-diz-que-colocou-guerreiro-no-stf-para-nos-defender.htm",
+    "appearances": 8,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/tales-faria/2022/10/24/nao-aceitarei-ser-abandonado-e-o-recado-de-jefferson-a-bolsonaro.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/26/sob-bolsonaro-cadastro-federal-ganha-mais-10-milhoes-de-pessoas-na-miseria.htm",
+    "appearances": 5,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/primeiro-desafio-de-lula-e-negociar-com-congresso-novo-orcamento.shtml",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/lula-indicara-2-novos-ministros-e-podera-ampliar-influencia-no-stf.htm",
+    "appearances": 6,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      3,
+      3
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/prf-diz-ter-identificado-casos-de-policiais-supostamente-ajudando-golpistas.htm",
+    "appearances": 5,
+    "positions": [
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/mpf-pede-inquerito-contra-nelson-piquet.htm",
+    "appearances": 8,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/05/demandas-setores-governo-lula.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/convocacao-selecao-brasileira-tite-copa-do-mundo.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/09/palmeiras-x-america-mg-campeonato-brasileiro.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/11/fim-do-mito-argentina-e-a-selecao-estrangeira-que-o-brasileiro-mais-gosta.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/12/alckmin-resgata-perfil-conciliador-um-deja-vu-do-fim-da-era-covas-em-sp.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 24
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/venezuelana-diz-que-casa-abrigava-acao-social-durante-visita-de-bolsonaro.htm",
+    "appearances": 7,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      1,
+      1,
+      2
+    ],
+    "score": 23
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/plano-de-guedes-preve-salario-minimo-e-aposentadoria-sem-correcao-pela-inflacao-passada.shtml",
+    "appearances": 6,
+    "positions": [
+      0,
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "score": 23
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/bolsonaro-ignora-legislacao-e-questiona-lei-maria-da-penha-no-casamento-gay.htm",
+    "appearances": 7,
+    "positions": [
+      1,
+      2,
+      2,
+      1,
+      2,
+      2,
+      2
+    ],
+    "score": 23
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/10/17/debate-cordial-de-lula-e-bolsonaro-e-pausa-hipocrita-na-eleicao-da-baixaria.htm",
+    "appearances": 8,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      1,
+      1,
+      1
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://www.uol.com.br/splash/colunas/lucas-pasin/2022/10/18/o-que-fez-gusttavo-lima-encabecar-evento-de-bolsonaro-com-sertanejos.htm",
+    "appearances": 11,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/bolsonaro-igreja-mundial-apostolo-valdemiro-santiago.htm",
+    "appearances": 8,
+    "positions": [
+      1,
+      1,
+      3,
+      3,
+      3,
+      3,
+      3,
+      1
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-acumula-desculpas-para-tentar-se-afastar-do-ataque-de-roberto-jefferson-a-policiais.shtml",
+    "appearances": 5,
+    "positions": [
+      1,
+      1,
+      0,
+      1,
+      0
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/27/pf-suspeita-roberto-jefferson-granadas-fuzis-pregos-tentativa-homicidio.htm",
+    "appearances": 11,
+    "positions": [
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/moraes-veta-qualquer-acao-da-prf-sobre-transporte-gratuito-no-2-turno.htm",
+    "appearances": 10,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      2
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/equipe-de-lula-cede-vaga-para-mdb-na-transicao-e-tera-primeira-reuniao-com-ciro-nogueira.shtml",
+    "appearances": 13,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      2,
+      4,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/pm-diz-que-esta-prevaricando-em-conversa-com-manifestantes.htm",
+    "appearances": 11,
+    "positions": [
+      4,
+      2,
+      3,
+      3,
+      3,
+      3,
+      2,
+      4,
+      3,
+      2,
+      4
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/pf-abre-investigacao-contra-diretor-geral-da-prf-por-atuacao-nas-eleicoes.shtml",
+    "appearances": 10,
+    "positions": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 22
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/mauricio-stycer/2022/10/16/com-formato-moderno-debate-nao-da-sono-e-estabelece-novo-padrao-no-genero.htm",
+    "appearances": 7,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/convidado-surpresa-e-separacao-de-torcida-os-bastidores-do-debate.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/18/defesa-deve-argumentar-que-nao-fez-auditoria-nem-tem-relatorio-das-eleicoes.htm",
+    "appearances": 5,
+    "positions": [
+      0,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/10/24/policial-federal-rendicao-video-jefferson-vestir-personagem.htm",
+    "appearances": 7,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/lula-vota-em-sao-bernardo-pela-manha.htm",
+    "appearances": 7,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      4,
+      3,
+      3
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/31/joelho-falhou-afirma-seguranca-de-zambelli-sobre-tiro.htm",
+    "appearances": 7,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/prf-bloqueios-rodovias.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      4
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/bolsonaristas-xingam-ministro-do-stf-de-lixo-pm-diz-que-ato-foi-pacifico.htm",
+    "appearances": 7,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pt-deve-deixar-regra-substituta-do-teto-de-gastos-para-2023.shtml",
+    "appearances": 7,
+    "positions": [
+      1,
+      2,
+      3,
+      1,
+      1,
+      3,
+      3
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-ve-papel-humilhante-das-forcas-armadas-cobra-bolsonaro-e-elogia-moraes-nas-eleicoes.shtml",
+    "appearances": 5,
+    "positions": [
+      0,
+      0,
+      2,
+      1,
+      1
+    ],
+    "score": 21
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/19/quais-sao-as-propostas-de-lula-e-bolsonaro-para-a-economia.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/20/liz-truss-anuncio-downing-street.htm",
+    "appearances": 7,
+    "positions": [
+      0,
+      0,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/21/tj-de-minas-aprova-verba-retroativa-para-magistrados-que-custa-r-5-bilhoes.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/23/capital-bolsonarista-do-nordeste-maceio-apoio-presidente.htm",
+    "appearances": 10,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-renega-jefferson-tenta-vincula-lo-a-lula-e-transformar-episodio-em-gesto-de-apoio-a-pf.shtml",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/nao-sera-um-governo-do-pt-mas-do-povo-brasileiro-diz-lula-ao-lado-de-meirelles-persio-arida-e-tebet.shtml",
+    "appearances": 6,
+    "positions": [
+      2,
+      2,
+      1,
+      2,
+      2,
+      1
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pericia-da-pf-ve-indicios-de-que-roberto-jefferson-premeditou-ataque-a-policiais.shtml",
+    "appearances": 6,
+    "positions": [
+      0,
+      1,
+      0,
+      3,
+      3,
+      3
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/acusacao-fraude-radios-nordeste-bolsonaro-lula.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/quem-venceu-o-debate-colunistas-avaliam.htm",
+    "appearances": 10,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/bolsonaro-vai-ao-stf-apos-pronunciamento-sobre-eleicoes.htm",
+    "appearances": 10,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-calibra-escolha-de-ministros-para-evitar-desfalque-no-senado.shtml",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://www.uol.com.br/vivabem/noticias/redacao/2022/11/07/estudo-consumo-de-ultraprocessados-provoca-57-mil-mortes-ao-ano-no-brasil.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/treinos-de-animal-psicologia-e-evolucao-como-dani-alves-chegou-a-copa.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/moraes-mantem-ofensiva-contra-bolsonaristas-mesmo-apos-eleicao.shtml",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "score": 20
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/thiago-herdy/2022/10/19/candidato-bolsonaro-tarcisio-emprestou-domicilio-eleitoral-para-sobrinho.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "score": 19
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-vota-nesta-5a-poder-amplo-para-agir-contra-fake-news-eleitoral-sem-ministerio-publico.shtml",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "score": 19
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-publica/2022/10/27/matar-e-quebrar-urnas-evangelico-lider-de-motociata-incentiva-crimes-no-telegram.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      2,
+      1,
+      1,
+      1
+    ],
+    "score": 19
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/desempenho-tarcisio-haddad-debate-globo.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "score": 19
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2022/11/08/cbf-inicia-campanha-para-dissociar-politica-da-camisa-da-selecao.htm",
+    "appearances": 7,
+    "positions": [
+      4,
+      2,
+      2,
+      2,
+      1,
+      1,
+      4
+    ],
+    "score": 19
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/11/velorio-gal-costa.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      1,
+      2,
+      1,
+      1
+    ],
+    "score": 19
+  },
+  {
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/11/mp-denuncia-politico-do-pl-por-abuso-sexual-de-duas-netas.htm",
+    "appearances": 11,
+    "positions": [
+      4,
+      3,
+      4,
+      3,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 19
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/15/palmeiras-define-estrategia-de-mercado-para-2023-e-mantera-espinha-dorsal.htm",
+    "appearances": 6,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/10/22/pgr-deve-pedir-ao-stf-volta-de-roberto-jefferson-para-prisao.htm",
+    "appearances": 9,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/stf-julgamento-resolucao-tse-fake-news.htm",
+    "appearances": 5,
+    "positions": [
+      0,
+      2,
+      2,
+      3,
+      0
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/tiros-em-paraisopolis-agenda-tarcisio-suspeita-de-fraude-processual.htm",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      1,
+      4,
+      1,
+      4
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/30/seguranca-de-zambelli-e-preso-apos-atirar-durante-perseguicao-a-homem-negro.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      1,
+      1,
+      1,
+      3
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/jair-bolsonaro-repercussao-eleicoes.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-prepara-novo-governo-sob-incerteza-de-colaboracao-de-bolsonaro-para-transicao.shtml",
+    "appearances": 6,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/31/cupula-do-clima-convida-lula-e-consolida-isolamento-de-bolsonaro.htm",
+    "appearances": 10,
+    "positions": [
+      4,
+      3,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/reportagens-especiais/alemanha-ja-nao-e-a-do-7-a-1-e-aposta-nisso-para-supreender-na-copa-2022/#cover",
+    "appearances": 6,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bolsonaristas-agridem-estudantes-em-jundiai.htm",
+    "appearances": 10,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      3,
+      4,
+      3
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/golpistas-reinterpretam-bolsonaro-pedem-pix-e-enxotam-divergentes-em-grupo.htm",
+    "appearances": 5,
+    "positions": [
+      2,
+      2,
+      1,
+      1,
+      1
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-tem-semana-pos-eleicao-recluso-e-sem-agenda-de-trabalho-motociata-ou-comentarios-nas-redes.shtml",
+    "appearances": 9,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/realidade-paralela-de-grupos-antidemocraticos-soma-medo-a-teorias-conspiratorias.shtml",
+    "appearances": 6,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/veja-o-ranking-dos-clubes-que-mais-cederam-jogadores-para-o-brasil-em-copas.htm",
+    "appearances": 6,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/equipe-de-lula-avalia-mix-de-instrumentos-para-viabilizar-r-175-bi-fora-do-teto.shtml",
+    "appearances": 9,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mundo/2022/11/haddad-cresce-na-bolsa-de-apostas-do-itamaraty-em-paralelo-a-diplomatas.shtml",
+    "appearances": 6,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 18
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/26/copom-selic-juros-banco-central-outubro-2022.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "score": 17
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/defesa-fez-auditoria-eleitoral-apesar-de-negar-ao-tse-mostram-emails.shtml",
+    "appearances": 6,
+    "positions": [
+      3,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 17
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/09/gal-costa-deixa-um-filho-gabriel-de-17-anos-ele-mudou-a-minha-vida.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      2,
+      1,
+      2,
+      2
+    ],
+    "score": 17
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/lula-primeira-fala-gabinete-de-transicao.htm",
+    "appearances": 4,
+    "positions": [
+      1,
+      1,
+      0,
+      1
+    ],
+    "score": 17
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/video-projeto-de-cabelereiros-atendia-venezuelanas-quando-bolsonaro-chegou.htm",
+    "appearances": 4,
+    "positions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/17/red-bull-bragantino-x-santos.htm",
+    "appearances": 8,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/guerra-contra-abstencao-tem-feriado-adiado-transporte-gratuito-e-aliados-mobilizados.shtml",
+    "appearances": 6,
+    "positions": [
+      1,
+      1,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/21/cnj-suspende-pagamento-verbas-retroativas-tjmg-adicional-tempo-servico.htm",
+    "appearances": 4,
+    "positions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/economia-contradiz-guedes-e-diz-que-basta-ter-recursos-para-dar-aumento-real-no-salario-minimo.shtml",
+    "appearances": 9,
+    "positions": [
+      4,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/24/stf-determina-que-roberto-jefferson-continue-preso-e-va-para-bangu-8.htm",
+    "appearances": 8,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/toledo-lula-deu-aula-de-tatica-em-debate-bolsonaro-teve-estrategia-burra.htm",
+    "appearances": 8,
+    "positions": [
+      4,
+      4,
+      4,
+      2,
+      4,
+      2,
+      2,
+      2
+    ],
+    "score": 16
+  },
+  {
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/29/lula-caminhada-paulista.htm",
+    "appearances": 11,
+    "positions": [
+      1,
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/serei-a-maior-oposicao-diz-zambelli-sobre-vitoria-de-lula.htm",
+    "appearances": 8,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://tab.uol.com.br/colunas/matheus-pichonelli/2022/10/30/brasil-tem-nova-chance-de-deixar-piada-bolsonaro-no-canto-da-irrelevancia.htm",
+    "appearances": 12,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      2
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aliados-sugerem-a-bolsonaro-discurso-em-que-reconheca-derrota-e-aponte-injusticas.shtml",
+    "appearances": 4,
+    "positions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lira-e-centrao-ficam-fortalecidos-com-pec-da-transicao-articulada-por-equipe-de-lula.shtml",
+    "appearances": 4,
+    "positions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/fica-em-casa-bolsonaro-mantem-rotina-home-office-apos-perder-a-eleicao.htm",
+    "appearances": 4,
+    "positions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/11/lula-escolhe-padilha-costa-temporao-uip-e-chioro-para-transicao-na-saude.shtml",
+    "appearances": 4,
+    "positions": [
+      1,
+      1,
+      1,
+      1
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/bolsonaro-nomeacao-tse.htm",
+    "appearances": 8,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/11/renda-de-brancos-e-o-dobro-da-de-pretos-e-pardos-e-a-diferenca-aumentou.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      0,
+      4
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/2022/11/11/qualificatorio-sprint-race-gp-de-sao-paulo-f1.htm",
+    "appearances": 12,
+    "positions": [
+      3,
+      3,
+      4,
+      3,
+      4,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 16
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/40-dos-estreantes-na-camara-foram-alvos-de-acao-ou-investigacao.shtml",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      3
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/moraes-da-48-horas-para-defesa-entregar-eventual-auditoria-das-urnas.htm",
+    "appearances": 3,
+    "positions": [
+      0,
+      0,
+      0
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tour-de-michelle-em-sp-tem-fake-news-damares-e-padre-kelmon.shtml",
+    "appearances": 5,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/carla-araujo-bolsonaro-roberto-jefferson-tiros-desgaste-campanha.htm",
+    "appearances": 3,
+    "positions": [
+      0,
+      0,
+      0
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/lula-26-de-outubro.htm",
+    "appearances": 9,
+    "positions": [
+      4,
+      4,
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/cinegrafista-relata-pressao-de-equipe-de-tarcisio-e-diz-que-filmou-pessoas-a-paisana-atirando.shtml",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      2,
+      2,
+      2,
+      3
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://piaui.folha.uol.com.br/eleicoes-2022/bastidores-prisao-roberto-jefferson-honestamente-ministro-piorar-circo/",
+    "appearances": 3,
+    "positions": [
+      0,
+      0,
+      0
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/bolsonaro-vota-as-8h-no-rio-assim-que-escola-abriu-para-as-portas.htm",
+    "appearances": 7,
+    "positions": [
+      1,
+      3,
+      3,
+      2,
+      3,
+      4,
+      4
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/31/liberacao-vias-decisao-moraes.htm",
+    "appearances": 3,
+    "positions": [
+      0,
+      0,
+      0
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/01/torcedores-corinthians-bloqueio-sao-paulo.htm",
+    "appearances": 5,
+    "positions": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/02/corintianos-tomam-faixas-bolsonaristas-e-furam-bloqueios-em-rodovias.htm",
+    "appearances": 10,
+    "positions": [
+      2,
+      2,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/multas-bloqueios-rodovias-bolsonaristas.htm",
+    "appearances": 3,
+    "positions": [
+      0,
+      0,
+      0
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/philippe-coutinho-esta-fora-da-copa-do-mundo-por-lesao-muscular.htm",
+    "appearances": 11,
+    "positions": [
+      1,
+      4,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://economia.uol.com.br/cotacoes/noticias/redacao/2022/11/11/dolar-b3-mercado-financeiro-ibovespa-queda-alta.htm",
+    "appearances": 3,
+    "positions": [
+      0,
+      0,
+      0
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/12/flamengo-x-avai---campeonato-brasileiro.htm",
+    "appearances": 3,
+    "positions": [
+      0,
+      0,
+      0
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/12/parias-bolsonaro-e-putin-ficam-de-fora-da-cupula-do-g20.htm",
+    "appearances": 3,
+    "positions": [
+      0,
+      0,
+      0
+    ],
+    "score": 15
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/tiroteio-paraisopolis-interrompe-ato-campanha-tarcisio.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      0,
+      0
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/barroso-libera-prefeitos-para-oferecerem-transporte-de-graca-a-eleitores.shtml",
+    "appearances": 4,
+    "positions": [
+      0,
+      2,
+      2,
+      2
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/stf-julgamento-virtual-tranporte-publico-gratuito-segundo-turno.htm",
+    "appearances": 9,
+    "positions": [
+      3,
+      4,
+      4,
+      4,
+      4,
+      0,
+      4,
+      4,
+      4
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/mesmo-fora-da-urna-numero-de-bolsonaro-tem-521-mil-votos-ao-governo-de-sp.htm",
+    "appearances": 8,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      4,
+      4
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/josias-de-souza/2022/10/20/campanha-de-bolsonaro-ve-sabotagem-em-vazamento-de-plano-de-guedes.htm",
+    "appearances": 7,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/23/cinegrafista-da-tv-globo-e-agredido-por-apoiadores-de-roberto-jefferson.htm",
+    "appearances": 10,
+    "positions": [
+      2,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/monica-bergamo-bolsonaro-roberto-jefferson-desastre-campanha.htm",
+    "appearances": 6,
+    "positions": [
+      2,
+      2,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/josias-de-souza/2022/10/27/bolsonaro-precisa-de-goleada-no-debate-da-globo-lula-joga-pelo-zero-a-zero.htm",
+    "appearances": 6,
+    "positions": [
+      2,
+      3,
+      2,
+      3,
+      3,
+      3
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/bolsonaro-faz-campanha-em-bh-ao-lado-de-zema-na-vespera-do-2-turno.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      1,
+      3,
+      2,
+      4
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/silencio-de-bolsonaro-pos-derrota-teve-conversa-com-militares-e-apelos-por-declaracao.shtml",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      1,
+      3,
+      1
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/05/quem-e-ciro-nogueira-bolsonarista-que-faz-transicao-de-governo-com-alckmin.htm",
+    "appearances": 7,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/05/bolsonaro-deixa-rombo-e-brasil-pode-perder-direito-de-voto-na-fao.htm",
+    "appearances": 7,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/decisoes-do-tse-sob-moraes-devem-servir-de-parametro-para-as-proximas-eleicoes.shtml",
+    "appearances": 7,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/flavio-e-eduardo-bolsonaro-pedem-cidadania-italiana-em-embaixada-diz-site.htm",
+    "appearances": 14,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/tales-faria/2022/11/09/lula-acerta-com-lira-aprovacao-da-pec-da-transicao-ate-15-de-de-dezembro.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      3,
+      3
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/10/toledo-mercado-chantageia-histeria-e-causa-e-consequencia-da-fala-de-lula.htm",
+    "appearances": 4,
+    "positions": [
+      1,
+      2,
+      2,
+      1
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-se-fecha-no-alvorada-apos-derrota-e-articula-futuro-como-lider-da-direita.shtml",
+    "appearances": 9,
+    "positions": [
+      4,
+      4,
+      3,
+      3,
+      3,
+      4,
+      3,
+      4,
+      3
+    ],
+    "score": 14
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/25/susana-naspolini-reporter-da-globo-morre-aos-49-anos.htm",
+    "appearances": 7,
+    "positions": [
+      4,
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 13
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/11/06/cla-bolsonaro-brigas-campanha-carlos-michelle-jair-eduardo-flavio.htm",
+    "appearances": 13,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 13
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/15/haddad-amoedo.htm",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/bbc/2022/10/16/ratos-ossos-e-lama-os-alimentos-do-desespero-a-que-famintos-recorrem-para-sobreviver.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/17/lula-e-pt-subestimam-bolsonaro-e-carlos.htm",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/17/premiacao-da-bola-de-ouro-2022.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      1,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/23-das-deputadas-eleitas-para-camara-em-2022-sao-esposas-de-politicos.shtml",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/educacao/2022/10/orgao-do-mec-orientou-prefeitura-a-forjar-pedido-de-verba-ja-liberada-mostra-email.shtml?origin=folha",
+    "appearances": 4,
+    "positions": [
+      0,
+      0,
+      4,
+      4
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/19/doria-anuncia-desfiliacao-do-psdb-cumpri-minha-missao-politica-partidaria.htm",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/20/flamengo-fatura-r-768-milhoes-com-titulo-da-copa-do-brasil-2022.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/toledo-se-lula-vencer-de-bolsonaro-por-pouco-3-turno-e-garantido.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/incomodada-venezuelana-diz-que-nao-quer-ser-usada-em-disputa-politica.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/tales-faria/2022/10/20/pacote-de-guedes-pos-eleicao-torna-o-ministro-alvo-do-comando-da-campanha.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/21/fim-da-aposentadoria-diz-representante-de-inativos-sobre-plano-de-guedes.htm",
+    "appearances": 8,
+    "positions": [
+      1,
+      4,
+      4,
+      3,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-aprova-direito-de-resposta-de-lula-no-twitter-de-bolsonaro.shtml",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aliados-de-bolsonaro-protocolam-pedido-de-cpi-na-camara-para-intimidar-institutos-de-pesquisa.shtml",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/dobradinha-lula-tebet-eleva-tom-contra-bolsonaro-em-cidade-emblematica-por-facada.shtml",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/bolsonaro-evento-clamor-pela-nacao.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/25/jefferson-fala-em-pedir-desculpas-a-prostitutas-apos-ofender-carmen.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-publica/2022/10/25/emendas-secretas-de-lira-aumentam-consultas-em-cidade-comandada-por-seu-pai.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://tab.uol.com.br/noticias/redacao/2022/10/26/roberto-jefferson-tem-apoio-em-canais-neonazistas-e-misoginos-no-telegram.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/servidor-da-abin-tarcisio-de-freitas-video-tiroteio-paraisopolis.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/fake-news-sobre-fraude-eleitoral-ressurgem-e-ultrapassam-nivel-do-1o-turno.shtml",
+    "appearances": 4,
+    "positions": [
+      1,
+      1,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/lira-parabens-lula-segundo-turno.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/31/brasil-sinaliza-volta-ao-palco-internacional-em-momento-de-crise-mundial.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/31/bolsonaro-se-reune-com-ministros-no-planalto-e-avalia-resposta-a-derrota.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/01/aliados-no-exterior-abandonam-bolsonaro-ao-menos-87-paises-reconhecem-lula.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/11/01/bloqueios-de-rodovias-de-carater-golpista-ja-levam-a-falta-de-alimentos.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/bombig-mourao-fala-como-senador-eleito-e-cutuca-bolsonaro-e-bolsonaristas.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/02/america-mg-x-internacional.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://tab.uol.com.br/noticias/redacao/2022/11/04/vamo-compra-arma-alunos-de-colegios-de-elite-nao-aceitam-vitoria-de-lula.htm",
+    "appearances": 7,
+    "positions": [
+      3,
+      3,
+      3,
+      4,
+      4,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/04/quem-sao-as-mulheres-cotadas-para-assumir-ministerios-no-governo-lula.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.band.uol.com.br/noticias/cop-27-ultimos-oito-anos-podem-ser-os-mais-quentes-ja-registrados-alerta-onu-16561422",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/opiniao/coluna/2022/11/06/o-que-fazer-para-bolsonaro-nao-voltar.htm",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop-27-ultimos-oito-anos-foram-os-mais-quentes-da-historia-diz-onu.shtml",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/07/lula-governo-transicao-desafios.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      1,
+      0
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/empresarios-enviam-funcionarios-e-bancam-despesas-para-inflar-atos-antidemocraticos.shtml",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/09/zeca-camargo-gal-costa-era-aguda-e-doce-na-voz-e-nas-opinioes.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/aliados-de-bolsonaro-articulam-para-pec-de-lula-liberar-emendas-de-relator.shtml",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://f5.folha.uol.com.br/celebridades/2022/11/perdi-um-amigo-do-peito-diz-renato-aragao-sobre-a-morte-de-roberto-guilherme-o-sargento-pincel.shtml",
+    "appearances": 10,
+    "positions": [
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/11/lula-brasilia-reuniao-poderes-parlamentares.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      1
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/11/gal-costa-corpo-deixa-velorio-e-segue-para-enterro.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/petistas-defendem-acordo-de-lula-com-congresso-para-emendas-de-relator.shtml",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/12/sete-mil-pessoas-passam-pela-shein-na-abertura-da-loja-em-sp-diz-shopping.htm",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 12
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/16/palmeiras-x-sao-paulo-campeonato-brasileiro-rodada-32.htm",
+    "appearances": 4,
+    "positions": [
+      0,
+      3,
+      3,
+      3
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-lula-liga-alertas-para-reta-final-aciona-juridico-e-cobra-plataformas.shtml",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3,
+      4
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/alberto-bombig/2022/10/19/empoderado-valdemar-da-costa-neto-manda-recados-a-bolsonaro-e-a-lula.htm",
+    "appearances": 7,
+    "positions": [
+      3,
+      4,
+      3,
+      3,
+      4,
+      4,
+      3
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-decisao-jovem-pan.htm",
+    "appearances": 4,
+    "positions": [
+      3,
+      2,
+      2,
+      2
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/estrategia-tarcisio-haddad-debate-globo.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      3,
+      2
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/cinegrafista-que-filmou-tarcisio-em-paraisopolis-pede-demissao-da-jovem-pan.htm",
+    "appearances": 5,
+    "positions": [
+      2,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/ciro-nogueira-ri-de-denuncias-e-diz-que-prf-vai-cumprir-tudo-o-que-tse-determinar.shtml",
+    "appearances": 3,
+    "positions": [
+      2,
+      1,
+      1
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/biden-lula.htm",
+    "appearances": 6,
+    "positions": [
+      3,
+      3,
+      4,
+      3,
+      3,
+      3
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/01/ala-evangelica-ignora-lideres-e-apoia-bloqueios-pelo-pais-agora-e-guerra.htm",
+    "appearances": 11,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/pm-sao-paulo-desbloqueio-castello-branco.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      2
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/gesto-em-ato-golpista-em-sc-nao-teve-intencao-de-exaltar-nazismo-diz-ministerio-publico.shtml",
+    "appearances": 9,
+    "positions": [
+      4,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/cade-michelle-quem-era-a-mulher-ao-lado-de-bolsonaro-em-seu-pronunciamento.htm",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      2,
+      2,
+      2
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/santos-x-avai-campeonato-brasileiro.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      2
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/12/entrevista-caminhoneiro-qg-exercito-bloqueios-antidemocraticos-brasilia.htm",
+    "appearances": 8,
+    "positions": [
+      3,
+      3,
+      4,
+      4,
+      4,
+      3,
+      4,
+      4
+    ],
+    "score": 11
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/18/para-aderir-a-ocde-governo-mente-omite-e-distorce-dados-ambientais.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/denuncias-de-assedio-eleitoral-aumentam-mais-de-7-vezes-apos-1o-turno-diz-mpt.shtml",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministro-da-defesa-se-compromete-com-moraes-a-entregar-relatorios-de-fiscalizacao-de-urnas.shtml",
+    "appearances": 4,
+    "positions": [
+      2,
+      4,
+      2,
+      2
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/19/entenda-o-que-pedro-disse-em-libras-apos-gol-do-flamengo-contra-corinthians.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/10/19/tse-da-a-lula-direito-de-se-defender-de-bolsonaro-em-184-insercoes-na-tv.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      2,
+      2
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://economia.uol.com.br/mais/ultimas-noticias/2022/10/21/petrobras-atinge-maior-valor-de-sua-historia.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      4,
+      2
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/24/em-video-jefferson-diz-que-usou-granada-e-alega-que-policial-atirou-antes.htm",
+    "appearances": 4,
+    "positions": [
+      3,
+      1,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/10/25/cpi-do-assedio-eleitoral-ganha-adesao-e-deve-comecar-no-senado-apos-eleicao.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://piaui.folha.uol.com.br/eleicoes-2022/lista-da-intolerancia/",
+    "appearances": 6,
+    "positions": [
+      4,
+      3,
+      4,
+      3,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/10/27/fuzis-roberto-jefferson-registros-policia-federal.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/27/economista-guedes-quer-congelar-salario-para-acomodar-orcamento-secreto.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/justica-determina-que-garcia-libere-passe-livre-em-metro-e-trem-nas-eleicoes.shtml",
+    "appearances": 4,
+    "positions": [
+      4,
+      2,
+      2,
+      2
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/a-3-dias-da-eleicao-lula-lanca-carta-prometendo-politica-fiscal-responsavel.shtml",
+    "appearances": 7,
+    "positions": [
+      2,
+      4,
+      4,
+      3,
+      4,
+      4,
+      4
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/debate-governo-de-sao-paulo.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ministro-de-bolsonaro-cita-radio-do-proprio-pai-em-relatorio-ao-tse-sobre-suposta-fraude.shtml",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/jovem-pan-lula-direito-de-resposta-eleicoes.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      1,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/caixa-balanco-consignado-auxilio-brasil-eleicoes-bolsonaro.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      1,
+      2
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/29/lula-sinaliza-nova-politica-externa-e-fim-da-condicao-de-paria.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/lula-bolsonaro-segundo-turno-presidente.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/prf-prioriza-transporte-de-passageiros-multiplica-abordagens-e-descumpre-decisao-de-moraes.shtml",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/alexandre-de-moraes-tse-eleicoes-votacao.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/31/com-lula-noruega-retomara-recursos-para-amazonia.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      2,
+      4
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/como-caminhoneiros-se-mobilizam-para-fechar-rodovias-no-pais.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pms-podem-desobstruir-rodovias-inclusive-as-federais-decide-moraes.shtml",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/nos-eua-zambelli-pede-que-apoiadores-mandem-denuncias-de-censura.htm",
+    "appearances": 10,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/convocacao-copa-do-mundo-selecao-brasileira-tite-onde-assistir-transmissao.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/11/07/aluno-desmaiando-de-fome-e-prioridade-do-time-de-transicao.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/apos-convite-do-pt-mdb-indicara-nome-para-compor-conselho-politico-de-lula.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/equipe-de-transicao-tem-primeiros-nomes-tebet-persio-e-andre-lara-estao-na-lista.shtml",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/09/sarah-oliveira-gal-era-cheia-de-tesao-pela-vida.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/10/roberto-guilherme.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/alckmin-discurso-ccbb-novos-nomes-transicao.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      0
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/11/selecao-leva-30kg-de-farinha-para-copa-carne-de-porco-esta-barrada.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-e-alckmin-buscam-ocupar-vacuo-de-poder-e-ampliar-base-mas-esbarram-no-centrao.shtml",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      1
+    ],
+    "score": 10
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/16/neymar-comanda-ataque-marca-e-ajuda-psg-a-vencer-o-olympique-no-frances.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/estados-perdem-r-14-bi-em-icms-no-3o-trimestre-com-desoneracao-e-comercio-fraco.shtml",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/redesocial/2022/10/comissao-de-direitos-humanos-pede-protecao-para-adolescentes-venezuelanas.shtml",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/17/mania-de-falar-pintou-um-clima-em-128-lives-bolsonaro-nunca-usou-a-expressao.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/governador-diz-que-e-possivel-descartar-versao-de-atentado-em-paraisopolis.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      1,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/10/18/estudante-e-arrastada-em-capo-de-carro-que-furou-bloqueio-em-ato-na-ufv.htm",
+    "appearances": 9,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/com-agenda-de-candidata-michelle-chega-a-sp-para-falar-sobre-aborto.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/desinformacao-esta-um-desastre-neste-2o-turno-diz-moraes-em-reuniao-com-plataformas.shtml",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/neymar-live-bolsonaro.htm",
+    "appearances": 4,
+    "positions": [
+      3,
+      3,
+      2,
+      3
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/pesquisas-eleitorais-presidente-governador-terca-feira.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/tse-libera-prefeitos-a-criar-linhas-para-eleicao-sem-ferir-lei-orcamentaria.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/28/carta-de-lula-mercado-financeiro.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/01/diretora-do-flamengo-insinua-contra-nordestinos-em-post-em-rede-social.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/fala-de-bolsonaro-nao-da-fim-a-bloqueios-em-rodovias-mas-movimento-golpista-chega-menor-ao-3o-dia.shtml",
+    "appearances": 2,
+    "positions": [
+      0,
+      1
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/onibus-estudantes-ufrj-bloqueio.htm",
+    "appearances": 5,
+    "positions": [
+      1,
+      4,
+      3,
+      4,
+      4
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/03/vanderlei-scolari-abel-unifica-titulos-de-idolos-historicos-do-palmeiras.htm",
+    "appearances": 5,
+    "positions": [
+      2,
+      4,
+      4,
+      4,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2022/11/04/fim-governo-bolsonaro-area-ambiental.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2022/11/06/sob-forte-chuva-bahia-supera-crb-em-maceio-e-garante-volta-a-serie-a.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      4,
+      1
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/caminhoneiro-nao-tem-tempo-nem-para-almocar-quanto-mais-para-fazer-greve-diz-lideranca.shtml",
+    "appearances": 9,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/deputado-que-apoiou-bolsonaro-diz-que-presidente-ja-deu-tapas-em-michelle.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      3,
+      3,
+      3
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/bolsonaristas-tatica-nazista-intimidar-eleitores-lula-rs.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www.uol.com.br/vivabem/noticias/redacao/2022/11/08/subvariante-omicron-bq1-sera-dominante-nas-proximas-semanas-no-brasil.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/09/neymar-cuida-do-rosto-para-ter-pele-de-bebe-na-copa-veja-o-que-ele-faz.htm",
+    "appearances": 6,
+    "positions": [
+      4,
+      3,
+      4,
+      3,
+      4,
+      3
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/lira-e-lula-nao-ficam-sozinhos-em-encontro-e-pec-segue-sem-definicao.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/alckmin-acumula-funcoes-em-sinal-de-que-tera-papel-chave-em-governo-lula.shtml",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pec-para-tirar-bolsa-familia-do-teto-ganha-forca-como-solucao-para-orcamento.shtml",
+    "appearances": 2,
+    "positions": [
+      0,
+      1
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/duas-aposentadorias-e-mais-bolsonaro-tem-direito-a-verba-vitalicia-ao-sair.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/10/inflacao-oficial-de-outubro.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      0
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/equilibrioesaude/2022/11/saude-inicia-distribuicao-de-vacina-contra-covid-para-menores-de-3-anos-com-comorbidades.shtml",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://educacao.uol.com.br/noticias/2022/11/11/governo-lula-novo-formato-enem.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      2
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/encolhendo-e-em-crise-classe-c-vira-motor-do-bolsonarismo.shtml",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      0,
+      4,
+      4
+    ],
+    "score": 9
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/debate-uol-folha-band-cultura-lula-bolsonaro.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/oyama-campanha-de-bolsonaro-ve-semana-catastrofica-e-esta-desmotivada.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      3,
+      2
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/bolsonaro-pede-desculpas-a-venezuelanas-apos-polemica-com-pintou-um-clima.htm",
+    "appearances": 3,
+    "positions": [
+      1,
+      3,
+      3
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-nao-ira-ao-debate-do-sbt-e-emissora-entrevistara-bolsonaro.shtml",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/19/governo-esconde-orcamento-secreto-e-diz-a-ocde-que-contas-sao-transparentes.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/20/bolsonaro-rodrigo-garcia-sp-votos-indecisos.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/bolsonaro-entrevista-podcast-fome-vacina-lula.htm",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/pm-paulista-tem-setembro-menos-letal-de-serie-historica-com-15-mortes.shtml",
+    "appearances": 4,
+    "positions": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/23/luiz-galvao.htm",
+    "appearances": 8,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/24/rishi-sunak-primeiro-ministro-reino-unido.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/24/depoimentos-policia-federal-caos-robero-jefferson.htm",
+    "appearances": 8,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/oyama-aliados-veem-que-caso-jefferson-afastou-bolsonaro-de-novos-eleitores.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/25/mendonca-rejeitar-investigar-bolsonaro-por-fala-de-jovens-venezuelanas.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/equipe-de-bolsonaro-sugere-que-tse-avalie-insercoes-de-radio-por-amostragem.htm",
+    "appearances": 8,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/10/morre-jerry-lee-lewis-um-dos-nomes-mais-importantes-do-rock-and-roll-aos-87-anos.shtml",
+    "appearances": 4,
+    "positions": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-leva-tebet-alckmin-e-janones-ao-debate-da-globo-bolsonaro-moro.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/ex-vereador-zezinho-do-pt-e-morto-a-tiros-em-jandira-sp.shtml",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/mujica-participa-de-ultimo-ato-de-lula-em-sao-paulo.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      0
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/gilmar-mendes-intima-ministro-da-justica-por-operacoes-policiais-que-beneficiariam-bolsonaro.shtml",
+    "appearances": 4,
+    "positions": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2022/10/30/acao-da-prf-nas-estradas-e-golpe-de-bolsonaro-desferido-por-outros-meios.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/11/01/pt-nao-espera-ajuda-em-transicao-de-governo-e-teme-sabotagem-de-bolsonaro.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-deve-responder-no-tse-por-abuso-de-poder-em-acoes-que-podem-leva-lo-a-inelegibilidade.shtml",
+    "appearances": 4,
+    "positions": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/11/01/ministros-do-stf-decidem-nao-encontrar-bolsonaro-ate-ele-reconhecer-derrota.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/ministros-do-stf-recusam-encontro-para-evitar-chantagem-de-bolsonaro.shtml",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/apos-discurso-de-bolsonaro-manifestantes-dizem-que-bloqueio-em-rodovia-continua.shtml",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/bloqueios-rodovias-santa-catarina.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      3,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/mourao-pede-altivez-na-derrota-cita-2026-e-diz-que-golpe-colocaria-pais-em-situacao-dificil.shtml",
+    "appearances": 4,
+    "positions": [
+      2,
+      2,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www.uol.com.br/nossa/colunas/historias-do-mar/2022/11/04/um-mes-depois-navio-fantasma-ainda-vaga-sem-destino-no-mar-de-pernambuco.htm",
+    "appearances": 8,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/champions-league-sorteio-oitavas-de-final-possibilidades.htm",
+    "appearances": 4,
+    "positions": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/renan-orcamento-secreto-acaba-com-lula-se-nao-terminar-no-governo-dele.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      1
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/gal-costa-foi-voz-definitiva-da-mpb-simbolo-da-tropicalia-do-desbunde-e-da-liberdade.shtml",
+    "appearances": 4,
+    "positions": [
+      3,
+      3,
+      3,
+      3
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/quem-e-bolsonarista-que-agrediu-agente-da-prf-com-barra-de-ferro-em-sc.htm",
+    "appearances": 8,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 8
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/bolsonaro-campanha-comicio-sao-goncalo-rio-de-janeiro.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/propaganda-eleitoral-de-bolsonaro-e-interrompida-com-aviso-de-infracao.shtml",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      2
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/20/andre-valadao-admite-que-nao-recebeu-intimacao-do-tse-como-tinha-dito.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      3,
+      3,
+      3
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/lula-sao-goncalo-rj-padre-miguel-caminhada.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      2
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/pressionada-em-reuniao-prefeitura-volta-a-negar-passe-livre-em-sao-paulo-no-2o-turno.shtml",
+    "appearances": 7,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/25/ipca-15-previa-de-outubro-ibge.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      3
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/26/cbf-santos-flamengo-arbitros-suspensos.htm",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      3,
+      3,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/motociata-pro-lula-com-entregadores-de-app-atravessa-a-paulista-veja-video.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      1
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/alexandre-de-moraes-da-4-horas-para-pf-e-prf-explicarem-operacoes-suspeitas-para-prejudicar-lula.shtml",
+    "appearances": 3,
+    "positions": [
+      4,
+      2,
+      2
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/nordeste-com-27-dos-eleitores-tem-metade-dos-onibus-abordados-pela-prf.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      3
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/eleicoes-2022-caciques-politicos-clas-politicos.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      3,
+      3,
+      3
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://economia.uol.com.br/colunas/graciliano-rocha/2022/10/31/como-a-faria-lima-e-os-investidores-externos-digeriram-a-vitoria-de-lula.htm",
+    "appearances": 7,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/rodrigo-garcia-sao-paulo-manifestacoes-caminhoneiros.htm",
+    "appearances": 3,
+    "positions": [
+      2,
+      3,
+      3
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bandeira-do-brasil-e-retirada-da-fachada-do-palacio-do-planalto.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      1,
+      3
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/05/moraes-cobra-prf-sobre-efetivo-1-turno-eleicoes.htm",
+    "appearances": 7,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://congressoemfoco.uol.com.br/area/pais/orcamento-secreto-e-o-maior-esquema-de-corrupcao-institucionalizada-da-historia-diz-diretor-da-transparencia-internacional/",
+    "appearances": 3,
+    "positions": [
+      2,
+      2,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/thais-oyama/2022/11/07/greve-geral-fracassa-e-bolsonarismo-tera-de-achar-onde-se-acomodar.htm",
+    "appearances": 7,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/morre-gal-costa-uma-das-maiores-vozes-da-musica-brasileira-aos-77-anos.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      1
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop27-sofre-com-filas-comida-cara-e-rio-de-esgoto-veja-video.shtml",
+    "appearances": 5,
+    "positions": [
+      2,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/11/brasil-ira-reabrir-embaixada-em-caracas-e-rever-relacao-com-guaido.htm",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      4,
+      3,
+      3
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://www.uol.com.br/play/videos/splash/2022/11/10/mortos-em-abrilep-02v13.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      3,
+      4,
+      4,
+      4
+    ],
+    "score": 7
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/15/tse-lula-bolsonaro-romeu-zema-propaganda-eleitoral.htm",
+    "appearances": 6,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/mudanca-na-camara-reconfigura-centrao-e-pp-de-lira-age-para-manter-poder.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/confere/ultimas-noticias/2022/10/16/nem-bolsonaro-nem-lula-menor-desmatamento-na-amazonia-e-de-governo-dilma.htm",
+    "appearances": 6,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/10/17/russia-ataca-kiev-com-drones-kamikazes-de-fabricacao-iraniana.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      3
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/17/grecia-turquia-acusacoes-imigrantes.htm",
+    "appearances": 5,
+    "positions": [
+      3,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moro-abraca-bolsonarismo-para-fugir-de-isolamento-politico.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/camara-projeto-criminaliza-pesquisas-eleitorais.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/lula-pt-transporte-gratuito-dia-votacao-prefeitos-governadores.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      3
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://economia.uol.com.br/colunas/jose-paulo-kupfer/2022/10/19/emprestimo-do-auxilio-brasil-e-as-brechas-da-legislacao-eleitoral.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/mourao-pec-decisao-monocratica-stf.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-apoio-a-democracia-atinge-recorde-no-brasil-as-portas-do-2o-turno.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/facebook-permite-conteudo-eleitoral-classificado-como-falso-apesar-de-acordo-com-tse.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://congressoemfoco.uol.com.br/area/congresso-nacional/os-deputados-que-negaram-prioridade-para-tornar-pedofilia-crime-hediondo-veja-lista/",
+    "appearances": 6,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/lula-vice-de-zema-paulo-brant-minas-tebet.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      3
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/26/palmeiras-vence-e-seca-rivais-por-titulos-ja-nesta-quarta-veja-cenarios.htm",
+    "appearances": 4,
+    "positions": [
+      3,
+      3,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/26/ptb-aprova-fusao-com-patriota-e-jefferson-e-vetado-no-partido.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      3
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/beto-carrero-faz-promocao-para-petistas-nao-irem-votar-no-dia-da-eleicao.htm",
+    "appearances": 6,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/cupula-do-judiciario-ve-bolsonaro-em-modo-trump-e-preparando-tapetao-na-reta-final.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/28/ex-aliado-de-bolsonaro-posta-mensagem-enigmatica-com-imagem-de-bebianno.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/2022/10/28/entenda-a-polemica-que-levou-ao-fim-do-casamento-entre-brady-e-gisele.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/mauricio-stycer/2022/10/28/o-que-falta-em-debate-organizadores-precisam-corrigir-mentiras-e-fake-news.htm",
+    "appearances": 6,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/haddad-voto-sao-paulo.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://aovivo.folha.uol.com.br/poder/2922/10/29/6224-eleicoes-2022-as-principais-noticias-do-segundo-turno.shtml#post421341",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/tarcisio-vitoria-governo-de-sao-paulo.htm",
+    "appearances": 2,
+    "positions": [
+      0,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/rogerio-gentile/2022/10/31/justica-decide-que-twitter-nao-cometeu-abuso-ao-punir-eduardo-bolsonaro.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/painelsa/2022/10/apos-derrota-bolsonaro-prepara-pacote-de-medidas-na-economia.shtml",
+    "appearances": 6,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/31/aliado-de-lula-ja-conversou-com-casa-civil-para-tratar-da-transicao.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www.uol.com.br/tilt/noticias/redacao/2022/11/01/propostas-lula-ciencia.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/apos-michelle-e-flavio-jair-renan-bolsonaro-se-manifesta-sobre-eleicoes.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/11/bloqueios-nas-estradas-ameacam-transporte-de-oxigenio-para-hospitais.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml#post421696",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      3
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/reportagens-especiais/palmeiras-campeao-brasileiro-de-2022-os-quatro-cavaleiros-do-aporcolipse/#cover",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://tab.uol.com.br/noticias/redacao/2022/11/04/espero-que-meus-filhos-jamais-depositem-sua-esperanca-na-mao-de-um-politico.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      3
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/11/04/derrota-de-bolsonaro-deflagrou-casos-de-violencia-politica-pelo-brasil.htm",
+    "appearances": 6,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/06/gigantes-da-europa-disputam-contratacao-de-endrick-veja-cenarios.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/fantasma-do-tuite-assombra-escolha-de-lula-para-o-exercito.shtml",
+    "appearances": 4,
+    "positions": [
+      4,
+      3,
+      3,
+      4
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www.uol.com.br/splash/colunas/chico-barney/2022/11/07/sem-olodum-e-medalhoes-globo-abre-cobertura-da-copa-na-contramao-do-hexa.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/07/como-ana-thais-matos-superou-pobreza-para-fazer-historia-na-globo.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/08/ceni-confirma-atrito-com-patrick-e-ve-caso-resolvido-meia-comeca-no-banco.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/10/sob-bolsonaro-pf-tem-pior-desempenho-em-apreensao-de-armas-desde-2013.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lira-avanca-sobre-base-de-lula-para-impedir-plano-b-na-eleicao-ao-comando-da-camara.shtml",
+    "appearances": 2,
+    "positions": [
+      2,
+      2
+    ],
+    "score": 6
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/primeiro-bloco-debate-lula-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/pintou-um-clima-lula-ve-ma-fe-em-bolsonaro-que-fala-de-24-h-terriveis.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/17/abono-extra-de-ate-r-1212-veja-se-voce-recebe.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      2,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/suspeitos-tiroteio-em-paraisopolis.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www.uol.com.br/vivabem/colunas/jairo-bouer/2022/10/18/sera-que-o-brasil-vive-crise-de-ansiedade-coletiva-antes-do-segundo-turno.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      3
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/josias-bolsonaro-sobe-em-pesquisas-por-uso-da-maquina-mentiras-e-medo.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      3
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/propaganda-de-bolsonaro-na-tv-infringe-regras-eleitorais-e-e-interrompida.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      3,
+      3
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/19/tse-multa-pesquisa.htm",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/10/20/adolescente-gravida-de-7-meses-e-agredida-ate-desmaiar-em-escola-no-rj.htm",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/bannon-e-condenado-a-4-meses-de-prisao-por-desacato-ao-congresso-dos-eua.shtml",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/cristina-tardaguila/2022/10/22/tse-estreia-superporderes-e-twitter-remove-posts-de-janones-no-brasil.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      3
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://placar.uol.com.br/esporte/futebol/brasileiro/2022/10/22/santos-x-corinthians.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/22/santos-x-corinthians-pelo-brasileirao-2022.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-eleitoral-em-igrejas-chega-a-tribunais-de-7-estados.shtml",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/disputa-presidencial-mg.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/25/rishi-sunak-e-oficialmente-primeiro-ministro.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://economia.uol.com.br/colunas/mariana-londres/2022/10/25/fim-das-deducoes-de-saude-e-educacao-no-ir-volta-ao-debate.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      4,
+      3
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/servidor-foi-exonerado-por-assedio-e-que-alegacoes-a-pf-sao-falsas-diz-tse.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/radios-dizem-ter-provas-para-contestar-auditoria-usada-por-bolsonaro-contra-tse.shtml",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/radio-pl-propaganda-jair-bolsonaro-tse-mapa-midia.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/28/gisele-tom-brady.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/28/servidor-do-tse-muda-versao-e-diz-que-so-alertou-falha-na-suspensao-de-programas.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/bolsonaro-se-diz-vitima-e-lula-o-chama-de-mentiroso-em-debate-sobre-minimo.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-bolsonaro-debate-globo-aborto.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/ipec-governo-sp-29-de-outubro.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-de-freitas-e-eleito-governador-de-sao-paulo-projeta-datafolha.shtml",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/31/o-que-esperar-para-a-economia-com-a-vitoria-de-lula.htm",
+    "appearances": 2,
+    "positions": [
+      1,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/31/mpf-da-24-horas-para-diretor-da-prf-explicar-acoes-contra-caminhoneiros.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/rj-justica-ordena-que-policia-libere-rodovia-bloqueada-por-caminhoneiros.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/tempo-joga-a-favor-de-zambelli-em-pedido-de-cassacao-de-mandato.htm",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/apos-ordem-de-moraes-policias-dos-estados-comecam-a-desobstruir-estradas.shtml",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/bloqueio-faz-idosa-perder-biopsia-de-cancer-corrida-contra-o-tempo.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/tcu-diz-que-governo-bolsonaro-quer-fornecer-as-informacoes-e-acredita-em-transicao-tranquila.shtml",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pt-avalia-dar-aumento-ainda-mais-elevado-ao-salario-minimo-no-primeiro-ano-de-lula.shtml",
+    "appearances": 3,
+    "positions": [
+      3,
+      3,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/05/aviao-fab-encontrado-sc.htm",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-enfrentara-desdobramentos-de-inqueritos-de-moraes-apos-derrota.shtml",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/07/tite-explica-por-que-convocou-daniel-alves-para-a-copa-do-mundo.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/11/por-que-convocacao-de-portugal-virou-polemica-no-pais.htm",
+    "appearances": 5,
+    "positions": [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/10/inflacao-ipca-outubro.htm",
+    "appearances": 1,
+    "positions": [
+      0
+    ],
+    "score": 5
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/15/hulk-provoca-torcida-do-fla-e-reclama-da-arbitragem-so-precisa-ser-justo.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/bolsonaro-e-alvo-de-acoes-no-stf-e-na-pgr-por-declaracao-sobre-venezuelanas.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/boulos-uol-debate-bolsonaro-lula-campanha.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/16/uol-eleicoes-16-de-outubro.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/17/ceni-indica-permanencia-e-comeca-a-planejar-2023-do-sao-paulo-sem-reforcos.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/janja-posta-nova-entrevista-em-que-bolsonaro-fala-de-meninas-bonitinhas-da-venezuela.shtml",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/18/sem-provas-bolsonaro-disse-que-venezuelanas-iriam-fazer-programa.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/19/apos-carta-aos-evangelicos-lula-nega-fazer-documento-em-aceno-ao-agronegocio.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/20/arrascaeta-flamengo-cassio-corinthians-copa-do-brasil.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/20/leo-pereira-atravessa-maracana-de-joelhos-apos-titulo-da-copa-do-brasil.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://tab.uol.com.br/noticias/redacao/2022/10/20/quem-e-o-documentarista-expulso-do-zap-apos-discussao-com-sergio-moro.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/da-morte-da-rainha-ao-caos-economico-como-foram-os-44-dias-de-liz-truss.shtml",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/haddad-carreata-sp.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/alckmin-segundo-turno-lula-haddad.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/jantar-marca-virada-de-jogo-de-bolsonaro-no-lugar-em-que-foi-alvo-de-doria.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/tse-direito-de-resposta-lula-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/cristina-tardaguila/2022/10/21/pgr-questiona-no-stf-a-inconstitucionalidade-de-super-poderes-do-tse.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/jair-bolsonaro-entrevista-21-de-outubro.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-tem-maioria-para-manter-decisao-que-deu-a-lula-164-direitos-de-resposta-contra-bolsonaro.shtml",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/entrevista-bolsonaro-record-23-de-outubro.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/casagrande/2022/10/24/terrorismo-de-roberto-jefferson-e-amostra-de-mais-quatro-anos-com-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/tilt/noticias/redacao/2022/10/24/qual-o-papel-de-roberto-jefferson-na-milicia-digital-e-porque-ele-foi-preso.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/bolsonaro-entrevista-24-de-outubro.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      2
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/uol-news-noite-24-de-outubro.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://economia.uol.com.br/colunas/carlos-juliano-barros/2022/10/25/quebrar-o-elo-entre-salario-minimo-e-aposentadoria-e-sonho-antigo-de-guedes.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/policiais-relatam-clima-de-tensao-antes-de-tiros-e-granadas-de-roberto-jefferson.shtml",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/pesquisa-abrapel-ipespe-25-presidente-lula-bolsonaro.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      2
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/25/lista-relacao-jair-bolsonaro-roberto-jefferson-episodios-atos.htm",
+    "appearances": 2,
+    "positions": [
+      2,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-concede-direito-de-resposta-a-bolsonaro-na-tv-e-a-lula-no-twitter-de-nikolas-ferreira.shtml",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/um-dia-apos-anunciar-obra-em-hospital-zema-leva-bolsonaro-a-teofilo-otoni.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/lula-diz-que-eleicao-e-anormal-e-culpa-bolsonaro-ele-criou-um-odio.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/igrejas-evangelicas-campanha-bolsonaro.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/27/desemprego-ibge-pnad-continua-mensal-setembro-2022.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/tse-atende-lula-e-suspende-direito-de-resposta-concedido-a-bolsonaro.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      2
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-e-bolsonaro-fazem-acordo-e-desistem-de-direitos-de-respostas-no-tse.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/vencedor-segundo-bloco.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/28/6223-lula-e-bolsonaro-participam-do-ultimo-debate-antes-do-2-turno.shtml#post421248",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/quem-tiver-mais-votos-leva-diz-bolsonaro-apos-debate.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/lula-candidato-analogico-era-digital.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/29/o-preco-do-voto-declarado.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/entorno-de-bolsonaro-se-enfurece-com-caso-zambelli.shtml",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/gilmar-mendes-segundo-turno.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      2
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/fizeram-blitz-no-centro-para-constranger-a-populacao-diz-prefeito-baiano.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/eduardo-leite-consegue-virada-e-e-o-1o-governador-reeleito-do-rs-projeta-datafolha.shtml",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://piaui.folha.uol.com.br/eleicoes-2022/agente-da-prf-comemora-no-whatsapp-bloqueio-eleitores-de-lula/",
+    "appearances": 2,
+    "positions": [
+      2,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/paulo-dantas-mdb-vence-e-e-reeleito-em-alagoas.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/legado-de-bolsonaro.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/encontro-lula-presidente-da-argentina.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/bolsonaro-completa-24-horas-de-silencio-apos-derrota-para-lula-na-eleicao.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/ainda-em-silencio-bolsonaro-recebe-chefes-da-defesa-e-da-aeronautica.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/thais-oyama/2022/11/01/pronunciamento-tera-vitimizacao-e-promessas-de-eu-voltarei.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/01/orientacao-para-furar-bloqueio-foi-passada-para-organizadas-que-vao-viajar.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/stf-diz-que-bolsonaro-reconheceu-resultado-das-eleicoes-ao-determinar-inicio-da-transicao.shtml",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/mpf-inquerito-prf-atuacao-eleicoes-bloqueios-rodovias-silvinei-vasques.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/04/fim-de-semana-deve-ser-de-temporais-no-nordeste-e-frio-no-sudeste.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-mira-base-raiz-e-tera-oponentes-na-disputa-pela-lideranca-da-direita.shtml",
+    "appearances": 3,
+    "positions": [
+      3,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2022/11/05/america-mg-vence-o-rb-bragantino-e-tira-o-sao-paulo-do-g8-do-brasileirao.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/esporte/2022/11/philippe-coutinho-se-machuca-e-pode-ficar-fora-da-copa.shtml",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/lula-governo-transicao-orcamento.htm",
+    "appearances": 3,
+    "positions": [
+      3,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/ecoa/colunas/noticias-da-floresta/2022/11/08/marina-silva-parte-do-agro-percebeu-que-bolsonaro-e-pessimo-negocio.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/marcel-rizzo/2022/11/09/copa-do-mundo-selecao-brasileira-fifa-qatar-cinco-substituicoes.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/splash/colunas/lucas-pasin/2022/11/09/gal-costa-tem-filme-sobre-sua-vida-previsto-para-2023-sophie-protagoniza.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/09/morre-cantor-rolando-boldrin.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/09/coritiba-x-corinthians-37-rodada-do-brasileirao.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/splash/colunas/aline-ramos/2022/11/09/briga-em-gravacao-na-record-e-reflexo-de-violencia-dentro-de-a-fazenda.htm",
+    "appearances": 4,
+    "positions": [
+      4,
+      4,
+      4,
+      4
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/10/com-convite-a-psd-e-mdb-lula-quer-reunir-lideres-de-13-partidos.htm",
+    "appearances": 1,
+    "positions": [
+      1
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/12/palmeiras-x-flamengo-final-copa-do-brasil-sub-20.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      3
+    ],
+    "score": 4
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/painel/2022/10/campanha-de-bolsonaro-impulsiona-anuncios-que-dizem-que-presidente-nao-e-pedofilo.shtml",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/ooops/2022/10/16/exclusivo-hackers-jogam-material-sigiloso-da-record-na-rede.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/gasolina-volta-a-subir-nos-postos-apos-15-semanas-de-queda.shtml",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-ve-desinformacao-e-derruba-propagandas-de-lula-e-bolsonaro-na-tv.shtml",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/carros/noticias/redacao/2022/10/18/por-que-o-preco-do-combustivel-vai-subir-apos-as-eleicoes.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/beba-agua-deputado-mais-votado-do-pais-so-tinha-1-segundo-de-propaganda.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/20/ministro-cgu-portal-da-transparencia-orcamento-secreto.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/plano-de-militares-para-fiscalizacao-de-urnas-preve-8-etapas-e-fim-so-em-janeiro.shtml",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/decisao-tse-jovem-pan-lula.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/alberto-bombig/2022/10/21/rodrigo-garcia-negocia-continuar-no-comando-da-habitacao-com-tarcisio-em-sp.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/josias-de-souza/2022/10/23/pintou-um-clima-entre-bolsonarismo-e-cafajestismo.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/bolsonaro-bloco-lula-fujao.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/roberto-jefferson-disparou-mais-de-20-tiros-de-fuzil-e-lancou-duas-granadas-contra-pf-diz-investigacao.shtml",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/logica-do-confronto-se-espalhou-alem-da-politica-e-nao-vai-embora-depois-da-eleicao-diz-sociologa.shtml",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/procuradoria-geral-se-omite-sobre-fake-news-e-uso-da-maquina-na-eleicao-presidencial.shtml",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/tilt/noticias/redacao/2022/10/25/whatsapp-fica-fora-do-ar-por-2-horas-nesta-terca-servico-foi-normalizado.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/bolsonaro-questiona-insercoes-de-radio-e-pede-suspensao-de-programa-de-lula.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/fim-de-desconto-de-servidor-aposentado-em-sp-e-aprovado-por-deputados.shtml",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/nucleo-digital-estrategia-lula-bolsonaro-segundo-turno-reta-final.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/tilt/noticias/redacao/2022/10/27/elon-musk-finalmente-compra-twitter-por-us-44-bilhoes.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/justica-recebe-150-denuncias-contra-beto-carrero-apos-promocao-antipetista.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/simone-tebet-apoio-lula-abismo.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/quem-esta-ganhando-debate-na-globo-colunistas-do-uol-avaliam-4-bloco.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/kennedy-alencar/2022/10/29/lula-vence-bolsonaro-mas-debate-nao-tera-peso-na-decisao-de-voto.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/rj-bolsonaristas-intimidam-petistas-durante-ato-de-campanha.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/com-apoio-de-lula-no-2-turno-joao-azevedo-psb-e-reeleito-na-paraiba.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/leite-supera-maldicao-e-e-1-governador-reeleito-no-rio-grande-do-sul.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/31/ceara-x-fluminense----campeonato-brasileiro.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/01/maicon-mendes-jovem-pan-news.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/01/risco-desabastecimento-bloqueio-das-estradas.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/01/quem-e-o-diretor-da-prf-intimado-a-liberar-vias-sob-pena-de-r-100-milhora.htm?888",
+    "appearances": 2,
+    "positions": [
+      4,
+      3
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/manifestacoes-golpistas-2-de-novembro.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/tarcisio-de-freitas-entrevista-jovem-pan-nomes-governo-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/criancas-sao-feridas-apos-carro-atropelar-bloqueio-golpista-no-interior-de-sp.shtml",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/moraes-bloqueios-sao-antidemocraticos-e-responsaveis-responderao-por-crime.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/colunas/olhar-olimpico/2022/11/03/rebeca-final-do-mundial-aa.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/moraes-cobra-prf-sobre-dados-de-pessoas-e-veiculos-autuados-por-bloqueios.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/05/corinthians-x-ceara-veja-escalacoes.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/06/moraes-determina-desobstrucao-imediata-vias-acre-cita-organizadores.htm",
+    "appearances": 2,
+    "positions": [
+      3,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/enm/2022/11/06/jorginho-agradece-o-apoio-dos-vascainos-e-preve-dias-melhores-para-o-vasco-proximo-ano-sera-muito-diferente.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/jamil-chade/2022/11/08/alianca-de-democracias-ajudou-a-sufocar-bolsonaro.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/08/pele-ronaldo-kaka-selecoes-campeas-mundiais-sempre-tiveram-novatos.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/08/reacao-de-neymar-com-convocacao-de-martinelli-repercute-na-imprensa-mundial.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/governador-explica-ponto-de-obstrucao-no-para-tem-historico-de-conflitos.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/stf-medida-provisoria-bolsonaro-lei-paulo-gustavo-aldir-blanc-2.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      3
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/11/08/eleicoes-fraturam-familias-meu-pai-me-falou-para-pedir-emprego-ao-pt.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-tera-de-cumprir-1-promessa-eleitoral-a-cada-14-dias-de-mandato.shtml",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/lula-se-encontra-com-lira-pela-primeira-vez-apos-eleicao.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/casagrande/2022/11/09/dependencia-quimica-e-uma-doenca-grave-qualquer-deboche-e-perversidade.htm",
+    "appearances": 3,
+    "positions": [
+      4,
+      4,
+      4
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/09/lula-promete-a-lira-interlocutor-que-acorde-cedo-e-goste-de-trabalhar.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/11/extremistas-evangelicos-estimulam-atos-golpistas-por-guerra-espiritual.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/12/marina-silva-nao-operamos-no-campo-da-chantagem.htm",
+    "appearances": 1,
+    "positions": [
+      2
+    ],
+    "score": 3
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/16/video-reuniao-e-ameaca-bolsonarismo-ataca-indigenas-por-votos-na-amazonia.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/16/lesao-de-richarlison-ativa-pior-medo-da-selecao-antes-da-copa-do-qatar-2022.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/16/entenda-tudo-o-que-aconteceu-para-goias-x-corinthians-ser-suspenso.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/alberto-bombig/2022/10/16/nenhum-candidato-se-preocupou-em-fazer-acenos-ao-eleitor-moderado-em-debate.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://tab.uol.com.br/noticias/redacao/2022/10/17/brasil-precisa-de-empatia-eleitoras-de-tebet-se-dividem-sobre-2-turno.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/splash/colunas/lucas-pasin/2022/10/18/por-que-chitaozinho-e-zeze-encontraram-bolsonaro-sem-xororo-e-luciano.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/18/debate-pernambuco-apoio-governador-marilia-raquel.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/reinaldo-azevedo/2022/10/19/lira-usa-pesquisas-para-tentar-ser-o-capataz-dos-reacas-projeto-fere-carta.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/10/20/para-evitar-parecer-coadjuvante-moro-negou-convite-de-soraya-em-debate.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/garcia-recebe-bolsonaro-no-palacio-dos-bandeirantes.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/tarcisio-infraestrutura-r-1-bilhao-orcamento-secreto.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/10/21/sem-primeira-dama-atuante-michelle-ignora-legado-de-outras-mulheres.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/10/21/bolsonarista-diz-que-alunos-da-cidade-da-boate-kiss-merecem-ser-queimados.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/22/roberto-jefferson-carmen-lucia-juristas-pedem-prisao.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://f5.folha.uol.com.br/celebridades/2022/10/flavio-bolsonaro-posta-foto-falsa-do-casimiro-apoiando-reeleicao-do-presidente.shtml",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/sudeste-campeao-viagens-lula-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/processo-de-jefferson-contra-bolsonaro-foi-tatica-para-presidente-atacar-stf.shtml",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/bolsonaro-lula-pesquisa-instituto-atlas.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/tarcisio-chama-jefferson-de-descompensado-e-apoia-bolsonaro-contra-aliado.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "http://noticias.uol.com.br/politica/ultimas-noticias/2022/10/24/justica-mantem-prisao-e-jefferson-sera-transferido-para-bangu-8-diz-seap.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/25/roberto-jefferson-apresentador-programa-de-tv.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/kennedy-alencar/2022/10/25/pt-elogia-meirelles-que-fez-discurso-de-ministro-da-fazenda-em-ato-em-sp.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/10/25/mais-de-70-milhoes-serao-lesados-se-guedes-mudar-reajuste-do-salario-minimo.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/bolsonaro-novas-criticas-urnas-eletronicas.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/25/flavio-bolsonaro-faz-campanha-em-sede-de-prefeitura-no-interior-do-rj.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/26/folga-e-boi-no-rolete-patroes-assediam-empregados-por-voto-em-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/26/audio-do-var-explica-penalti-nao-marcado-em-fla-x-santos-tropeca-no-pe.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2022/10/26/botafogo-vence-o-bragantino-no-nilton-santos-e-tira-o-sao-paulo-do-g8.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/28/sao-paulo-tem-lista-de-desfalques-e-rogerio-nao-preve-muitos-retornos.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/datafolha-lula-tem-61-e-bolsonaro-34-entre-beneficiados-pelo-auxilio-brasil.shtml",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/28/militares-reclamam-do-tse-e-relatorio-final-deve-apontar-lacuna-tecnica.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/lula-caso-roberto-jefferson-mostra-insanidade-do-pais-com-bolsonaro.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/eleicoes-governo-de-sao-paulo-pesquisas-ultima-semana.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/29/justica-manda-supermercado-de-sp-tirar-adesivo-22-de-garrafas-de-cerveja.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/como-votar-nas-eleicoes-2022.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/documentos-para-votar-2-turno-2022.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/passe-livre-metro-bh-2-turno-das-eleicoes.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/tse-explicacoes-prf.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/fila-votacao-transparencia-eleitoral.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/comprova/ultimas-noticias/2022/10/30/petrobras-nao-comunicou-que-vai-segurar-preco-do-combustivel-ate-eleicao.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/casagrande-psb-e-reeleito-governador-do-espirito-santo-no-2-turno.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/10/30/o-que-esperar-de-rosangela-silva-a-janja-como-primeira-dama.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/lula-pacificar-pais-dificuldade-congresso.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/estamos-lidando-com-um-moleque-diz-ministro-do-stf-sobre-bolsonaro.shtml",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/ultimas-noticias/reuters/2022/11/01/supermercados-ja-tem-dificuldades-de-abastecimento-por-bloqueios-em-rodovias-diz-associacao.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/procuradoria-pede-a-abertura-de-inquerito-policial-contra-diretor-geral-da-prf-por-prevaricacao.shtml",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/coordenacao-governo-transicao-lula-pt-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/governo-lula-promessa-aumentar-ministerios.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/nao-adianta-mais-chorar-diz-mourao-sobre-vitoria-de-lula.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/generais-evitam-condenar-atos-golpistas-de-apoiadores-de-bolsonaro.shtml",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/escola-suspende-aulas-apos-agressao-de-aluno-por-bolsonaristas-em-jundiai.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/04/confira-a-repercussao-da-resposta-de-gleisi-a-edir-macedo.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/universa/noticias/redacao/2022/11/04/bolsonaristas-interrompem-peca-infantil-no-rs-fiquei-com-medo-diz-mae.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/ultimas-noticias/enm/2022/11/06/torcidas-de-vasco-e-ituano-entram-em-confronto-antes-de-jogo-que-vale-o-acesso-a-serie-a.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/06/moraes-determina-marcos-cintra-ouvido-48-h-pf.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/07/para-aliados-bolsonaro-precisa-manter-pauta-de-valores-para-voltar-em-2026.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/07/humberto-costa-uol-news.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/deputado-julian-lemos-ja-foi-acusado-violencia-domestica.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/reportagens-especiais/franca-chegara-ao-qatar-como-favorita-mas-enfrenta-turbulencia-dentro-e-fora-de-campo/",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://cultura.uol.com.br/entretenimento/noticias/2022/11/09/5277_rolando-boldrin.html",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/09/juventude-x-flamengo.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/10/palmeiras-domina-premiacao-do-brasileiro-e-scarpa-e-o-craque-veja-selecao.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/carolina-brigido/2022/11/11/stf-e-tse-avaliam-que-relatorio-da-defesa-enfraquece-atos-antidemocraticos.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/12/diego-chora-em-despedida-e-entrega-a-10-do-flamengo-para-gabigol.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/12/capitania-do-tri-da-selecao-foi-resultado-de-discussao-no-santos-de-pele.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/12/feliz-para-c-e-amo-voces-diegos-se-despedem-do-fla-com-homenagens.htm",
+    "appearances": 1,
+    "positions": [
+      3
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/12/janja-eliane-colunistas-opinam.htm",
+    "appearances": 2,
+    "positions": [
+      4,
+      4
+    ],
+    "score": 2
+  },
+  {
+    "link": "https://economia.uol.com.br/colunas/mariana-londres/2022/10/16/o-buraco-e-mais-embaixo-como-o-proximo-presidente-ira-receber-o-brasil.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/ooops/2022/10/16/com-debate-presidencial-band-fica-em-x-no-ibope-em-sp.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/16/avai-x-fluminense-rodada-32-brasileirao.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/17/apoiador-de-lula-rai-fala-de-socrates-e-faz-o-l-na-bola-de-ouro.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/18/eduardo-leite-sabatina-uol-folha-segundo-turno.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/conselho-curador-aprova-uso-do-fgts-futuro-como-garantia-no-financiamento-de-imoveis.shtml",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/19/flamengo-ou-corinthians-colunistas-apostam-quem-levara-a-copa-do-brasil.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/19/governistas-da-camara-negam-prioridade-para-tornar-pedofilia-crime-hediondo.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/21/guerra-politica-na-prateleira-e-permitido-fazer-promocao-a-r-13-e-r-22.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/23/palmeiras-faz-as-contas-para-o-titulo-e-pode-ser-campeao-na-proxima-rodada.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/23/nautico-x-gremio-serie-b-2022.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/flavio-posta-foto-manipulada-para-simular-apoio-de-casimiro-a-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://economia.uol.com.br/colunas/mariana-londres/2022/10/24/sem-ganho-real-salario-minimo-seria-hoje-de-r-700.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/tarcisio-de-freitas-opcoes-secretaria-de-seguranca-publica-sp.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/colunas/rodrigo-mattos/2022/10/25/festejo-de-neymar-prometido-a-bolsonaro-e-proibido-pela-regra-da-fifa.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.band.uol.com.br/noticias/elon-musk-diz-ter-comprado-twitter-apos-negocio-frustrado-16550375",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/27/sao-paulo-x-atletico-go-campeonato-brasileiro.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/sabatina-uol-e-folha-decio-lima-pt-santa-catarina.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.band.uol.com.br/noticias/bora-brasil/ultimas/adolescente-e-morto-no-cpx-do-chapadao-em-operacao-da-prf-apos-morte-de-policial-16550546",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/29/coreia-do-sul-incidente-halloween.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/bolsonaro-vespera-segundo-turno-promessas.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/29/goias-x-corinthians-32-rodada-do-brasileirao.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/horario-votacao-2-turno-2022.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/indicacao-de-flavio-e-homenagem-a-bolsonaro-quem-e-o-diretor-geral-da-prf.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/kennedy-uol-eleicoes-lula-30-de-outubro.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/grupos-bolsonaristas-reagem-a-derrota-com-fraude-nas-urnas-e-apelo-por-golpe-das-forcas-armadas.shtml",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/01/empresario-acidente-bloqueio-carreta-mt.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/especialista-em-extrema-direita-bolsonaro-faz-acao-orquestrada-de-golpe.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/01/tropa-de-choque-rodovias-sp.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/01/quem-e-o-diretor-da-prf-intimado-a-liberar-vias-sob-pena-de-r-100-milhora.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/kupfer-lula-precisa-de-ministro-da-economia-que-dialogue-bem-no-congresso.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-descansa-na-bahia-em-casa-ligada-a-deputado-do-pp.shtml",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/splash/noticias/2022/11/05/aaron-carter-morre-aos-34-anos-e-policia-investiga-homicidio-diz-site.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/06/general-heleno-diz-infelizmente-lula-nao-internado.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/ecoa/reportagens-especiais/origens-cesar-sampaio/",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/07/juri-decide-se-flordelis-e-culpada-por-morte-de-marido-filhos-sao-julgados.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/07/inflacao-no-governo-lula.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/08/rodrygo-revela-promessa-que-fez-ao-pai-apos-queda-do-brasil-em-2018.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/11/09/delegada-fala-em-incesto-entre-flordelis-e-filhos-pratica-e-ilegal.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/09/fluminense-x-goias----campeonato-brasileiro.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/gazeta-esportiva/2022/11/09/fortaleza-atropela-bragantino-no-castelao-e-entra-na-zona-de-acesso-a-libertadores.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://economia.uol.com.br/mais/ultimas-noticias/2022/11/10/por-que-o-dolar-comecou-o-dia-subindo.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://economia.uol.com.br/colunas/mariana-londres/2022/11/11/fiscal-bolsonaro.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/12/flamengo-tera-volta-de-gabigol-em-despedida-de-diegos-veja-as-escalacoes.htm",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  },
+  {
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/apos-tombo-em-2020-extrema-pobreza-voltou-a-subir-no-brasil-em-2021.shtml",
+    "appearances": 1,
+    "positions": [
+      4
+    ],
+    "score": 1
+  }
+]

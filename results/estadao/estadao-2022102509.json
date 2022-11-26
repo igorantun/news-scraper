@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8836.3125,
+      "left": 329,
+      "height": 262,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/ministerio-da-economia-paulo-guedes-retirar-isencao-imposto-de-renda-saude-educacao/",
+    "hat": "IMPOSTO DE RENDA",
+    "title": "Equipe do Ministério da Economia estuda retirar do IR dedução de gasto com saúde e educação",
+    "summary": "Em nota sobre documento obtido pelo ‘Estadão’, Guedes ‘refuta a alegação de que pretende acabar com as deduções’. Impacto é estimado pelos técnicos em R$ 30 bilhões"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8836.3125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-de-freitas-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "São Paulo",
+    "title": "Tarcísio é entrevistado por Estadão e Rádio Eldorado nesta terça; veja como acompanhar"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8434.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/whatsapp-apresenta-instabilidade-em-todo-o-mundo/",
+    "hat": "APLICATIVO",
+    "title": "WhatsApp apresenta instabilidade em todo o mundo nesta terça-feira",
+    "summary": "Usuários recorrem a outras redes para reclamar que não conseguem enviar nem receber mensagens"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8434.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/ptb-toma-distancia-de-jefferson-para-salvar-fusao-com-patriota-e-sobreviver/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "PTB toma distância de Jefferson para salvar fusão com Patriota e sobreviver"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -7953.203125,
+      "left": 329,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/campanhas-de-lula-e-bolsonaro-recrutam-exercito-de-anonimos-nas-redes-para-virar-voto-no-2-turno/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Campanhas de Lula e Bolsonaro recrutam exército de anônimos nas redes sociais para 'virar voto' no 2º turno",
+    "summary": "Eles seguem ‘missões’ e ‘comandos’ determinados pelas campanhas e publicam nas plataformas digitais"
+  }
+]

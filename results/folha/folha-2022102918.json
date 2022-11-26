@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10759.65625,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/10/uma-eleicao-crucial.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Em disputa de candidatos muito diferentes, Folha reafirma apartidarismo",
+    "summary": "O que está em jogo não são apenas os próximos quatro anos. São as quase quatro décadas de exercício pleno da democracia"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -869.859375,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-e-haddad-nacionalizam-debate-com-salario-minimo-e-vacina-e-batem-boca-sobre-paraisopolis.shtml?utm_source=newsletter&utm_medium=email&utm_campaign=newsfolha",
+    "hat": "Eleições 2022",
+    "title": "Veja os melhores momentos do debate para governador de SP e análise de Fábio Zanini",
+    "summary": "Tarcísio e Haddad nacionalizam embate na Globo com salário mínimo e vacina a três dias do segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10549.796875,
+      "left": 315,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-se-irrita-e-abandona-entrevista-apos-pergunta-da-folha-sobre-complexo-do-alemao-veja-video.shtml",
+    "hat": "Complexo do Alemão",
+    "title": "Bolsonaro se irrita e abandona entrevista após pergunta da Folha; veja"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10549.796875,
+      "left": 644.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-pt-tem-mais-simpatizantes-mas-tambem-e-o-partido-mais-rejeitado.shtml",
+    "hat": "partidos políticos",
+    "title": "PT tem mais simpatizantes, mas também é o partido mais rejeitado, diz Datafolha",
+    "summary": "PL, de Bolsonaro, aparece em segundo lugar em preferência e em rejeição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -10549.796875,
+      "left": 974.96875,
+      "height": 170.078125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/nem-viagra-levantou-ultimo-debate-do-segundo-turno.shtml",
+    "hat": "Análise",
+    "title": "Nem Viagra levantou último debate do segundo turno"
+  }
+]

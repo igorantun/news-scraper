@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9571.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lira-avanca-sobre-base-de-lula-para-impedir-plano-b-na-eleicao-ao-comando-da-camara.shtml",
+    "hat": "Congresso Nacional",
+    "title": "Lira avança sobre base de Lula para impedir plano B na eleição ao comando da Câmara",
+    "summary": "Presidente da Casa antecipa busca de acordos por reeleição em investida sobre PSD, União Brasil e MDB"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.609375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=xZqlDalnac0",
+    "hat": "Gal Costa (1945-2022)",
+    "title": "Como Gal Costa se tornou símbolo forte de rebeldia das mulheres",
+    "summary": "Cantora é um marco incontornável da música e desafiou o conservadorismo no auge da ditadura"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9571.109375,
+      "left": 1305,
+      "height": 181.859375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/folha-vence-grande-premio-cnt-de-jornalismo-com-serie-sobre-a-codevasf.shtml",
+    "hat": "jornalismo",
+    "title": "Folha vence Grande Prêmio CNT de Jornalismo com série sobre a Codevasf",
+    "summary": "Reportagens revelaram a farra das pavimentações da estatal com uso de verba das emendas do relator"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9354.265625,
+      "left": 975,
+      "height": 243.53125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/teto-de-gastos-pode-ser-trocado-por-limite-de-divida-diz-felipe-salto.shtml",
+    "hat": "+transição de governo",
+    "title": "Teto de gastos pode ser trocado por limite de dívida, afirma Felipe Salto",
+    "summary": "Secretário da Fazenda de SP diz ter enviado proposta a Persio e Alckmin"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9075.75,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/e-preciso-olho-para-o-social-e-para-o-equilibrio-fiscal-para-evitar-incerteza-diz-campos-neto.shtml",
+    "hat": "Banco Central",
+    "title": "É preciso olhar para o social e o equilíbrio fiscal para evitar incerteza, diz Campos Neto"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12516.609375,
+      "left": 365,
+      "height": 167.96875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/governo-bolsonaro-concedeu-r-21-bilhoes-extras-a-eleitores-na-campanha.htm",
+    "title": "Governo despejou R$ 21 bi extras na mão de eleitores durante campanha"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12213.640625,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/21/cnj-suspende-pagamento-verbas-retroativas-tjmg-adicional-tempo-servico.htm",
+    "title": "CNJ suspende pagamento de R$ 5 bi a magistrados do TJ de MG; parte já foi paga"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11892.53125,
+      "left": 365,
+      "height": 190.5625,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/alberto-bombig/2022/10/21/rodrigo-garcia-negocia-continuar-no-comando-da-habitacao-com-tarcisio-em-sp.htm",
+    "title": "Rodrigo negocia com Tarcísio continuar no comando da Secretaria da Habitação em SP"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11677.96875,
+      "left": 365,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/leonardo-sakamoto/2022/10/21/bolsonarista-diz-que-alunos-da-cidade-da-boate-kiss-merecem-ser-queimados.htm",
+    "title": "Deputado bolsonarista diz que alunos da cidade da boate Kiss merecem morrer queimados"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12213.640625,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/21/fim-da-aposentadoria-diz-representante-de-inativos-sobre-plano-de-guedes.htm",
+    "title": "Plano de Guedes é o 'fim da aposentadoria', diz representante de inativos"
+  }
+]

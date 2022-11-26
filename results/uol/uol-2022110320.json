@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12737.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/11/03/alckmin-e-cupula-do-pt-participam-de-reuniao-com-relator-do-orcamento.htm",
+    "title": "Equipe de Lula propõe PEC para garantir auxílio de R$ 600 em 2023",
+    "summary": "Elevação de gastos viabilizará programa, que voltará a ser chamado de Bolsa Família"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12257.9375,
+      "left": 365,
+      "height": 453.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/santos-cruz-bolsonaro-criou-universo-de-militares-salvadores-e-nao-sao.htm",
+    "title": "Bolsonaro criou universo de militares salvadores, e não são, diz Santos Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12257.9375,
+      "left": 619.15625,
+      "height": 434.421875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/reportagens-especiais/alemanha-ja-nao-e-a-do-7-a-1-e-aposta-nisso-para-supreender-na-copa-2022/#cover",
+    "title": "Após 7 a 1, Alemanha foi eliminada até pela Coreia. Será que ela chega favorita ao Qatar?"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12257.9375,
+      "left": 873.328125,
+      "height": 328.296875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/pm-diz-que-esta-prevaricando-em-conversa-com-manifestantes.htm",
+    "title": "Coronel da PM permite bloqueio parcial de rodovia no PR e admite estar prevaricando"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11905.640625,
+      "left": 873.328125,
+      "height": 127.1875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/03/moraes-cobra-prf-sobre-dados-de-pessoas-e-veiculos-autuados-por-bloqueios.htm",
+    "title": "Moraes cobra da PRF dados de pessoas e veículos autuados por bloqueios"
+  }
+]

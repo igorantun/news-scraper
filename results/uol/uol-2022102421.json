@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12497.609375,
+      "left": 365,
+      "height": 308.71875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/24/sete-erros-no-caso-jefferson-revelam-bolsonaro-vacilante.htm",
+    "title": "Análise: Caso Jefferson mostra Bolsonaro despreparado e vacilante",
+    "summary": "Sete erros revelam buracos no plano do presidente a uma semana do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12053.890625,
+      "left": 365,
+      "height": 563.359375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/tales-faria/2022/10/24/nao-aceitarei-ser-abandonado-e-o-recado-de-jefferson-a-bolsonaro.htm",
+    "title": "'Não aceitarei ser abandonado' é o recado de Jefferson a Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11466.53125,
+      "left": 365,
+      "height": 368.859375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/10/24/policial-federal-rendicao-video-jefferson-vestir-personagem.htm",
+    "title": "Policial que negociou rendição de Jefferson diz que 'vestiu um personagem'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12053.890625,
+      "left": 619.15625,
+      "height": 451.421875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/tilt/noticias/redacao/2022/10/24/qual-o-papel-de-roberto-jefferson-na-milicia-digital-e-porque-ele-foi-preso.htm",
+    "title": "Que papel Roberto Jefferson tem na milícia digital  e por que ele foi preso?"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11578.46875,
+      "left": 619.15625,
+      "height": 190.5625,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/bolsonaro-lula-pesquisa-instituto-atlas.htm",
+    "title": "Lula tem 53% de intenções de votos válidos; Bolsonaro tem 47%, aponta Atlas"
+  }
+]

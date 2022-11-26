@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9154.109375,
+      "left": 315,
+      "height": 314.640625,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bloqueios-refluem-e-agora-atingem-17-estados-acompanhe-a-situacao-nesta-quarta.shtml",
+    "hat": "ATOS ANTIDEMOCRÁTICOS",
+    "title": "Bahia e Rio Grande do Sul voltam a ter bloqueios, que sobem para 17 estados; acompanhe",
+    "summary": "Manifestantes golpistas protestam contra a eleição de Lula no domingo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.4375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9154.109375,
+      "left": 1305,
+      "height": 303.9375,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml",
+    "hat": "tempo real",
+    "title": "Acompanhe os protestos golpistas em estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8804.484375,
+      "left": 975,
+      "height": 273.625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaristas-falam-em-deus-e-fazem-atos-golpistas-em-diferentes-cidades-do-pais.shtml",
+    "hat": "+ATOS ANTIDEMOCRÁTICOS",
+    "title": "Bolsonaristas falam em Deus e fazem atos golpistas em diferentes cidades do país"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8495.875,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/silencio-de-bolsonaro-pos-derrota-teve-conversa-com-militares-e-apelos-por-declaracao.shtml",
+    "hat": "brasília",
+    "title": "Silêncio de Bolsonaro teve conversa com militares e apelos por declaração"
+  }
+]

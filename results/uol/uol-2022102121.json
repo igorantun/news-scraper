@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12628.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/governo-bolsonaro-concedeu-r-21-bilhoes-extras-a-eleitores-na-campanha.htm",
+    "title": "Governo despejou R$ 21 bi extras na mão de eleitores durante campanha",
+    "summary": "Ritmo de transferência de recursos aumentou na reta final das eleições"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12266.453125,
+      "left": 365,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/tse-direito-de-resposta-lula-bolsonaro.htm",
+    "title": "Lula terá direito de resposta no perfil do Twitter de Bolsonaro, decide TSE"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11894.96875,
+      "left": 365,
+      "height": 491.984375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/21/decisao-tse-jovem-pan-lula.htm",
+    "title": "O que o TSE decidiu sobre a Jovem Pan é censura ou combate a fake news?"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12266.453125,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/21/fim-da-aposentadoria-diz-representante-de-inativos-sobre-plano-de-guedes.htm",
+    "title": "Plano de Guedes é o 'fim da aposentadoria', diz representante de inativos"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11945.34375,
+      "left": 619.15625,
+      "height": 171.375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/mais/ultimas-noticias/2022/10/21/petrobras-atinge-maior-valor-de-sua-historia.htm",
+    "title": "Petrobras bate maior valor de mercado da história, R$ 530 bi; o que está acontecendo?"
+  }
+]

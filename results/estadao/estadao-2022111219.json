@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10246.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/bela-gil-e-luciano-coutinho-sao-nomeados-por-alckmin-para-integrar-equipe-de-transicao/",
+    "hat": "Política",
+    "title": "Bela Gil e Luciano Coutinho são nomeados por Alckmin para integrar equipe de transição",
+    "summary": "Filha de Gilberto Gil, a chef de cozinha estará no grupo de Desenvolvimento Social e Combate à Fome; ex-presidente do BNDES integrará núcleo técnico de Indústria, Comércio e Serviço"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10246.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/confusao-na-inauguracao-shein-sp/",
+    "hat": "VAREJISTA CHINESA",
+    "title": "Fila, tumulto e pancadaria marcam inauguração da Shein em SP; veja vídeos",
+    "summary": "Imagens compartilhadas nas redes sociais mostram momento de confusão generalizada em shopping"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9776.3125,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sao-paulo/nuvens-de-areia-cobrem-cidades-no-interior-de-sp-e-fenomeno-pode-se-repetir-no-feriado-veja-video/",
+    "hat": "Condições climáticas",
+    "title": "Nuvens de areia cobrem cidades no interior de SP e fenômeno pode se repetir; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9776.3125,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/cultura/cinema/o-terminal-morre-homem-que-viveu-18-anos-em-aeroporto-e-inspirou-filme/",
+    "hat": "LUTO",
+    "title": "Morre homem que viveu 18 anos em aeroporto e inspirou filme 'O Terminal'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9776.3125,
+      "left": 1190.3125,
+      "height": 338.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/ciencia/como-a-ciencia-pode-provar-inocencia-de-mae-condenada-de-matar-os-filhos/",
+    "hat": "Fernando Reinach",
+    "title": "Mulher está presa na Austrália pela morte de 4 filhos: dossiê de cientistas pode libertá-la"
+  }
+]

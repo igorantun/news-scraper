@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10384.203125,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aliados-sugerem-a-bolsonaro-discurso-em-que-reconheca-derrota-e-aponte-injusticas.shtml",
+    "hat": "eleições 2022",
+    "title": "Aliados sugerem a Bolsonaro discurso em que reconheça derrota e aponte 'injustiças'",
+    "summary": "Integrantes do entorno do chefe do Executivo esperam que ele fale ainda hoje; mandatário segue em silêncio desde o resultado"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -865.765625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=kklUNKbeP3g&t=30s",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Em caso de reeleição, atual presidente deve ter mais facilidade para aprovar sua agenda"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10066.53125,
+      "left": 315,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/caminhoneiros-bolsonaristas-bloqueiam-estradas-em-ao-menos-11-estados.shtml",
+    "hat": "reação no asfalto",
+    "title": "Caminhoneiros bolsonaristas bloqueiam ao menos 100 estradas em 16 estados"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10066.53125,
+      "left": 644.984375,
+      "height": 194.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/nao-e-hora-de-parar-o-brasil-diz-um-dos-lideres-de-greve-dos-caminhoneiros-de-2018-veja-video.shtml",
+    "hat": "+protestos",
+    "title": "'Não é hora de parar o Brasil', afirma um dos líderes de greve dos caminhoneiros de 2018"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -10066.53125,
+      "left": 974.96875,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/blogs/hashtag/2022/10/nas-redes-eleitores-de-bolsonaro-apoiam-caminhoneiros-e-pedem-intervencao-militar.shtml",
+    "hat": "#hashtag",
+    "title": "Nas redes, bolsonaristas apoiam caminhoneiros e pedem intervenção militar"
+  }
+]

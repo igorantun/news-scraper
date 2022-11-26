@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12458.609375,
+      "left": 365,
+      "height": 387.125,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/fala-de-bolsonaro-nao-da-fim-a-bloqueios-em-rodovias-mas-movimento-golpista-chega-menor-ao-3o-dia.shtml",
+    "title": "Fala de Bolsonaro não dá fim a bloqueios, mas atos ficam menores no 3º dia",
+    "summary": "Mobilizações começam a diminuir, mas interdições ainda atingem 17 estados"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11958.09375,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/onibus-estudantes-ufrj-bloqueio.htm",
+    "title": "'Assustador': Aluna da UFRJ relata fuga de ônibus cercado por bolsonaristas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11501.859375,
+      "left": 365,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/01/torcedores-corinthians-bloqueio-sao-paulo.htm",
+    "title": "Grupo de corintianos acaba com bloqueio bolsonarista na Marginal Tietê em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11958.09375,
+      "left": 619.15625,
+      "height": 478.609375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/02/governo-lula-promessa-aumentar-ministerios.htm",
+    "title": "Igualdade Social e Indígenas: veja os ministérios inéditos do governo Lula"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11455.484375,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/01/ala-evangelica-ignora-lideres-e-apoia-bloqueios-pelo-pais-agora-e-guerra.htm",
+    "title": "Ala evangélica ignora líderes e apoia bloqueios pelo país: 'Agora é guerra'"
+  }
+]

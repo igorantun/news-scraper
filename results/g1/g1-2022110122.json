@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5491,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/bolsonaro-faz-primeiro-discurso-apos-perder-a-eleicao.ghtml",
+    "title": "Bolsonaro diz que vai cumprir Constituição; Ciro Nogueira inicia transição",
+    "summary": "Presidente falou pela 1ª vez dois dias após derrota, não citou Lula e criticou atos ilegais de seus apoiadores que prejudicam população."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4749.828125,
+      "left": 348.65625,
+      "height": 132.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/stf-diz-que-ve-importancia-da-critica-de-bolsonaro-aos-bloqueios-de-rodovias-e-da-determinacao-de-inicio-da-transicao.ghtml",
+    "title": "STF diz que Bolsonaro reconhece derrota ao liberar início da transição",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4585.4375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/veja-e-leia-a-integra-do-discurso-de-bolsonaro-dois-dias-apos-derrota-em-segundo-turno.ghtml",
+    "title": "VÍDEO: veja e leia a íntegra da declaração de Bolsonaro",
+    "summary": "Presidente agradeceu votos que recebeu no domingo, quando foi derrotado por Lula.",
+    "category": "G1 Eleições"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4307.265625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/pronunciamento-de-bolsonaro-comentaristas-do-g1-e-da-globonews-analisam-1a-fala-do-presidente-apos-derrota-para-lula-nas-urnas.ghtml",
+    "title": "CAMAROTTI: Bolsonaro começava a sangrar capital político com silêncio",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -4029.09375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/11/01/vao-sentir-saudade-da-gente-diz-bolsonaro-antes-de-discursar-video.ghtml",
+    "title": "'Vão sentir saudade da gente', diz Bolsonaro antes de discursar",
+    "summary": "Declaração ao ministro Ciro Nogueira foi captada pelos microfones da imprensa.",
+    "category": "Eleições 2022"
+  }
+]

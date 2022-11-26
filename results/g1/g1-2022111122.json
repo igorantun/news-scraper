@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6816,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/11/mantega-diz-que-nao-sera-ministro-e-que-escolhido-tera-que-se-enquadrar-na-gestao-de-lula.ghtml",
+    "hat": "Economia",
+    "title": "Mantega diz que não será ministro de Lula e que escolhido terá que 'se enquadrar'"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6816,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/corpo-de-gal-costa-e-enterrado-em-sao-paulo.ghtml",
+    "hat": "Mãe de todas as vozes",
+    "title": "Corpo de Gal Costa é enterrado em cerimônia restrita em SP"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6479.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/11/famosos-se-despedem-de-gal-costa-em-sp.ghtml",
+    "title": "FOTOS: aos prantos, Sophie Charlotte ampara esposa de Gal"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -6074.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/11/novo-governo-lula-posicao-partidos.ghtml",
+    "hat": "Articulações políticas",
+    "title": "Apoio, oposição ou nem-nem: veja posição dos partidos no governo Lula",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5796.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2022/11/11/lula-recebe-10-pedidos-para-reunioes-bilaterais-na-cop-27-presidente-viaja-com-haddad-e-amorim.ghtml",
+    "hat": "Blog da Julia Duailibi",
+    "title": "Lula recebe 10 pedidos para reuniões bilaterais na COP-27",
+    "category": "Blog da Julia Duailibi"
+  }
+]

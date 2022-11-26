@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6281,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/alckmin-anuncia-novos-nomes-da-equipe-de-transicao-de-governo.ghtml",
+    "hat": "Mudança de governo",
+    "title": "Alckmin anuncia ex-ministro Mantega e irmã de Marielle para transição; veja nomes"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6281,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/10/ator-roberto-guilherme-o-sargento-pincel-morreu-no-rio-aos-84-anos.ghtml",
+    "hat": "Luto no humor",
+    "title": "Morre Roberto Guilherme, o Sargento Pincel dos 'Trapalhões'"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5944.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/df/distrito-federal/noticia/2022/11/10/modelo-suspeita-de-matar-noivo-em-motel-do-df-foi-presa-seminua-ao-tentar-roubar-kombi-escolar-entenda.ghtml",
+    "hat": "Crime em motel no DF",
+    "title": "Suspeita de matar noivo foi presa seminua ao tentar roubar van"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5539.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/10/lula-diz-que-pessoas-sao-levadas-a-sofrer-para-que-governo-garanta-estabilidade-fiscal-no-pais.ghtml",
+    "hat": "Economia",
+    "title": "Lula diz que pessoas 'são levadas a sofrer' por estabilidade fiscal",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5261.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/10/dolar.ghtml",
+    "title": "Dólar se aproxima dos R$ 5,40; Bolsa perde os 110 mil pontos",
+    "category": "Economia"
+  }
+]

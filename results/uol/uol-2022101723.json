@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12219.609375,
+      "left": 365,
+      "height": 311.921875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/tiros-em-paraisopolis-nao-tinham-tarcisio-como-alvo-dizem-pms-da-regiao.htm",
+    "title": "Tiros em Paraisópolis não tinham Tarcísio como alvo, dizem PMs",
+    "summary": "Candidato ao governo do estado deixou comunidade às pressas após disparos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11858.6875,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/ipec-lula-bolsonaro-pesquisa-eleitoral-pesquisa-presidencial-eleicoes.htm",
+    "title": "Ipec: Lula tem 54% dos votos válidos no segundo turno; Bolsonaro soma 46%"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11402.453125,
+      "left": 365,
+      "height": 146.375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/10/17/mania-de-falar-pintou-um-clima-em-128-lives-bolsonaro-nunca-usou-a-expressao.htm",
+    "title": "Mania de falar 'pintou um clima'?; Em 128 lives, Bolsonaro nunca usou a expressão"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11858.6875,
+      "left": 619.15625,
+      "height": 342.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/17/premiacao-da-bola-de-ouro-2022.htm",
+    "title": "Benzema ganha o prêmio Bola de Ouro da revista France Football"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11492.015625,
+      "left": 619.15625,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/gasolina-volta-a-subir-nos-postos-apos-15-semanas-de-queda.shtml",
+    "title": "Gasolina volta a subir nos postos após 15 semanas de queda"
+  }
+]

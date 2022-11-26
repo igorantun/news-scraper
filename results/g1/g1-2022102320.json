@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4954,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/sul-do-rio-costa-verde/noticia/2022/10/23/roberto-jefferson-resiste-a-ordem-de-prisao-do-stf-e-fere-a-tiros-policiais-federais.ghtml",
+    "title": "Jefferson desrespeita ordem do STF e ataca policiais federais com fuzil e granadas",
+    "summary": "2 agentes ficaram feridos, segundo a PM. Alexandre de Moraes ordenou prisão após ex-deputado violar prisão domiciliar."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4954,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/23/parentes-e-amigos-fazem-ato-em-memoria-das-vitimas-da-covid-na-avenida-paulista-neste-domingo.ghtml",
+    "hat": "São Paulo",
+    "title": "Parentes fazem ato em memória às vítimas da Covid na Paulista"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4617.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/al/alagoas/noticia/2022/10/23/carlinhos-maia-e-lucas-guimaraes-anunciam-fim-do-casamento.ghtml",
+    "hat": "Divórcio de influenciador",
+    "title": "Carlinhos Maia anuncia separação de Lucas Guimarães após 13 anos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3934.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/em-decisao-moraes-diz-que-roberto-jefferson-cometeu-repetidas-violacoes.ghtml?utm_source=push&utm_medium=web&utm_campaign=pushwebg1",
+    "title": "Em decisão, Moraes cita 'repetidas violações' de Roberto Jefferson",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3656.484375,
+      "left": 348.65625,
+      "height": 95.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/23/autoridades-e-entidades-se-manifestam-sobre-reacao-de-jefferson-contra-a-pf-para-evitar-a-prisao.ghtml",
+    "title": "Autoridades se manifestam contra reação de ex-deputado à prisão",
+    "category": "Política"
+  }
+]

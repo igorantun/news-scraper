@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6355,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/24/prefeitura-de-sp-libera-passe-livre-no-segundo-turno-das-eleicoes.ghtml",
+    "hat": "Transporte público gratuito",
+    "title": "Prefeitura de SP libera passe livre no 2º turno das eleições"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6355,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/24/motociclista-pega-arma-de-ladrao-e-atira-durante-tentativa-de-assalto-em-sp-video-mostra-acao.ghtml",
+    "hat": "São Paulo",
+    "title": "Motociclista toma arma de ladrão em assalto e atira em SP"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6018.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/tv-e-series/noticia/2022/10/24/leslie-jordan-ator-de-will-and-grace-morre-aos-67-anos-diz-site.ghtml",
+    "hat": "Hollywood",
+    "title": "Leslie Jordan, de 'Will and Grace', morre em acidente de carro aos 67"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5613.828125,
+      "left": 348.65625,
+      "height": 178.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/24/roberto-jefferson-e-indiciado-pela-pf-por-tentativas-de-homicidio.ghtml",
+    "hat": "Aliado de Bolsonaro",
+    "title": "Roberto Jefferson é indiciado por 4 tentativas de homicídio contra policiais",
+    "summary": "Ex-deputado bolsonarista voltou para a cadeia após desrespeitar ordens da Justiça, atirar com fuzil e lançar granadas em agentes da PF.",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5402.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/estudio-i/video/linha-do-tempo-mostra-a-relacao-de-bolsonaro-e-roberto-jefferson-11054519.ghtml",
+    "title": "VÍDEO: linha do tempo mostra como Bolsonaro e Jefferson são próximos",
+    "category": "Estúdio i"
+  }
+]

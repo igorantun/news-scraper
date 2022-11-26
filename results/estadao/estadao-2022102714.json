@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9015.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/denuncias-de-assedio-eleitoral-crescem-mais-de-2500-no-segundo-turno-mpt-investiga/",
+    "hat": "Eleições 2022",
+    "title": "Denúncias de assédio eleitoral crescem 2.577% entre 1º e 2º turnos; MPT investiga",
+    "summary": "Casos de coerção para forçar funcionário a votar em determinado candidato têm dimensão inédita; MPT instalou gabinete de crise"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9015.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/fhc-lula-pt-video-campanha-segundo-turno-eleicoes/",
+    "hat": "CORRIDA ELEITORAL",
+    "title": "FHC grava vídeo para campanha de Lula: 'Não tem dúvida'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8537.203125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/adriana-fernandes-eleicoes-promessas-resultado/",
+    "hat": "Economia",
+    "title": "Adriana Fernandes: Assessores próximos de Paulo Guedes falam em 'medidas duras' depois das eleições",
+    "summary": "Entre as propostas para mitigar o impacto do aumento de gastos, Economia prevê menos R$ 11 bilhões no Fundeb"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8107.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/proximo-a-lula-meirelles-defende-licenca-para-gastar-de-ate-r-100-bi-fora-do-teto/",
+    "hat": "ex-ministro",
+    "title": "Próximo a Lula, Meirelles defende 'licença para gastar' de até R$ 100 bi fora do teto",
+    "summary": "Ex-ministro vem sendo especulado como um dos nomes que poderiam assumir  Fazenda caso Lula vença eleição"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8107.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/55735-2/",
+    "hat": "COLUNA DO ESTADÃO",
+    "title": "PT minimiza denúncias de Bolsonaro sobre rádios e não crê que afetem eleição"
+  }
+]

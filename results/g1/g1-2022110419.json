@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4992,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/congresso-tera-boa-vontade-com-pec-da-transicao-e-flexibilizar-teto-e-natural-diz-pacheco.ghtml",
+    "hat": "Contas públicas",
+    "title": "Presidente do Senado diz que é 'natural' flexibilizar teto de gastos por auxílio de R$ 600",
+    "summary": "Sem espaço no orçamento, equipe de Lula negocia com o Congresso votação de proposta que permita pagar benefício em 2023."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4992,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/11/04/coracao-partido-funcionarios-do-twitter-reagem-a-demissao-brasileira-relata-clima-de-luto.ghtml",
+    "hat": "Dispensados por e-mail",
+    "title": "'Clima de luto': os relatos da demissão em massa no Twitter"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4655.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2022/noticia/2022/11/04/primeiro-cavalheiro-entenda-o-termo-atribuido-ao-namorado-de-eduardo-leite-reeleito-governador-do-rs.ghtml",
+    "hat": "Governador reeleito do RS",
+    "title": "Primeiro-cavalheiro?  Entenda termo atribuído ao namorado de Leite"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4250.828125,
+      "left": 348.65625,
+      "height": 179.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/11/04/com-alckmin-governo-lula-3-troca-superministerio-por-vice-empoderado.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Alckmin deve influenciar escolha de ministros de Lula; veja cotados",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4038.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/04/servidores-denunciam-secretaria-de-atencao-a-infancia-por-assedio-apos-vitoria-de-lula.ghtml",
+    "hat": "Pressão sobre funcionários",
+    "title": "Secretária de ministério é acusada de assédio moral após vitória de Lula",
+    "summary": "Servidores afirmam que Luciana Siqueira enviou mensagens e fez ameaças durante reunião.",
+    "category": "Política"
+  }
+]

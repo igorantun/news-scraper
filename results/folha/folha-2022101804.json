@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8892.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/ipec-lula-tem-50-e-bolsonaro-43-brancos-e-nulos-sao-5-e-indecisos-2.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Ipec: Lula tem 50%, e Bolsonaro, 43%; brancos e nulos são 5%, e indecisos, 2%",
+    "summary": "No levantamento anterior, realizado há uma semana, petista tinha 51% e o atual mandatário, 42%"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.890625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8312.34375,
+      "left": 974.984375,
+      "height": 393.84375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-usa-tiros-em-paraisopolis-na-tv-em-caso-que-ate-tarcisio-descarta-elo-politico.shtml",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro usa tiros em Paraisópolis na TV em caso que até Tarcísio descarta elo político"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7883.515625,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/michelle-encontra-venezuelanas-apos-video-de-bolsonaro.shtml",
+    "hat": "encontro secreto",
+    "title": "Michelle e Damares encontram venezuelanas após vídeo de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8265.359375,
+      "left": 1305,
+      "height": 340.625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/pastor-henrique-vieira-e-sostenes-cavalcante-debatem-atuacao-de-evangelicos.shtml",
+    "hat": "Nesta terça-feira",
+    "title": "Pastor Henrique Vieira e Sóstenes Cavalcante debatem atuação de evangélicos",
+    "summary": "Deputado eleito pelo PSOL-RJ e o reeleito pelo PL-RJ estarão em live da Folha, às 18h"
+  }
+]

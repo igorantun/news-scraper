@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6276,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/ao-vivo/eua-eleicao-meio-mandato.ghtml",
+    "hat": "ao vivo",
+    "title": "Astronauta democrata vence no Senado e partido está a 1 cadeira de ter maioria",
+    "summary": "Disputa no Arizona era considerada crucial para o governo Biden."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6276,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/educacao/enem/2022/noticia/2022/11/12/enem-2022-veja-o-que-fazer-na-vespera-da-prova-que-acontece-neste-domingo-13.ghtml",
+    "hat": "Enem 2022",
+    "title": "O que fazer na véspera da prova, que acontece neste domingo"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5939.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2022/11/12/paulinho-da-viola-chega-aos-80-anos-no-ritmo-sereno-com-que-conduz-o-leme-da-vida-e-da-obra.ghtml",
+    "hat": "Timoneiro em festa",
+    "title": "Paulinho da Viola faz 80 anos no ritmo sereno que o consagrou"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5534.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/ucrania-russia/noticia/2022/11/12/humilhacao-para-putin-o-que-a-retirada-das-tropas-russas-de-kherson-significa-para-a-guerra-na-ucrania.ghtml",
+    "hat": "‘Humilhação para Putin’",
+    "title": "O que a retirada das tropas russas de Kherson significa para a guerra na Ucrânia",
+    "category": "Ucrânia e Rússia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5256.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/12/reforma-da-previdencia-completa-3-anos-com-alivio-nas-contas-publicas-mas-dificuldades-para-segurados.ghtml",
+    "hat": "Aposentadoria",
+    "title": "Reforma da Previdência faz 3 anos com alívio para governo e dificuldades para segurados",
+    "category": "Economia"
+  }
+]

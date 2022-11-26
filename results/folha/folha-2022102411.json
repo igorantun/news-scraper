@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7577.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-renega-jefferson-tenta-vincula-lo-a-lula-e-transformar-episodio-em-gesto-de-apoio-a-pf.shtml",
+    "hat": "reação após prisão",
+    "title": "Bolsonaro tenta vincular Jefferson a Lula e transformar episódio em gesto de apoio à PF",
+    "summary": "Presidente relembra mensalão e quer se distanciar de ex-deputado, que atirou e jogou granadas contra policiais"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.25,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/extrema-direita-apela-para-mobilizacao-de-afetos-diz-especialista.shtml",
+    "hat": "Eleições na Internet",
+    "title": "Extrema direita apela para mobilização de afetos, diz especialista",
+    "summary": "Série Eleições na Internet entrevista Isabela Kalil, coordenadora do Observatório da Extrema Direita"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7259.4375,
+      "left": 974.984375,
+      "height": 189.453125,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-e-bolsonaro-travam-batalha-do-virou-e-nao-virou-em-minas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Lula e Bolsonaro travam batalha do 'virou' e 'não virou' em Minas",
+    "summary": "Aliados do presidente dizem já haver maioria dos votos pró-Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7035,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/corregedor-vira-peca-chave-na-eleicao-e-garante-maioria-em-grupo-de-moraes-no-tse.shtml",
+    "hat": "+eleições",
+    "title": "Corregedor vira peça-chave na eleição e garante maioria em grupo de Moraes no TSE",
+    "summary": "Gonçalves vetou lançamento de filme sobre facada e uso de imagens do 7 de setembro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6838.125,
+      "left": 974.984375,
+      "height": 181.859375,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/entrada-do-judiciario-no-debate-politico-pode-ser-tiro-pela-culatra-diz-ativista-da-liberdade-de-expressao.shtml",
+    "hat": "entrevista da 2ª",
+    "title": "Pressão do Judiciário sobre liberdade de expressão pode ser tiro pela culatra, diz ativista",
+    "summary": "Para Mchangama, pessoas pensam que ideias com as quais concordam merecem proteção"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5851.890625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/economia/o-plano-do-pt-ao-mudar-nome-da-pec-de-transicao-para-bolsa-familia/",
+    "hat": "Economia",
+    "title": "PT altera rumo da PEC para priorizar Bolsa Família, mas incertezas continuam",
+    "summary": "Apesar da mudança no nome da proposta, ainda não está definido o valor da 'licença para gastar' nem se o drible no teto valerá apenas para 2023"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4238.234375,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/mundo/terra-chega-aos-8-bilhoes-com-um-desafio-a-desaceleracao-do-crescimento",
+    "hat": "Reportagem de capa",
+    "title": "Terra chega aos 8 bilhões com um novo desafio: desaceleração do crescimento",
+    "summary": "O mundo começa a revelar uma mudança no seu desenho demográfico que impõe questões inéditas aos países. Se bem aproveitada, a guinada pode levar a um futuro melhor"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3667.109375,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/marina-silva-o-maior-desafio-do-governo-lula-e-o-desmatamento-zero/",
+    "hat": "Política",
+    "title": "Marina Silva: 'O maior desafio do governo Lula é o desmatamento zero'",
+    "summary": "Ex-ministra do Meio Ambiente diz que não existe mais espaço para os chamados desenvolvimentistas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5521.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/brasil/a-reacao-do-stf-as-forcas-armadas/",
+    "hat": "Brasil",
+    "title": "Moraes amplia para todo território nacional punição a quem bloqueia estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5521.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/economia/o-alibi-de-luciano-hang-contra-responsabilidade-em-atos-golpistas/",
+    "hat": "Economia",
+    "title": "O ‘álibi’ de Luciano Hang contra responsabilidade em atos bolsonaristas"
+  }
+]

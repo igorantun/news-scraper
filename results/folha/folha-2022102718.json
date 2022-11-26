@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9357.65625,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-acelera-retirada-de-fake-news-na-reta-final-da-disputa-entre-lula-e-bolsonaro.shtml",
+    "hat": "Eleições 2022",
+    "title": "TSE acelera retirada de fake news na reta final da disputa entre Lula e Bolsonaro",
+    "summary": "Maior parte dos conteúdos é contra petista; presidente obtém decisões para barrar falas sobre 'canibalismo' e venezuelanas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -556.3125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9357.65625,
+      "left": 1305,
+      "height": 290.84375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/colunistas-analisam-novo-datafolha-em-live-para-assinantes-nesta-5a.shtml",
+    "hat": "pesquisa eleitoral",
+    "title": "Colunistas analisam novo Datafolha em live para assinantes a partir das 18h",
+    "summary": "Participam Luciana Chong, Bruno Boghossian e Mônica Bergamo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9030.828125,
+      "left": 974.984375,
+      "height": 207.71875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moraes-torna-prisao-de-roberto-jefferson-sem-tempo-determinado.shtml",
+    "hat": "Caso Jefferson",
+    "title": "Moraes torna prisão de Roberto Jefferson sem tempo determinado"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8788.125,
+      "left": 974.984375,
+      "height": 161.890625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-bolsonaro-armado-a-tv-e-liga-presidente-a-ataque-de-roberto-jefferson.shtml",
+    "hat": "propaganda eleitoral",
+    "title": "Lula leva Bolsonaro armado à TV e liga presidente a ataque de Roberto Jefferson",
+    "summary": "Aliado do presidente reagiu a ordem de prisão e atirou em dois policiais"
+  }
+]

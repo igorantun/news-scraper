@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9810.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-amplia-poder-na-reta-final-da-eleicao-e-reduz-prazo-para-exclusao-de-fake-news.shtml",
+    "hat": "Eleições 2022",
+    "title": "TSE amplia poder na reta final da eleição e reduz prazo para exclusão de fake news",
+    "summary": "Nova resolução ainda permite TSE mandar retirar conteúdos já considerados fraudulentos pelos ministros da corte"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.546875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9546.34375,
+      "left": 974.984375,
+      "height": 305.65625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/liz-truss-renuncia-ao-cargo-de-primeira-ministra-do-reino-unido.shtml",
+    "hat": "crise britânica",
+    "title": "Liz Truss renuncia ao cargo de primeira-ministra do Reino Unido após 44 dias"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9205.703125,
+      "left": 974.984375,
+      "height": 268.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/pesquisa-serve-para-nos-alertar-diz-lula-sobre-datafolha.shtml",
+    "hat": "sucessão presidencial",
+    "title": "'Pesquisa serve para nos alertar', afirma Lula sobre Datafolha",
+    "summary": "Candidato diz que Bolsonaro cresce lentamente apesar de anúncios eleitoreiros"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9499.359375,
+      "left": 1305,
+      "height": 104.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/10/podcast-a-tentativa-de-lira-de-emparedar-institutos-com-projeto-para-criminalizar-pesquisas.shtml",
+    "hat": "criminalização",
+    "title": "A tentativa de Lira de emparedar institutos de pesquisa"
+  }
+]

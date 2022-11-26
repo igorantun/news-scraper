@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5499,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2022/11/09/voz-de-gal-costa-fica-eternizada-como-o-cristal-luminoso-que-abrilhantou-e-atravessou-toda-a-musica-brasileira.ghtml",
+    "title": "Voz de Gal fica eternizada como cristal que ilumina e atravessa música brasileira",
+    "summary": "Cantora símbolo da Tropicália morre aos 77 anos em SP e deixa legado imenso cultural e social."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4757.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/09/gal-costa-relembre-a-carreira-em-fotos.ghtml",
+    "hat": "Trajetória",
+    "title": "FOTOS: uma carreira imensa, que revolucionou a MPB",
+    "category": "Música"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4479.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/09/nunca-pensei-um-dia-chegar-a-voces-para-falar-sobre-a-dor-de-perder-gal-diz-maria-bethania.ghtml",
+    "hat": "Homenagens",
+    "title": "'O Brasil inteiro chora, como eu', afirma Maria Bethânia",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4201.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/09/gal-deixa-filho-unico-gosto-musical-de-gabriel-de-17-anos-inspirou-ultimo-album-da-cantora.ghtml",
+    "title": "Filho único, de 17 anos, inspirou disco mais recente de Gal"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -3923.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/09/uma-das-maiores-cantoras-do-mundo-diz-lula-sobre-gal-costa.ghtml",
+    "title": "Lula exalta Gal: 'Legado e canções serão eternos como seu nome'"
+  }
+]

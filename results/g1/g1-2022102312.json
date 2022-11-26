@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5487,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/23/ipec-veja-a-intencao-de-votos-para-os-candidatos-ao-governo-dos-12-estados-em-que-ha-2o-turno.ghtml",
+    "hat": "Pesquisa Ipec",
+    "title": "Veja quem está na frente e onde tem empate nos 12 estados com segundo turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5487,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ba/bahia/noticia/2022/10/23/morre-luiz-galvao-fundador-dos-novos-baianos.ghtml",
+    "hat": "Luto na música",
+    "title": "Morre Luiz Galvão, fundador dos Novos Baianos, aos 87 anos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5150.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/go/goias/noticia/2022/10/23/cratera-formada-por-queda-de-asteroide-em-goias-e-reconhecida-em-lista-que-selecionou-100-sitios-do-patrimonio-geologico-do-mundo.ghtml",
+    "hat": "Goiás",
+    "title": "Cratera formada por queda de asteroide vira patrimônio geológico"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4745.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/23/xi-jinping-amplia-poderes-e-inicia-terceiro-mandato-como-secretario-geral-do-partido-comunista-chines.ghtml",
+    "hat": "Liderança chinesa",
+    "title": "Xi Jinping renova mandato como líder da China",
+    "category": "Mundo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4467.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/23/ataques-russos-causam-apagoes-em-grande-parte-da-ucrania.ghtml",
+    "hat": "Ofensiva da Rússia",
+    "title": "Ataques russos causam apagões em grande parte da Ucrânia",
+    "summary": "Autoridades russas pedem que civis evacuem a cidade de Kherson.",
+    "category": "Mundo"
+  }
+]

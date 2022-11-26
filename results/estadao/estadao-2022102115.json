@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9635.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/lula-e-bolsonaro-focam-no-sudeste-e-ate-repetem-agendas-na-reta-final-do-segundo-turno/",
+    "hat": "Eleições",
+    "title": "Bolsonaro e Lula focam no Sudeste e até 'repetem' agendas na reta final do 2º turno",
+    "summary": "Região concentra 42% dos eleitores e é a que mais votou em candidatos fora da polarização"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9285.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/link/cultura-digital/as-inteligencias-artificiais-que-vao-mudar-o-mundo/",
+    "hat": "link",
+    "title": "DALL-E 2, Gato, LaMDA e Yolo: as inteligências artificiais que vão mudar o mundo",
+    "summary": "Uma máquina criou as imagens futuristas acima; conheça os modelos de IA que podem alterar a maneira como vivemos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9285.3125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ministra-do-tse-suspende-direitos-de-resposta-para-lula-em-insercoes-de-bolsonaro-na-tv/",
+    "hat": "Política",
+    "title": "Ministra do TSE suspende direitos de resposta para Lula em 164 inserções de Bolsonaro em programa de TV",
+    "summary": "Decisão vai ao plenário da Corte; juntas, participações do petista somariam mais de 1 hora"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8893.3125,
+      "left": 1190.328125,
+      "height": 452.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/estados-unidos-veem-oportunidade-para-ucrania-aproveitar-momento-fragil-da-russia/",
+    "hat": "CONFLITO NO LESTE EUROPEU",
+    "title": "Ucrânia tem seis semanas para aproveitar momento frágil da Rússia, dizem EUA",
+    "summary": "Últimas semanas antes do inverno do Hemisfério Norte é vista como brecha de oportunidade"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8377.65625,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/relacionamento-aberto-por-que-cada-vez-mais-gente-como-a-anitta-defende-a-nao-monogamia/",
+    "hat": "POLIAMOR",
+    "title": "Relacionamento aberto: por que cada vez mais gente defende a não monogamia"
+  }
+]

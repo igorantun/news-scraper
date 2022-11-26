@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9034.3125,
+      "left": 329,
+      "height": 316,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/ex-tesoureiro-do-pt-prepara-dossie-para-bombardear-moro-e-dallagnol-no-congresso/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Ex-tesoureiro do PT prepara dossiê para bombardear Moro e Dallagnol no Congresso",
+    "summary": "João Vaccari, condenado e preso na Lava Jato, mostrou versão de arquivo, produzido desde novembro de 2021, a Rui Falcão, coordenador da comunicação da campanha de Lula"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9034.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/papa-nossa-senhora-brasileiros-odio-violencia/",
+    "hat": "Vaticano",
+    "title": "Papa: 'Peço a Nossa Senhora Aparecida que livre o povo brasileiro do ódio e violência'",
+    "summary": "Pontífice se manifestou durante audiência geral na Praça São Pedro nesta quarta; assista ao vídeo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8568.203125,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/argentina-crise-impacto-populacao-perda-poder-compra/",
+    "hat": "América latina",
+    "title": "Argentinos precisam fazer pagamentos à vista e perdem poder de compra"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8568.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/fernando-haddad-e-entrevistado-por-radio-eldorado-e-estadao/",
+    "hat": "Disputa eleitoral em SP",
+    "title": "Haddad diz que Tarcísio 'não confia' na polícia e 'não entende nada' de Segurança"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8568.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/se-tirar-o-nosso-a-gente-tira-o-deles-diz-lider-do-uniao-sobre-stf-derrubar-orcamento-secreto/",
+    "hat": "política",
+    "title": "'Se tirar, a gente tira o deles', diz líder do União sobre STF derrubar orçamento secreto"
+  }
+]

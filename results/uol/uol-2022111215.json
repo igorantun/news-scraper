@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12392.609375,
+      "left": 365,
+      "height": 203.171875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/11/12/escalada-da-fome-gera-1-milhao-de-menores-com-desnutricao-no-pais-em-2022.htm",
+    "title": "Escalada da fome gera 1 milhão de menores com desnutrição no Brasil",
+    "summary": "Diagnósticos de crianças e adolescentes disparam na atenção básica da rede pública"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12140.4375,
+      "left": 365,
+      "height": 544.171875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-e-alckmin-buscam-ocupar-vacuo-de-poder-e-ampliar-base-mas-esbarram-no-centrao.shtml",
+    "title": "Lula e Alckmin buscam ocupar vácuo de poder e ampliar base, mas esbarram no centrão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11572.265625,
+      "left": 365,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2022/11/12/marina-silva-nao-operamos-no-campo-da-chantagem.htm",
+    "title": "Na COP27, Marina diz que governo Bolsonaro 'fez chantagem' e usou Amazônia por verba"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12140.4375,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-se-fecha-no-alvorada-apos-derrota-e-articula-futuro-como-lider-da-direita.shtml",
+    "title": "Bolsonaro se fecha no Alvorada após derrota e articula futuro como líder da direita"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11684.203125,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/12/entrevista-caminhoneiro-qg-exercito-bloqueios-antidemocraticos-brasilia.htm",
+    "title": "Ato perto do QG do Exército tem 240 caminhões, comida grátis e golpismo"
+  }
+]

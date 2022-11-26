@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9261.3125,
+      "left": 329,
+      "height": 801.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/orcamento-secreto-congresso-manutencao/",
+    "hat": "Economia",
+    "title": "Congresso já tem planos para perpetuar o orçamento secreto; veja como o esquema seria mantido",
+    "summary": "Líderes do Centrão querem vincular o Plano Plurianual, que define programas prioritários do governo, ao pagamento de emendas de relator; pretexto seria resgatar planejamento estratégico"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9261.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/caca-cai-em-edificio-de-cidade-russa-proxima-a-ucrania-e-deixa-pelo-menos-quatro-mortos/",
+    "hat": "GUERRA DE PUTIN",
+    "title": "Caça cai em edifício de cidade russa próxima à Ucrânia e deixa pelo menos quatro mortos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8843.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/argentinos-buscam-comidas-e-roupas-em-lixoes-em-meio-a-inflacao-recorde-e-aumento-da-pobreza/",
+    "hat": "Crise econômica",
+    "title": "Argentinos buscam comidas em lixões em meio a inflação recorde e aumento da pobreza",
+    "summary": "Taxa de inflação anual foi de 83% em setembro, o pior patamar desde a época da hiperinflação"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8377.09375,
+      "left": 329,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pesquisa-ipec-no-segundo-turno-lula-tem-50-das-intencoes-de-voto-bolsonaro-43/",
+    "hat": "DISPUTA PRESIDENCIAL",
+    "title": "Pesquisa Ipec: Lula tem 50% das intenções de voto, e Bolsonaro aparece com 43%"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8377.09375,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/copa-do-mundo-2022-o-que-diz-a-legislacao-trabalhista-sobre-folga-nos-jogos-do-brasil/",
+    "hat": "Mundial do Catar",
+    "title": "Vai ser feriado em dia de jogo do Brasil na Copa? Saiba o que diz a legislação",
+    "summary": "Seleção brasileira fará os três jogos da primeira fase do Mundial do Catar em horário comercial"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7921.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lira-e-centrao-ficam-fortalecidos-com-pec-da-transicao-articulada-por-equipe-de-lula.shtml",
+    "hat": "transição de governo",
+    "title": "Lira e centrão ficam fortalecidos com PEC da transição articulada por equipe de Lula",
+    "summary": "Petistas elencam projetos do presidente da Câmara cuja tramitação poderiam apoiar"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -556.328125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7874.125,
+      "left": 1305,
+      "height": 104.328125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/podcasts/2022/11/podcast-os-acenos-do-centrao-a-lula-apos-a-derrota-de-bolsonaro.shtml",
+    "hat": "congresso",
+    "title": "Os acenos do centrão a Lula após a derrota de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7711.25,
+      "left": 975,
+      "height": 247.265625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/11/alckmin-deve-ocupar-ministerio-turbinado-que-se-relaciona-com-empresarios.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Alckmin deve ocupar ministério turbinado que se relaciona com empresários",
+    "summary": "Ideia é que ele cuide da indústria, do comércio e dos serviços, com poder para atuar em diversas áreas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7429,
+      "left": 975,
+      "height": 302.203125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/entenda-o-que-pode-caracterizar-crime-em-atos-antidemocraticos-diante-de-quarteis.shtml",
+    "hat": "atos antidemocráticos",
+    "title": "Entenda o que pode caracterizar crime em atos antidemocráticos diante de quartéis"
+  }
+]

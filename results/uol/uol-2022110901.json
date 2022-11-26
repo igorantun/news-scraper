@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12668.609375,
+      "left": 365,
+      "height": 308.71875,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/alckmin-confirma-nucleos-economico-desenvolvimento-social-transicao.htm",
+    "title": "Transição terá 'pais' do Plano Real na economia e Tebet na área social",
+    "summary": "Alckmin anuncia integrantes da equipe e nomes para conselho político; veja lista"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12224.890625,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/valdemar-evita-reconhecer-derrota-de-bolsonaro-e-diz-esperar-relatorio-da-defesa.shtml",
+    "title": "Valdemar evita reconhecer derrota de Bolsonaro e diz esperar relatório da Defesa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11527.703125,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/11/08/ceni-confirma-atrito-com-patrick-e-ve-caso-resolvido-meia-comeca-no-banco.htm",
+    "title": "Ceni confirma atrito com Patrick no SP, mas vê caso resolvido; meia é reserva no jogo de hoje"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12224.890625,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/procuradores-gerais-moraes-financiadores-atos-antidemocraticos.htm",
+    "title": "Empresários bancaram atos antidemocráticos, dizem procuradores a Alexandre de Moraes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11834.21875,
+      "left": 619.15625,
+      "height": 388.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/11/08/flavio-e-eduardo-bolsonaro-pedem-cidadania-italiana-em-embaixada-diz-site.htm",
+    "title": "Flávio e Eduardo Bolsonaro pedem cidadania na embaixada italiana em Brasília"
+  }
+]

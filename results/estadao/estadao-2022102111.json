@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9332.3125,
+      "left": 329,
+      "height": 817.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/lula-e-bolsonaro-focam-no-sudeste-e-ate-repetem-agendas-na-reta-final-do-segundo-turno/",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro e Lula focam no Sudeste e até 'repetem' agendas na reta final do 2º turno",
+    "summary": "Região concentra 42% dos eleitores e é a que mais votou em candidatos fora da polarização"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9332.3125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ministra-do-tse-suspende-direitos-de-resposta-para-lula-em-insercoes-de-bolsonaro-na-tv/",
+    "hat": "Política",
+    "title": "Ministra do TSE suspende direitos de resposta para Lula em 164 inserções de Bolsonaro em programa de TV",
+    "summary": "Decisão vai ao plenário da Corte; juntas, participações do petista somariam mais de 1 hora"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8940.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/credito-consignado-auxilio-brasil-prazo-15-dias/",
+    "hat": "BENEFÍCIO SOCIAL",
+    "title": "Consignado do Auxílio Brasil que deveria cair em dois dias pode demorar até 15",
+    "summary": "Com a justificativa de ‘excesso de solicitações’, Caixa frustra beneficiários que contrataram empréstimo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8452.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sao-paulo/metro-quer-terminal-da-barra-funda-com-escritorios-hotel-e-menos-isolado-do-entorno-entenda/",
+    "hat": "São Paulo",
+    "title": "Metrô quer Terminal da Barra Funda com escritórios, hotel e menos isolado do entorno",
+    "summary": "Plano prevê aumento da área construída em até 10 vezes, com alargamento de calçadas, ciclovia e passarela"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8452.65625,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/bem-vindos-a-gra-bretalia/",
+    "hat": "CRISE",
+    "title": "The Economist: Bem-vindos à Grã-Bretália; instabilidade aproxima Reino Unido da Itália"
+  }
+]

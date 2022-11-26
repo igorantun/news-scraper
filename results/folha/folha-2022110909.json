@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8433.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-tera-de-cumprir-1-promessa-eleitoral-a-cada-14-dias-de-mandato.shtml",
+    "hat": "transição de governo",
+    "title": "Lula terá de cumprir 1 promessa eleitoral a cada 14 dias de mandato",
+    "summary": "Mesmo sem plano de governo detalhado, petista assumiu ao menos 103 compromissos, muitos deles vagos"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.5625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8115.4375,
+      "left": 975,
+      "height": 239.75,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/defesa-fez-auditoria-eleitoral-apesar-de-negar-ao-tse-mostram-emails.shtml",
+    "hat": "Eleições 2022",
+    "title": "Defesa fez auditoria eleitoral apesar de negar ao TSE, mostram emails"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7840.703125,
+      "left": 975,
+      "height": 161.890625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/nao-serei-objecao-a-psd-na-base-de-lula-diz-governador-eleito-em-sergipe.shtml",
+    "hat": "entrevista",
+    "title": "Não serei objeção a PSD na base de Lula, diz governador eleito em Sergipe",
+    "summary": "Fábio Mitidieri cita sequelas de disputa, mas defende que presidente eleito pacifique país"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7643.828125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/monark-tem-canal-bloqueado-no-youtube-e-se-diz-alvo-de-censura-do-stf.shtml",
+    "hat": "YouTube",
+    "title": "Monark, Adrilles e deputados bolsonaristas têm contas bloqueadas em redes sociais"
+  }
+]

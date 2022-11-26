@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10187.109375,
+      "left": 315,
+      "height": 395.71875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/morre-gal-costa-uma-das-maiores-vozes-da-musica-brasileira-aos-77-anos.shtml"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -9756.40625,
+      "left": 315,
+      "height": 306.234375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/canto-de-gal-costa-partiu-de-joao-gilberto-para-inventar-um-brasil.shtml",
+    "hat": "Análise",
+    "title": "Canto de Gal partiu de João Gilberto para inventar um Brasil",
+    "summary": "Bossa nova foi o ponto de partida para a cantora se tornar a voz mais expressiva da tropicália e sinônimo da MPB"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -871.125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9415.1875,
+      "left": 975,
+      "height": 189.453125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/gal-costa-nao-morreu-ela-ficou-encantada-diria-guimaraes-rosa.shtml",
+    "hat": "José Simão",
+    "title": "Gal Costa não morreu, ela ficou encantada, diria Guimarães Rosa",
+    "summary": "Quando ela gritava da coxia 'honey baby', o público entrava em delírio"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9190.75,
+      "left": 975,
+      "height": 192.125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrada/2022/11/tom-ze-pensar-em-gal-me-lembra-que-meu-rosto-pode-sorrir.shtml",
+    "hat": "Tom Zé",
+    "title": "Pensar em Gal me lembra que meu rosto pode sorrir"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4218,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/16/eleicoes-lula-e-bolsonaro-fazem-primeiro-debate-presidencial-do-segundo-turno.ghtml",
+    "hat": "Debate no 2º turno",
+    "title": "Lula e Bolsonaro trocam acusações sobre corrupção e discutem pandemia e orçamento secreto",
+    "summary": "Debate marcado por confronto direto também abordou fake news na campanha, vagas no STF, obras no Nordeste e desmatamento."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4218,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/16/debate-presidencial-no-2o-turno-colunistas-analisam-desempenho-de-lula-e-bolsonaro.ghtml",
+    "hat": "Análises",
+    "title": "Quem ganhou? Colunistas avaliam embates entre Lula e Bolsonaro"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3881.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/16/dom-odilo-scherer-posta-reflexao-sobre-brigas-politicas-sofre-ataques-e-alerta-para-ascensao-do-fascismo.ghtml",
+    "hat": "Intolerância nas redes",
+    "title": "Dom Odilo posta reflexão, sofre ataques e alerta para 'fascismo'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3476.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/central-das-eleicoes/video/comentaristas-analisam-participacao-de-moro-em-debate-entre-lula-e-bolsonaro-11032182.ghtml",
+    "title": "Após meses criticando Bolsonaro, Moro auxilia presidente em debate",
+    "summary": "Colunistas da GloboNews avaliam nova mudança do ex-juiz, que se elegeu senador.",
+    "category": "Central das Eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3198.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/10/16/imagens-mostram-thiago-brennand-em-hotel-com-diarias-de-ate-r-22-mil-nos-emirados-arabes.ghtml",
+    "hat": "Paraíso dos milionários",
+    "title": "EXCLUSIVO: Thiago Brennand é visto em hotel de luxo após ser solto",
+    "summary": "Empresário réu por agredir mulheres foi preso em Abu Dhabi e saiu no dia seguinte após fiança.",
+    "category": "Fantástico"
+  }
+]

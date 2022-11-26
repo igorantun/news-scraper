@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -11156.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/apos-chamar-lira-de-imperador-lula-se-reune-com-presidente-da-camara-para-negociar-novo-governo/",
+    "hat": "LEGISLATIVO",
+    "title": "Após chamar Lira de 'imperador', Lula se reúne com presidente da Câmara para negociar novo governo",
+    "summary": "Enquanto petista negocia PEC da Transição, parlamentar tenta apoio para reeleição na presidência da Casa; encontro está marcado para 3ª feira"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10762.3125,
+      "left": 329,
+      "height": 835.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/esportes/futebol/tite-brasil-favorito-copa-do-mundo/",
+    "hat": "Futebol",
+    "title": "'Brasil é, sim, um dos favoritos a conquistar a Copa', afirma Tite",
+    "summary": "Técnico também disse que a ausência de amistosos contra seleções europeias prejudicou a equipe neste ciclo preparatório para o Mundial do Catar"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10762.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tarcisio-promete-blindar-infraestrutura-em-sp-e-desalojar-grupo-de-milton-leite/",
+    "hat": "NOVO GOVERNO",
+    "title": "Tarcísio promete 'blindar' infraestrutura em SP e desalojar grupo de Milton Leite",
+    "summary": "Governador eleito pretende indicar para Transporte e Logística um engenheiro de sua confiança"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10328.203125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/nova-onda-de-covid-19-volto-a-usar-mascara-tomo-a-5-dose-tire-essas-e-outras-duvidas/",
+    "hat": "coronavírus",
+    "title": "Nova onda de covid-19: volto a usar máscara? Precisa de 5ª dose? Tire dúvidas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9864.65625,
+      "left": 329,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/haddad-reune-representantes-de-fundacoes-e-ex-mec-para-discutir-educacao-em-governo-lula/",
+    "hat": "TRANSIÇÃO",
+    "title": "Haddad reúne representantes de fundações e ex-ministro para discutir educação em governo Lula",
+    "summary": "Ideia é produzir um documento com as ações mais urgentes para a Pasta; encontro será nesta terça"
+  }
+]

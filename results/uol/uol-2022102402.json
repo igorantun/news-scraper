@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12509.609375,
+      "left": 365,
+      "height": 355.125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-se-entrega-a-pf-depois-de-atirar-contra-policiais.htm",
+    "title": "Roberto Jefferson se entrega à Polícia Federal depois de atirar contra policiais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12105.484375,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/videos/2022/10/23/roberto-jefferson-atira-contra-pf-apos-ordem-de-prisao-por-moraes.htm",
+    "title": "Jefferson gravou vídeos em casa: 'Vai piorar muito, mas eu não me entrego'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11583.6875,
+      "left": 365,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/bolsonaro-bloco-lula-fujao.htm",
+    "title": "Bolsonaro cita Lula 29 vezes no primeiro bloco de sabatina na Record"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12105.484375,
+      "left": 619.15625,
+      "height": 413.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/politica/ultimas-noticias/2022/10/23/roberto-jefferson-disse-em-2020-que-bolsonaro-era-seu-amigo-pessoal-veja.htm",
+    "title": "Roberto Jefferson disse em 2020 que Bolsonaro era seu 'amigo pessoal'; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11668.4375,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/23/cinegrafista-da-tv-globo-e-agredido-por-apoiadores-de-roberto-jefferson.htm",
+    "title": "Cinegrafista da TV Globo é agredido por apoiadores de Roberto Jefferson"
+  }
+]

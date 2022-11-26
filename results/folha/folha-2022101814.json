@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10462.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moraes-manda-defesa-entregar-relatorio-de-fiscalizacao-das-urnas-em-48-horas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Moraes dá 48 horas para Defesa entregar relatório de fiscalização paralela das urnas",
+    "summary": "Presidente do TSE diz que atuação alinhada a Bolsonaro pode configurar desvio de finalidade e abuso de poder"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.40625,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10415.125,
+      "left": 1305,
+      "height": 141.921875,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/poder/2022/10/18/6214-folha-e-uol-sabatinam-eduardo-leite-candidato-no-rs-assista.shtml",
+    "hat": "SABATINA FOLHA/UOL",
+    "title": "Eduardo Leite (PSDB), candidato ao Governo do RS, participa de sabatina; assista",
+    "summary": "Onyx Lorenzoni (PL) declinou o convite"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10198.34375,
+      "left": 974.984375,
+      "height": 185.671875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/denuncias-de-assedio-eleitoral-aumentam-mais-de-7-vezes-apos-1o-turno-diz-mpt.shtml",
+    "hat": "folhajus",
+    "title": "Denúncias de assédio eleitoral aumentam mais de 7 vezes após 1º turno"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9977.6875,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-lula-liga-alertas-para-reta-final-aciona-juridico-e-cobra-plataformas.shtml",
+    "hat": "+Eleições",
+    "title": "Campanha de Lula liga alertas para reta final, aciona jurídico e cobra plataformas"
+  }
+]

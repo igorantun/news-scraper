@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5431,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/20/tse-recebe-mais-de-500-alertas-diarios-de-fake-news-no-segundo-turno-das-eleicoes.ghtml",
+    "hat": "Justiça eleitoral",
+    "title": "TSE recebe mais de 500 alertas de fake news por dia no 2º turno"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5431,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/20/instagram-vai-bloquear-ofensas-que-trocam-letras-por-numeros-veja-como-usar-recurso.ghtml",
+    "hat": "Tecnologia",
+    "title": "Instagram vai bloquear ofensas que trocam letras por números"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5094.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/triangulo-mineiro/noticia/2022/10/20/ex-funcionaria-esquece-whatsapp-aberto-em-computador-de-empresa-e-tem-conversas-expostas-por-socio-durante-reuniao-em-mg.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Mulher esquece WhatsApp aberto e tem conversas expostas por patrão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4689.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/20/guedes-confirma-plano-de-desvincular-salario-minimo-da-inflacao-mas-nega-que-objetivo-seja-reajuste-menor.ghtml",
+    "hat": "Encontro com empresários",
+    "title": "Guedes confirma plano de desvincular salário mínimo da inflação",
+    "summary": "Após repercussão negativa, ministério afirmou que valores 'serão corrigidos, no mínimo, pela inflação'.",
+    "category": "Economia"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4411.65625,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/10/20/stf-tem-maioria-para-definir-que-licenca-maternidade-comeca-a-contar-a-partir-da-alta-hospitalar-da-mae-ou-do-bebe.ghtml",
+    "hat": "Direito da mulher",
+    "title": "Maioria do STF vota para que licença-maternidade comece a partir da alta",
+    "summary": "Decisão beneficia casos em que bebê nasce prematuro ou precisa ficar internado.",
+    "category": "Política"
+  }
+]

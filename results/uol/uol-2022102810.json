@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12500.609375,
+      "left": 365,
+      "height": 414.3125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/debate-globo-governo-sp-27-de-outubro.htm",
+    "title": "Tarcísio e Haddad sobem tom de ataques e misturam SP com Brasil na Globo",
+    "summary": "Candidatos ao governo de São Paulo se enfrentaram pela última vez antes do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12037.296875,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/tarcisio-haddad-colunistas-debate.htm",
+    "title": "Quem ganhou o debate entre Tarcísio e Haddad na Globo? Colunistas do UOL opinam"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11646.625,
+      "left": 365,
+      "height": 418.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/eleicoes-2022-debate-rio-grande-do-sul-segundo-turno.htm",
+    "title": "Em debate no RS, Onyx dá as costas, e Leite aposta em propostas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12037.296875,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/josias-de-souza/2022/10/27/bolsonaro-precisa-de-goleada-no-debate-da-globo-lula-joga-pelo-zero-a-zero.htm",
+    "title": "Josias: Bolsonaro precisa de goleada no debate da Globo; Lula joga pelo zero a zero"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11646.625,
+      "left": 619.15625,
+      "height": 321.6875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/datafolha-lula-tem-61-e-bolsonaro-34-entre-beneficiados-pelo-auxilio-brasil.shtml",
+    "title": "Datafolha: Lula tem 61%, e Bolsonaro, 34% entre beneficiados pelo Auxílio Brasil"
+  }
+]

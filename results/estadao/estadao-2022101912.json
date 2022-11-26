@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8905.734375,
+      "left": 329,
+      "height": 360,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/so-8-dos-eleitos-para-o-congresso-sao-nomes-novos-na-politica/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Só 8% dos eleitos este ano para o Congresso são nomes novos na política brasileira",
+    "summary": "Levantamento do Instituto Millenium aponta que a maioria dos deputados e senadores vitoriosos nas urnas já ocupou mandatos, cargos públicos ou é herdeira de clãs tradicionais"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8905.734375,
+      "left": 1190.328125,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-fogo-amigo-que-atinge-haddad/",
+    "hat": "Vera Rosa",
+    "title": "Bronca dada em dirigentes do PT pelo WhatsApp provocou mal-estar no comitê"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8457.625,
+      "left": 759.65625,
+      "height": 386.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/cultura/nem-um-nem-outro/",
+    "hat": "Roberto DaMatta",
+    "title": "Lula e Bolsonaro foram 'piores' no 'debate', nem um nem outro vale o meu voto"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8457.625,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.facebook.com/estadao/videos/845552173118832",
+    "hat": "Assista agora",
+    "title": "Summit Saúde Estadão discute mudança do setor após  pandemia e medicina de precisão"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -7976.625,
+      "left": 329,
+      "height": 356.109375,
+      "width": 400.65625
+    },
+    "link": "https://cultura.estadao.com.br/blogs/direto-da-fonte/daniela-e-roberto-setubal-entram-para-o-mundo-fashion/",
+    "hat": "DIRETO DA FONTE",
+    "title": "Daniela e Roberto Setubal abrem nova loja nos Jardins",
+    "summary": ""
+  }
+]

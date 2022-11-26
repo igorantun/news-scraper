@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5309,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/19/lula-se-reune-com-liderancas-de-igrejas-evangelicas-em-sao-paulo.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "Em carta a evangélicos, Lula prega liberdade religiosa e reforça ser contra o aborto"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5309,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/10/19/bombeiro-recebe-chamado-para-incidente-com-aeronave-na-zona-sul-de-sp.ghtml",
+    "hat": "Acidente na Zona Sul",
+    "title": "Helicóptero com 2 a bordo cai perto de casas em SP"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4972.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/19/quem-e-patrick-abrahao-musico-preso-por-esquema-de-piramide.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Quem é Patrick Abrahão, preso por esquema bilionário de pirâmide"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4567.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/10/19/pintou-um-clima-equipe-de-bolsonaro-se-irrita-com-aliados-do-centrao-no-caso-das-venezuelanas.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "'Pintou um clima': campanha de Bolsonaro se irrita com Centrão",
+    "summary": "PP de Ciro Nogueira tentou justificar fala do presidente sobre meninas e complicou situação.",
+    "category": "Blog do Valdo Cruz"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4289.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/18/bolsonaristas-interrompem-missas-e-ofendem-padres-religiosos-veem-falta-de-respeito.ghtml",
+    "hat": "Intolerância religiosa",
+    "title": "Bolsonaristas interrompem missas e atacam padres; veja vídeos",
+    "category": "Eleições 2022"
+  }
+]

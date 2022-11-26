@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6403,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2022/10/27/fake-news-entenda-como-funciona-a-fabrica-desinformacao-politica-no-brasil.ghtml",
+    "hat": "Indústria da desinformação",
+    "title": "Entenda como funciona a fábrica de fake news nas eleições brasileiras"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6403,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mg/minas-gerais/noticia/2022/10/27/policia-militar-divulga-imagem-de-mulher-suspeita-de-furtar-joias-em-condominio-de-luxo-na-regiao-centro-sul-de-bh-fotos.ghtml",
+    "hat": "Minas Gerais",
+    "title": "Mulher invade prédio de luxo em BH e furta R$ 1 milhão em joias"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6066.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/27/trans-milionaria-compra-concurso-de-beleza-miss-universo-de-trump.ghtml",
+    "hat": "Empresária tailandesa",
+    "title": "Trans milionária compra concurso de beleza Miss Universo"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5661.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/10/27/justica-eleitoral-recebe-150-denuncias-contra-o-parque-beto-carreiro-sobre-campanha-que-incentiva-abstencao-de-petistas.ghtml",
+    "hat": "Santa Catarina",
+    "title": "Justiça recebe 150 denúncias contra campanha do Beto Carrero",
+    "summary": "Promoção estimula abstenção de eleitores do PT; parque diz que se trata de uma piada.",
+    "category": "Santa Catarina"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5383.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mt/mato-grosso/eleicoes/2022/noticia/2022/10/27/policia-investiga-tentativa-de-compra-de-votos-em-aldeia-do-xingu-em-mt-video.ghtml",
+    "hat": "Aldeia no Xingu",
+    "title": "Polícia apura tentativa de compra de votos de indígenas em MT",
+    "summary": "Secretário ofereceu R$ 1,5 mil; vídeo mostra cacique recusando o dinheiro.",
+    "category": "Eleições 2022 no Mato Grosso"
+  }
+]

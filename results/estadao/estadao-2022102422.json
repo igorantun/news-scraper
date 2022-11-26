@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9424.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/pf-apreendeu-caixas-de-municao-de-grosso-calibre-na-casa-de-jefferson-veja-o-fuzil-762-que-ele-usou-para-atacar-policiais/",
+    "hat": "ATAQUE A AGENTES",
+    "title": "PF indicia Roberto Jefferson por 4 tentativas de homicídio e apreende caixas de munição pesada e fuzil",
+    "summary": "Arsenal inclui mira telescópica usada para atacar policiais que foram à casa do ex-deputado no interior do Rio; imagens mostram pistola em poder do político"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9425.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/pesquisa-ipec-no-segundo-turno-lula-tem-50-das-intencoes-de-voto-bolsonaro-43-2/",
+    "hat": "DISPUTA PRESIDENCIAL",
+    "title": "Pesquisa Ipec: Lula tem 50% das intenções de voto, e Bolsonaro aparece com 43%",
+    "summary": "Margem de erro do levantamento é de dois pontos porcentuais para mais ou para menos"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8991.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://paladar.estadao.com.br/noticias/geral,ceci-e-a-campea-de-concurso-de-padarias-em-sao-paulo,70004155886",
+    "hat": "Paladar",
+    "title": "Padaria Ceci é eleita a melhor de São Paulo em concurso; veja ganhadoras por região",
+    "summary": "Localizada no Planalto Paulista, padaria também ganhou cinco de sete prêmios na 2ª edição do concurso"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8469.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/prefeitura-de-sao-paulo-libera-passe-livre-no-transporte-para-segundo-turno-das-eleicoes/",
+    "hat": "TRANSPORTE PÚBLICO",
+    "title": "São Paulo terá ônibus gratuito no domingo para o segundo turno das eleições",
+    "summary": "Passagem não será cobrada entre 6h e 20h; frota terá reforço de 2 mil ônibus, como no primeiro turno"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8469.65625,
+      "left": 759.65625,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/casimiro-repudia-montagem-falsa-e-reitera-apoio-a-lula-flavio-bolsonaro-pede-desculpas/",
+    "hat": "ELEIÇÕES 2022",
+    "title": "Casimiro repudia montagem falsa e reitera apoio a Lula; Flávio Bolsonaro pede desculpas",
+    "summary": "Resposta de jornalista e streamer chegou a 1 milhão de likes e se tornou o post mais curtido do Brasil"
+  }
+]

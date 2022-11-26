@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9175.109375,
+      "left": 315,
+      "height": 310,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/esporte/2022/11/campeao-antes-de-jogar-palmeiras-chega-a-seu-titulo-brasileiro-com-maior-folga.shtml",
+    "hat": "Campeonato Brasileiro",
+    "title": "Palmeiras ganha seu 11° título brasileiro com maior folga",
+    "summary": "Vitória do América-MG sobre o Internacional garante o campeonato antes de jogo com o Fortaleza"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=EGhB7S9YVCQ",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9175.109375,
+      "left": 1305,
+      "height": 303.9375,
+      "width": 300
+    },
+    "link": "https://aovivo.folha.uol.com.br/mercado/2022/11/01/6225-acompanhe-os-protestos-de-bolsonaristas-em-rodovias-federais-nesta-terca-1.shtml",
+    "hat": "tempo real",
+    "title": "Acompanhe os protestos golpistas em estradas"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8830.125,
+      "left": 975,
+      "height": 327.703125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bloqueios-refluem-e-agora-atingem-17-estados-acompanhe-a-situacao-nesta-quarta.shtml",
+    "hat": "ATOS ANTIDEMOCRÁTICOS",
+    "title": "Rio Grande do Sul e Pernambuco voltam a ter bloqueios, que sobem para 16 estados"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8467.4375,
+      "left": 975,
+      "height": 93.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/prf-aplica-912-multas-a-condutores-por-bloqueio-de-vias.shtml",
+    "hat": "em todo o país",
+    "title": "PRF fiz ter multado 2.000 motoristas por atos golpistas"
+  }
+]

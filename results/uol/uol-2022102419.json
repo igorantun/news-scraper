@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12327.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/24/sete-erros-no-caso-jefferson-revelam-bolsonaro-vacilante.htm",
+    "title": "Análise: Caso Jefferson mostra Bolsonaro despreparado e vacilante",
+    "summary": "Sete erros revelam buracos no plano do presidente a uma semana do 2º turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11997.078125,
+      "left": 365,
+      "height": 497.796875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/tales-faria/2022/10/24/nao-aceitarei-ser-abandonado-e-o-recado-de-jefferson-a-bolsonaro.htm",
+    "title": "'Não aceitarei ser abandonado' é o recado de Jefferson a Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11475.28125,
+      "left": 365,
+      "height": 407.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/juliana-dal-piva/2022/10/24/policial-federal-rendicao-video-jefferson-vestir-personagem.htm",
+    "title": "Policial que negociou rendição de Jefferson diz que 'vestiu um personagem'"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11997.078125,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/24/monica-bergamo-bolsonaro-roberto-jefferson-desastre-campanha.htm",
+    "title": "Mônica Bergamo: Bolsonaro já notou que caso Jefferson é desastre para ele"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11540.84375,
+      "left": 619.15625,
+      "height": 190.5625,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/procuradoria-geral-se-omite-sobre-fake-news-e-uso-da-maquina-na-eleicao-presidencial.shtml",
+    "title": "Procuradoria-Geral se omite sobre fake news e uso da máquina na eleição presidencial"
+  }
+]

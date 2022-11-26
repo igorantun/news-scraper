@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7000.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/lula-busca-psd-uniao-brasil-e-mdb-para-ampliar-futura-base-na-camara/",
+    "hat": "novo governo",
+    "title": "Lula busca PSD, União Brasil e MDB para ampliar futura base no Congresso",
+    "summary": "Presidente eleito e cúpula do PT investem na articulação com líderes dos partidos para elevar o número de parlamentares aliados e alcançar maioria na Câmara e no Senado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7000.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/studios-oferta-bolha-sp-imoveis-juros-investimento/",
+    "hat": "mercado imobiliário",
+    "title": "Há uma 'bolha' por trás da explosão de ofertas de studios em SP? Setor diz que não"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -6490.203125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/ate-que-idade-da-para-transar-como-e-o-sexo-na-terceira-idade/",
+    "hat": "SEXUALIDADE",
+    "title": "Até que idade dá para transar? Como é o sexo na terceira idade",
+    "summary": "Superar preconceitos, saber ouvir o corpo e mais: especialistas e idosos dão dicas para prolongar o prazer"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6490.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/apos-cop-27-paises-podem-ser-responsabilizados-por-aumento-de-migrantes-climaticos/",
+    "hat": "DESLOCAMENTOS FORÇADOS",
+    "title": "COP 27: países podem ser responsabilizados por aumento de 'migrantes climáticos'",
+    "summary": "Sem ter o tema previsto na agenda oficial, países afetados devem pressionar países ricos a discutir indenizações"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6490.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/rodovias-sao-liberadas-em-sp-total-de-bloqueios-cai-mas-ainda-atingem-11-estados/",
+    "hat": "ATOS BOLSONARISTAS",
+    "title": "Rodovias são liberadas em SP; nº de bloqueios cai, mas 7 Estados ainda são afetados"
+  }
+]

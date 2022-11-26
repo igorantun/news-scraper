@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5746.890625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/reconstruir-um-pais-fraturado-sera-desafio-para-o-proximo-presidente",
+    "hat": "Reportagem de capa",
+    "title": "Reunificar país fraturado pela polarização será desafio para próximo presidente",
+    "summary": "Uma das prioridades do vitorioso no pleito presidencial, seja ele quem for, precisa ser reconstruir a nação em meio ao clima agressivo de uma disputa que não deve esfriar após o dia 30"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5252.765625,
+      "left": 324,
+      "height": 306,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/lula-encerra-campanha-com-ato-na-avenida-paulista-com-haddad/",
+    "hat": "Eleições 2022",
+    "title": "Bolsonaro e Lula travam disputa pelo Sudeste no desfecho das campanhas",
+    "summary": "Atual presidente trocou agenda no Rio por motociata em Belo Horizonte no sábado para tentar virar o jogo em Minas. Já o petista organiza ato na Avenida Paulista ao lado de Haddad"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3639.109375,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/simone-tebet-apoio-a-lula-e-meu-movimento-de-maior-custo-politico/",
+    "hat": "Política",
+    "title": "Simone Tebet: 'Apoio a Lula é meu movimento de maior custo político'",
+    "summary": "Para a senadora e ex-candidata à Presidência, apenas uma troca de governo permitirá fazer justiça aos quase 700 mil mortos na pandemia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5552.890625,
+      "left": 648,
+      "height": 94,
+      "width": 299.984375
+    },
+    "link": "https://veja.abril.com.br/politica/carta-ao-leitor-e-preciso-reconstruir",
+    "hat": "Carta ao Leitor",
+    "title": "Retomar crescimento e combater desigualdades só será possível com fim do clima de divisão"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5552.890625,
+      "left": 971.984375,
+      "height": 94,
+      "width": 299.984375
+    },
+    "link": "https://veja.abril.com.br/politica/eleicao-confronta-legados-de-lula-e-bolsonaro-veja-pontos-fortes-e-fracos",
+    "hat": "Política",
+    "title": "Eleição confronta legados dos governos de Bolsonaro e de Lula; veja pontos fortes e fracos"
+  }
+]

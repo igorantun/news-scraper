@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10531.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-ve-relatorio-da-defesa-como-ultima-cartada-militares-prometem-entregar-documento-hoje/",
+    "hat": "PROCESSO ELEITORAL",
+    "title": "Defesa promete divulgar hoje relatório sobre sistema de votação: veja o que se sabe sobre o documento",
+    "summary": "Forças Armadas devem fazer ressalvas, como a de que nenhum sistema está 100% blindado; Bolsonaro pode usar dossiê para judicializar eleição"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -10181.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/internacional/votacao-caminha-para-o-fim-e-eua-esperam-resultados-de-eleicoes-legislativas/",
+    "hat": "ESTADOS UNIDOS",
+    "title": "Eleição nos EUA: democratas seguram 'onda republicana', devem manter Senado e perder a Câmara",
+    "summary": "Vitória republicana é mais modesta do que em outras eleições de meio de mandato, e vai afetar as pretensões do ex-presidente americano Donald Trump em sua candidatura à presidência em 2024"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10181.3125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/pt-quer-reeditar-heranca-maldita-como-vacina-contra-eventuais-frustracoes-em-23/",
+    "hat": "Coluna do Estadão",
+    "title": "PT quer reeditar 'herança maldita' como vacina contra eventuais frustrações em 2023"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9703.203125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/facebook-demite-11-mil-pessoas-maior-corte-da-historia-de-empresas-de-tecnologia/",
+    "hat": "rede social",
+    "title": "Facebook demite 11 mil pessoas, maior corte da história de empresas de tecnologia"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9273.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/o-pais-precisa-de-um-avancaco-para-recuperar-area-ambiental-diz-capobianco/",
+    "hat": "ENTREVISTA",
+    "title": "O País precisa de um 'avançaço' para recuperar área ambiental, diz Capobianco",
+    "summary": "Cotado para integrar o governo Lula diz que só revogar medidas de Bolsonaro não é suficiente"
+  }
+]

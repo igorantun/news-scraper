@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -11158.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/na-economia-lula-bate-bolsonaro-mas-presidente-estabilizou-divida-publica.shtml",
+    "hat": "Eleições 2022",
+    "title": "Na economia, Lula bate Bolsonaro, mas presidente estabilizou dívida pública",
+    "summary": "Assim como petista, mandatário teve boom de commodities, mas o desperdiçou"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -875.203125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml",
+    "hat": "Folha Explica",
+    "title": "Entenda a crise que já deixou pelo menos 200 mortos no Irã",
+    "summary": "Manifestantes protestam há 40 dias contra a morte da jovem Mahsa Amini, presa pela polícia da moralidade"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11158.109375,
+      "left": 1305,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/distribua-votos-de-ciro-e-tebet-e-veja-quem-seria-eleito-presidente.shtml",
+    "hat": "DeltaFolha",
+    "title": "Simulador: Distribua votos de Ciro e Tebet e veja quem seria eleito presidente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10948.25,
+      "left": 974.984375,
+      "height": 337.921875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/datafolha-otimismo-com-a-economia-e-o-maior-desde-2015.shtml",
+    "hat": "pesquisa",
+    "title": "Datafolha: Otimismo com a economia é o maior desde 2015"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -10575.34375,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/fabio-faria-diz-que-tentou-conciliacao-com-tse-e-se-arrepende-profundamente-de-entrevista-das-radios.shtml",
+    "hat": "mônica bergamo",
+    "title": "Fábio Faria diz que se 'arrepende profundamente' de entrevista coletiva sobre rádios"
+  }
+]

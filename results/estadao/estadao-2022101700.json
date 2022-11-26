@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9362.3125,
+      "left": 329,
+      "height": 845.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-debate-bolsonaro-lula-band-tv-segundo-turno/?liveId=CTOKXMQDBRD55J75MCHCCET4GE",
+    "hat": "DEBATE ENTRE PRESIDENCIÁVEIS",
+    "title": "Ao vivo: Lula expõe má gestão de Bolsonaro na pandemia, e presidente tenta ligar petista a criminosos",
+    "summary": "No primeiro bloco, petista conduziu debate, e presidente teve de responder; chefe do Executivo também citou o Nordeste duas vezes, em busca de atrair votos da região"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9362.3125,
+      "left": 1190.328125,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caso-envolvendo-venezuelanas-eleva-tensao-e-comite-de-bolsonaro-reve-estrategia-para-debate-na-band/",
+    "hat": "Eleições 2022",
+    "title": "Caso envolvendo venezuelanas faz Bolsonaro rever estratégia para debate: ‘Piores 24 horas’",
+    "summary": "Repercussão de frase sobre encontro com adolescentes mobiliza atenções da campanha do presidente"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8970.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-debate-bolsonaro-lula-band-tv-segundo-turno/?liveId=6TDTVUWUVVFUNHYXPQDNBW7DCU",
+    "hat": "senador eleito",
+    "title": "Moro integra tropa de choque de Bolsonaro em estúdio do debate",
+    "summary": ""
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8454.65625,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/china-tem-controle-total-de-hong-kong-e-pretende-fazer-o-mesmo-com-taiwan-diz-xi-jinping/",
+    "hat": "INTERNACIONAL",
+    "title": "Xi Jinping diz que China pretende controlar Taiwan totalmente e não descarta usar força"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8454.65625,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://einvestidor.estadao.com.br/comportamento/recebi-heranca-tenho-direitos/",
+    "hat": "E-INVESTIDOR",
+    "title": "Recebeu herança? Veja quais são os seus direitos e o que fazer para evitar problemas"
+  }
+]

@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5134,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/11/07/equipe-de-lula-tenta-frear-indicacoes-de-bolsonaro-para-judiciario-e-postos-no-exterior.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Lula quer frear indicações de Bolsonaro ao Judiciário e a postos no exterior"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5134,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/11/06/ataques-de-odio-em-escolas-estudante-negro-de-colegio-tradicional-de-sp-denuncia-postagens-racistas-luto-pela-justica-luto-pelo-amor-diz.ghtml",
+    "hat": "Ataques de ódio",
+    "title": "Aluno negro de colégio tradicional de SP denuncia postagens racistas"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -4797.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fantastico/noticia/2022/11/06/golpe-do-pix-ja-atingiu-pelo-menos-11-cidades-do-sudeste-e-causou-prejuizos-de-mais-r-10-milhoes.ghtml",
+    "hat": "Fantástico",
+    "title": "Golpe do PIX atinge 11 cidades; prejuízo passa de R$ 10 milhões"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4392.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/07/lula-e-alckmin-ja-tem-gabinetes-de-transicao-em-brasilia-agenda-deve-ser-definida-nesta-segunda.ghtml",
+    "title": "Gabinetes de transição de Lula e Alckmin já estão prontos",
+    "category": "São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4114.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/educacao/noticia/2022/11/07/mec-omisso-no-pos-pandemia-evasao-escolar-atrasos-na-aprendizagem-e-universidades-falidas-especialistas-apontam-desafios-de-lula-na-educacao.ghtml",
+    "hat": "Governo eleito",
+    "title": "MEC, universidades falidas, atrasos na aprendizagem: os desafios de Lula na educação",
+    "summary": "Efeitos do período prologado de fechamento das escolas serão sentidos a curto e a longo prazo.",
+    "category": "Educação"
+  }
+]

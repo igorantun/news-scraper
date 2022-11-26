@@ -1,0 +1,67 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3569,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2022/noticia/2022/10/30/bolsonaro-vota-na-zona-oeste-do-rio.ghtml",
+    "title": "Bolsonaro vota no Rio logo após abertura das urnas; Lula vota daqui a pouco em SP",
+    "summary": "Mais de 156 milhões de eleitores estão aptos a votar no 2º turno em todo o Brasil e no exterior."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -3569,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/ao-vivo/segundo-turno-eleicoes.ghtml",
+    "hat": "ao vivo",
+    "title": "ACOMPANHE: eleitores fazem filas em locais de votação"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3232.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/resultados-exterior-segundo-turno-boletins-de-urna.ghtml",
+    "title": "Lula vence em Singapura, Nova Zelândia e Coreia do Sul; Bolsonaro, em Taiwan"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2827.828125,
+      "left": 348.65625,
+      "height": 255.84375,
+      "width": 880.390625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/09/28/guia-do-eleitor.ghtml",
+    "title": "GUIA DO ELEITOR: veja horário e local de votação, documentos e mais",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2539.984375,
+      "left": 348.65625,
+      "height": 255.84375,
+      "width": 880.390625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/eleicao-em-numeros/noticia/2022/10/30/contagem-de-votos-historicamente-termina-primeiro-no-sul-e-sudeste-votos-do-nordeste-chegam-depois.ghtml",
+    "title": "Contagem de votos historicamente termina primeiro no Sul e Sudeste",
+    "summary": "Votos dos estados do Norte e do Nordeste chegam depois; entenda.",
+    "category": "Eleição em Números"
+  }
+]

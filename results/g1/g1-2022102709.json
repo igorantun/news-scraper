@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5796,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/moraes-indefere-pedido-da-campanha-de-bolsonaro-sobre-insercoes-em-radios.ghtml",
+    "hat": "Justiça Eleitoral",
+    "title": "Moraes nega pedido de Bolsonaro para investigar suposto boicote de rádios",
+    "summary": "Presidente do TSE afirma que campanha levantou hipótese de fraude sem indícios mínimos de prova e determina apuração de possível crime eleitoral; Bolsonaro diz que vai recorrer."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5796,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-da-globo/playlist/jornal-da-globo-ultimos-videos.ghtml#video-11064322-id",
+    "hat": "Brasileirão",
+    "title": "GOLS: Inter impede título do Palmeiras, e Corinthians perde"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5459.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/times/palmeiras/noticia/2022/10/26/palmeiras-adia-festa-mas-garante-titulo-brasileiro-se-vencer-o-fortaleza-veja-contas.ghtml",
+    "title": "Palmeiras está a uma vitória de mais um título nacional; veja contas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5054.828125,
+      "left": 348.65625,
+      "height": 136.390625,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/tse-diz-que-servidor-foi-exonerado-por-suspeita-de-assedio-moral-e-que-deu-depoimento-a-pf-com-afirmacoes-falsas-e-mentirosas.ghtml",
+    "title": "TSE exonera servidor por assédio moral e indícios de atuação política",
+    "summary": "Tribunal afirma que Alexandre Machado fez alegações falsas e mentirosas à PF.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4886.4375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/27/entenda-por-que-a-vitoria-de-lula-ou-de-bolsonaro-passa-por-minas-gerais.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Por que Minas é tão importante para a vitória de Lula ou Bolsonaro",
+    "category": "O Assunto"
+  }
+]

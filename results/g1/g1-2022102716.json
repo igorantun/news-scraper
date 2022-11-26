@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6383,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2022/10/27/moraes-transforma-prisao-em-flagrante-de-jefferson-para-prisao-preventiva.ghtml",
+    "hat": "Blog do Valdo Cruz",
+    "title": "Moraes mantém prisão de Jefferson por atacar agentes da PF com granadas e fuzil",
+    "summary": "Aliado de Bolsonaro foi indiciado por 4 tentativas de homicídio. Prisão em flagrante foi convertida em preventiva."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6383,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/10/27/justica-eleitoral-recebe-150-denuncias-contra-o-parque-beto-carreiro-sobre-campanha-que-incentiva-abstencao-de-petistas.ghtml",
+    "hat": "Santa Catarina",
+    "title": "Justiça recebe 150 denúncias contra campanha do Beto Carrero"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6046.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/27/recem-casados-sao-assaltados-na-volta-da-cerimonia-no-rj-e-passam-a-noite-de-nupcias-na-delegacia.ghtml",
+    "hat": "Rio de Janeiro",
+    "title": "Noivos são assaltados e passam a noite de núpcias na delegacia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5641.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2022/10/27/fake-news-entenda-como-funciona-a-fabrica-desinformacao-politica-no-brasil.ghtml",
+    "hat": "Indústria da desinformação",
+    "title": "Entenda como funciona a fábrica de fake news nas eleições brasileiras",
+    "category": "Fato ou Fake"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5363.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/27/moraes-diz-que-dever-de-fiscalizar-se-insercoes-de-candidatos-vao-ao-ar-e-dos-partidos-e-nao-do-tse.ghtml",
+    "hat": "Eleições",
+    "title": "Moraes diz que dever de fiscalizar inserções dos candidatos é dos partidos",
+    "summary": "Ontem, presidente do TSE negou pedido de Bolsonaro para investigar suposto boicote de rádios.",
+    "category": "Eleições 2022"
+  }
+]

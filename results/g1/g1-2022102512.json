@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5944,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/25/cidades-onde-lula-e-bolsonaro-empataram-no-1o-turno-vivem-tranquilidade-nas-ruas-e-tensao-nas-redes-sociais.ghtml",
+    "hat": "Polarização ao extremo",
+    "title": "Cidades onde Lula e Bolsonaro empataram no 1º turno têm tranquilidade nas ruas e tensão nas redes",
+    "summary": "Conheça os três municípios onde os dois candidatos tiveram a mesma votação."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5944,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/10/25/tempos-dificeis-virao-diz-novo-primeiro-ministro-do-reino-unido.ghtml",
+    "hat": "Reino Unido",
+    "title": "'Fui eleito para consertar erros', diz Sunak em 1º discurso"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5607.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ce/ceara/noticia/2022/10/25/turista-filmou-queda-de-tirolesa-que-o-levou-a-morte-em-canoa-quebrada.ghtml",
+    "hat": "Canoa Quebrada",
+    "title": "Turista filmou queda de tirolesa que o levou à morte no Ceará"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5202.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/bauru-marilia/noticia/2022/10/25/diferencas-sociais-explicam-empate-de-votos-entre-lula-e-bolsonaro-em-ribeirao-do-sul-dizem-moradores.ghtml",
+    "title": "Diferenças sociais explicam empate em cidade paulista perto do Paraná",
+    "category": "Bauru e Marília"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4924.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/25/whatsapp-apresenta-instabilidade-nesta-terca-feira.ghtml",
+    "hat": "App de conversas",
+    "title": "WhatsApp apresenta instabilidade no mundo todo",
+    "summary": "Parte dos usuários relata que serviço começou a voltar por volta de 6h. Meta diz que problema foi resolvido.",
+    "category": "Tecnologia"
+  }
+]

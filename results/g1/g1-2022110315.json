@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5637,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/alckmin-se-reune-com-relator-para-tentar-adequar-orcamento-a-promessas-de-campanha.ghtml",
+    "hat": "Transição de governo",
+    "title": "Alckmin se reúne com relator para adequar Orçamento a planos de Lula"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5637,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/11/03/lagoa-surge-em-faixa-de-areia-alargada-ha-11-meses-em-balneario-camboriu-entenda.ghtml",
+    "hat": "Santa Catarina",
+    "title": "Lagoa surge em praia alargada há 11 meses em Balneário Camboriú"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5300.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/11/03/emprego-dos-sonhos-em-local-remoto-da-nova-zelandia-atrai-candidatos-de-todo-o-mundo.ghtml",
+    "hat": "Cargo dos sonhos?",
+    "title": "Emprego em local remoto atrai mais de mil candidatos na Nova Zelândia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4895.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/ciro-nogueira-e-guedes-se-reunem-com-ministros-do-tcu-para-discutir-transicao-de-governo.ghtml",
+    "title": "Ministros de Bolsonaro vão ao TCU para debater transição de governo",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4617.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/03/fim-de-sigilo-de-100-anos-as-decisoes-de-lula-que-poderao-afetar-bolsonaro-apos-posse.ghtml",
+    "hat": "Sem segredos",
+    "title": "Fim de sigilo de 100 anos? Veja decisões de Lula que podem afetar Bolsonaro",
+    "category": "Política"
+  }
+]

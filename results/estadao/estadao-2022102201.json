@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9261.3125,
+      "left": 329,
+      "height": 885.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/jair-bolsonaro-entrevista-sbt-estadao-pool-de-veiculos-eleicao-para-presidente-segundo-turno/",
+    "hat": "CORRIDA PRESIDENCIAL",
+    "title": "Ao vivo: Bolsonaro é entrevistado por Estadão/Eldorado e pool de veículos após Lula recusar debate; acompanhe",
+    "summary": "Realizado no estúdio do SBT, encontro substitui debate que ocorreria entre os dois candidatos; petista também faltou a evento do primeiro turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9261.3125,
+      "left": 1190.328125,
+      "height": 386,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/caso-jovem-pan-em-julgamento-de-acoes-do-pt-tse-impoe-censura-corte-mandou-investigar-radio/",
+    "hat": "Política",
+    "title": "Caso Jovem Pan: em julgamento de ações do PT, TSE impõe censura; Corte mandou investigar rádio",
+    "summary": "Despachos são considerados ofensivos à Constituição; Tribunal atendeu campanha de Lula e mandou apurar suposto favorecimento a Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8845.3125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/brasil-sentira-impacto-da-nova-estrategia-de-seguranca-nacional-dos-eua-leia-artigo/",
+    "hat": "ESTRATÉGIA MILITAR",
+    "title": "Brasil sentirá impacto da nova Estratégia de Segurança Nacional dos EUA; leia análise"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8313.65625,
+      "left": 329,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/senado-tem-que-dar-um-freio-em-alexandre-de-moraes-diz-mourao/",
+    "hat": "VICE-PRESIDENTE",
+    "title": "Mourão: 'Alexandre de Moraes ultrapassou os limites da sua autoridade'; leia entrevista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8313.65625,
+      "left": 759.65625,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/balneario-camboriu-degrau-aparece-em-faixa-de-areia-alargada-da-praia/",
+    "hat": "Santa Catarina",
+    "title": "Degrau aparece em faixa de areia alargada de Balneário Camboriú pouco tempo após obra"
+  }
+]

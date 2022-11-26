@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9400.109375,
+      "left": 315,
+      "height": 282.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/veja-o-que-muda-na-esplanada-com-lula-e-conheca-ministeriaveis.shtml",
+    "hat": "transição de governo",
+    "title": "Veja o que muda na Esplanada com Lula e conheça ministeriáveis",
+    "summary": "Pastas como Economia e Justiça podem ser divididas; há promessa de ministérios na área social"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -555.484375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=ZUskl7B8fKg",
+    "hat": "Mundo",
+    "title": "Sobrevivente conta como foi a queda de avião na Tanzânia",
+    "summary": "Ainda não é possível determinar a causa do acidente aéreo que matou ao menos 19 pessoas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9082.4375,
+      "left": 975,
+      "height": 219.546875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/cidades-vivem-clima-de-tensao-com-grupos-radicais-e-boicotes-a-eleitores-de-lula.shtml",
+    "hat": "hostilidades",
+    "title": "Cidades vivem clima de tensão com grupos radicais e boicotes a eleitores de Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8827.90625,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonarista-que-defendeu-separar-nordeste-tem-r-480-mi-em-contratos-com-governo.shtml",
+    "hat": "Governo Bolsonaro",
+    "title": "Bolsonarista que defendeu separar Nordeste tem R$ 480 mi em contratos com governo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8670.96875,
+      "left": 975,
+      "height": 181.859375,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/reforma-trabalhista-faz-cinco-anos-na-mira-do-novo-governo-lula.shtml",
+    "hat": "mercado de trabalho",
+    "title": "Reforma trabalhista faz cinco anos na mira do novo governo Lula",
+    "summary": "Direitos de trabalhadores por aplicativo serão debatidos; nova CLT deve ter pontos revistos"
+  }
+]

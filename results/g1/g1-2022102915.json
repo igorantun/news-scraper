@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4522,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/29/debate-na-globo-comentaristas-do-g1-e-da-globonews-avaliam-desempenho-de-lula-e-bolsonaro.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "Lula ou Bolsonaro: quem ganhou o último debate da eleição? Veja análises"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4522,
+      "left": 965.984375,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2022/10/29/veja-o-que-e-fato-ou-fake-nas-falas-dos-presidenciaveis-no-debate-da-globo-do-2o-turno.ghtml",
+    "title": "O que é #FATO ou #FAKE nas falas de Lula e Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3780.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/28/debate-da-globo-do-2o-turno-para-presidente-veja-integra-em-videos.ghtml",
+    "title": "VÍDEOS: assista ao debate na íntegra",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3502.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/29/g1-tv-globo-e-globonews-divulgam-pesquisas-presidenciais-de-ipec-e-datafolha-a-partir-das-18h.ghtml",
+    "hat": "Pesquisa presidencial",
+    "title": "g1, TV Globo e GloboNews divulgam Ipec e Datafolha a partir das 18h",
+    "category": "Pesquisa Eleitoral"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3224.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://interativos.ge.globo.com/futebol/libertadores/raio-x/final-2022-flamengo-x-athletico-pr",
+    "hat": "Quem será o campeão?",
+    "title": "Final da Libertadores: raio X analisa elencos de Flamengo e Athletico",
+    "category": "libertadores"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6362,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2022/11/12/recursos-para-pequenos-produtores-imagem-no-exterior-producao-sustentavel-especialistas-apontam-desafios-de-lula-no-agro.ghtml",
+    "hat": "Novo governo",
+    "title": "Verba, produção sustentável e imagem no exterior: os desafios de Lula no agro",
+    "summary": "Políticas agrícolas devem ser essenciais no combate à fome, compromisso que presidente eleito vê como urgente."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6362,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/mundo/noticia/2022/11/12/como-caes-dados-por-kim-jong-un-criaram-disputa-entre-atual-e-ex-presidente-na-coreia-do-sul.ghtml",
+    "hat": "Songkang e Gomi",
+    "title": "Cães dados por Kim Jong-un causam briga política na Coreia do Sul"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -6025.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/11/12/inauguracao-da-shein-em-sp-tem-longas-filas-confusao-e-brigas.ghtml",
+    "hat": "Cenas lamentáveis",
+    "title": "Clientes saem no tapa em abertura de loja temporária em SP"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5620.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2022/11/12/esvaziado-programa-federal-de-aquisicoes-de-alimentos-ve-doacoes-despencarem.ghtml",
+    "title": "Programa de compra de alimentos tem orçamento quase zerado para 2023",
+    "category": "Agronegócios"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5342.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/12/transicao-de-governo-bela-gil-e-nomeada-para-o-grupo-de-desenvolvimento-social-e-combate-a-fome.ghtml",
+    "title": "Bela Gil é confirmada na transição e vai discutir combate à fome",
+    "category": "Política"
+  }
+]

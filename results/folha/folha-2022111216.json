@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8992.109375,
+      "left": 315,
+      "height": 174.875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/bolsonaro-se-fecha-no-alvorada-apos-derrota-e-articula-futuro-como-lider-da-direita.shtml",
+    "hat": "Política",
+    "title": "Bolsonaro se fecha no Alvorada após derrota e articula futuro como líder da direita",
+    "summary": "Silêncio do presidente evita desmobilização de manifestações antidemocráticas contra resultado das urnas"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.1875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=zk3EIHOWtIc",
+    "hat": "folha explica",
+    "title": "O que racismo tem a ver com mudanças climáticas?",
+    "summary": "Entenda como os efeitos do clima afetam de forma diferente populações mais vulneráveis e marginalizadas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8782.25,
+      "left": 975,
+      "height": 253.421875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/opiniao/2022/11/mau-comeco.shtml",
+    "hat": "O que a Folha pensa",
+    "title": "Ao ignorar que responsabilidade fiscal é social, Lula já mina a confiança em seu governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8493.84375,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/bid-ignora-pressao-do-pt-e-reafirma-data-de-eleicao-e-candidatura-de-ilan-goldfajn.shtml",
+    "hat": "ex-presidente do BC",
+    "title": "BID ignora pressão do PT e reafirma data de eleição e candidatura de Ilan Goldfajn"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8292.8125,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/11/haddad-cresce-na-bolsa-de-apostas-do-itamaraty-em-paralelo-a-diplomatas.shtml",
+    "hat": "diplomacia brasileira",
+    "title": "Haddad cresce na bolsa de apostas do Itamaraty em paralelo a diplomatas"
+  }
+]

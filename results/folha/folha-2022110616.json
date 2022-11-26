@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8381.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-calibra-escolha-de-ministros-para-evitar-desfalque-no-senado.shtml",
+    "hat": "transição de governo",
+    "title": "Lula calibra escolha de ministros para evitar desfalque no Senado",
+    "summary": "Ex-presidente leva em conta necessidade de fazer frente a bolsonaristas eleitos para o Legislativo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.296875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=5J2ar2UK8OM",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8117.34375,
+      "left": 975,
+      "height": 197.546875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ilustrissima/2022/11/lula-vai-a-cop-para-retomar-protagonismo-do-brasil-no-clima.shtml",
+    "hat": "Ambiente",
+    "title": "Lula vai à COP27 para retomar protagonismo do Brasil no clima",
+    "summary": "Cúpula começa neste domingo no Egito"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7884.8125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pt-quer-deixar-para-2023-discussao-sobre-tabela-do-imposto-de-renda.shtml",
+    "hat": "Economia",
+    "title": "PT quer deixar para 2023 discussão sobre tabela do Imposto de Renda"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7683.78125,
+      "left": 975,
+      "height": 166.046875,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/ministro-da-justica-vira-braco-direito-de-bolsonaro-em-ataques-eleitorais.shtml",
+    "hat": "Governo Bolsonaro",
+    "title": "Ministro da Justiça vira braço-direito de Bolsonaro em ataques eleitorais"
+  }
+]

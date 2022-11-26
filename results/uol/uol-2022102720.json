@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12570.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://piaui.folha.uol.com.br/eleicoes-2022/bastidores-prisao-roberto-jefferson-honestamente-ministro-piorar-circo/",
+    "title": "'Honestamente, ministro, vai piorar o circo': detalhes da prisão de Jefferson",
+    "summary": "Como interferência do governo atrasou negociações para rendição do ex-deputado"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12145.3125,
+      "left": 365,
+      "height": 565.546875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carla-araujo/2022/10/27/qg-de-bolsonaro-chega-a-reta-final-rachado-e-bolsonaro-estuda-saida-aecio.htm",
+    "title": "QG de Bolsonaro chega à reta final rachado; presidente estuda 'saída Aécio'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12145.3125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/cinegrafista-que-filmou-tarcisio-em-paraisopolis-pede-demissao-da-jovem-pan.htm",
+    "title": "Cinegrafista que filmou Tarcísio em Paraisópolis pede demissão da Jovem Pan"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11754.640625,
+      "left": 619.15625,
+      "height": 211.9375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/27/justica-recebe-150-denuncias-contra-beto-carrero-apos-promocao-antipetista.htm",
+    "title": "Justiça recebe 150 denúncias contra parque Beto Carrero após promoção antipetista"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12145.3125,
+      "left": 873.328125,
+      "height": 451.421875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/justica-determina-que-garcia-libere-passe-livre-em-metro-e-trem-nas-eleicoes.shtml",
+    "title": "Justiça manda Rodrigo Garcia liberar passe livre em metrô e trem nas eleições"
+  }
+]

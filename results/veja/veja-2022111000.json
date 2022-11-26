@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5869.890625,
+      "left": 324,
+      "height": 276,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/relatorio-de-militares-nao-aponta-fraudes-na-eleicao-de-lula/",
+    "hat": "Eleições",
+    "title": "Relatório dos militares não aponta fraude; Moraes reafirma segurança das urnas",
+    "summary": "Texto cita dificuldades para realizar o trabalho de fiscalização, sugere melhorias, mas não valida nenhuma suspeita sobre irregularidades no pleito; leia a íntegra do documento"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -1194.140625,
+      "left": 324,
+      "height": 220,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/paginas-amarelas/raquel-lyra-e-hora-de-construir-pontes/",
+    "hat": "Política",
+    "title": "'É hora de construir pontes', diz a governadora eleita Raquel Lyra",
+    "summary": "A primeira mulher a assumir o comando de Pernambuco acena para uma aproximação com Lula e diz que o PSDB se descolou da realidade"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -679.140625,
+      "left": 648,
+      "height": 170,
+      "width": 948
+    },
+    "link": "https://veja.abril.com.br/politica/os-doze-desafios-herculeos-de-lula-depois-da-vitoria-sobre-bolsonaro",
+    "hat": "Reportagem de capa",
+    "title": "Os doze obstáculos complexos que Lula vai enfrentar após vitória sobre Bolsonaro",
+    "summary": "Os problemas hercúleos incluem a necessidade de expansão da economia, uma boa articulação com o Congresso e a recuperação da imagem do país no exterior"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5569.890625,
+      "left": 324,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/nao-enxergo-essa-coisa-de-centrao-diz-lula-em-brasilia/",
+    "hat": "Política",
+    "title": "‘Não enxergo essa coisa de Centrão’, diz Lula após ver chefes dos poderes"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5569.890625,
+      "left": 539.984375,
+      "height": 225.984375,
+      "width": 191.984375
+    },
+    "link": "https://veja.abril.com.br/coluna/radar/pacheco-promete-empenho-a-lula-para-viabilizar-pec-dos-gastos-sociais/",
+    "hat": "Radar",
+    "title": "Pacheco promete a Lula empenho para viabilizar PEC dos gastos sociais"
+  }
+]

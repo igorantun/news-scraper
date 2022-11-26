@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12498.609375,
+      "left": 365,
+      "height": 278.375,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/28/debate-globo-segundo-turno-lula-bolsonaro.htm",
+    "title": "Em debate com poucas propostas, Lula foca no passado, e Bolsonaro, em atacar",
+    "summary": "Na Globo, candidatos subiram o tom de provocações e elevaram clima de tensão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12171.234375,
+      "left": 365,
+      "height": 516.984375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/bolsonaro-sai-do-serio-apos-debate-e-e-retirado-de-coletiva-por-assessores.htm",
+    "title": "Bolsonaro sai do sério após debate e é retirado de coletiva por assessores"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11630.25,
+      "left": 365,
+      "height": 426.421875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/treinado-apos-ultimo-debate-lula-controla-tempo-e-foge-de-pegadinhas.htm",
+    "title": "Treinado após último debate, Lula controla tempo e foge de pegadinhas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12171.234375,
+      "left": 619.15625,
+      "height": 342.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/29/quem-venceu-o-debate-colunistas-avaliam.htm",
+    "title": "Quem venceu o debate na Globo? Colunistas do UOL avaliam"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11804.5625,
+      "left": 619.15625,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/mauricio-stycer/2022/10/28/o-que-falta-em-debate-organizadores-precisam-corrigir-mentiras-e-fake-news.htm",
+    "title": "Stycer: Chega de mentira! TVs precisam corrigir fake news em debates na hora"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9717.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/ciro-nogueira-critica-plano-b-e-defende-negociacao-da-pec-da-transicao-com-o-centrao/",
+    "hat": "Novo governo",
+    "title": "Ciro Nogueira defende negociação da 'PEC da Transição' com o Centrão e critica 'plano B' fora do Congresso",
+    "summary": "Equipe de Lula analisa como pagar auxílio de R$ 600 e outras despesas no início do mandato; uma das possibilidades é abrir crédito extraordinário sem necessidade de acordo no Parlamento"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9717.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/ciencia/astronomos-encontram-buraco-negro-mais-proximo-da-terra-no-nosso-quintal-cosmico/",
+    "hat": "Ciência",
+    "title": "Astrônomos encontram buraco negro mais próximo da Terra, no nosso 'quintal cósmico'",
+    "summary": "A apenas 1,6 mil anos-luz de distância, a formação espacial 'adormecida'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/ovni-piloto-relata-luzes-nao-identificadas-em-porto-alegre-durante-voo-nprm/",
+    "hat": "MISTÉRIO EM VIAGEM",
+    "title": "Óvni? Pilotos relatam luzes 'não identificadas' durante voos em Porto Alegre; veja vídeo",
+    "summary": "Comandantes fizeram relatos à Central de Controle do Aeroporto Salgado Filho"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/esportes/leticia-bufoni-faz-manobra-no-ceu-inicia-transicao-de-carreira-e-mira-competir-no-automobilismo/",
+    "hat": "skatista",
+    "title": "Letícia Bufoni faz manobra com skate no céu e mira competir no automobilismo; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9247.3125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/flordelis-comeca-julgamento-morte-marido-pastor-anderson-carmo/",
+    "hat": "TRIBUNAL DO JÚRI",
+    "title": "Ex-deputada Flordelis vai a julgamento nesta segunda-feira pela morte do marido",
+    "summary": "Pastora foi denunciada como a mandante do crime, mas nega; veja a acusação e a defesa"
+  }
+]

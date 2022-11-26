@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10291.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/orcamento-secreto-apoio-centrao-lula-pec-transicao/",
+    "hat": "SUCESSÃO DE GOVERNO",
+    "title": "Centrão condiciona aprovação de PEC da Transição com furo no teto de gastos a apoio ao orçamento secreto",
+    "summary": "Negociação entre a equipe de Lula e o Congresso antes de ser anunciado o ministro da Fazenda preocupa o mercado financeiro"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10291.3125,
+      "left": 1190.328125,
+      "height": 446.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/grupos-bolsonaristas-mostram-que-a-tecnologia-deu-origem-a-um-movimento-pre-modernidade/",
+    "hat": "Pedro Doria",
+    "title": "'Grupos bolsonaristas mostram que o digital se encontrou mesmo com a Idade Média'"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9815.203125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/covid-testes-positivos-crescem-em-laboratorios-privados-qual-o-risco-de-uma-nova-onda/",
+    "hat": "Coronavírus",
+    "title": "Testes positivos de covid-19 crescem nos laboratórios; qual o risco de uma nova onda?",
+    "summary": "Taxa de diagnósticos confirmados para o coronavírus subiu de 3% para 17% em outubro, mostra estudo"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9335.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/sustentabilidade/brasil-esta-de-volta-ao-jogo-ambiental-apos-eleicao-de-lula-como-o-pais-chega-a-cop-27/",
+    "hat": "Sustentabilidade",
+    "title": "Amazônia volta ao centro dos debates da COP-27, aliado à mudança de poder no Brasil",
+    "summary": "Presidente eleito para assumir em 2023, Lula deve ir à conferência do clima, convidado pela ONU e pelo Egito"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9335.65625,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/alvo-de-tarcisio-cameras-da-pm-servirao-a-audiencias-de-custodia/",
+    "hat": "SEGURANÇA PÚBLICA",
+    "title": "Alvo de Tarcísio, câmeras da PM serão usadas em audiências de custódia",
+    "summary": "Governo de São Paulo negocia convênio com TJ para que imagens sejam usadas na hora de reavaliar prisões"
+  }
+]

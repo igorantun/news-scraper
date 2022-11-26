@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5433,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/10/21/na-fila-pelo-emprestimo-consignado-beneficiarios-do-auxilio-brasil-nao-sabem-que-dinheiro-saira-do-beneficio.ghtml",
+    "hat": "Crédito consignado",
+    "title": "No sufoco, famílias com Auxílio Brasil pegam empréstimo sem saber como irão pagar",
+    "summary": "Valores da dívida e dos juros serão descontados do próprio benefício. Nas filas, relatos são de aperto no presente e incerteza sobre futuro."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5433,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/10/21/degrau-surge-em-faixa-de-areia-de-balneario-camboriu-10-meses-apos-alargamento-entenda.ghtml",
+    "hat": "Santa Catarina",
+    "title": "'Degrau' surge em faixa de areia de Camboriú 10 meses após obra"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5096.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/noticia/2022/10/21/arremesso-de-canguru-urso-de-tres-cabecas-e-dr-entre-pinguins-veja-finalistas-do-concurso-de-fotos-mais-engracadas-da-vida-selvagem.ghtml",
+    "hat": "📷🐒🦘🐻🐧",
+    "title": "Veja finalistas do concurso de fotos mais engraçadas da vida selvagem"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4691.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/21/tcu-parecer-suspensao-emprestimo-consignado-auxilio-brasil.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Parecer do TCU recomenda suspender consignado do Auxílio Brasil",
+    "summary": "Tribunal considera que governo estaria usando benefício para interferir na eleição.",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4413.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/21/tse-vai-analisar-no-plenario-virtual-a-partir-de-meia-noite-decisao-que-deu-164-insercoes-para-lula-nas-propagandas-de-bolsonaro.ghtml",
+    "hat": "Eleições",
+    "title": "TSE julga a partir de meia-noite direitos de resposta de Lula contra Bolsonaro",
+    "category": "Eleições 2022"
+  }
+]

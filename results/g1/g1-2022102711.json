@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5898,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/fato-ou-fake/noticia/2022/10/27/fake-news-entenda-como-funciona-a-fabrica-desinformacao-politica-no-brasil.ghtml",
+    "hat": "Indústria da desinformação",
+    "title": "Entenda como funciona a fábrica de fake news nas eleições brasileiras"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5898,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/economia/agronegocios/noticia/2022/10/27/saiba-se-cortar-pedaco-da-fruta-que-esta-mofado-e-comer-o-resto-faz-mal.ghtml",
+    "hat": "Cuidados com a alimentação",
+    "title": "Cortar pedaço da fruta mofado e comer o resto faz mal? Entenda"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5561.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/jornal-da-globo/playlist/jornal-da-globo-ultimos-videos.ghtml#video-11064322-id",
+    "hat": "Brasileirão",
+    "title": "GOLS: Inter impede título do Palmeiras, e Corinthians perde"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5156.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/moraes-indefere-pedido-da-campanha-de-bolsonaro-sobre-insercoes-em-radios.ghtml",
+    "hat": "Justiça Eleitoral",
+    "title": "Moraes nega pedido de Bolsonaro para investigar suposto boicote de rádios",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4878.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/podcast/o-assunto/noticia/2022/10/27/entenda-por-que-a-vitoria-de-lula-ou-de-bolsonaro-passa-por-minas-gerais.ghtml",
+    "hat": "🎧 O Assunto",
+    "title": "Por que Minas é tão importante para a vitória de Lula ou Bolsonaro",
+    "category": "O Assunto"
+  }
+]

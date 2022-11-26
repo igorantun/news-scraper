@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5822,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/moraes-indefere-pedido-da-campanha-de-bolsonaro-sobre-insercoes-em-radios.ghtml",
+    "hat": "Justiça Eleitoral",
+    "title": "Moraes nega pedido de Bolsonaro para investigar suposto boicote de rádios",
+    "summary": "Presidente do TSE afirma que campanha levantou hipótese de fraude sem indícios mínimos de prova e determina apuração de possível crime eleitoral."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5822,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2022/10/26/2023-o-ano-dos-feriadoes-veja-quais-serao-e-se-programe.ghtml",
+    "hat": "😎😎😎",
+    "title": "2023 será o ano dos feriadões: veja datas e se programe"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5485.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/tecnologia/noticia/2022/10/26/elon-musk-video-sede-do-twitter.ghtml",
+    "hat": "Tecnologia",
+    "title": "Elon Musk entra na sede do Twitter carregando uma pia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5080.828125,
+      "left": 348.65625,
+      "height": 162.78125,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/26/tse-diz-que-servidor-foi-exonerado-por-suspeita-de-assedio-moral-e-que-deu-depoimento-a-pf-com-afirmacoes-falsas-e-mentirosas.ghtml",
+    "title": "TSE diz que exonerou servidor por assédio moral e indícios de atuação política",
+    "summary": "Tribunal afirma que Alexandre Machado fez alegações falsas e mentirosas à PF.",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4886.046875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/economia/noticia/2022/10/26/copom-mantem-selic-em-1375percent-juro-basico-da-economia-esta-nesse-patamar-desde-agosto.ghtml",
+    "hat": "Economia",
+    "title": "BC mantém juros em 13,75% e aponta que inflação continua elevada"
+  }
+]

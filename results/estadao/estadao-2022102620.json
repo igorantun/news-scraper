@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9464.3125,
+      "left": 329,
+      "height": 801.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-soma-mais-prefeitos-que-lula-na-corrida-por-apoios-locais-na-campanha/",
+    "hat": "CORRIDA ELEITORAL",
+    "title": "Bolsonaro soma mais prefeitos que Lula na corrida por apoios locais na campanha",
+    "summary": "Na reta final, sem 2º turno para governador na maioria dos Estados, campanhas buscam o eleitor na ponta: partido do presidente, PL  conquistou 345 prefeituras em 2020, quase o dobro do PT"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9464.3125,
+      "left": 1190.328125,
+      "height": 334,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/tse-diz-que-servidor-da-propaganda-foi-exonerado-por-atuar-com-motivacao-politica/",
+    "hat": "eleições 2022",
+    "title": "TSE diz que servidor foi exonerado por atuar com 'motivação política' e assédio moral",
+    "summary": "Alexandre Machado trabalhava no setor que lida com propaganda eleitoral e procurou a PF após perder cargo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9100.3125,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/negocios/soma-aquisicao-hering-lucro/",
+    "hat": "Negócios",
+    "title": "Dona de Farm e Animale ainda sofre para arrumar casa da Hering um ano após compra"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8600.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/internacional/venezuelanos-que-deixaram-tudo-para-tras-estao-presos-ao-sul-da-fronteira-americana/",
+    "hat": "Crise migratória",
+    "title": "Venezuelanos que deixaram tudo para trás estão presos ao sul da fronteira americana",
+    "summary": "Eles venderam tudo o que tinham e atravessaram uma selva mortífera, mas foram impedidos de entrar nos EUA"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8600.65625,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/ataques-misoginos-roberto-jefferson-carmen-lucia-serenamente-democracia-vale/",
+    "hat": "JUDICIÁRIO",
+    "title": "Cármen Lúcia diz que vai continuar julgando 'serenamente' após ataques misóginos"
+  }
+]

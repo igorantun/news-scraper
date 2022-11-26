@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7883.3125,
+      "left": 329,
+      "height": 190,
+      "width": 1262
+    },
+    "link": "https://www.estadao.com.br/politica/ao-vivo-paralisacao-bloqueio-greve-caminhoneiros-bolsonaro-protesto-lula-hoje/?liveId=ATFTVELILBFPBIEOCF7FKKGQDI",
+    "hat": "estradas interditadas",
+    "title": "Governadores acionam PM após ordem de Moraes e número de bloqueios nas rodovias cai para 220",
+    "summary": "Ao vivo: Operações para liberar estradas bloqueadas por bolsonaristas se intensificaram após ordem do ministro do Supremo"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -7487.359375,
+      "left": 329,
+      "height": 835.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/politica/eleicoes-bloqueio-estradas-abastecimento-paralisacoes-rodovias-ceagesp-abras/",
+    "hat": "PROTESTOS CONTRA RESULTADO DA ELEIÇÃO",
+    "title": "Paralisações nas estradas começam a afetar supermercados",
+    "summary": "Associação que representa setor pede apoio de Bolsonaro para cessar confusão; na Rod. Castello Branco, em SP, tropa de choque faz operação para liberar via interditada por bolsonaristas"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7487.359375,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bloqueios-estradas-carnes-leites-empresas/",
+    "hat": "EFEITOS DAS PARALISAÇÕES",
+    "title": "Manifestações podem comprometer entrega de gasolina, carnes e serviços de saúde"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7009.25,
+      "left": 1190.328125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-lula-inicio-transicao-governo-eleicoes-2022/",
+    "hat": "sucessão presidencial",
+    "title": "Bolsonaro silencia, mas equipe do governo conversa com chapa de Lula sobre transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6559.140625,
+      "left": 329,
+      "height": 410.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/pedro-fernando-nery-revisao-reforma-trabalhista-governo-lula-proposta/",
+    "hat": "Pedro Fernando Nery",
+    "title": "O que de bom pode sair da revisão da reforma trabalhista proposta pelo próximo governo?"
+  }
+]

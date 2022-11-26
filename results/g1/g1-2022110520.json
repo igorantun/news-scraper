@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5343,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/05/cop27-qual-a-importancia-da-cupula-do-clima-para-o-futuro-do-planeta.ghtml",
+    "hat": "COP 27 no Egito",
+    "title": "Conferência do Clima da ONU começa amanhã; entenda importância",
+    "summary": "Cerca de 200 países devem estar representados para discutir como conter aquecimento global. Presidente eleito Lula foi convidado e deve participar."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5343,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/a-metamorfose-do-voto-na-maior-cidade-do-pais.ghtml",
+    "hat": "Mudança em SP",
+    "title": "VÍDEO: a metamorfose do voto para presidente na maior cidade do país"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5006.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sc/santa-catarina/noticia/2022/11/05/aviao-da-fab-que-desapareceu-e-encontrado-em-sc-dois-ocupantes-morreram.ghtml",
+    "hat": "Acidente aéreo",
+    "title": "Avião da FAB que desapareceu é achado em SC; 2 morreram"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4601.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/gilmar-mendes-autoriza-pgr-a-ouvir-carla-zambelli-sobre-conduta-da-deputada-ao-sacar-arma-e-perseguir-homem-em-sp.ghtml",
+    "hat": "Parlamentar reeleita",
+    "title": "Gilmar Mendes autoriza PGR a ouvir Zambelli sobre perseguição com arma",
+    "summary": "Armados, deputada e segurança correram atrás de homem negro na véspera do 2º turno.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4323.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/no-1o-ano-de-mandato-lula-tera-de-governar-com-orcamento-proposto-por-bolsonaro-entenda-pec-da-transicao-e-proximos-passos.ghtml",
+    "hat": "Novo governo",
+    "title": "Lula precisará negociar ajustes para governar com Orçamento aprovado por Bolsonaro; entenda",
+    "category": "Política"
+  }
+]

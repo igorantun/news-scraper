@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8544.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/armamentistas-engrossam-atos-antidemocraticos-que-pedem-golpe-contra-lula.shtml",
+    "hat": "Eleições 2022",
+    "title": "Armamentistas engrossam atos antidemocráticos que pedem golpe contra Lula",
+    "summary": "Apoiadores de Bolsonaro participam de bloqueios em rodovias e manifestações em frente a quartéis"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.1875,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www.youtube.com/watch?v=5J2ar2UK8OM",
+    "hat": "Eleições 2022",
+    "title": "Cerveja, festa e churrasco: a apuração e a vitória de Lula na Paulista",
+    "summary": "Petistas ocuparam a região antes mesmo da confirmação da vitória apertada na eleição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8280.34375,
+      "left": 975,
+      "height": 213.390625,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/11/lula-calibra-escolha-de-ministros-para-evitar-desfalque-no-senado.shtml",
+    "hat": "transição de governo",
+    "title": "Lula calibra escolha de ministros para evitar desfalque no Senado",
+    "summary": "Ex-presidente leva em conta necessidade de fazer frente a bolsonaristas eleitos para o Legislativo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8030.96875,
+      "left": 975,
+      "height": 194,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/ambiente/2022/11/cop-27-ultimos-oito-anos-foram-os-mais-quentes-da-historia-diz-onu.shtml",
+    "hat": "Ambiente",
+    "title": "Últimos oito anos foram os mais quentes da história, diz ONU",
+    "summary": "Cúpula começou neste domingo no Egito"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -7801.984375,
+      "left": 975,
+      "height": 121.953125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/11/pt-quer-deixar-para-2023-discussao-sobre-tabela-do-imposto-de-renda.shtml",
+    "hat": "Economia",
+    "title": "PT quer deixar para 2023 discussão sobre tabela do Imposto de Renda"
+  }
+]

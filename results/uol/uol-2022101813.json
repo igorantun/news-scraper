@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12390.609375,
+      "left": 365,
+      "height": 227.15625,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/denuncias-de-assedio-eleitoral-aumentam-mais-de-7-vezes-apos-1o-turno-diz-mpt.shtml",
+    "title": "Denúncias de assédio eleitoral sobem mais de 7 vezes após 1º turno",
+    "summary": "Recebidos pelo MPT, relatos saltaram de 45 para 334 e já superam eleição de 2018"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12114.453125,
+      "left": 365,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "http://noticias.uol.com.br/eleicoes/2022/10/17/bolsonaro-noite-clamor-catolicos-brasilia.htm",
+    "title": "Ato católico tem Bolsonaro calado, Kelmon aplaudido e folheto contra Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11723.78125,
+      "left": 365,
+      "height": 248.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/23-das-deputadas-eleitas-para-camara-em-2022-sao-esposas-de-politicos.shtml",
+    "title": "23% das deputadas federais eleitas são esposas de políticos"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12114.453125,
+      "left": 619.15625,
+      "height": 366.671875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-de-lula-liga-alertas-para-reta-final-aciona-juridico-e-cobra-plataformas.shtml",
+    "title": "Campanha de Lula liga alertas para reta final, aciona jurídico e cobra plataformas digitais"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11723.78125,
+      "left": 619.15625,
+      "height": 272.109375,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/vivabem/colunas/jairo-bouer/2022/10/18/sera-que-o-brasil-vive-crise-de-ansiedade-coletiva-antes-do-segundo-turno.htm",
+    "title": "Jairo Bouer: Será que o Brasil vive crise de ansiedade coletiva antes do segundo turno?"
+  }
+]

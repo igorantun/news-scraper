@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10413.109375,
+      "left": 315,
+      "height": 238.6875,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/quem-tiver-mais-voto-leva-diz-bolsonaro-sobre-resultado-de-eleicoes.shtml",
+    "hat": "sucessão presidencial",
+    "title": "'Quem tiver mais voto leva', diz Bolsonaro sobre a eleição",
+    "summary": "Presidente fez afirmação após debate com Lula, na Globo, sem nenhum condicionante"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -870.109375,
+      "left": 315,
+      "height": 128.796875,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tarcisio-e-haddad-nacionalizam-debate-com-salario-minimo-e-vacina-e-batem-boca-sobre-paraisopolis.shtml?utm_source=newsletter&utm_medium=email&utm_campaign=newsfolha",
+    "hat": "Eleições 2022",
+    "title": "Veja os melhores momentos do debate para governador de SP e análise de Fábio Zanini",
+    "summary": "Tarcísio e Haddad nacionalizam embate na Globo com salário mínimo e vacina a três dias do segundo turno"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10139.4375,
+      "left": 974.96875,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/bolsonaro-se-irrita-e-abandona-entrevista-apos-pergunta-da-folha-sobre-complexo-do-alemao-veja-video.shtml",
+    "hat": "Complexo do Alemão",
+    "title": "Bolsonaro se irrita e abandona entrevista após pergunta da Folha; veja"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -10413.109375,
+      "left": 1305,
+      "height": 371.5,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-leva-a-melhor-sobre-bolsonaro-em-debate-de-monologos.shtml",
+    "hat": "TV Folha",
+    "title": "Veja melhores momentos do debate e análise de Igor Gielow"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9938.40625,
+      "left": 974.984375,
+      "height": 377.46875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/receio-de-virar-alvo-de-moraes-leva-fabio-faria-a-recuar-em-caso-de-radios-dizem-aliados.shtml",
+    "hat": "Eleições 2022",
+    "title": "Receio de virar alvo de Moraes leva Fábio Faria a recuar em caso de rádios, dizem aliados",
+    "summary": "Ministro de Bolsonaro ouviu críticas de magistrados por ofensiva sem provas e ficou apreensivo com investigação"
+  }
+]

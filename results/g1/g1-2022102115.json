@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -6065,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/al/alagoas/noticia/2022/10/21/policia-federal-faz-operacao-em-clube-de-tiros-de-maceio.ghtml",
+    "title": "Operação da PF mira uso de CACs e clubes de tiro para comércio ilegal de armas",
+    "summary": "Buscas ocorrem em 3 estados: Alagoas, Pernambuco e São Paulo. Grupo é suspeito de fraudar registros para comprar e vender armas."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -6065,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rr/roraima/noticia/2022/10/21/revoada-de-andorinhas-invade-ensaio-romantico-de-noivos-e-fotos-surpreendem-muito-lindo.ghtml",
+    "hat": "🕊️ Intrusos no amor 🕊️",
+    "title": "VÍDEO: andorinhas invadem ensaio de noivos, e fotos surpreendem"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5728.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sorocaba-jundiai/noticia/2022/10/21/mae-da-viih-tube-diz-em-casamento-que-encontrou-amor-da-vida-aos-47-anos-dia-do-sonho.ghtml",
+    "hat": "Cerimônia em Sorocaba",
+    "title": "Mãe de Viih Tube se casa em SP; filha a levou até o altar"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5323.828125,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/21/tcu-parecer-suspensao-emprestimo-consignado-auxilio-brasil.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Parecer do TCU recomenda suspensão do consignado do Auxílio Brasil",
+    "summary": "Documento cita possível uso da modalidade para 'interferir politicamente nas eleições'.",
+    "category": "Blog da Andréia Sadi"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -5136.96875,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/mg/vales-mg/eleicoes/2022/noticia/2022/10/21/lula-faz-campanha-em-minas-gerais.ghtml",
+    "hat": "Corrida presidencial",
+    "title": "Ao lado de Tebet e Marina Silva, Lula faz campanha em MG",
+    "category": "Eleições 2022 em Vales de Minas"
+  }
+]

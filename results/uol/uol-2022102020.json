@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12483.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-poder-de-policia-remover-fake-news.htm",
+    "title": "TSE amplia seu poder de polícia para remover fake news nas eleições",
+    "summary": "Medida permite retirada de conteúdos sem precisar ouvir uma das partes ou o MP"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12067.078125,
+      "left": 365,
+      "height": 582.546875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/datafolha-e-alerta-mas-e-impossivel-bolsonaro-tirar-a-vantagem-diz-lula.htm",
+    "title": "Datafolha é 'alerta', mas é impossível Bolsonaro tirar a vantagem em uma semana, diz Lula"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11460.53125,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/facebook-permite-conteudo-eleitoral-classificado-como-falso-apesar-de-acordo-com-tse.shtml",
+    "title": "Facebook permite conteúdo classificado como falso, apesar de acordo com TSE"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12067.078125,
+      "left": 619.15625,
+      "height": 374.671875,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/mundo/2022/10/da-morte-da-rainha-ao-caos-economico-como-foram-os-44-dias-de-liz-truss.shtml",
+    "title": "Da morte da rainha ao caos econômico, como foram os 44 dias de Liz Truss como premiê"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11668.40625,
+      "left": 619.15625,
+      "height": 322.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2022/10/20/adolescente-gravida-de-7-meses-e-agredida-ate-desmaiar-em-escola-no-rj.htm",
+    "title": "Adolescente grávida de 7 meses é agredida até desmaiar em escola na Baixada Fluminense"
+  }
+]

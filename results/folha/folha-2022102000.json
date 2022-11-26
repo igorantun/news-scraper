@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9042.109375,
+      "left": 315,
+      "height": 346.59375,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-lula-tem-49-e-bolsonaro-45-brancos-e-nulos-somam-4-e-indecisos-1.shtml",
+    "hat": "sucessão presidencial",
+    "title": "Datafolha: Lula tem 49%, e Bolsonaro, 45%; brancos e nulos somam 4%, e indecisos, 1%",
+    "summary": "Cenário é de oscilação em favor do presidente em relação à semana passada; nos votos válidos, petista tem 52% e Bolsonaro, 48%"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.375,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8995.125,
+      "left": 1305,
+      "height": 282.8125,
+      "width": 300
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/live-para-assinantes-analisa-novo-datafolha-as-19h-desta-quarta.shtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Live para assinantes analisa novo Datafolha; veja como foi",
+    "summary": "Participaram a diretora do instituto, Luciana Chong, e os colunistas da Folha Bruno Boghossian e Mônica Bergamo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8660.53125,
+      "left": 974.984375,
+      "height": 277.40625,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/datafolha-tarcisio-tem-49-e-haddad-40-indecisos-sao-3-e-brancos-e-nulos-8.shtml",
+    "hat": "disputa em sp",
+    "title": "Datafolha: Tarcísio tem 49%, e Haddad, 40%; indecisos são 3%, e brancos e nulos, 8%",
+    "summary": "Nos votos válidos, bolsonarista marca 55% ante 45% do petista"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8348.140625,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/defesa-apresenta-documento-a-tse-mas-diz-que-so-entregara-relatorio-sobre-urnas-apos-2o-turno.shtml",
+    "hat": "Justiça Eleitoral",
+    "title": "Defesa leva documento ao TSE, mas só entregará relatório sobre urnas depois do 2º turno"
+  }
+]

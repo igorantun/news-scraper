@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -3585,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/brasileiros-voltam-as-urnas-neste-domingo-para-o-segundo-turno-saiba-tudo-sobre-a-votacao.ghtml",
+    "hat": "Dia decisivo",
+    "title": "Brasileiros voltam às urnas para eleger presidente e 12 governadores"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -3585,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/ao-vivo/segundo-turno-eleicoes.ghtml",
+    "hat": "ao vivo",
+    "title": "Seções serão abertas a partir das 8h, no horário de Brasília; SIGA"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3248.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/30/resultados-exterior-segundo-turno-boletins-de-urna.ghtml",
+    "title": "Lula vence na Nova Zelândia com 70,3% dos votos válidos"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -2843.828125,
+      "left": 348.65625,
+      "height": 255.84375,
+      "width": 880.390625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/09/28/guia-do-eleitor.ghtml",
+    "hat": "Hora do voto",
+    "title": "GUIA DO ELEITOR: veja horário, local de votação, documentos e mais",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -2555.984375,
+      "left": 348.65625,
+      "height": 154.859375,
+      "width": 880.390625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/noticia/2022/10/30/moraes-proibe-prf-e-pf-de-fazer-operacoes-que-afetem-transporte-de-eleitores-e-divulgar-balancos-de-acoes.ghtml",
+    "hat": "2º turno da eleição",
+    "title": "Moraes proíbe PRF e PF de fazer operações que afetem transporte de eleitores",
+    "summary": "Decisão  atende a pedido do PT, que acusa o governo de usar polícias federais para beneficiar Bolsonaro.",
+    "category": "Eleições"
+  }
+]

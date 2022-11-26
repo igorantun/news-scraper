@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -9895.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/celso-ming-lula-dilmou-mantega-equipe-transicao/",
+    "hat": "CONTAS PÚBLICAS",
+    "title": "Celso Ming: Lula dilmou ou não dilmou ao escalar Mantega e os heterodoxos na transição?",
+    "summary": "Presidente eleito insiste no ‘confiem em mim, que tudo dará certo’, mas isso é muito pouco para o ‘mercado sensível', escreve o colunista"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -9895.3125,
+      "left": 1190.328125,
+      "height": 508.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/comandantes-das-forcas-armadas-falaram-pelas-instituicoes-militares-e-nao-pelo-governo-bolsonaro/",
+    "hat": "NOTA SOBRE MANIFESTAÇÕES",
+    "title": "Comandantes das Forças Armadas falaram pelas instituições e não pelo governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9325.203125,
+      "left": 329,
+      "height": 362,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/grupo-de-advogados-anti-lava-jato-tera-vagas-na-transicao-e-discute-lista-sextupla-para-pgr/",
+    "hat": "Novo governo",
+    "title": "Grupo de advogados anti-Lava Jato terá vagas na transição e discute lista sêxtupla para PGR",
+    "summary": "Grupo Prerrogativas terá ao menos quatro integrantes nomeados para grupos temáticos da transição"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9325.203125,
+      "left": 759.65625,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/reforma-trabalhista-5-anos-numero-processos-justica/",
+    "hat": "5 ANOS DA REFORMA",
+    "title": "Número de processos trabalhistas despenca e chega ao nível mais baixo desde 1992"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -9325.203125,
+      "left": 1190.3125,
+      "height": 388.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/link/empresas/elon-musk-diz-a-funcionarios-que-twitter-pode-ir-a-falencia/",
+    "hat": "Link",
+    "title": "Elon Musk diz a funcionários que Twitter pode 'ir à falência'"
+  }
+]

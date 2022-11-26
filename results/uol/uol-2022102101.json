@@ -1,0 +1,62 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12465.609375,
+      "left": 365,
+      "height": 273.5625,
+      "width": 732.5
+    },
+    "link": "https://www.uol.com.br/esporte/futebol/ultimas-noticias/2022/10/20/sao-paulo-x-coritiba.htm",
+    "title": "Calleri faz dois, São Paulo vence Coritiba por 3 a 1 e cola no G8 do Brasileirão"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12001.296875,
+      "left": 365,
+      "height": 677.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/lula-sao-goncalo-rj-padre-miguel-caminhada.htm",
+    "title": "No Rio com Lula, Paes ofende Moro e diz que ele 'baba ovo' de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -12001.296875,
+      "left": 619.15625,
+      "height": 365.046875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/20/tse-decisao-jovem-pan.htm",
+    "title": "O que o TSE decidiu sobre a Jovem Pan"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11612.25,
+      "left": 619.15625,
+      "height": 341.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/20/andre-valadao-admite-que-nao-recebeu-intimacao-do-tse-como-tinha-dito.htm",
+    "title": "André Valadão admite que não recebeu intimação do TSE antes de gravar vídeo"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12001.296875,
+      "left": 873.328125,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://congressoemfoco.uol.com.br/area/congresso-nacional/os-deputados-que-negaram-prioridade-para-tornar-pedofilia-crime-hediondo-veja-lista/",
+    "title": "Quem são os deputados que negaram prioridade para pedofilia virar crime hediondo"
+  }
+]

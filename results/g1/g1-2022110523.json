@@ -1,0 +1,72 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5849,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/meio-ambiente/cop-27/noticia/2022/11/05/cop27-qual-a-importancia-da-cupula-do-clima-para-o-futuro-do-planeta.ghtml",
+    "hat": "COP 27 no Egito",
+    "title": "Conferência do Clima da ONU começa amanhã; entenda importância",
+    "summary": "Cerca de 200 países devem estar representados para discutir como conter aquecimento global. Presidente eleito Lula foi convidado e deve participar."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5849,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pop-arte/noticia/2022/11/05/cantor-aaron-carter-morre-aos-34-anos.ghtml",
+    "hat": "Irmão de Nick Carter",
+    "title": "Cantor Aaron Carter é achado morto em casa aos 34 anos"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5512.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2022/11/05/aviao-que-caiu-em-santa-catarina-decolou-da-afa-em-pirassununga-saiba-quem-sao-as-2-vitimas.ghtml",
+    "hat": "Acidente aéreo em SC",
+    "title": "Militares que morreram em queda de avião da FAB eram amigos; veja quem são"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5107.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/carmen-lucia-suspende-efeitos-de-mp-que-permitia-adiar-pagamento-de-beneficios-para-o-setor-cultural.ghtml",
+    "hat": "Leis Paulo Gustavo e Aldir Blanc 2",
+    "title": "Cármen Lúcia suspende efeitos de MP que adiava benefícios do setor cultural",
+    "summary": "Ministra analisou ação da Rede; tema ainda será julgado no plenário virtual do STF.",
+    "category": "Política"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4829.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/noticia/2022/11/05/gilmar-mendes-autoriza-pgr-a-ouvir-carla-zambelli-sobre-conduta-da-deputada-ao-sacar-arma-e-perseguir-homem-em-sp.ghtml",
+    "hat": "Parlamentar reeleita",
+    "title": "Gilmar Mendes autoriza PGR a ouvir Zambelli sobre perseguição com arma",
+    "summary": "Armados, deputada e segurança correram atrás de homem negro na véspera do 2º turno.",
+    "category": "Política"
+  }
+]

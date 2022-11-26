@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12477.609375,
+      "left": 365,
+      "height": 254.34375,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aras-vai-ao-stf-contra-resolucao-que-ampliou-poderes-do-tse-para-combater-fake-news.shtml",
+    "title": "Aras questiona no STF 'superpoderes' do TSE para combater fake news",
+    "summary": "Procurador-geral diz que norma viola liberdade de expressão prevista em Constituição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12174.265625,
+      "left": 365,
+      "height": 297.109375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/aliados-de-bolsonaro-protocolam-pedido-de-cpi-na-camara-para-intimidar-institutos-de-pesquisa.shtml",
+    "title": "Aliados de Bolsonaro protocolam pedido de CPI para intimidar institutos de pesquisa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11853.15625,
+      "left": 365,
+      "height": 361.859375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/tse-aprova-direito-de-resposta-de-lula-no-twitter-de-bolsonaro.shtml",
+    "title": "TSE aprova direito de resposta de Lula no Twitter de Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11467.296875,
+      "left": 365,
+      "height": 72,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/cotidiano/2022/10/pm-paulista-tem-setembro-menos-letal-de-serie-historica-com-15-mortes.shtml",
+    "title": "PM paulista tem setembro menos letal de série, com 15 mortes"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12174.265625,
+      "left": 619.15625,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/chico-alves/2022/10/21/fim-da-aposentadoria-diz-representante-de-inativos-sobre-plano-de-guedes.htm",
+    "title": "Plano de Guedes é o 'fim da aposentadoria', diz representante de inativos"
+  }
+]

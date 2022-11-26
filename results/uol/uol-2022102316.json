@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12395.609375,
+      "left": 365,
+      "height": 199.96875,
+      "width": 732.5
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/campanha-eleitoral-em-igrejas-chega-a-tribunais-de-7-estados.shtml",
+    "title": "Campanha eleitoral em igrejas chega a tribunais de 7 estados do Brasil",
+    "summary": "Legislação prevê apenas multa de até R$ 5.000 e não atinge todo tipo de pregação"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12146.640625,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/bolsonaro-igreja-mundial-apostolo-valdemiro-santiago.htm",
+    "title": "Bolsonaro distorce decreto de Lula durante discurso homofóbico em igreja de São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11690.40625,
+      "left": 365,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/23/lula-crescimento-segundo-turno-votos.htm",
+    "title": "Com disputa apertada, campanha de Lula prevê crescimento de 10%"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12146.640625,
+      "left": 619.15625,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/carlos-madeiro/2022/10/23/capital-bolsonarista-do-nordeste-maceio-apoio-presidente.htm",
+    "title": "Com voto bolsonarista consolidado, Maceió vira 'ilha' anti-Lula do Nordeste"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11690.40625,
+      "left": 619.15625,
+      "height": 317.671875,
+      "width": 224.15625
+    },
+    "link": "https://www.uol.com.br/splash/noticias/2022/10/23/luiz-galvao.htm",
+    "title": "Luiz Galvão, fundador do Novos Baianos, morre aos 87 anos"
+  }
+]

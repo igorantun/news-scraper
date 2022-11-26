@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4258,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/pesquisa-eleitoral/noticia/2022/10/15/datafolha-para-31percent-apoio-de-candidato-a-governador-influencia-muito-a-um-candidato-a-presidente-para-49percent-nao-influencia.ghtml",
+    "hat": "Escolha do eleitor",
+    "title": "Voto para presidente: apoio de candidato a governador pesa mais que família, indica Datafolha"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -4258,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2022/10/15/passarela-no-lado-argentino-das-cataratas-do-iguacu-e-parcialmente-destruida-apos-alta-vazao.ghtml",
+    "hat": "Vazão recorde",
+    "title": "Passarela fica destruída do lado argentino das Cataratas; vídeo"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -3921.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://ge.globo.com/futebol/brasileirao-serie-a/",
+    "hat": "Brasileirão",
+    "title": "Flamengo e Fortaleza vencem; veja como está a classificação"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3516.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/15/pintou-um-clima-fala-de-bolsonaro-sobre-meninas-venezuelanas-repercute-e-gera-criticas-nas-redes.ghtml",
+    "hat": "Entrevista a youtubers",
+    "title": "'Pintou um clima': fala de Bolsonaro sobre meninas venezuelanas repercute",
+    "category": "Eleições 2022"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3238.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/15/pt-leva-a-tv-crimes-da-familia-de-michelle-contra-discurso-moral-de-bolsonaro.ghtml",
+    "hat": "Blog da Andréia Sadi",
+    "title": "Propaganda do PT cita acusações contra familiares de Michelle",
+    "summary": "Partido também levou à TV caso da rachadinha e depósito de R$ 89 mil para primeira-dama.",
+    "category": "Blog da Andréia Sadi"
+  }
+]

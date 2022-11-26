@@ -1,0 +1,71 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -7445.3125,
+      "left": 329,
+      "height": 893.65625,
+      "width": 831.328125
+    },
+    "link": "https://www.estadao.com.br/economia/alckmin-diz-ser-essencial-comecar-janeiro-com-auxilio-brasil-de-r-600/",
+    "hat": "sucessão de governo",
+    "title": "Equipe de Lula negocia PEC com Congresso para tirar 'despesas inadiáveis' do teto de gastos",
+    "summary": "Acordo discutido em reunião entre Alckmin e o relator do Orçamento, Marcelo Castro, tem como objetivo estabelecer 'licença para gastar' por meio de proposta de mudança à Constituição"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -7445.3125,
+      "left": 1190.328125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/lider-da-bancada-evangelica-quer-dialogo-com-lula-e-diz-que-zambelli-prejudicou-bolsonaro/",
+    "hat": "ALIADO DO PRESIDENTE",
+    "title": "Líder da bancada evangélica quer diálogo com Lula e diz que Zambelli prejudicou Bolsonaro",
+    "summary": "Cezinha de Madureira (PSD) diz  ter interesse em discutir pautas que não sejam ideológicas com novo governo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -7011.203125,
+      "left": 1190.328125,
+      "height": 448.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/economia/studios-oferta-bolha-sp-imoveis-juros-investimento/",
+    "hat": "mercado imobiliário",
+    "title": "Há uma 'bolha' por trás da explosão de ofertas de studios em SP? Setor diz que não"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -6489.65625,
+      "left": 329,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/saude/ate-que-idade-da-para-transar-como-e-o-sexo-na-terceira-idade/",
+    "hat": "SEXUALIDADE",
+    "title": "Até que idade dá para transar? Como é o sexo na terceira idade",
+    "summary": "Superar preconceitos, saber ouvir o corpo e mais: especialistas e idosos dão dicas para prolongar o prazer"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -6489.65625,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/brasil/turista-brasileiro-morre-apos-queda-de-placa-de-gelo-ushuaia-argentina-nprm/",
+    "hat": "TRAGÉDIA",
+    "title": "Vídeo: Turista brasileiro morre após queda de placa de gelo em caverna na Argentina",
+    "summary": "Acidente ocorreu na Caverna de Jimbo, que tem acesso proibido devido ao frequente desprendimento de pedras"
+  }
+]

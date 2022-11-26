@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -10476.109375,
+      "left": 315,
+      "height": 228.78125,
+      "width": 960
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/moraes-manda-defesa-entregar-relatorio-de-fiscalizacao-das-urnas-em-48-horas.shtml",
+    "hat": "Eleições 2022",
+    "title": "Moraes dá 48 horas para Defesa entregar relatório de fiscalização paralela das urnas",
+    "summary": "Presidente do TSE diz que atuação alinhada a Bolsonaro pode configurar desvio de finalidade e abuso de poder"
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -871.3125,
+      "left": 315,
+      "height": 102.40625,
+      "width": 739.984375
+    },
+    "link": "https://www1.folha.uol.com.br/tv/2022/10/video-explica-nova-composicao-do-congresso-e-analisa-relacao-com-futuro-presidente.shtml?utm_source=whatsapp&utm_medium=social&utm_campaign=compwa",
+    "hat": "Eleições 2022",
+    "title": "O que muda na política brasileira com um Congresso mais conservador",
+    "summary": "Vídeo faz radiografia das bancadas que tomarão posse no Senado e na Câmara em 2023"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -10212.34375,
+      "left": 974.984375,
+      "height": 185.671875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/mercado/2022/10/denuncias-de-assedio-eleitoral-aumentam-mais-de-7-vezes-apos-1o-turno-diz-mpt.shtml",
+    "hat": "folhajus",
+    "title": "Denúncias de assédio eleitoral aumentam mais de 7 vezes após 1º turno"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -9991.6875,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/monicabergamo/2022/10/janja-posta-nova-entrevista-em-que-bolsonaro-fala-de-meninas-bonitinhas-da-venezuela.shtml",
+    "hat": "Mônica Bergamo",
+    "title": "Janja posta nova entrevista em que Bolsonaro fala de 'meninas bonitinhas' da Venezuela"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -9790.65625,
+      "left": 974.984375,
+      "height": 166.046875,
+      "width": 299.984375
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lula-pede-a-influenciadores-para-sairem-da-defensiva-diante-de-ataques-bolsonaristas.shtml",
+    "hat": "+eleições",
+    "title": "Lula pede a influenciadores para saírem da defensiva diante de ataques bolsonaristas"
+  }
+]

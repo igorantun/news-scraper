@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12498.609375,
+      "left": 365,
+      "height": 281.53125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/17/tiroteio-paraisopolis-interrompe-ato-campanha-tarcisio.htm",
+    "title": "Tiros interrompem agenda de Tarcísio em Paraisópolis, na zona sul de SP",
+    "summary": "Candidato, que não se feriu, deixou local; suspeito foi morto, segundo Rodrigo Garcia"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -12018.9375,
+      "left": 365,
+      "height": 432.234375,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/poder/2022/10/lira-retoma-pressao-e-quer-urgencia-para-votar-projeto-que-criminaliza-institutos-de-pesquisa.shtml",
+    "title": "Lira retoma pressão e quer urgência para votar projeto que pune pesquisa"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11562.703125,
+      "left": 365,
+      "height": 165.5625,
+      "width": 224.15625
+    },
+    "link": "https://www1.folha.uol.com.br/colunas/redesocial/2022/10/comissao-de-direitos-humanos-pede-protecao-para-adolescentes-venezuelanas.shtml",
+    "title": "Comissão de Direitos Humanos pede proteção para adolescentes venezuelanas"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -12018.9375,
+      "left": 619.15625,
+      "height": 631.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/jose-roberto-de-toledo/2022/10/17/lula-e-pt-subestimam-bolsonaro-e-carlos.htm",
+    "title": "Toledo: Lula e PT subestimam influência de Carlos sobre Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -12018.9375,
+      "left": 873.328125,
+      "height": 347.484375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/internacional/ultimas-noticias/2022/10/17/grecia-turquia-acusacoes-imigrantes.htm",
+    "title": "'Vergonha', 'desumano': Grécia e Turquia trocam farpas após episódio com imigrantes nus"
+  }
+]

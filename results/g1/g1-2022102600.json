@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5850,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/25/ipec-indica-empate-tecnico-em-sp-tarcisio-tem-46percent-e-haddad-43percent.ghtml",
+    "hat": "Pesquisa eleitoral",
+    "title": "Ipec aponta empate técnico entre Tarcísio e Haddad na reta final em SP",
+    "summary": "Candidato do Republicanos manteve 46%, enquanto petista oscilou de 41% para 43%. Em votos válidos, Tarcísio tem 52%, e Haddad, 48%."
+  },
+  {
+    "type": "headline",
+    "position": 1,
+    "coordinates": {
+      "top": -5850,
+      "left": 965.984375,
+      "height": 324.578125,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/rj/regiao-serrana/noticia/2022/10/25/chuva-de-granizo-causa-transtornos-em-cordeiro-no-rj.ghtml",
+    "hat": "Região Serrana",
+    "title": "Chuva de granizo deixa ruas cobertas de gelo no RJ"
+  },
+  {
+    "type": "headline",
+    "position": 2,
+    "coordinates": {
+      "top": -5513.421875,
+      "left": 965.984375,
+      "height": 324.59375,
+      "width": 606.328125
+    },
+    "link": "https://g1.globo.com/ciencia/noticia/2022/10/25/james-webb-mostra-fusao-de-duas-galaxias-veja-foto.ghtml",
+    "hat": "Supertelescópio",
+    "title": "Novo registro do James Webb mostra fusão de galáxias; veja foto"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -5108.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2022/noticia/2022/10/25/ipec-com-eleitores-de-sp-bolsonaro-tem-47percent-no-estado-e-lula-44percent.ghtml",
+    "title": "Entre eleitores de SP, Ipec indica Bolsonaro com 47% e Lula com 44%",
+    "category": "Eleições 2022 em São Paulo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4830.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pe/pernambuco/eleicoes/2022/noticia/2022/10/25/ipec-em-pernambuco-raquel-lyra-tem-51percent-no-2o-turno-e-marilia-arraes-43percent.ghtml",
+    "title": "Ipec em Pernambuco: Raquel tem 51%, e Marília, 43%",
+    "category": "Eleições 2022 em Pernambuco"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -8983.3125,
+      "left": 329,
+      "height": 408,
+      "width": 831.328125
+    },
+    "link": "https://politica.estadao.com.br/blogs/coluna-do-estadao/acao-de-jefferson-deve-gerar-efeito-rebote-para-o-stf-preveem-ministros/",
+    "hat": "VIOLÊNCIA",
+    "title": "Ação de Roberto Jefferson deve gerar efeito rebote para o Supremo, preveem ministros",
+    "summary": "Coluna do Estadão: 'Avaliação é de que ataque do petebista deve manter a coesão dos tribunais sobre o assunto e tende a minimizar críticas feitas a Moraes, ao menos entre a parcela mais moderada da sociedade'"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -8983.3125,
+      "left": 1190.328125,
+      "height": 102,
+      "width": 400.65625
+    },
+    "link": "https://politica.estadao.com.br/blogs/fausto-macedo/o-que-o-senhor-precisar-a-gente-faz-diz-policial-a-roberto-jefferson-apos-ataque/",
+    "hat": "Ex-deputado",
+    "title": "'O que o senhor precisar, a gente faz', diz policial a Jefferson após ataque; veja vídeo"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -8851.3125,
+      "left": 1190.328125,
+      "height": 340.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/politica/bolsonaro-diz-que-roberto-jefferson-nao-e-seu-amigo-por-ter-entrado-com-queixa-crime-contra-ele/",
+    "hat": "Presidente",
+    "title": "Bolsonaro diz que Jefferson não é seu amigo por ter entrado com queixa-crime contra ele"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -8449.203125,
+      "left": 759.65625,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://cultura.estadao.com.br/blogs/direto-da-fonte/sirio-libanes-deve-ter-universidade-com-curso-de-medicina-ate-2024-diz-ceo-paulo-nigro/",
+    "hat": "direto da fonte",
+    "title": "'Vamos criar sistema educacional integrado ao hospital', diz Nigro, CEO do Sírio-Libanês",
+    "summary": "'Estamos credenciando no MEC 5 cursos de graduação que irão formar nossa faculdade a partir do ano que vem'"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -8449.203125,
+      "left": 1190.3125,
+      "height": 404.109375,
+      "width": 400.65625
+    },
+    "link": "https://www.estadao.com.br/alias/entenda-a-relacao-entre-a-guerra-da-crimeia-e-o-conflito-atual-na-ucrania/",
+    "hat": "tensão no leste europeu",
+    "title": "Entenda a relação entre a guerra da Crimeia e o conflito atual na Ucrânia",
+    "summary": "No passado, como hoje, a corrupção prejudica condições na linha de frente; ninguém mais acredita no governo"
+  }
+]

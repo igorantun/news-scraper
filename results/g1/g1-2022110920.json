@@ -1,0 +1,68 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -5519,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/blog/mauro-ferreira/post/2022/11/09/voz-de-gal-costa-fica-eternizada-como-o-cristal-luminoso-que-abrilhantou-e-atravessou-toda-a-musica-brasileira.ghtml",
+    "title": "Voz de Gal Costa fica eternizada como cristal que ilumina e atravessa música brasileira",
+    "summary": "Cantora símbolo da Tropicália morre aos 77 anos em SP e deixa imenso legado cultural e social."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -4777.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/pop-arte/musica/noticia/2022/11/09/gal-costa-morre-aos-77-anos.ghtml",
+    "title": "Causa da morte não foi informada; Gal havia cancelado shows",
+    "summary": "Cantora passou por cirurgia recentemente para retirar nódulo do nariz.",
+    "category": "Música"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -4499.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/09/caetano-lamenta-a-morte-de-gal-a-maior-cantora-do-brasil.ghtml",
+    "hat": "Homenagens",
+    "title": "Caetano e Gil choram juntos na TV após morte de Gal: 'A maior do Brasil'",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -4221.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2022/11/09/nunca-pensei-um-dia-chegar-a-voces-para-falar-sobre-a-dor-de-perder-gal-diz-maria-bethania.ghtml",
+    "title": "'O Brasil inteiro chora, como eu', afirma Maria Bethânia",
+    "category": "Rio de Janeiro"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -3943.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2022/11/09/gal-deixa-filho-unico-gosto-musical-de-gabriel-de-17-anos-inspirou-ultimo-album-da-cantora.ghtml",
+    "title": "Filho único, de 17 anos, inspirou disco mais recente de Gal"
+  }
+]

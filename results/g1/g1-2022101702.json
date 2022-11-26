@@ -1,0 +1,69 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -4325,
+      "left": 347.65625,
+      "height": 661.171875,
+      "width": 1224.65625
+    },
+    "link": "https://g1.globo.com/politica/eleicoes/2022/noticia/2022/10/16/eleicoes-lula-e-bolsonaro-fazem-primeiro-debate-presidencial-do-segundo-turno.ghtml",
+    "title": "Lula e Bolsonaro trocam acusações sobre corrupção e discutem pandemia e orçamento secreto",
+    "summary": "Debate marcado pelo confronto direto também abordou fake news na campanha, vagas no STF, obras no Nordeste e desmatamento."
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -3583.828125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/central-das-eleicoes/video/natuza-nery-analisa-debate-entre-lula-e-bolsonaro-11032140.ghtml",
+    "hat": "Análises do debate",
+    "title": "NATUZA: Lula teve melhor momento no começo, e Bolsonaro, no fim",
+    "category": "Central das Eleições"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -3305.65625,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/central-das-eleicoes/video/sadi-apesar-de-clima-tenso-nas-campanhas-candidatos-tiveram-bom-comportamento-no-debate-11032112.ghtml",
+    "title": "SADI: Apesar de clima tenso, candidatos se comportaram bem",
+    "category": "Central das Eleições"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -3027.484375,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/globonews/central-das-eleicoes/video/miriam-leitao-debate-equilibrado-mas-lula-conseguiu-fazer-mais-pontos-abordando-pandemia-11032108.ghtml",
+    "title": "MIRIAM: Lula foi bem no tema pandemia, Bolsonaro usou tempo melhor",
+    "category": "Central das Eleições"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -2749.3125,
+      "left": 348.65625,
+      "height": 246.171875,
+      "width": 842.203125
+    },
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2022/10/16/moraes-manda-plataformas-e-campanha-de-lula-excluirem-video-com-fala-de-bolsonaro-sobre-meninas-venezuelanas.ghtml",
+    "hat": "'Pintou um clima'",
+    "title": "Moraes manda excluir e proíbe PT de usar fala de Bolsonaro sobre meninas",
+    "category": "Blog da Andréia Sadi"
+  }
+]

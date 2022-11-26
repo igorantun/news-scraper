@@ -1,0 +1,63 @@
+[
+  {
+    "type": "headline",
+    "position": 0,
+    "coordinates": {
+      "top": -12469.0625,
+      "left": 365,
+      "height": 387.125,
+      "width": 732.5
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/30/caminhoneiros-bolsonaristas-fecham-estrada-em-mt-nao-vamos-aceitar.htm",
+    "title": "Caminhoneiros bolsonaristas fecham rodovias em 11 estados e no DF",
+    "summary": "Alguns usaram seus próprios caminhões para bloquear vias; pneus foram queimados"
+  },
+  {
+    "type": "article",
+    "position": 0,
+    "coordinates": {
+      "top": -11946.9375,
+      "left": 365,
+      "height": 628.921875,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/jair-bolsonaro-repercussao-eleicoes.htm",
+    "title": "Bolsonaro mantém silêncio após perder para Lula e vai para o Planalto"
+  },
+  {
+    "type": "article",
+    "position": 1,
+    "coordinates": {
+      "top": -11294.015625,
+      "left": 365,
+      "height": 96,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/colunas/rogerio-gentile/2022/10/31/justica-decide-que-twitter-nao-cometeu-abuso-ao-punir-eduardo-bolsonaro.htm",
+    "title": "Justiça decide que Twitter não cometeu abuso ao punir Eduardo Bolsonaro"
+  },
+  {
+    "type": "article",
+    "position": 2,
+    "coordinates": {
+      "top": -11946.9375,
+      "left": 619.15625,
+      "height": 273.109375,
+      "width": 224.15625
+    },
+    "link": "https://noticias.uol.com.br/eleicoes/2022/10/31/eleicoes-2022-caciques-politicos-clas-politicos.htm",
+    "title": "Quem sai por cima e quem sai por baixo nas eleições"
+  },
+  {
+    "type": "article",
+    "position": 3,
+    "coordinates": {
+      "top": -11649.828125,
+      "left": 619.15625,
+      "height": 453.609375,
+      "width": 224.15625
+    },
+    "link": "https://economia.uol.com.br/noticias/redacao/2022/10/31/o-que-esperar-para-a-economia-com-a-vitoria-de-lula.htm",
+    "title": "Com Lula, o que esperar para Auxílio Brasil, salário mínimo e gasolina?"
+  }
+]
