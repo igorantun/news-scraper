@@ -980,9 +980,9 @@ extract-zip@2.0.1:
     "@types/yauzl" "^2.9.1"
 
 fast-copy@^2.1.1:
-  version "2.1.3"
-  resolved "https://registry.yarnpkg.com/fast-copy/-/fast-copy-2.1.3.tgz#bf6e05ac3cb7a9d66fbf12c51dd4440e9ddd4afb"
-  integrity sha512-LDzYKNTHhD+XOp8wGMuCkY4eTxFZOOycmpwLBiuF3r3OjOmZnURRD8t2dUAbmKuXGbo/MGggwbSjcBdp8QT0+g==
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/fast-copy/-/fast-copy-2.2.0.tgz#702ffefa69c44415010b94a950b8297e1e4623df"
+  integrity sha512-+T1bBiRiRGn7aKFqD0FEebYEzYgqK/uOlKCy2stsAgqSRI4T7nxmoTd1i8XmaGXp9B47yYXvx+V65yoz3DFAUw==
 
 fast-deep-equal@^3.1.1:
   version "3.1.3"
